@@ -1,9 +1,14 @@
 {
   "metadata": {
     "surah_number": 8,
-    "scraped_at": "2025-10-29T02:54:16.158508",
+    "scraped_at": "2025-10-29T03:59:35.775189",
     "source": "api.quran.com",
-    "version": "1.0"
+    "version": "1.0",
+    "translation_ids": [
+      131,
+      20,
+      140
+    ]
   },
   "license": {
     "text": {
@@ -11,14 +16,14 @@
       "license": "Public Domain",
       "attribution": "The Quran text is in the public domain",
       "terms_url": "https://quran.com/terms",
-      "fetched_at": "2025-10-29T02:54:16.158508"
+      "fetched_at": "2025-10-29T03:59:35.775189"
     },
     "translations": {
       "source": "api.quran.com",
       "license": "Various - See individual translation licenses",
       "attribution": "Translation copyrights belong to respective translators",
       "terms_url": "https://quran.com/terms",
-      "fetched_at": "2025-10-29T02:54:16.158508"
+      "fetched_at": "2025-10-29T03:59:35.775189"
     },
     "audio": {
       "source": "everyayah.com via api.quran.com",
@@ -26,7 +31,33 @@
       "attribution": "Audio recitations courtesy of everyayah.com",
       "terms_url": "https://everyayah.com/",
       "note": "Audio URLs provided - not downloaded locally due to size",
-      "fetched_at": "2025-10-29T02:54:16.158508"
+      "fetched_at": "2025-10-29T03:59:35.775189"
+    }
+  },
+  "translation_metadata": {
+    "131": {
+      "name": "Dr. Mustafa Khattab, The Clear Quran",
+      "author": "Dr. Mustafa Khattab",
+      "language": "en",
+      "language_name": "English",
+      "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0",
+      "source": "api.quran.com"
+    },
+    "20": {
+      "name": "Saheeh International",
+      "author": "Saheeh International",
+      "language": "en",
+      "language_name": "English",
+      "license": "Public Domain",
+      "source": "api.quran.com"
+    },
+    "140": {
+      "name": "Telugu Translation",
+      "author": "Unknown",
+      "language": "te",
+      "language_name": "Telugu",
+      "license": "Various",
+      "source": "api.quran.com"
     }
   },
   "surah_info": {
@@ -60,7 +91,19 @@
       "text_uthmani": " يَسْـَٔلُونَكَ عَنِ ٱلْأَنفَالِ ۖ قُلِ ٱلْأَنفَالُ لِلَّهِ وَٱلرَّسُولِ ۖ فَٱتَّقُوا۟ ٱللَّهَ وَأَصْلِحُوا۟ ذَاتَ بَيْنِكُمْ ۖ وَأَطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥٓ إِن كُنتُم مُّؤْمِنِينَ",
       "text_imlaei": "يَسْأَلُونَكَ عَنِ الْأَنفَالِ ۖ قُلِ الْأَنفَالُ لِلَّهِ وَالرَّسُولِ ۖ فَاتَّقُوا اللَّهَ وَأَصْلِحُوا ذَاتَ بَيْنِكُمْ ۖ وَأَطِيعُوا اللَّهَ وَرَسُولَهُ إِن كُنتُم مُّؤْمِنِينَ",
       "page_number": 177,
-      "juz_number": 9
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 101845,
+          "resource_id": 20,
+          "text": "They ask you, [O Muḥammad], about the bounties [of war]. Say, \"The [decision concerning] bounties is for Allāh and the Messenger.\" So fear Allāh and amend that which is between you and obey Allāh and His Messenger, if you should be believers."
+        },
+        {
+          "id": 955010,
+          "resource_id": 140,
+          "text": "Te preguntan (¡oh Muhammad!) sobre los botines de guerra<sup foot_note=149320>1</sup>. Diles que los botines son (competencia) de Al-lah y de Su Mensajero (quien los dividirá según Al-lah le ordene). Temed a Al-lah y arreglad las diferencias entre vosotros; y obedeced a Al-lah y a Su Mensajero, si de verdad sois creyentes."
+        }
+      ]
     },
     {
       "id": 1162,
@@ -74,7 +117,19 @@
       "text_uthmani": "إِنَّمَا ٱلْمُؤْمِنُونَ ٱلَّذِينَ إِذَا ذُكِرَ ٱللَّهُ وَجِلَتْ قُلُوبُهُمْ وَإِذَا تُلِيَتْ عَلَيْهِمْ ءَايَـٰتُهُۥ زَادَتْهُمْ إِيمَـٰنًا وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
       "text_imlaei": "إِنَّمَا الْمُؤْمِنُونَ الَّذِينَ إِذَا ذُكِرَ اللَّهُ وَجِلَتْ قُلُوبُهُمْ وَإِذَا تُلِيَتْ عَلَيْهِمْ آيَاتُهُ زَادَتْهُمْ إِيمَانًا وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
       "page_number": 177,
-      "juz_number": 9
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 101884,
+          "resource_id": 20,
+          "text": "The believers are only those who, when Allāh is mentioned, their hearts become fearful, and when His verses are recited to them, it increases them in faith; and upon their Lord they rely -"
+        },
+        {
+          "id": 955011,
+          "resource_id": 140,
+          "text": "Ciertamente, los (verdaderos) creyentesson esos cuyos corazones se estremecen por temor a Al-lah cuando Este es mencionado y, cuando se les recitan Sus aleyas, aumenta su fe, y depositan su confianza en su Señor;"
+        }
+      ]
     },
     {
       "id": 1163,
@@ -88,7 +143,19 @@
       "text_uthmani": "ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ",
       "text_imlaei": "الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ",
       "page_number": 177,
-      "juz_number": 9
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 101914,
+          "resource_id": 20,
+          "text": "The ones who establish prayer, and from what We have provided them, they spend."
+        },
+        {
+          "id": 955012,
+          "resource_id": 140,
+          "text": "son esos que cumplen el salat y dan (en caridad) de lo que les hemos proveído como sustento."
+        }
+      ]
     },
     {
       "id": 1164,
@@ -102,7 +169,19 @@
       "text_uthmani": "أُو۟لَـٰٓئِكَ هُمُ ٱلْمُؤْمِنُونَ حَقًّا ۚ لَّهُمْ دَرَجَـٰتٌ عِندَ رَبِّهِمْ وَمَغْفِرَةٌ وَرِزْقٌ كَرِيمٌ",
       "text_imlaei": "أُولَٰئِكَ هُمُ الْمُؤْمِنُونَ حَقًّا ۚ لَّهُمْ دَرَجَاتٌ عِندَ رَبِّهِمْ وَمَغْفِرَةٌ وَرِزْقٌ كَرِيمٌ",
       "page_number": 177,
-      "juz_number": 9
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 101962,
+          "resource_id": 20,
+          "text": "Those are the believers, truly. For them are degrees [of high position] with their Lord and forgiveness and noble provision."
+        },
+        {
+          "id": 955013,
+          "resource_id": 140,
+          "text": "Esos son los verdaderos creyentes. Ocuparán diferentes niveles ante su Señor (en el paraíso) y obtendrán (Su) perdón y una generosa provisión (como recompensa)."
+        }
+      ]
     },
     {
       "id": 1165,
@@ -116,7 +195,19 @@
       "text_uthmani": "كَمَآ أَخْرَجَكَ رَبُّكَ مِنۢ بَيْتِكَ بِٱلْحَقِّ وَإِنَّ فَرِيقًا مِّنَ ٱلْمُؤْمِنِينَ لَكَـٰرِهُونَ",
       "text_imlaei": "كَمَا أَخْرَجَكَ رَبُّكَ مِن بَيْتِكَ بِالْحَقِّ وَإِنَّ فَرِيقًا مِّنَ الْمُؤْمِنِينَ لَكَارِهُونَ",
       "page_number": 177,
-      "juz_number": 9
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 102000,
+          "resource_id": 20,
+          "text": "[It<sup foot_note=196359>1</sup> is] just as when your Lord brought you out of your home [for the battle of Badr] in truth, while indeed, a party among the believers were unwilling,"
+        },
+        {
+          "id": 955014,
+          "resource_id": 140,
+          "text": "Del mismo modo que Al-lah te ordenó dejar tu hogar (para luchar en Badr, ¡oh, Muhammad!) a pesar de que no era del agrado de un grupo de creyentes (y te discutieron la decisión, Al-lah ha dividido ahora el botín con justicia tras disputar sobre él los creyentes)."
+        }
+      ]
     },
     {
       "id": 1166,
@@ -130,7 +221,19 @@
       "text_uthmani": "يُجَـٰدِلُونَكَ فِى ٱلْحَقِّ بَعْدَ مَا تَبَيَّنَ كَأَنَّمَا يُسَاقُونَ إِلَى ٱلْمَوْتِ وَهُمْ يَنظُرُونَ",
       "text_imlaei": "يُجَادِلُونَكَ فِي الْحَقِّ بَعْدَمَا تَبَيَّنَ كَأَنَّمَا يُسَاقُونَ إِلَى الْمَوْتِ وَهُمْ يَنظُرُونَ",
       "page_number": 177,
-      "juz_number": 9
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 102033,
+          "resource_id": 20,
+          "text": "Arguing with you concerning the truth after it had become clear, as if they were being driven toward death while they were looking on."
+        },
+        {
+          "id": 955015,
+          "resource_id": 140,
+          "text": "Un grupo de ellos te discutía (acerca de luchar), cuando se les había evidenciado que era un hecho decidido (por Al-lah), como si (al combatir) fueran conducidos hacia una muerte que podían ver."
+        }
+      ]
     },
     {
       "id": 1167,
@@ -144,7 +247,19 @@
       "text_uthmani": "وَإِذْ يَعِدُكُمُ ٱللَّهُ إِحْدَى ٱلطَّآئِفَتَيْنِ أَنَّهَا لَكُمْ وَتَوَدُّونَ أَنَّ غَيْرَ ذَاتِ ٱلشَّوْكَةِ تَكُونُ لَكُمْ وَيُرِيدُ ٱللَّهُ أَن يُحِقَّ ٱلْحَقَّ بِكَلِمَـٰتِهِۦ وَيَقْطَعَ دَابِرَ ٱلْكَـٰفِرِينَ",
       "text_imlaei": "وَإِذْ يَعِدُكُمُ اللَّهُ إِحْدَى الطَّائِفَتَيْنِ أَنَّهَا لَكُمْ وَتَوَدُّونَ أَنَّ غَيْرَ ذَاتِ الشَّوْكَةِ تَكُونُ لَكُمْ وَيُرِيدُ اللَّهُ أَن يُحِقَّ الْحَقَّ بِكَلِمَاتِهِ وَيَقْطَعَ دَابِرَ الْكَافِرِينَ",
       "page_number": 177,
-      "juz_number": 9
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 102064,
+          "resource_id": 20,
+          "text": "[Remember, O believers], when Allāh promised you one of the two groups<sup foot_note=196360>1</sup> - that it would be yours - and you wished that the unarmed one would be yours. But Allāh intended to establish the truth by His words and to eliminate the disbelievers"
+        },
+        {
+          "id": 955016,
+          "resource_id": 140,
+          "text": "Y recuerda (¡oh, Muhammad!) cuando Al-lah os prometió que uno de los dos objetivos (la caravana o la tropa enemiga) caería en vuestras manos<sup foot_note=149321>1</sup>.Vosotros deseabais que fuera el constituido por el grupo desarmado, (la caravana), mientras que Al-lah quería que se cumpliera Su promesa de hacer triunfar la verdad (el islam) y acabar con quienes rechazaban la verdad."
+        }
+      ]
     },
     {
       "id": 1168,
@@ -158,7 +273,19 @@
       "text_uthmani": "لِيُحِقَّ ٱلْحَقَّ وَيُبْطِلَ ٱلْبَـٰطِلَ وَلَوْ كَرِهَ ٱلْمُجْرِمُونَ",
       "text_imlaei": "لِيُحِقَّ الْحَقَّ وَيُبْطِلَ الْبَاطِلَ وَلَوْ كَرِهَ الْمُجْرِمُونَ",
       "page_number": 177,
-      "juz_number": 9
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 102090,
+          "resource_id": 20,
+          "text": "That He should establish the truth and abolish falsehood, even if the criminals disliked it."
+        },
+        {
+          "id": 955017,
+          "resource_id": 140,
+          "text": "(Al-lah quería que os enfrentarais al ejército enemigo) para que triunfara la verdad (Su religión) y se desvaneciera la falsedad, aunque ello no fuera del agrado de los idólatras."
+        }
+      ]
     },
     {
       "id": 1169,
@@ -172,7 +299,19 @@
       "text_uthmani": "إِذْ تَسْتَغِيثُونَ رَبَّكُمْ فَٱسْتَجَابَ لَكُمْ أَنِّى مُمِدُّكُم بِأَلْفٍ مِّنَ ٱلْمَلَـٰٓئِكَةِ مُرْدِفِينَ",
       "text_imlaei": "إِذْ تَسْتَغِيثُونَ رَبَّكُمْ فَاسْتَجَابَ لَكُمْ أَنِّي مُمِدُّكُم بِأَلْفٍ مِّنَ الْمَلَائِكَةِ مُرْدِفِينَ",
       "page_number": 178,
-      "juz_number": 9
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 102117,
+          "resource_id": 20,
+          "text": "[Remember] when you were asking help of your Lord, and He answered you, \"Indeed, I will reinforce you with a thousand from the angels, following one another.\""
+        },
+        {
+          "id": 955018,
+          "resource_id": 140,
+          "text": "Y (recuerda) cuando implorasteis ayuda a vuestro Señor y Él os contestó: «Os enviaré como refuerzo a mil ángeles que se irán sucediendo unos a otros<sup foot_note=149322>1</sup>»."
+        }
+      ]
     },
     {
       "id": 1170,
@@ -186,7 +325,19 @@
       "text_uthmani": "وَمَا جَعَلَهُ ٱللَّهُ إِلَّا بُشْرَىٰ وَلِتَطْمَئِنَّ بِهِۦ قُلُوبُكُمْ ۚ وَمَا ٱلنَّصْرُ إِلَّا مِنْ عِندِ ٱللَّهِ ۚ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ",
       "text_imlaei": "وَمَا جَعَلَهُ اللَّهُ إِلَّا بُشْرَىٰ وَلِتَطْمَئِنَّ بِهِ قُلُوبُكُمْ ۚ وَمَا النَّصْرُ إِلَّا مِنْ عِندِ اللَّهِ ۚ إِنَّ اللَّهَ عَزِيزٌ حَكِيمٌ",
       "page_number": 178,
-      "juz_number": 9
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 101846,
+          "resource_id": 20,
+          "text": "And Allāh made it not but good tidings and so that your hearts would be assured thereby. And victory is not but from Allāh. Indeed, Allāh is Exalted in Might and Wise."
+        },
+        {
+          "id": 955019,
+          "resource_id": 140,
+          "text": "Y Al-lah no os envió tales refuerzos sino para daros una buena noticia y sosegar vuestros corazones; y la victoria solo proviene de Al-lah. Ciertamente, Al-lah es Poderoso y Sabio."
+        }
+      ]
     }
   ],
   "audio_metadata": {

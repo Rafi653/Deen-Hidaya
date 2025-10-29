@@ -1,9 +1,14 @@
 {
   "metadata": {
     "surah_number": 10,
-    "scraped_at": "2025-10-29T02:54:20.071937",
+    "scraped_at": "2025-10-29T03:59:40.003003",
     "source": "api.quran.com",
-    "version": "1.0"
+    "version": "1.0",
+    "translation_ids": [
+      131,
+      20,
+      140
+    ]
   },
   "license": {
     "text": {
@@ -11,14 +16,14 @@
       "license": "Public Domain",
       "attribution": "The Quran text is in the public domain",
       "terms_url": "https://quran.com/terms",
-      "fetched_at": "2025-10-29T02:54:20.071937"
+      "fetched_at": "2025-10-29T03:59:40.003003"
     },
     "translations": {
       "source": "api.quran.com",
       "license": "Various - See individual translation licenses",
       "attribution": "Translation copyrights belong to respective translators",
       "terms_url": "https://quran.com/terms",
-      "fetched_at": "2025-10-29T02:54:20.071937"
+      "fetched_at": "2025-10-29T03:59:40.003003"
     },
     "audio": {
       "source": "everyayah.com via api.quran.com",
@@ -26,7 +31,33 @@
       "attribution": "Audio recitations courtesy of everyayah.com",
       "terms_url": "https://everyayah.com/",
       "note": "Audio URLs provided - not downloaded locally due to size",
-      "fetched_at": "2025-10-29T02:54:20.071937"
+      "fetched_at": "2025-10-29T03:59:40.003003"
+    }
+  },
+  "translation_metadata": {
+    "131": {
+      "name": "Dr. Mustafa Khattab, The Clear Quran",
+      "author": "Dr. Mustafa Khattab",
+      "language": "en",
+      "language_name": "English",
+      "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0",
+      "source": "api.quran.com"
+    },
+    "20": {
+      "name": "Saheeh International",
+      "author": "Saheeh International",
+      "language": "en",
+      "language_name": "English",
+      "license": "Public Domain",
+      "source": "api.quran.com"
+    },
+    "140": {
+      "name": "Telugu Translation",
+      "author": "Unknown",
+      "language": "te",
+      "language_name": "Telugu",
+      "license": "Various",
+      "source": "api.quran.com"
     }
   },
   "surah_info": {
@@ -60,7 +91,19 @@
       "text_uthmani": " الٓر ۚ تِلْكَ ءَايَـٰتُ ٱلْكِتَـٰبِ ٱلْحَكِيمِ",
       "text_imlaei": "الر ۚ تِلْكَ آيَاتُ الْكِتَابِ الْحَكِيمِ",
       "page_number": 208,
-      "juz_number": 11
+      "juz_number": 11,
+      "translations": [
+        {
+          "id": 96175,
+          "resource_id": 20,
+          "text": "Alif, Lām, Rā.<sup foot_note=196431>1</sup> These are the verses of the wise<sup foot_note=196430>2</sup> Book."
+        },
+        {
+          "id": 955214,
+          "resource_id": 140,
+          "text": "Alif. Lam. Ra<sup foot_note=149376>1</sup>. Estas son las aleyas del Libro de la sabiduría."
+        }
+      ]
     },
     {
       "id": 1366,
@@ -74,7 +117,19 @@
       "text_uthmani": "أَكَانَ لِلنَّاسِ عَجَبًا أَنْ أَوْحَيْنَآ إِلَىٰ رَجُلٍ مِّنْهُمْ أَنْ أَنذِرِ ٱلنَّاسَ وَبَشِّرِ ٱلَّذِينَ ءَامَنُوٓا۟ أَنَّ لَهُمْ قَدَمَ صِدْقٍ عِندَ رَبِّهِمْ ۗ قَالَ ٱلْكَـٰفِرُونَ إِنَّ هَـٰذَا لَسَـٰحِرٌ مُّبِينٌ",
       "text_imlaei": "أَكَانَ لِلنَّاسِ عَجَبًا أَنْ أَوْحَيْنَا إِلَىٰ رَجُلٍ مِّنْهُمْ أَنْ أَنذِرِ النَّاسَ وَبَشِّرِ الَّذِينَ آمَنُوا أَنَّ لَهُمْ قَدَمَ صِدْقٍ عِندَ رَبِّهِمْ ۗ قَالَ الْكَافِرُونَ إِنَّ هَٰذَا لَسَاحِرٌ مُّبِينٌ",
       "page_number": 208,
-      "juz_number": 11
+      "juz_number": 11,
+      "translations": [
+        {
+          "id": 96208,
+          "resource_id": 20,
+          "text": "Have the people been amazed that We revealed [revelation] to a man from among them, [saying], \"Warn mankind and give good tidings to those who believe that they will have a [firm] precedence of honor<sup foot_note=196432>1</sup> with their Lord\"? [But] the disbelievers say, \"Indeed, this is an obvious magician.\""
+        },
+        {
+          "id": 955215,
+          "resource_id": 140,
+          "text": "¿Acaso se sorprenden los hombres de que hayamos concedido la revelación a uno de ellos para que advierta a la gente (del castigo de Al-lah) y dé la buena nueva a los creyentes de que obtendrán una buena recompensa<sup foot_note=149377>1</sup> (por sus acciones) junto a su Señor? Pero, quienes rechazan la verdad dicen: «Este (Muhammad) no es sino un simple brujo»."
+        }
+      ]
     },
     {
       "id": 1367,
@@ -88,7 +143,19 @@
       "text_uthmani": "إِنَّ رَبَّكُمُ ٱللَّهُ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ ۖ يُدَبِّرُ ٱلْأَمْرَ ۖ مَا مِن شَفِيعٍ إِلَّا مِنۢ بَعْدِ إِذْنِهِۦ ۚ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ فَٱعْبُدُوهُ ۚ أَفَلَا تَذَكَّرُونَ",
       "text_imlaei": "إِنَّ رَبَّكُمُ اللَّهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ ۖ يُدَبِّرُ الْأَمْرَ ۖ مَا مِن شَفِيعٍ إِلَّا مِن بَعْدِ إِذْنِهِ ۚ ذَٰلِكُمُ اللَّهُ رَبُّكُمْ فَاعْبُدُوهُ ۚ أَفَلَا تَذَكَّرُونَ",
       "page_number": 208,
-      "juz_number": 11
+      "juz_number": 11,
+      "translations": [
+        {
+          "id": 96227,
+          "resource_id": 20,
+          "text": "Indeed, your Lord is Allāh, who created the heavens and the earth in six days and then established Himself above the Throne,<sup foot_note=196433>1</sup> arranging the matter [of His creation]. There is no intercessor except after His permission. That is Allāh, your Lord, so worship Him. Then will you not remember?"
+        },
+        {
+          "id": 955216,
+          "resource_id": 140,
+          "text": "Vuestro Señor es Al-lah, Quien creó los cielos y la tierra en seis días<sup foot_note=149378>1</sup> y después se asentó sobre el Trono. Él es Quien controla todos los asuntos. Nadie puede interceder ante Él sin Su consentimiento. Este es Al-lah, vuestro Señor; ¡adoradlo, pues! ¿Acaso no reflexionáis?"
+        }
+      ]
     },
     {
       "id": 1368,
@@ -102,7 +169,19 @@
       "text_uthmani": "إِلَيْهِ مَرْجِعُكُمْ جَمِيعًا ۖ وَعْدَ ٱللَّهِ حَقًّا ۚ إِنَّهُۥ يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ لِيَجْزِىَ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ بِٱلْقِسْطِ ۚ وَٱلَّذِينَ كَفَرُوا۟ لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌۢ بِمَا كَانُوا۟ يَكْفُرُونَ",
       "text_imlaei": "إِلَيْهِ مَرْجِعُكُمْ جَمِيعًا ۖ وَعْدَ اللَّهِ حَقًّا ۚ إِنَّهُ يَبْدَأُ الْخَلْقَ ثُمَّ يُعِيدُهُ لِيَجْزِيَ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ بِالْقِسْطِ ۚ وَالَّذِينَ كَفَرُوا لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْفُرُونَ",
       "page_number": 208,
-      "juz_number": 11
+      "juz_number": 11,
+      "translations": [
+        {
+          "id": 96240,
+          "resource_id": 20,
+          "text": "To Him is your return all together. [It is] the promise of Allāh [which is] truth. Indeed, He begins the [process of] creation and then repeats it that He may reward those who have believed and done righteous deeds, in justice. But those who disbelieved will have a drink of scalding water and a painful punishment for what they used to deny."
+        },
+        {
+          "id": 955217,
+          "resource_id": 140,
+          "text": "Todos retornaréis a Él (para ser juzgados el Día de la Resurrección). La promesa de Al-lah es cierta. Él es Quien dio origen a la creación y la reproducirá para recompensar con toda justicia a quienes creen y actúan con rectitud. Y quienes rechazan la verdad tendrán agua hirviendo por bebida y recibirán un castigo doloroso por negarla."
+        }
+      ]
     },
     {
       "id": 1369,
@@ -116,7 +195,19 @@
       "text_uthmani": "هُوَ ٱلَّذِى جَعَلَ ٱلشَّمْسَ ضِيَآءً وَٱلْقَمَرَ نُورًا وَقَدَّرَهُۥ مَنَازِلَ لِتَعْلَمُوا۟ عَدَدَ ٱلسِّنِينَ وَٱلْحِسَابَ ۚ مَا خَلَقَ ٱللَّهُ ذَٰلِكَ إِلَّا بِٱلْحَقِّ ۚ يُفَصِّلُ ٱلْـَٔايَـٰتِ لِقَوْمٍ يَعْلَمُونَ",
       "text_imlaei": "هُوَ الَّذِي جَعَلَ الشَّمْسَ ضِيَاءً وَالْقَمَرَ نُورًا وَقَدَّرَهُ مَنَازِلَ لِتَعْلَمُوا عَدَدَ السِّنِينَ وَالْحِسَابَ ۚ مَا خَلَقَ اللَّهُ ذَٰلِكَ إِلَّا بِالْحَقِّ ۚ يُفَصِّلُ الْآيَاتِ لِقَوْمٍ يَعْلَمُونَ",
       "page_number": 208,
-      "juz_number": 11
+      "juz_number": 11,
+      "translations": [
+        {
+          "id": 96260,
+          "resource_id": 20,
+          "text": "It is He who made the sun a shining light and the moon a derived light and determined for it phases - that you may know the number of years and account [of time]. Allāh has not created this except in truth. He details the signs for a people who know."
+        },
+        {
+          "id": 955218,
+          "resource_id": 140,
+          "text": "Él es Quien hizo del sol una fuente de luz (y calor) y de la luna, una luz (reflejada)<sup foot_note=149379>1</sup>, y estableció sus fases para que pudierais contar los años y calcular (el paso del tiempo).Al-lah no ha creado todo esto sin un propósito. (Así) explica con detalle las pruebas de Su poder (y Su revelación) a quienes tienen conocimiento (y reflexionan)."
+        }
+      ]
     },
     {
       "id": 1370,
@@ -130,7 +221,19 @@
       "text_uthmani": "إِنَّ فِى ٱخْتِلَـٰفِ ٱلَّيْلِ وَٱلنَّهَارِ وَمَا خَلَقَ ٱللَّهُ فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ لَـَٔايَـٰتٍ لِّقَوْمٍ يَتَّقُونَ",
       "text_imlaei": "إِنَّ فِي اخْتِلَافِ اللَّيْلِ وَالنَّهَارِ وَمَا خَلَقَ اللَّهُ فِي السَّمَاوَاتِ وَالْأَرْضِ لَآيَاتٍ لِّقَوْمٍ يَتَّقُونَ",
       "page_number": 208,
-      "juz_number": 11
+      "juz_number": 11,
+      "translations": [
+        {
+          "id": 96276,
+          "resource_id": 20,
+          "text": "Indeed, in the alternation of the night and the day and [in] what Allāh has created in the heavens and the earth are signs for a people who fear Allāh."
+        },
+        {
+          "id": 955219,
+          "resource_id": 140,
+          "text": "Ciertamente, en la alternancia de la noche y el día y en la creación de los cielos y de la tierra hay pruebas del poder de Al-lah para los piadosos."
+        }
+      ]
     },
     {
       "id": 1371,
@@ -144,7 +247,19 @@
       "text_uthmani": "إِنَّ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا وَرَضُوا۟ بِٱلْحَيَوٰةِ ٱلدُّنْيَا وَٱطْمَأَنُّوا۟ بِهَا وَٱلَّذِينَ هُمْ عَنْ ءَايَـٰتِنَا غَـٰفِلُونَ",
       "text_imlaei": "إِنَّ الَّذِينَ لَا يَرْجُونَ لِقَاءَنَا وَرَضُوا بِالْحَيَاةِ الدُّنْيَا وَاطْمَأَنُّوا بِهَا وَالَّذِينَ هُمْ عَنْ آيَاتِنَا غَافِلُونَ",
       "page_number": 209,
-      "juz_number": 11
+      "juz_number": 11,
+      "translations": [
+        {
+          "id": 96292,
+          "resource_id": 20,
+          "text": "Indeed, those who do not expect the meeting with Us and are satisfied with the life of this world and feel secure therein and those who are heedless of Our signs -"
+        },
+        {
+          "id": 955220,
+          "resource_id": 140,
+          "text": "Quienes no esperan Nuestro encuentro, se complacen en la vida terrenal y se sienten seguros en ella,así como quienes se desentienden de las pruebas de Nuestra unicidad,"
+        }
+      ]
     },
     {
       "id": 1372,
@@ -158,7 +273,19 @@
       "text_uthmani": "أُو۟لَـٰٓئِكَ مَأْوَىٰهُمُ ٱلنَّارُ بِمَا كَانُوا۟ يَكْسِبُونَ",
       "text_imlaei": "أُولَٰئِكَ مَأْوَاهُمُ النَّارُ بِمَا كَانُوا يَكْسِبُونَ",
       "page_number": 209,
-      "juz_number": 11
+      "juz_number": 11,
+      "translations": [
+        {
+          "id": 96310,
+          "resource_id": 20,
+          "text": "For those their refuge will be the Fire because of what they used to earn."
+        },
+        {
+          "id": 955221,
+          "resource_id": 140,
+          "text": "morarán en el infierno como castigo por lo que solían hacer."
+        }
+      ]
     },
     {
       "id": 1373,
@@ -172,7 +299,19 @@
       "text_uthmani": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ يَهْدِيهِمْ رَبُّهُم بِإِيمَـٰنِهِمْ ۖ تَجْرِى مِن تَحْتِهِمُ ٱلْأَنْهَـٰرُ فِى جَنَّـٰتِ ٱلنَّعِيمِ",
       "text_imlaei": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ يَهْدِيهِمْ رَبُّهُم بِإِيمَانِهِمْ ۖ تَجْرِي مِن تَحْتِهِمُ الْأَنْهَارُ فِي جَنَّاتِ النَّعِيمِ",
       "page_number": 209,
-      "juz_number": 11
+      "juz_number": 11,
+      "translations": [
+        {
+          "id": 96324,
+          "resource_id": 20,
+          "text": "Indeed, those who have believed and done righteous deeds - their Lord will guide them because of their faith. Beneath them rivers will flow in the Gardens of Pleasure."
+        },
+        {
+          "id": 955222,
+          "resource_id": 140,
+          "text": "Ciertamente, a quienes crean y obren rectamente, Al-lah los guiará a través<sup foot_note=149380>1</sup> de su fe (hacia el paraíso), en cuyos jardines de las delicias corren ríos."
+        }
+      ]
     },
     {
       "id": 1374,
@@ -186,7 +325,19 @@
       "text_uthmani": "دَعْوَىٰهُمْ فِيهَا سُبْحَـٰنَكَ ٱللَّهُمَّ وَتَحِيَّتُهُمْ فِيهَا سَلَـٰمٌ ۚ وَءَاخِرُ دَعْوَىٰهُمْ أَنِ ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
       "text_imlaei": "دَعْوَاهُمْ فِيهَا سُبْحَانَكَ اللَّهُمَّ وَتَحِيَّتُهُمْ فِيهَا سَلَامٌ ۚ وَآخِرُ دَعْوَاهُمْ أَنِ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
       "page_number": 209,
-      "juz_number": 11
+      "juz_number": 11,
+      "translations": [
+        {
+          "id": 96176,
+          "resource_id": 20,
+          "text": "Their call therein will be, \"Exalted are You, O Allāh,\" and their greeting therein will be, \"Peace.\" And the last of their call will be, \"Praise to Allāh, Lord of the worlds!\""
+        },
+        {
+          "id": 955223,
+          "resource_id": 140,
+          "text": "(Allí) invocarán a Al-lah diciendo: «¡Gloria a ti, Señor!», y se saludarán (entre ellos) con el saludo de paz (del islam)<sup foot_note=149381>1</sup>; y al final de su invocación dirán: «¡Alabado sea Al-lah, Señor de toda la creación!»."
+        }
+      ]
     }
   ],
   "audio_metadata": {
