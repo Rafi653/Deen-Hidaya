@@ -1,9 +1,13 @@
 {
   "metadata": {
     "surah_number": 2,
-    "scraped_at": "2025-10-29T02:54:04.532633",
-    "source": "api.quran.com",
-    "version": "1.0"
+    "scraped_at": "2025-10-29T03:10:49.702065+00:00",
+    "source": "api.quran.com (fallback: local sample data for testing)",
+    "version": "1.0",
+    "translation_ids": [
+      131
+    ],
+    "note": "Sample data containing first 3 verses of 286 total verses"
   },
   "license": {
     "text": {
@@ -11,14 +15,14 @@
       "license": "Public Domain",
       "attribution": "The Quran text is in the public domain",
       "terms_url": "https://quran.com/terms",
-      "fetched_at": "2025-10-29T02:54:04.532633"
+      "fetched_at": "2025-10-29T03:10:49.702065+00:00"
     },
     "translations": {
       "source": "api.quran.com",
       "license": "Various - See individual translation licenses",
       "attribution": "Translation copyrights belong to respective translators",
       "terms_url": "https://quran.com/terms",
-      "fetched_at": "2025-10-29T02:54:04.532633"
+      "fetched_at": "2025-10-29T03:10:49.702065+00:00"
     },
     "audio": {
       "source": "everyayah.com via api.quran.com",
@@ -26,176 +30,99 @@
       "attribution": "Audio recitations courtesy of everyayah.com",
       "terms_url": "https://everyayah.com/",
       "note": "Audio URLs provided - not downloaded locally due to size",
-      "fetched_at": "2025-10-29T02:54:04.532633"
+      "fetched_at": "2025-10-29T03:10:49.702065+00:00"
+    }
+  },
+  "translation_metadata": {
+    "131": {
+      "name": "Dr. Mustafa Khattab, The Clear Quran",
+      "author": "Dr. Mustafa Khattab",
+      "language": "en",
+      "language_name": "English",
+      "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0",
+      "source": "api.quran.com"
     }
   },
   "surah_info": {
     "id": 2,
-    "revelation_place": "madinah",
-    "revelation_order": 87,
-    "bismillah_pre": true,
-    "name_simple": "Al-Baqarah",
-    "name_complex": "Al-Baqarah",
+    "revelation_place": "Medinan",
+    "name_complex": "The Cow",
     "name_arabic": "البقرة",
+    "name_simple": "Al-Baqarah",
     "verses_count": 286,
     "pages": [
-      2,
-      49
-    ],
-    "translated_name": {
-      "language_name": "english",
-      "name": "The Cow"
-    }
+      1,
+      1
+    ]
   },
   "verses": [
     {
-      "id": 8,
+      "id": 1,
       "verse_number": 1,
       "verse_key": "2:1",
+      "juz_number": 1,
       "hizb_number": 1,
       "rub_el_hizb_number": 1,
-      "ruku_number": 2,
-      "manzil_number": 1,
-      "sajdah_number": null,
-      "text_uthmani": " الٓمٓ",
+      "text_uthmani": "الٓمٓ",
       "text_imlaei": "الم",
-      "page_number": 2,
-      "juz_number": 1
+      "translations": [
+        {
+          "id": 1,
+          "resource_id": 131,
+          "text": "Alif, Lam, Meem.",
+          "resource_name": "Sahih International",
+          "language_name": "english"
+        }
+      ]
     },
     {
-      "id": 9,
+      "id": 2,
       "verse_number": 2,
       "verse_key": "2:2",
+      "juz_number": 1,
       "hizb_number": 1,
       "rub_el_hizb_number": 1,
-      "ruku_number": 2,
-      "manzil_number": 1,
-      "sajdah_number": null,
-      "text_uthmani": "ذَٰلِكَ ٱلْكِتَـٰبُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ",
-      "text_imlaei": "ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ",
-      "page_number": 2,
-      "juz_number": 1
+      "text_uthmani": "ذَٰلِكَ ٱلْكِتَـٰبُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًۭى لِّلْمُتَّقِينَ",
+      "text_imlaei": "ذلك الكتاب لا ريب فيه هدى للمتقين",
+      "translations": [
+        {
+          "id": 2,
+          "resource_id": 131,
+          "text": "This is the Book about which there is no doubt, a guidance for those conscious of Allah -",
+          "resource_name": "Sahih International",
+          "language_name": "english"
+        }
+      ]
     },
     {
-      "id": 10,
+      "id": 3,
       "verse_number": 3,
       "verse_key": "2:3",
+      "juz_number": 1,
       "hizb_number": 1,
       "rub_el_hizb_number": 1,
-      "ruku_number": 2,
-      "manzil_number": 1,
-      "sajdah_number": null,
-      "text_uthmani": "ٱلَّذِينَ يُؤْمِنُونَ بِٱلْغَيْبِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ",
-      "text_imlaei": "الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَيُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ",
-      "page_number": 2,
-      "juz_number": 1
-    },
-    {
-      "id": 11,
-      "verse_number": 4,
-      "verse_key": "2:4",
-      "hizb_number": 1,
-      "rub_el_hizb_number": 1,
-      "ruku_number": 2,
-      "manzil_number": 1,
-      "sajdah_number": null,
-      "text_uthmani": "وَٱلَّذِينَ يُؤْمِنُونَ بِمَآ أُنزِلَ إِلَيْكَ وَمَآ أُنزِلَ مِن قَبْلِكَ وَبِٱلْـَٔاخِرَةِ هُمْ يُوقِنُونَ",
-      "text_imlaei": "وَالَّذِينَ يُؤْمِنُونَ بِمَا أُنزِلَ إِلَيْكَ وَمَا أُنزِلَ مِن قَبْلِكَ وَبِالْآخِرَةِ هُمْ يُوقِنُونَ",
-      "page_number": 2,
-      "juz_number": 1
-    },
-    {
-      "id": 12,
-      "verse_number": 5,
-      "verse_key": "2:5",
-      "hizb_number": 1,
-      "rub_el_hizb_number": 1,
-      "ruku_number": 2,
-      "manzil_number": 1,
-      "sajdah_number": null,
-      "text_uthmani": "أُو۟لَـٰٓئِكَ عَلَىٰ هُدًى مِّن رَّبِّهِمْ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
-      "text_imlaei": "أُولَٰئِكَ عَلَىٰ هُدًى مِّن رَّبِّهِمْ ۖ وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ",
-      "page_number": 2,
-      "juz_number": 1
-    },
-    {
-      "id": 13,
-      "verse_number": 6,
-      "verse_key": "2:6",
-      "hizb_number": 1,
-      "rub_el_hizb_number": 1,
-      "ruku_number": 2,
-      "manzil_number": 1,
-      "sajdah_number": null,
-      "text_uthmani": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ سَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ",
-      "text_imlaei": "إِنَّ الَّذِينَ كَفَرُوا سَوَاءٌ عَلَيْهِمْ أَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ",
-      "page_number": 3,
-      "juz_number": 1
-    },
-    {
-      "id": 14,
-      "verse_number": 7,
-      "verse_key": "2:7",
-      "hizb_number": 1,
-      "rub_el_hizb_number": 1,
-      "ruku_number": 2,
-      "manzil_number": 1,
-      "sajdah_number": null,
-      "text_uthmani": "خَتَمَ ٱللَّهُ عَلَىٰ قُلُوبِهِمْ وَعَلَىٰ سَمْعِهِمْ ۖ وَعَلَىٰٓ أَبْصَـٰرِهِمْ غِشَـٰوَةٌ ۖ وَلَهُمْ عَذَابٌ عَظِيمٌ",
-      "text_imlaei": "خَتَمَ اللَّهُ عَلَىٰ قُلُوبِهِمْ وَعَلَىٰ سَمْعِهِمْ ۖ وَعَلَىٰ أَبْصَارِهِمْ غِشَاوَةٌ ۖ وَلَهُمْ عَذَابٌ عَظِيمٌ",
-      "page_number": 3,
-      "juz_number": 1
-    },
-    {
-      "id": 15,
-      "verse_number": 8,
-      "verse_key": "2:8",
-      "hizb_number": 1,
-      "rub_el_hizb_number": 1,
-      "ruku_number": 3,
-      "manzil_number": 1,
-      "sajdah_number": null,
-      "text_uthmani": "وَمِنَ ٱلنَّاسِ مَن يَقُولُ ءَامَنَّا بِٱللَّهِ وَبِٱلْيَوْمِ ٱلْـَٔاخِرِ وَمَا هُم بِمُؤْمِنِينَ",
-      "text_imlaei": "وَمِنَ النَّاسِ مَن يَقُولُ آمَنَّا بِاللَّهِ وَبِالْيَوْمِ الْآخِرِ وَمَا هُم بِمُؤْمِنِينَ",
-      "page_number": 3,
-      "juz_number": 1
-    },
-    {
-      "id": 16,
-      "verse_number": 9,
-      "verse_key": "2:9",
-      "hizb_number": 1,
-      "rub_el_hizb_number": 1,
-      "ruku_number": 3,
-      "manzil_number": 1,
-      "sajdah_number": null,
-      "text_uthmani": "يُخَـٰدِعُونَ ٱللَّهَ وَٱلَّذِينَ ءَامَنُوا۟ وَمَا يَخْدَعُونَ إِلَّآ أَنفُسَهُمْ وَمَا يَشْعُرُونَ",
-      "text_imlaei": "يُخَادِعُونَ اللَّهَ وَالَّذِينَ آمَنُوا وَمَا يَخْدَعُونَ إِلَّا أَنفُسَهُمْ وَمَا يَشْعُرُونَ",
-      "page_number": 3,
-      "juz_number": 1
-    },
-    {
-      "id": 17,
-      "verse_number": 10,
-      "verse_key": "2:10",
-      "hizb_number": 1,
-      "rub_el_hizb_number": 1,
-      "ruku_number": 3,
-      "manzil_number": 1,
-      "sajdah_number": null,
-      "text_uthmani": "فِى قُلُوبِهِم مَّرَضٌ فَزَادَهُمُ ٱللَّهُ مَرَضًا ۖ وَلَهُمْ عَذَابٌ أَلِيمٌۢ بِمَا كَانُوا۟ يَكْذِبُونَ",
-      "text_imlaei": "فِي قُلُوبِهِم مَّرَضٌ فَزَادَهُمُ اللَّهُ مَرَضًا ۖ وَلَهُمْ عَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْذِبُونَ",
-      "page_number": 3,
-      "juz_number": 1
+      "text_uthmani": "ٱلَّذِينَ يُؤْمِنُونَ بِٱلْغَيْبِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ",
+      "text_imlaei": "الذين يؤمنون بالغيب ويقيمون الصلاة ومما رزقناهم ينفقون",
+      "translations": [
+        {
+          "id": 3,
+          "resource_id": 131,
+          "text": "Who believe in the unseen, establish prayer, and spend out of what We have provided for them,",
+          "resource_name": "Sahih International",
+          "language_name": "english"
+        }
+      ]
     }
   ],
   "audio_metadata": {
     "audio_file": {
-      "id": 913,
       "chapter_id": 2,
-      "file_size": 120888301.0,
-      "format": "mp3",
-      "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3"
+      "audio_url": "https://verses.quran.com/Alafasy/mp3/002.mp3"
+    },
+    "recitation": {
+      "id": 7,
+      "reciter_name": "Mishari Rashid al-`Afasy",
+      "style": "Murattal"
     }
   }
 }
