@@ -1,11 +1,12 @@
 {
   "metadata": {
     "surah_number": 23,
-    "scraped_at": "2025-10-29T19:44:02.736771",
+    "scraped_at": "2025-10-29T20:56:27.029332",
     "source": "api.quran.com",
     "version": "1.0",
     "translation_ids": [
-      131
+      131,
+      140
     ]
   },
   "license": {
@@ -14,14 +15,14 @@
       "license": "Public Domain",
       "attribution": "The Quran text is in the public domain",
       "terms_url": "https://quran.com/terms",
-      "fetched_at": "2025-10-29T19:44:02.736771"
+      "fetched_at": "2025-10-29T20:56:27.029332"
     },
     "translations": {
       "source": "api.quran.com",
       "license": "Various - See individual translation licenses",
       "attribution": "Translation copyrights belong to respective translators",
       "terms_url": "https://quran.com/terms",
-      "fetched_at": "2025-10-29T19:44:02.736771"
+      "fetched_at": "2025-10-29T20:56:27.029332"
     },
     "audio": {
       "source": "everyayah.com via api.quran.com",
@@ -29,7 +30,7 @@
       "attribution": "Audio recitations courtesy of everyayah.com",
       "terms_url": "https://everyayah.com/",
       "note": "Audio URLs provided - not downloaded locally due to size",
-      "fetched_at": "2025-10-29T19:44:02.736771"
+      "fetched_at": "2025-10-29T20:56:27.029332"
     }
   },
   "translation_metadata": {
@@ -39,6 +40,14 @@
       "language": "en",
       "language_name": "English",
       "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0",
+      "source": "api.quran.com"
+    },
+    "140": {
+      "name": "Telugu Translation",
+      "author": "Unknown",
+      "language": "te",
+      "language_name": "Telugu",
+      "license": "Various",
       "source": "api.quran.com"
     }
   },
@@ -73,7 +82,14 @@
       "text_uthmani": " قَدْ أَفْلَحَ ٱلْمُؤْمِنُونَ",
       "text_imlaei": "قَدْ أَفْلَحَ الْمُؤْمِنُونَ",
       "page_number": 342,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956523,
+          "resource_id": 140,
+          "text": "Ciertamente, los creyentes triunfarán;"
+        }
+      ]
     },
     {
       "id": 2675,
@@ -87,7 +103,14 @@
       "text_uthmani": "ٱلَّذِينَ هُمْ فِى صَلَاتِهِمْ خَـٰشِعُونَ",
       "text_imlaei": "الَّذِينَ هُمْ فِي صَلَاتِهِمْ خَاشِعُونَ",
       "page_number": 342,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956524,
+          "resource_id": 140,
+          "text": "esos que rezan con recogimiento (temiendo a Al-lah);"
+        }
+      ]
     },
     {
       "id": 2676,
@@ -101,7 +124,14 @@
       "text_uthmani": "وَٱلَّذِينَ هُمْ عَنِ ٱللَّغْوِ مُعْرِضُونَ",
       "text_imlaei": "وَالَّذِينَ هُمْ عَنِ اللَّغْوِ مُعْرِضُونَ",
       "page_number": 342,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956525,
+          "resource_id": 140,
+          "text": "esos que se alejan de la banalidad (y de la falsedad);"
+        }
+      ]
     },
     {
       "id": 2677,
@@ -115,7 +145,14 @@
       "text_uthmani": "وَٱلَّذِينَ هُمْ لِلزَّكَوٰةِ فَـٰعِلُونَ",
       "text_imlaei": "وَالَّذِينَ هُمْ لِلزَّكَاةِ فَاعِلُونَ",
       "page_number": 342,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956526,
+          "resource_id": 140,
+          "text": "esos que entregan el azaque;"
+        }
+      ]
     },
     {
       "id": 2678,
@@ -129,7 +166,14 @@
       "text_uthmani": "وَٱلَّذِينَ هُمْ لِفُرُوجِهِمْ حَـٰفِظُونَ",
       "text_imlaei": "وَالَّذِينَ هُمْ لِفُرُوجِهِمْ حَافِظُونَ",
       "page_number": 342,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956527,
+          "resource_id": 140,
+          "text": "esos que protegen sus partes íntimas (de la inmoralidad),"
+        }
+      ]
     },
     {
       "id": 2679,
@@ -143,7 +187,14 @@
       "text_uthmani": "إِلَّا عَلَىٰٓ أَزْوَٰجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَـٰنُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ",
       "text_imlaei": "إِلَّا عَلَىٰ أَزْوَاجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَانُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ",
       "page_number": 342,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956528,
+          "resource_id": 140,
+          "text": "salvo con sus esposas y con las esclavas que poseen<sup foot_note=149674>1</sup>, pues no serán reprochados por ello."
+        }
+      ]
     },
     {
       "id": 2680,
@@ -157,7 +208,14 @@
       "text_uthmani": "فَمَنِ ٱبْتَغَىٰ وَرَآءَ ذَٰلِكَ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْعَادُونَ",
       "text_imlaei": "فَمَنِ ابْتَغَىٰ وَرَاءَ ذَٰلِكَ فَأُولَٰئِكَ هُمُ الْعَادُونَ",
       "page_number": 342,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956529,
+          "resource_id": 140,
+          "text": "Y quienes busquen (tener relaciones íntimas con) otras mujeresserán unos transgresores."
+        }
+      ]
     },
     {
       "id": 2681,
@@ -171,7 +229,14 @@
       "text_uthmani": "وَٱلَّذِينَ هُمْ لِأَمَـٰنَـٰتِهِمْ وَعَهْدِهِمْ رَٰعُونَ",
       "text_imlaei": "وَالَّذِينَ هُمْ لِأَمَانَاتِهِمْ وَعَهْدِهِمْ رَاعُونَ",
       "page_number": 342,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956530,
+          "resource_id": 140,
+          "text": "(Y también triunfarán) quienes guardan lo que se les confía<sup foot_note=149675>1</sup>, así como sus compromisos,"
+        }
+      ]
     },
     {
       "id": 2682,
@@ -185,7 +250,14 @@
       "text_uthmani": "وَٱلَّذِينَ هُمْ عَلَىٰ صَلَوَٰتِهِمْ يُحَافِظُونَ",
       "text_imlaei": "وَالَّذِينَ هُمْ عَلَىٰ صَلَوَاتِهِمْ يُحَافِظُونَ",
       "page_number": 342,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956531,
+          "resource_id": 140,
+          "text": "y realizan el salat con perseverancia (a sus debidas horas)."
+        }
+      ]
     },
     {
       "id": 2683,
@@ -199,7 +271,14 @@
       "text_uthmani": "أُو۟لَـٰٓئِكَ هُمُ ٱلْوَٰرِثُونَ",
       "text_imlaei": "أُولَٰئِكَ هُمُ الْوَارِثُونَ",
       "page_number": 342,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956532,
+          "resource_id": 140,
+          "text": "Esos (que así actúan) serán los herederos (del paraíso),"
+        }
+      ]
     },
     {
       "id": 2684,
@@ -213,7 +292,14 @@
       "text_uthmani": "ٱلَّذِينَ يَرِثُونَ ٱلْفِرْدَوْسَ هُمْ فِيهَا خَـٰلِدُونَ",
       "text_imlaei": "الَّذِينَ يَرِثُونَ الْفِرْدَوْسَ هُمْ فِيهَا خَالِدُونَ",
       "page_number": 342,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956533,
+          "resource_id": 140,
+          "text": "quienes heredarán los Jardines del Firdaus<sup foot_note=149676>1</sup> y allí vivirán eternamente."
+        }
+      ]
     },
     {
       "id": 2685,
@@ -227,7 +313,14 @@
       "text_uthmani": "وَلَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ مِن سُلَـٰلَةٍ مِّن طِينٍ",
       "text_imlaei": "وَلَقَدْ خَلَقْنَا الْإِنسَانَ مِن سُلَالَةٍ مِّن طِينٍ",
       "page_number": 342,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956534,
+          "resource_id": 140,
+          "text": "Y, ciertamente, creamos al (primer) hombre de un extracto de barro."
+        }
+      ]
     },
     {
       "id": 2686,
@@ -241,7 +334,14 @@
       "text_uthmani": "ثُمَّ جَعَلْنَـٰهُ نُطْفَةً فِى قَرَارٍ مَّكِينٍ",
       "text_imlaei": "ثُمَّ جَعَلْنَاهُ نُطْفَةً فِي قَرَارٍ مَّكِينٍ",
       "page_number": 342,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956535,
+          "resource_id": 140,
+          "text": "Después hicimos que el hombre (la descendencia de Adán) proviniesede una pequeña cantidad de esperma (nutfah) que fijamos en un lugar seguro (el útero)."
+        }
+      ]
     },
     {
       "id": 2687,
@@ -255,7 +355,14 @@
       "text_uthmani": "ثُمَّ خَلَقْنَا ٱلنُّطْفَةَ عَلَقَةً فَخَلَقْنَا ٱلْعَلَقَةَ مُضْغَةً فَخَلَقْنَا ٱلْمُضْغَةَ عِظَـٰمًا فَكَسَوْنَا ٱلْعِظَـٰمَ لَحْمًا ثُمَّ أَنشَأْنَـٰهُ خَلْقًا ءَاخَرَ ۚ فَتَبَارَكَ ٱللَّهُ أَحْسَنُ ٱلْخَـٰلِقِينَ",
       "text_imlaei": "ثُمَّ خَلَقْنَا النُّطْفَةَ عَلَقَةً فَخَلَقْنَا الْعَلَقَةَ مُضْغَةً فَخَلَقْنَا الْمُضْغَةَ عِظَامًا فَكَسَوْنَا الْعِظَامَ لَحْمًا ثُمَّ أَنشَأْنَاهُ خَلْقًا آخَرَ ۚ فَتَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ",
       "page_number": 342,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956536,
+          "resource_id": 140,
+          "text": "A continuación, hicimos que se convirtiese en un coágulo (‘alaqah), y el coágulo en una masa parecida a un trozo de carne masticada (mudgah)<sup foot_note=149677>1</sup>; y a partir de esta creamos los huesos y los revestimos, después, de carne<sup foot_note=149678>2</sup>. Finalmente insuflamos el alma y creamos así un nuevo ser. ¡Bendito sea Al-lah, el Creador Supremo<sup foot_note=149679>3</sup>!"
+        }
+      ]
     },
     {
       "id": 2688,
@@ -269,7 +376,14 @@
       "text_uthmani": "ثُمَّ إِنَّكُم بَعْدَ ذَٰلِكَ لَمَيِّتُونَ",
       "text_imlaei": "ثُمَّ إِنَّكُم بَعْدَ ذَٰلِكَ لَمَيِّتُونَ",
       "page_number": 342,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956537,
+          "resource_id": 140,
+          "text": "Luego pereceréis,"
+        }
+      ]
     },
     {
       "id": 2689,
@@ -283,7 +397,14 @@
       "text_uthmani": "ثُمَّ إِنَّكُمْ يَوْمَ ٱلْقِيَـٰمَةِ تُبْعَثُونَ",
       "text_imlaei": "ثُمَّ إِنَّكُمْ يَوْمَ الْقِيَامَةِ تُبْعَثُونَ",
       "page_number": 342,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956538,
+          "resource_id": 140,
+          "text": "Y el Día de la Resurrección volveréis a la vida."
+        }
+      ]
     },
     {
       "id": 2690,
@@ -297,7 +418,14 @@
       "text_uthmani": "وَلَقَدْ خَلَقْنَا فَوْقَكُمْ سَبْعَ طَرَآئِقَ وَمَا كُنَّا عَنِ ٱلْخَلْقِ غَـٰفِلِينَ",
       "text_imlaei": "وَلَقَدْ خَلَقْنَا فَوْقَكُمْ سَبْعَ طَرَائِقَ وَمَا كُنَّا عَنِ الْخَلْقِ غَافِلِينَ",
       "page_number": 342,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956539,
+          "resource_id": 140,
+          "text": "Y creamos sobre vosotros siete cielos<sup foot_note=149680>1</sup>superpuestos, y no Nos pasa inadvertido cuanto sucede en la creación."
+        }
+      ]
     },
     {
       "id": 2691,
@@ -311,7 +439,14 @@
       "text_uthmani": "وَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءًۢ بِقَدَرٍ فَأَسْكَنَّـٰهُ فِى ٱلْأَرْضِ ۖ وَإِنَّا عَلَىٰ ذَهَابٍۭ بِهِۦ لَقَـٰدِرُونَ",
       "text_imlaei": "وَأَنزَلْنَا مِنَ السَّمَاءِ مَاءً بِقَدَرٍ فَأَسْكَنَّاهُ فِي الْأَرْضِ ۖ وَإِنَّا عَلَىٰ ذَهَابٍ بِهِ لَقَادِرُونَ",
       "page_number": 343,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956540,
+          "resource_id": 140,
+          "text": "Y hacemos que descienda lluvia del cielo en una cantidad determinada<sup foot_note=149681>1</sup>, y la tierra (la absorbe y) la almacena<sup foot_note=149682>2</sup>. Y (si quisiéramos) podríamos hacerla desaparecer."
+        }
+      ]
     },
     {
       "id": 2692,
@@ -325,7 +460,14 @@
       "text_uthmani": "فَأَنشَأْنَا لَكُم بِهِۦ جَنَّـٰتٍ مِّن نَّخِيلٍ وَأَعْنَـٰبٍ لَّكُمْ فِيهَا فَوَٰكِهُ كَثِيرَةٌ وَمِنْهَا تَأْكُلُونَ",
       "text_imlaei": "فَأَنشَأْنَا لَكُم بِهِ جَنَّاتٍ مِّن نَّخِيلٍ وَأَعْنَابٍ لَّكُمْ فِيهَا فَوَاكِهُ كَثِيرَةٌ وَمِنْهَا تَأْكُلُونَ",
       "page_number": 343,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956541,
+          "resource_id": 140,
+          "text": "Y hacemos que con ella broten para vosotros jardines de palmeras y viñedos que producen abundantes frutos de los que os alimentáis."
+        }
+      ]
     },
     {
       "id": 2693,
@@ -339,7 +481,14 @@
       "text_uthmani": "وَشَجَرَةً تَخْرُجُ مِن طُورِ سَيْنَآءَ تَنۢبُتُ بِٱلدُّهْنِ وَصِبْغٍ لِّلْـَٔاكِلِينَ",
       "text_imlaei": "وَشَجَرَةً تَخْرُجُ مِن طُورِ سَيْنَاءَ تَنبُتُ بِالدُّهْنِ وَصِبْغٍ لِّلْآكِلِينَ",
       "page_number": 343,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956542,
+          "resource_id": 140,
+          "text": "Y (también hacemos que crezca para vosotros) un árbol (el olivo) que crece en el monte Sinaí y os proporciona una grasa (que utilizáis) como condimento cuando coméis."
+        }
+      ]
     },
     {
       "id": 2694,
@@ -353,7 +502,14 @@
       "text_uthmani": "وَإِنَّ لَكُمْ فِى ٱلْأَنْعَـٰمِ لَعِبْرَةً ۖ نُّسْقِيكُم مِّمَّا فِى بُطُونِهَا وَلَكُمْ فِيهَا مَنَـٰفِعُ كَثِيرَةٌ وَمِنْهَا تَأْكُلُونَ",
       "text_imlaei": "وَإِنَّ لَكُمْ فِي الْأَنْعَامِ لَعِبْرَةً ۖ نُّسْقِيكُم مِّمَّا فِي بُطُونِهَا وَلَكُمْ فِيهَا مَنَافِعُ كَثِيرَةٌ وَمِنْهَا تَأْكُلُونَ",
       "page_number": 343,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956543,
+          "resource_id": 140,
+          "text": "Y, en verdad, tenéis un motivo de reflexión en el ganado. Os damos de beber de lo que hay en sus entrañas (la leche)<sup foot_note=149683>1</sup>, os aportan muchos beneficios y coméis de ellos."
+        }
+      ]
     },
     {
       "id": 2695,
@@ -367,7 +523,14 @@
       "text_uthmani": "وَعَلَيْهَا وَعَلَى ٱلْفُلْكِ تُحْمَلُونَ",
       "text_imlaei": "وَعَلَيْهَا وَعَلَى الْفُلْكِ تُحْمَلُونَ",
       "page_number": 343,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956544,
+          "resource_id": 140,
+          "text": "Y tanto ellos (los animales) como las embarcaciones os sirven de transporte."
+        }
+      ]
     },
     {
       "id": 2696,
@@ -381,7 +544,14 @@
       "text_uthmani": "وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦ فَقَالَ يَـٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَـٰهٍ غَيْرُهُۥٓ ۖ أَفَلَا تَتَّقُونَ",
       "text_imlaei": "وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِ فَقَالَ يَا قَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُ ۖ أَفَلَا تَتَّقُونَ",
       "page_number": 343,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956545,
+          "resource_id": 140,
+          "text": "Y, ciertamente, enviamos a Noé a su pueblo y les dijo: «¡Pueblo mío!, adorad solo a Al-lah. No tenéis ninguna otra divinidad (verdadera) fuera de Él. ¿Acaso no Lo temeréis?»."
+        }
+      ]
     },
     {
       "id": 2697,
@@ -395,7 +565,14 @@
       "text_uthmani": "فَقَالَ ٱلْمَلَؤُا۟ ٱلَّذِينَ كَفَرُوا۟ مِن قَوْمِهِۦ مَا هَـٰذَآ إِلَّا بَشَرٌ مِّثْلُكُمْ يُرِيدُ أَن يَتَفَضَّلَ عَلَيْكُمْ وَلَوْ شَآءَ ٱللَّهُ لَأَنزَلَ مَلَـٰٓئِكَةً مَّا سَمِعْنَا بِهَـٰذَا فِىٓ ءَابَآئِنَا ٱلْأَوَّلِينَ",
       "text_imlaei": "فَقَالَ الْمَلَأُ الَّذِينَ كَفَرُوا مِن قَوْمِهِ مَا هَٰذَا إِلَّا بَشَرٌ مِّثْلُكُمْ يُرِيدُ أَن يَتَفَضَّلَ عَلَيْكُمْ وَلَوْ شَاءَ اللَّهُ لَأَنزَلَ مَلَائِكَةً مَّا سَمِعْنَا بِهَٰذَا فِي آبَائِنَا الْأَوَّلِينَ",
       "page_number": 343,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956546,
+          "resource_id": 140,
+          "text": "Y los dignatarios incrédulos de su pueblo dijeron (a quienes creían en él): «No es más que un serhumano como vosotros que quiere dominaros. Si Al-lah hubiese querido, habría enviado ángeles (en su lugar). Nunca oímos nada semejante (a lo que él dice) entre nuestros antecesores."
+        }
+      ]
     },
     {
       "id": 2698,
@@ -409,7 +586,14 @@
       "text_uthmani": "إِنْ هُوَ إِلَّا رَجُلٌۢ بِهِۦ جِنَّةٌ فَتَرَبَّصُوا۟ بِهِۦ حَتَّىٰ حِينٍ",
       "text_imlaei": "إِنْ هُوَ إِلَّا رَجُلٌ بِهِ جِنَّةٌ فَتَرَبَّصُوا بِهِ حَتَّىٰ حِينٍ",
       "page_number": 343,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956547,
+          "resource_id": 140,
+          "text": "»No es más que un hombre que está loco. Sed pacientes y esperad por un tiempo (hasta que muera)»."
+        }
+      ]
     },
     {
       "id": 2699,
@@ -423,7 +607,14 @@
       "text_uthmani": "قَالَ رَبِّ ٱنصُرْنِى بِمَا كَذَّبُونِ",
       "text_imlaei": "قَالَ رَبِّ انصُرْنِي بِمَا كَذَّبُونِ",
       "page_number": 343,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956548,
+          "resource_id": 140,
+          "text": "(Entonces) Noé suplicó a Al-lah diciendo: «¡Señor!, ayúdame, pues me desmienten»."
+        }
+      ]
     },
     {
       "id": 2700,
@@ -437,7 +628,14 @@
       "text_uthmani": "فَأَوْحَيْنَآ إِلَيْهِ أَنِ ٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا فَإِذَا جَآءَ أَمْرُنَا وَفَارَ ٱلتَّنُّورُ ۙ فَٱسْلُكْ فِيهَا مِن كُلٍّ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ ٱلْقَوْلُ مِنْهُمْ ۖ وَلَا تُخَـٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ ۖ إِنَّهُم مُّغْرَقُونَ",
       "text_imlaei": "فَأَوْحَيْنَا إِلَيْهِ أَنِ اصْنَعِ الْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا فَإِذَا جَاءَ أَمْرُنَا وَفَارَ التَّنُّورُ ۙ فَاسْلُكْ فِيهَا مِن كُلٍّ زَوْجَيْنِ اثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ الْقَوْلُ مِنْهُمْ ۖ وَلَا تُخَاطِبْنِي فِي الَّذِينَ ظَلَمُوا ۖ إِنَّهُم مُّغْرَقُونَ",
       "page_number": 343,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956549,
+          "resource_id": 140,
+          "text": "Y le revelamos: «Construye un arca bajo Nuestra supervisión, siguiendo Nuestras órdenes; y cuando el agua mane del horno<sup foot_note=149684>1</sup>, haz que embarque en ella una pareja de cada especie, así como tu familia, salvo quienes decretamos con anterioridad que no se salvarían (su mujer y uno de sus hijos). Y no intentes interceder por los injustos (que rechazan la verdad), pues morirán ahogados."
+        }
+      ]
     },
     {
       "id": 2701,
@@ -451,7 +649,14 @@
       "text_uthmani": "فَإِذَا ٱسْتَوَيْتَ أَنتَ وَمَن مَّعَكَ عَلَى ٱلْفُلْكِ فَقُلِ ٱلْحَمْدُ لِلَّهِ ٱلَّذِى نَجَّىٰنَا مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
       "text_imlaei": "فَإِذَا اسْتَوَيْتَ أَنتَ وَمَن مَّعَكَ عَلَى الْفُلْكِ فَقُلِ الْحَمْدُ لِلَّهِ الَّذِي نَجَّانَا مِنَ الْقَوْمِ الظَّالِمِينَ",
       "page_number": 344,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956550,
+          "resource_id": 140,
+          "text": "»Y cuando tú y quienes te acompañan hayáis embarcado, di: “Alabado sea Al-lah, Quien nos ha salvado de un pueblo injusto”»."
+        }
+      ]
     },
     {
       "id": 2702,
@@ -465,7 +670,14 @@
       "text_uthmani": "وَقُل رَّبِّ أَنزِلْنِى مُنزَلًا مُّبَارَكًا وَأَنتَ خَيْرُ ٱلْمُنزِلِينَ",
       "text_imlaei": "وَقُل رَّبِّ أَنزِلْنِي مُنزَلًا مُّبَارَكًا وَأَنتَ خَيْرُ الْمُنزِلِينَ",
       "page_number": 344,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956551,
+          "resource_id": 140,
+          "text": "Y di: «¡Señor!, haz que arribemos a un lugar bendito. Tú eres Quien mejor puede hacernos llegar a buen término»."
+        }
+      ]
     },
     {
       "id": 2703,
@@ -479,7 +691,14 @@
       "text_uthmani": "إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ وَإِن كُنَّا لَمُبْتَلِينَ",
       "text_imlaei": "إِنَّ فِي ذَٰلِكَ لَآيَاتٍ وَإِن كُنَّا لَمُبْتَلِينَ",
       "page_number": 344,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956552,
+          "resource_id": 140,
+          "text": "Ciertamente, en este (relato) hay evidencias(de la veracidad de los mensajeros de Al-lah). Y ponemos (a los hombres) a prueba (a través de los profetas)."
+        }
+      ]
     },
     {
       "id": 2704,
@@ -493,7 +712,14 @@
       "text_uthmani": "ثُمَّ أَنشَأْنَا مِنۢ بَعْدِهِمْ قَرْنًا ءَاخَرِينَ",
       "text_imlaei": "ثُمَّ أَنشَأْنَا مِن بَعْدِهِمْ قَرْنًا آخَرِينَ",
       "page_number": 344,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956553,
+          "resource_id": 140,
+          "text": "Después (del pueblo de Noé), hicimos que surgiera otra generación<sup foot_note=149685>1</sup>."
+        }
+      ]
     },
     {
       "id": 2705,
@@ -507,7 +733,14 @@
       "text_uthmani": "فَأَرْسَلْنَا فِيهِمْ رَسُولًا مِّنْهُمْ أَنِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَـٰهٍ غَيْرُهُۥٓ ۖ أَفَلَا تَتَّقُونَ",
       "text_imlaei": "فَأَرْسَلْنَا فِيهِمْ رَسُولًا مِّنْهُمْ أَنِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُ ۖ أَفَلَا تَتَّقُونَ",
       "page_number": 344,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956554,
+          "resource_id": 140,
+          "text": "Y les enviamos a un mensajero de entre ellos que les decía: «Adorad solo a Al-lah.No tenéis ninguna otra divinidad (verdadera) fuera de Él. ¿Acaso no Lo temeréis?»."
+        }
+      ]
     },
     {
       "id": 2706,
@@ -521,7 +754,14 @@
       "text_uthmani": "وَقَالَ ٱلْمَلَأُ مِن قَوْمِهِ ٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِلِقَآءِ ٱلْـَٔاخِرَةِ وَأَتْرَفْنَـٰهُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا مَا هَـٰذَآ إِلَّا بَشَرٌ مِّثْلُكُمْ يَأْكُلُ مِمَّا تَأْكُلُونَ مِنْهُ وَيَشْرَبُ مِمَّا تَشْرَبُونَ",
       "text_imlaei": "وَقَالَ الْمَلَأُ مِن قَوْمِهِ الَّذِينَ كَفَرُوا وَكَذَّبُوا بِلِقَاءِ الْآخِرَةِ وَأَتْرَفْنَاهُمْ فِي الْحَيَاةِ الدُّنْيَا مَا هَٰذَا إِلَّا بَشَرٌ مِّثْلُكُمْ يَأْكُلُ مِمَّا تَأْكُلُونَ مِنْهُ وَيَشْرَبُ مِمَّا تَشْرَبُونَ",
       "page_number": 344,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956555,
+          "resource_id": 140,
+          "text": "Y los dignatarios de su pueblo que lo habían desmentido y habían negado la vida eterna, y disfrutaban de la vida terrenal que les habíamos concedido, dijeron: «Ese no es sino un ser humano como vosotros; come de lo que coméis y bebe de lo que bebéis."
+        }
+      ]
     },
     {
       "id": 2707,
@@ -535,7 +775,14 @@
       "text_uthmani": "وَلَئِنْ أَطَعْتُم بَشَرًا مِّثْلَكُمْ إِنَّكُمْ إِذًا لَّخَـٰسِرُونَ",
       "text_imlaei": "وَلَئِنْ أَطَعْتُم بَشَرًا مِّثْلَكُمْ إِنَّكُمْ إِذًا لَّخَاسِرُونَ",
       "page_number": 344,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956556,
+          "resource_id": 140,
+          "text": "»Y si obedecéis a un hombre como vosotros, saldréis perdiendo."
+        }
+      ]
     },
     {
       "id": 2708,
@@ -549,7 +796,14 @@
       "text_uthmani": "أَيَعِدُكُمْ أَنَّكُمْ إِذَا مِتُّمْ وَكُنتُمْ تُرَابًا وَعِظَـٰمًا أَنَّكُم مُّخْرَجُونَ",
       "text_imlaei": "أَيَعِدُكُمْ أَنَّكُمْ إِذَا مِتُّمْ وَكُنتُمْ تُرَابًا وَعِظَامًا أَنَّكُم مُّخْرَجُونَ",
       "page_number": 344,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956557,
+          "resource_id": 140,
+          "text": "»¿Acaso os ha prometido queuna vez hayáis muerto y seáis polvo resucitaréis?"
+        }
+      ]
     },
     {
       "id": 2709,
@@ -563,7 +817,14 @@
       "text_uthmani": "۞ هَيْهَاتَ هَيْهَاتَ لِمَا تُوعَدُونَ",
       "text_imlaei": "هَيْهَاتَ هَيْهَاتَ لِمَا تُوعَدُونَ",
       "page_number": 344,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956558,
+          "resource_id": 140,
+          "text": "»Lo que se os ha prometido no sucederá nunca."
+        }
+      ]
     },
     {
       "id": 2710,
@@ -577,7 +838,14 @@
       "text_uthmani": "إِنْ هِىَ إِلَّا حَيَاتُنَا ٱلدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا نَحْنُ بِمَبْعُوثِينَ",
       "text_imlaei": "إِنْ هِيَ إِلَّا حَيَاتُنَا الدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا نَحْنُ بِمَبْعُوثِينَ",
       "page_number": 344,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956559,
+          "resource_id": 140,
+          "text": "»Solo existe esta vida; vivimos y morimos una sola vez, y no resucitaremos."
+        }
+      ]
     },
     {
       "id": 2711,
@@ -591,7 +859,14 @@
       "text_uthmani": "إِنْ هُوَ إِلَّا رَجُلٌ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا وَمَا نَحْنُ لَهُۥ بِمُؤْمِنِينَ",
       "text_imlaei": "إِنْ هُوَ إِلَّا رَجُلٌ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا وَمَا نَحْنُ لَهُ بِمُؤْمِنِينَ",
       "page_number": 344,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956560,
+          "resource_id": 140,
+          "text": "»No es más que un hombre que ha inventado una mentira contra Al-lah, y no creeremos en lo que dice»."
+        }
+      ]
     },
     {
       "id": 2712,
@@ -605,7 +880,14 @@
       "text_uthmani": "قَالَ رَبِّ ٱنصُرْنِى بِمَا كَذَّبُونِ",
       "text_imlaei": "قَالَ رَبِّ انصُرْنِي بِمَا كَذَّبُونِ",
       "page_number": 344,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956561,
+          "resource_id": 140,
+          "text": "(El mensajero de Al-lah) suplicó: «¡Señor!, ayúdame, pues me desmienten»."
+        }
+      ]
     },
     {
       "id": 2713,
@@ -619,7 +901,14 @@
       "text_uthmani": "قَالَ عَمَّا قَلِيلٍ لَّيُصْبِحُنَّ نَـٰدِمِينَ",
       "text_imlaei": "قَالَ عَمَّا قَلِيلٍ لَّيُصْبِحُنَّ نَادِمِينَ",
       "page_number": 344,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956562,
+          "resource_id": 140,
+          "text": "(Al-lah) respondió: «¡Pronto lo lamentarán!»."
+        }
+      ]
     },
     {
       "id": 2714,
@@ -633,7 +922,14 @@
       "text_uthmani": "فَأَخَذَتْهُمُ ٱلصَّيْحَةُ بِٱلْحَقِّ فَجَعَلْنَـٰهُمْ غُثَآءً ۚ فَبُعْدًا لِّلْقَوْمِ ٱلظَّـٰلِمِينَ",
       "text_imlaei": "فَأَخَذَتْهُمُ الصَّيْحَةُ بِالْحَقِّ فَجَعَلْنَاهُمْ غُثَاءً ۚ فَبُعْدًا لِّلْقَوْمِ الظَّالِمِينَ",
       "page_number": 344,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956563,
+          "resource_id": 140,
+          "text": "Entonces un gran estruendo se abatió sobre ellos con toda justicia (y los destruimos por completo) dejándolos reducidos a deshechos (o residuos como los que arrastra la corriente). ¡Que Al-lah expulse de Su misericordia a los injustos (que desmienten la verdad)!"
+        }
+      ]
     },
     {
       "id": 2715,
@@ -647,7 +943,14 @@
       "text_uthmani": "ثُمَّ أَنشَأْنَا مِنۢ بَعْدِهِمْ قُرُونًا ءَاخَرِينَ",
       "text_imlaei": "ثُمَّ أَنشَأْنَا مِن بَعْدِهِمْ قُرُونًا آخَرِينَ",
       "page_number": 344,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956564,
+          "resource_id": 140,
+          "text": "Después hicimos que los sucedieran otras generaciones."
+        }
+      ]
     },
     {
       "id": 2716,
@@ -661,7 +964,14 @@
       "text_uthmani": "مَا تَسْبِقُ مِنْ أُمَّةٍ أَجَلَهَا وَمَا يَسْتَـْٔخِرُونَ",
       "text_imlaei": "مَا تَسْبِقُ مِنْ أُمَّةٍ أَجَلَهَا وَمَا يَسْتَأْخِرُونَ",
       "page_number": 345,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956565,
+          "resource_id": 140,
+          "text": "Ninguna comunidad puede adelantar ni retrasar su final."
+        }
+      ]
     },
     {
       "id": 2717,
@@ -675,7 +985,14 @@
       "text_uthmani": "ثُمَّ أَرْسَلْنَا رُسُلَنَا تَتْرَا ۖ كُلَّ مَا جَآءَ أُمَّةً رَّسُولُهَا كَذَّبُوهُ ۚ فَأَتْبَعْنَا بَعْضَهُم بَعْضًا وَجَعَلْنَـٰهُمْ أَحَادِيثَ ۚ فَبُعْدًا لِّقَوْمٍ لَّا يُؤْمِنُونَ",
       "text_imlaei": "ثُمَّ أَرْسَلْنَا رُسُلَنَا تَتْرَىٰ ۖ كُلَّ مَا جَاءَ أُمَّةً رَّسُولُهَا كَذَّبُوهُ ۚ فَأَتْبَعْنَا بَعْضَهُم بَعْضًا وَجَعَلْنَاهُمْ أَحَادِيثَ ۚ فَبُعْدًا لِّقَوْمٍ لَّا يُؤْمِنُونَ",
       "page_number": 345,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956566,
+          "resource_id": 140,
+          "text": "Después fuimos enviando sucesivamente a Nuestros mensajeros. Cada vez que se presentaba uno ante una comunidad, era desmentido. Y fuimos destruyendo una comunidad tras otra, e hicimos que (sus historias) permaneciesen entre los hombres como un motivo de reflexión. ¡Que los pueblos que rechazaron la verdad sean expulsados de toda misericordia!"
+        }
+      ]
     },
     {
       "id": 2718,
@@ -689,7 +1006,14 @@
       "text_uthmani": "ثُمَّ أَرْسَلْنَا مُوسَىٰ وَأَخَاهُ هَـٰرُونَ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍ مُّبِينٍ",
       "text_imlaei": "ثُمَّ أَرْسَلْنَا مُوسَىٰ وَأَخَاهُ هَارُونَ بِآيَاتِنَا وَسُلْطَانٍ مُّبِينٍ",
       "page_number": 345,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956567,
+          "resource_id": 140,
+          "text": "Luego enviamos a Moisés y a su hermano Aarón con Nuestros milagros y pruebas evidentes"
+        }
+      ]
     },
     {
       "id": 2719,
@@ -703,7 +1027,14 @@
       "text_uthmani": "إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًا عَالِينَ",
       "text_imlaei": "إِلَىٰ فِرْعَوْنَ وَمَلَئِهِ فَاسْتَكْبَرُوا وَكَانُوا قَوْمًا عَالِينَ",
       "page_number": 345,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956568,
+          "resource_id": 140,
+          "text": "al Faraón y a sus dignatarios, pero los rechazaron con soberbia y fueron un pueblo altivo."
+        }
+      ]
     },
     {
       "id": 2720,
@@ -717,7 +1048,14 @@
       "text_uthmani": "فَقَالُوٓا۟ أَنُؤْمِنُ لِبَشَرَيْنِ مِثْلِنَا وَقَوْمُهُمَا لَنَا عَـٰبِدُونَ",
       "text_imlaei": "فَقَالُوا أَنُؤْمِنُ لِبَشَرَيْنِ مِثْلِنَا وَقَوْمُهُمَا لَنَا عَابِدُونَ",
       "page_number": 345,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956569,
+          "resource_id": 140,
+          "text": "Dijeron: «¿Vamos a creer en dos seres humanos como nosotros, cuando su pueblo es esclavo nuestro?»."
+        }
+      ]
     },
     {
       "id": 2721,
@@ -731,7 +1069,14 @@
       "text_uthmani": "فَكَذَّبُوهُمَا فَكَانُوا۟ مِنَ ٱلْمُهْلَكِينَ",
       "text_imlaei": "فَكَذَّبُوهُمَا فَكَانُوا مِنَ الْمُهْلَكِينَ",
       "page_number": 345,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956570,
+          "resource_id": 140,
+          "text": "Y los desmintieron, y, entonces, fueron destruidos."
+        }
+      ]
     },
     {
       "id": 2722,
@@ -745,7 +1090,14 @@
       "text_uthmani": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ لَعَلَّهُمْ يَهْتَدُونَ",
       "text_imlaei": "وَلَقَدْ آتَيْنَا مُوسَى الْكِتَابَ لَعَلَّهُمْ يَهْتَدُونَ",
       "page_number": 345,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956571,
+          "resource_id": 140,
+          "text": "Y, ciertamente, entregamos a Moisés el Libro (la Torá) para que (los hijos de Israel) se guiaran."
+        }
+      ]
     },
     {
       "id": 2723,
@@ -759,7 +1111,14 @@
       "text_uthmani": "وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةً وَءَاوَيْنَـٰهُمَآ إِلَىٰ رَبْوَةٍ ذَاتِ قَرَارٍ وَمَعِينٍ",
       "text_imlaei": "وَجَعَلْنَا ابْنَ مَرْيَمَ وَأُمَّهُ آيَةً وَآوَيْنَاهُمَا إِلَىٰ رَبْوَةٍ ذَاتِ قَرَارٍ وَمَعِينٍ",
       "page_number": 345,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956572,
+          "resource_id": 140,
+          "text": "E hicimos de Jesús y de su madre una prueba (de Nuestro poder al hacer que esta concibiera sin la intervención de ningún hombre), y los refugiamos en una colina fértil donde corría el agua."
+        }
+      ]
     },
     {
       "id": 2724,
@@ -773,7 +1132,14 @@
       "text_uthmani": "يَـٰٓأَيُّهَا ٱلرُّسُلُ كُلُوا۟ مِنَ ٱلطَّيِّبَـٰتِ وَٱعْمَلُوا۟ صَـٰلِحًا ۖ إِنِّى بِمَا تَعْمَلُونَ عَلِيمٌ",
       "text_imlaei": "يَا أَيُّهَا الرُّسُلُ كُلُوا مِنَ الطَّيِّبَاتِ وَاعْمَلُوا صَالِحًا ۖ إِنِّي بِمَا تَعْمَلُونَ عَلِيمٌ",
       "page_number": 345,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956573,
+          "resource_id": 140,
+          "text": "¡Oh, mensajeros!, comed de las cosas buenas y lícitas (de las que os proveemos) y obrad rectamente. En verdad, Yo sé bien lo que hacéis."
+        }
+      ]
     },
     {
       "id": 2725,
@@ -787,7 +1153,14 @@
       "text_uthmani": "وَإِنَّ هَـٰذِهِۦٓ أُمَّتُكُمْ أُمَّةً وَٰحِدَةً وَأَنَا۠ رَبُّكُمْ فَٱتَّقُونِ",
       "text_imlaei": "وَإِنَّ هَٰذِهِ أُمَّتُكُمْ أُمَّةً وَاحِدَةً وَأَنَا رَبُّكُمْ فَاتَّقُونِ",
       "page_number": 345,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956574,
+          "resource_id": 140,
+          "text": "Ciertamente, vuestra religión(¡oh, gentes!) es una sola religión<sup foot_note=149686>1</sup>. Y Yo soy vuestro Señor;temedme, pues, solo a Mí."
+        }
+      ]
     },
     {
       "id": 2726,
@@ -801,7 +1174,14 @@
       "text_uthmani": "فَتَقَطَّعُوٓا۟ أَمْرَهُم بَيْنَهُمْ زُبُرًا ۖ كُلُّ حِزْبٍۭ بِمَا لَدَيْهِمْ فَرِحُونَ",
       "text_imlaei": "فَتَقَطَّعُوا أَمْرَهُم بَيْنَهُمْ زُبُرًا ۖ كُلُّ حِزْبٍ بِمَا لَدَيْهِمْ فَرِحُونَ",
       "page_number": 345,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956575,
+          "resource_id": 140,
+          "text": "Mas se dividieron en diferentes grupos (según sus creencias), y cada grupo se complació con la suya (pensando que estaban bien guiados)."
+        }
+      ]
     },
     {
       "id": 2727,
@@ -815,7 +1195,14 @@
       "text_uthmani": "فَذَرْهُمْ فِى غَمْرَتِهِمْ حَتَّىٰ حِينٍ",
       "text_imlaei": "فَذَرْهُمْ فِي غَمْرَتِهِمْ حَتَّىٰ حِينٍ",
       "page_number": 345,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956576,
+          "resource_id": 140,
+          "text": "¡Deja, pues, (oh, Muhammad) que (los idólatras de La Meca) continúen en su extravío hasta que les llegue el momento (de su destrucción)!"
+        }
+      ]
     },
     {
       "id": 2728,
@@ -829,7 +1216,14 @@
       "text_uthmani": "أَيَحْسَبُونَ أَنَّمَا نُمِدُّهُم بِهِۦ مِن مَّالٍ وَبَنِينَ",
       "text_imlaei": "أَيَحْسَبُونَ أَنَّمَا نُمِدُّهُم بِهِ مِن مَّالٍ وَبَنِينَ",
       "page_number": 345,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956577,
+          "resource_id": 140,
+          "text": "¿Acaso creen que las riquezas e hijos que les concedemos generosamente"
+        }
+      ]
     },
     {
       "id": 2729,
@@ -843,7 +1237,14 @@
       "text_uthmani": "نُسَارِعُ لَهُمْ فِى ٱلْخَيْرَٰتِ ۚ بَل لَّا يَشْعُرُونَ",
       "text_imlaei": "نُسَارِعُ لَهُمْ فِي الْخَيْرَاتِ ۚ بَل لَّا يَشْعُرُونَ",
       "page_number": 345,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956578,
+          "resource_id": 140,
+          "text": "son un adelanto de los bienes que recibirán (en la otra vida)? ¡No!, pero no se dan cuenta."
+        }
+      ]
     },
     {
       "id": 2730,
@@ -857,7 +1258,14 @@
       "text_uthmani": "إِنَّ ٱلَّذِينَ هُم مِّنْ خَشْيَةِ رَبِّهِم مُّشْفِقُونَ",
       "text_imlaei": "إِنَّ الَّذِينَ هُم مِّنْ خَشْيَةِ رَبِّهِم مُّشْفِقُونَ",
       "page_number": 345,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956579,
+          "resource_id": 140,
+          "text": "En verdad, quienes temen a Su Señor<sup foot_note=149687>1</sup>,"
+        }
+      ]
     },
     {
       "id": 2731,
@@ -871,7 +1279,14 @@
       "text_uthmani": "وَٱلَّذِينَ هُم بِـَٔايَـٰتِ رَبِّهِمْ يُؤْمِنُونَ",
       "text_imlaei": "وَالَّذِينَ هُم بِآيَاتِ رَبِّهِمْ يُؤْمِنُونَ",
       "page_number": 345,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956580,
+          "resource_id": 140,
+          "text": "quienes creen en Sus aleyas (y pruebas),"
+        }
+      ]
     },
     {
       "id": 2732,
@@ -885,7 +1300,14 @@
       "text_uthmani": "وَٱلَّذِينَ هُم بِرَبِّهِمْ لَا يُشْرِكُونَ",
       "text_imlaei": "وَالَّذِينَ هُم بِرَبِّهِمْ لَا يُشْرِكُونَ",
       "page_number": 345,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956581,
+          "resource_id": 140,
+          "text": "quienes no adoran a otros fuera de Él"
+        }
+      ]
     },
     {
       "id": 2733,
@@ -899,7 +1321,14 @@
       "text_uthmani": "وَٱلَّذِينَ يُؤْتُونَ مَآ ءَاتَوا۟ وَّقُلُوبُهُمْ وَجِلَةٌ أَنَّهُمْ إِلَىٰ رَبِّهِمْ رَٰجِعُونَ",
       "text_imlaei": "وَالَّذِينَ يُؤْتُونَ مَا آتَوا وَّقُلُوبُهُمْ وَجِلَةٌ أَنَّهُمْ إِلَىٰ رَبِّهِمْ رَاجِعُونَ",
       "page_number": 346,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956582,
+          "resource_id": 140,
+          "text": "y quienes entregan lo que entregan<sup foot_note=149688>1</sup> con los corazones llenos de temor (de Al-lah) porque (están seguros de que) retornarán a su Señor (para ser juzgados);"
+        }
+      ]
     },
     {
       "id": 2734,
@@ -913,7 +1342,14 @@
       "text_uthmani": "أُو۟لَـٰٓئِكَ يُسَـٰرِعُونَ فِى ٱلْخَيْرَٰتِ وَهُمْ لَهَا سَـٰبِقُونَ",
       "text_imlaei": "أُولَٰئِكَ يُسَارِعُونَ فِي الْخَيْرَاتِ وَهُمْ لَهَا سَابِقُونَ",
       "page_number": 346,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956583,
+          "resource_id": 140,
+          "text": "esos se apresuran a realizar buenas acciones y compiten (entre ellos) en su realización."
+        }
+      ]
     },
     {
       "id": 2735,
@@ -927,7 +1363,14 @@
       "text_uthmani": "وَلَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا ۖ وَلَدَيْنَا كِتَـٰبٌ يَنطِقُ بِٱلْحَقِّ ۚ وَهُمْ لَا يُظْلَمُونَ",
       "text_imlaei": "وَلَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا ۖ وَلَدَيْنَا كِتَابٌ يَنطِقُ بِالْحَقِّ ۚ وَهُمْ لَا يُظْلَمُونَ",
       "page_number": 346,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956584,
+          "resource_id": 140,
+          "text": "Y no exigimos nada a nadie por encima de sus posibilidades. Y tenemos un registro<sup foot_note=149689>1</sup>(la Tabla Protegida) que dice la verdad; y nadie será tratado con injusticia."
+        }
+      ]
     },
     {
       "id": 2736,
@@ -941,7 +1384,14 @@
       "text_uthmani": "بَلْ قُلُوبُهُمْ فِى غَمْرَةٍ مِّنْ هَـٰذَا وَلَهُمْ أَعْمَـٰلٌ مِّن دُونِ ذَٰلِكَ هُمْ لَهَا عَـٰمِلُونَ",
       "text_imlaei": "بَلْ قُلُوبُهُمْ فِي غَمْرَةٍ مِّنْ هَٰذَا وَلَهُمْ أَعْمَالٌ مِّن دُونِ ذَٰلِكَ هُمْ لَهَا عَامِلُونَ",
       "page_number": 346,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956585,
+          "resource_id": 140,
+          "text": "Pero los corazones (de quienes rechazan la verdad de los habitantes de La Meca) ignoran completamente este (Corán) y realizan, además otras acciones (que no son rectas y por las que serán castigados)."
+        }
+      ]
     },
     {
       "id": 2737,
@@ -955,7 +1405,14 @@
       "text_uthmani": "حَتَّىٰٓ إِذَآ أَخَذْنَا مُتْرَفِيهِم بِٱلْعَذَابِ إِذَا هُمْ يَجْـَٔرُونَ",
       "text_imlaei": "حَتَّىٰ إِذَا أَخَذْنَا مُتْرَفِيهِم بِالْعَذَابِ إِذَا هُمْ يَجْأَرُونَ",
       "page_number": 346,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956586,
+          "resource_id": 140,
+          "text": "Mas cuando Nuestro castigo se abata sobre sus ricos dirigentes, Nos suplicarán con humildad."
+        }
+      ]
     },
     {
       "id": 2738,
@@ -969,7 +1426,14 @@
       "text_uthmani": "لَا تَجْـَٔرُوا۟ ٱلْيَوْمَ ۖ إِنَّكُم مِّنَّا لَا تُنصَرُونَ",
       "text_imlaei": "لَا تَجْأَرُوا الْيَوْمَ ۖ إِنَّكُم مِّنَّا لَا تُنصَرُونَ",
       "page_number": 346,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956587,
+          "resource_id": 140,
+          "text": "(Se les dirá:)«¡No Nos supliquéis hoy! No recibiréis ninguna ayuda de Nuestra parte."
+        }
+      ]
     },
     {
       "id": 2739,
@@ -983,7 +1447,14 @@
       "text_uthmani": "قَدْ كَانَتْ ءَايَـٰتِى تُتْلَىٰ عَلَيْكُمْ فَكُنتُمْ عَلَىٰٓ أَعْقَـٰبِكُمْ تَنكِصُونَ",
       "text_imlaei": "قَدْ كَانَتْ آيَاتِي تُتْلَىٰ عَلَيْكُمْ فَكُنتُمْ عَلَىٰ أَعْقَابِكُمْ تَنكِصُونَ",
       "page_number": 346,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956588,
+          "resource_id": 140,
+          "text": "»Cuando se os recitaban Mis aleyas, les dabais la espalda."
+        }
+      ]
     },
     {
       "id": 2740,
@@ -997,7 +1468,14 @@
       "text_uthmani": "مُسْتَكْبِرِينَ بِهِۦ سَـٰمِرًا تَهْجُرُونَ",
       "text_imlaei": "مُسْتَكْبِرِينَ بِهِ سَامِرًا تَهْجُرُونَ",
       "page_number": 346,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956589,
+          "resource_id": 140,
+          "text": "»Os mostrabais altivos (por ser los custodios de la Kaabay vivir en sus inmediaciones) y hablabais mal (sobre el Corán)cerca de ella por la noche»."
+        }
+      ]
     },
     {
       "id": 2741,
@@ -1011,7 +1489,14 @@
       "text_uthmani": "أَفَلَمْ يَدَّبَّرُوا۟ ٱلْقَوْلَ أَمْ جَآءَهُم مَّا لَمْ يَأْتِ ءَابَآءَهُمُ ٱلْأَوَّلِينَ",
       "text_imlaei": "أَفَلَمْ يَدَّبَّرُوا الْقَوْلَ أَمْ جَاءَهُم مَّا لَمْ يَأْتِ آبَاءَهُمُ الْأَوَّلِينَ",
       "page_number": 346,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956590,
+          "resource_id": 140,
+          "text": "¿Es que no reflexionan sobre las palabras (del Corán) o han recibido algo diferente a lo que recibieron sus antepasados (y por ello lo rechazan)?"
+        }
+      ]
     },
     {
       "id": 2742,
@@ -1025,7 +1510,14 @@
       "text_uthmani": "أَمْ لَمْ يَعْرِفُوا۟ رَسُولَهُمْ فَهُمْ لَهُۥ مُنكِرُونَ",
       "text_imlaei": "أَمْ لَمْ يَعْرِفُوا رَسُولَهُمْ فَهُمْ لَهُ مُنكِرُونَ",
       "page_number": 346,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956591,
+          "resource_id": 140,
+          "text": "¿O acaso no reconocen al mensajero enviado a ellos (Muhammad) y por eso lo desmienten?"
+        }
+      ]
     },
     {
       "id": 2743,
@@ -1039,7 +1531,14 @@
       "text_uthmani": "أَمْ يَقُولُونَ بِهِۦ جِنَّةٌۢ ۚ بَلْ جَآءَهُم بِٱلْحَقِّ وَأَكْثَرُهُمْ لِلْحَقِّ كَـٰرِهُونَ",
       "text_imlaei": "أَمْ يَقُولُونَ بِهِ جِنَّةٌ ۚ بَلْ جَاءَهُم بِالْحَقِّ وَأَكْثَرُهُمْ لِلْحَقِّ كَارِهُونَ",
       "page_number": 346,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956592,
+          "resource_id": 140,
+          "text": "¿O dicen que (Muhammad) está loco? Y, no obstante, les ha llegado con la verdad (el Corán), pero la mayoría de ellos la desprecian."
+        }
+      ]
     },
     {
       "id": 2744,
@@ -1053,7 +1552,14 @@
       "text_uthmani": "وَلَوِ ٱتَّبَعَ ٱلْحَقُّ أَهْوَآءَهُمْ لَفَسَدَتِ ٱلسَّمَـٰوَٰتُ وَٱلْأَرْضُ وَمَن فِيهِنَّ ۚ بَلْ أَتَيْنَـٰهُم بِذِكْرِهِمْ فَهُمْ عَن ذِكْرِهِم مُّعْرِضُونَ",
       "text_imlaei": "وَلَوِ اتَّبَعَ الْحَقُّ أَهْوَاءَهُمْ لَفَسَدَتِ السَّمَاوَاتُ وَالْأَرْضُ وَمَن فِيهِنَّ ۚ بَلْ أَتَيْنَاهُم بِذِكْرِهِمْ فَهُمْ عَن ذِكْرِهِم مُّعْرِضُونَ",
       "page_number": 346,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956593,
+          "resource_id": 140,
+          "text": "Si la verdad<sup foot_note=149690>1</sup>hubiese seguido sus pasiones, se habrían corrompido los cielos y la tierra y cuanto hay en ellos. Mas les hemos concedido una exhortación (el Corán) que los honraría (si la siguieran); y, no obstante, se apartan de ella."
+        }
+      ]
     },
     {
       "id": 2745,
@@ -1067,7 +1573,14 @@
       "text_uthmani": "أَمْ تَسْـَٔلُهُمْ خَرْجًا فَخَرَاجُ رَبِّكَ خَيْرٌ ۖ وَهُوَ خَيْرُ ٱلرَّٰزِقِينَ",
       "text_imlaei": "أَمْ تَسْأَلُهُمْ خَرْجًا فَخَرَاجُ رَبِّكَ خَيْرٌ ۖ وَهُوَ خَيْرُ الرَّازِقِينَ",
       "page_number": 346,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956594,
+          "resource_id": 140,
+          "text": "¿O acaso les pides (¡oh, Muhammad!) una retribución a cambio (de trasmitirles el mensaje, y ello les impide creer)? (Mas no les pides nada, pues) la mejor retribución es la de tu Señor y Él es el mejor de los proveedores."
+        }
+      ]
     },
     {
       "id": 2746,
@@ -1081,7 +1594,14 @@
       "text_uthmani": "وَإِنَّكَ لَتَدْعُوهُمْ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
       "text_imlaei": "وَإِنَّكَ لَتَدْعُوهُمْ إِلَىٰ صِرَاطٍ مُّسْتَقِيمٍ",
       "page_number": 346,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956595,
+          "resource_id": 140,
+          "text": "Y tú, ciertamente, los invitas al camino recto."
+        }
+      ]
     },
     {
       "id": 2747,
@@ -1095,7 +1615,14 @@
       "text_uthmani": "وَإِنَّ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ عَنِ ٱلصِّرَٰطِ لَنَـٰكِبُونَ",
       "text_imlaei": "وَإِنَّ الَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ عَنِ الصِّرَاطِ لَنَاكِبُونَ",
       "page_number": 346,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956596,
+          "resource_id": 140,
+          "text": "Y quienes no creen en la otra vida se desvían de él."
+        }
+      ]
     },
     {
       "id": 2748,
@@ -1109,7 +1636,14 @@
       "text_uthmani": "۞ وَلَوْ رَحِمْنَـٰهُمْ وَكَشَفْنَا مَا بِهِم مِّن ضُرٍّ لَّلَجُّوا۟ فِى طُغْيَـٰنِهِمْ يَعْمَهُونَ",
       "text_imlaei": "وَلَوْ رَحِمْنَاهُمْ وَكَشَفْنَا مَا بِهِم مِّن ضُرٍّ لَّلَجُّوا فِي طُغْيَانِهِمْ يَعْمَهُونَ",
       "page_number": 347,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956597,
+          "resource_id": 140,
+          "text": "Y si nos apiadáramos de ellos y los librásemos del mal que los aflige, persistirían en sus transgresiones, extraviados y desorientados."
+        }
+      ]
     },
     {
       "id": 2749,
@@ -1123,7 +1657,14 @@
       "text_uthmani": "وَلَقَدْ أَخَذْنَـٰهُم بِٱلْعَذَابِ فَمَا ٱسْتَكَانُوا۟ لِرَبِّهِمْ وَمَا يَتَضَرَّعُونَ",
       "text_imlaei": "وَلَقَدْ أَخَذْنَاهُم بِالْعَذَابِ فَمَا اسْتَكَانُوا لِرَبِّهِمْ وَمَا يَتَضَرَّعُونَ",
       "page_number": 347,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956598,
+          "resource_id": 140,
+          "text": "Y, ciertamente, los castigamos; y no se volvieron a su Señor con humildad y sumisión ni Le suplicaron ayuda."
+        }
+      ]
     },
     {
       "id": 2750,
@@ -1137,7 +1678,14 @@
       "text_uthmani": "حَتَّىٰٓ إِذَا فَتَحْنَا عَلَيْهِم بَابًا ذَا عَذَابٍ شَدِيدٍ إِذَا هُمْ فِيهِ مُبْلِسُونَ",
       "text_imlaei": "حَتَّىٰ إِذَا فَتَحْنَا عَلَيْهِم بَابًا ذَا عَذَابٍ شَدِيدٍ إِذَا هُمْ فِيهِ مُبْلِسُونَ",
       "page_number": 347,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956599,
+          "resource_id": 140,
+          "text": "Y cuando abramos ante ellos las puertas de un severo castigo (en la otra vida), se desesperarán."
+        }
+      ]
     },
     {
       "id": 2751,
@@ -1151,7 +1699,14 @@
       "text_uthmani": "وَهُوَ ٱلَّذِىٓ أَنشَأَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَـٰرَ وَٱلْأَفْـِٔدَةَ ۚ قَلِيلًا مَّا تَشْكُرُونَ",
       "text_imlaei": "وَهُوَ الَّذِي أَنشَأَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ وَالْأَفْئِدَةَ ۚ قَلِيلًا مَّا تَشْكُرُونَ",
       "page_number": 347,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956600,
+          "resource_id": 140,
+          "text": "Y Él es Quien creó para vosotros el oído, la vista y el entendimiento; mas apenas sois agradecidos."
+        }
+      ]
     },
     {
       "id": 2752,
@@ -1165,7 +1720,14 @@
       "text_uthmani": "وَهُوَ ٱلَّذِى ذَرَأَكُمْ فِى ٱلْأَرْضِ وَإِلَيْهِ تُحْشَرُونَ",
       "text_imlaei": "وَهُوَ الَّذِي ذَرَأَكُمْ فِي الْأَرْضِ وَإِلَيْهِ تُحْشَرُونَ",
       "page_number": 347,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956601,
+          "resource_id": 140,
+          "text": "Y Él es Quien os creó (y diseminó) sobre la tierra, y seréis reunidos ante Él (para ser juzgados)."
+        }
+      ]
     },
     {
       "id": 2753,
@@ -1179,7 +1741,14 @@
       "text_uthmani": "وَهُوَ ٱلَّذِى يُحْىِۦ وَيُمِيتُ وَلَهُ ٱخْتِلَـٰفُ ٱلَّيْلِ وَٱلنَّهَارِ ۚ أَفَلَا تَعْقِلُونَ",
       "text_imlaei": "وَهُوَ الَّذِي يُحْيِي وَيُمِيتُ وَلَهُ اخْتِلَافُ اللَّيْلِ وَالنَّهَارِ ۚ أَفَلَا تَعْقِلُونَ",
       "page_number": 347,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956602,
+          "resource_id": 140,
+          "text": "Y Él es Quien da la vida y la muerte, y Quien hace que la noche y el día se sucedan. ¿Acaso no razonáis?"
+        }
+      ]
     },
     {
       "id": 2754,
@@ -1193,7 +1762,14 @@
       "text_uthmani": "بَلْ قَالُوا۟ مِثْلَ مَا قَالَ ٱلْأَوَّلُونَ",
       "text_imlaei": "بَلْ قَالُوا مِثْلَ مَا قَالَ الْأَوَّلُونَ",
       "page_number": 347,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956603,
+          "resource_id": 140,
+          "text": "Sin embargo, (quienes rechazan la verdad) dicen lo mismo que decían sus antecesores."
+        }
+      ]
     },
     {
       "id": 2755,
@@ -1207,7 +1783,14 @@
       "text_uthmani": "قَالُوٓا۟ أَءِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَـٰمًا أَءِنَّا لَمَبْعُوثُونَ",
       "text_imlaei": "قَالُوا أَإِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا أَإِنَّا لَمَبْعُوثُونَ",
       "page_number": 347,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956604,
+          "resource_id": 140,
+          "text": "Dicen: «¿Cuando muramos y seamos polvo y huesos, resucitaremos?"
+        }
+      ]
     },
     {
       "id": 2756,
@@ -1221,7 +1804,14 @@
       "text_uthmani": "لَقَدْ وُعِدْنَا نَحْنُ وَءَابَآؤُنَا هَـٰذَا مِن قَبْلُ إِنْ هَـٰذَآ إِلَّآ أَسَـٰطِيرُ ٱلْأَوَّلِينَ",
       "text_imlaei": "لَقَدْ وُعِدْنَا نَحْنُ وَآبَاؤُنَا هَٰذَا مِن قَبْلُ إِنْ هَٰذَا إِلَّا أَسَاطِيرُ الْأَوَّلِينَ",
       "page_number": 347,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956605,
+          "resource_id": 140,
+          "text": "»Eso ya se nos prometió a nosotros y a nuestros antepasados con anterioridad, mas no son sino viejas leyendas»."
+        }
+      ]
     },
     {
       "id": 2757,
@@ -1235,7 +1825,14 @@
       "text_uthmani": "قُل لِّمَنِ ٱلْأَرْضُ وَمَن فِيهَآ إِن كُنتُمْ تَعْلَمُونَ",
       "text_imlaei": "قُل لِّمَنِ الْأَرْضُ وَمَن فِيهَا إِن كُنتُمْ تَعْلَمُونَ",
       "page_number": 347,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956606,
+          "resource_id": 140,
+          "text": "Diles (¡oh, Muhammad!): «¿A quién pertenece la tierra y cuanto hay en ella, si es que lo sabéis?»."
+        }
+      ]
     },
     {
       "id": 2758,
@@ -1249,7 +1846,14 @@
       "text_uthmani": "سَيَقُولُونَ لِلَّهِ ۚ قُلْ أَفَلَا تَذَكَّرُونَ",
       "text_imlaei": "سَيَقُولُونَ لِلَّهِ ۚ قُلْ أَفَلَا تَذَكَّرُونَ",
       "page_number": 347,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956607,
+          "resource_id": 140,
+          "text": "Dirán que pertenece a Al-lah. Diles: «¿No reflexionaréis, pues?»."
+        }
+      ]
     },
     {
       "id": 2759,
@@ -1263,7 +1867,14 @@
       "text_uthmani": "قُلْ مَن رَّبُّ ٱلسَّمَـٰوَٰتِ ٱلسَّبْعِ وَرَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ",
       "text_imlaei": "قُلْ مَن رَّبُّ السَّمَاوَاتِ السَّبْعِ وَرَبُّ الْعَرْشِ الْعَظِيمِ",
       "page_number": 347,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956608,
+          "resource_id": 140,
+          "text": "Diles: «¿Quién es el Señor de los siete cielos<sup foot_note=149691>1</sup> y el Señor del Gran Trono?»."
+        }
+      ]
     },
     {
       "id": 2760,
@@ -1277,7 +1888,14 @@
       "text_uthmani": "سَيَقُولُونَ لِلَّهِ ۚ قُلْ أَفَلَا تَتَّقُونَ",
       "text_imlaei": "سَيَقُولُونَ لِلَّهِ ۚ قُلْ أَفَلَا تَتَّقُونَ",
       "page_number": 347,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956609,
+          "resource_id": 140,
+          "text": "Dirán que es Al-lah. Diles: «¿No Lo temeréis, pues?»."
+        }
+      ]
     },
     {
       "id": 2761,
@@ -1291,7 +1909,14 @@
       "text_uthmani": "قُلْ مَنۢ بِيَدِهِۦ مَلَكُوتُ كُلِّ شَىْءٍ وَهُوَ يُجِيرُ وَلَا يُجَارُ عَلَيْهِ إِن كُنتُمْ تَعْلَمُونَ",
       "text_imlaei": "قُلْ مَن بِيَدِهِ مَلَكُوتُ كُلِّ شَيْءٍ وَهُوَ يُجِيرُ وَلَا يُجَارُ عَلَيْهِ إِن كُنتُمْ تَعْلَمُونَ",
       "page_number": 347,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956610,
+          "resource_id": 140,
+          "text": "Diles: «¿Quién tiene en Sus manos la soberanía de todas las cosas y protege (a Sus siervos), mientras que nadie puede protegerse de Él, si es que lo sabéis?»."
+        }
+      ]
     },
     {
       "id": 2762,
@@ -1305,7 +1930,14 @@
       "text_uthmani": "سَيَقُولُونَ لِلَّهِ ۚ قُلْ فَأَنَّىٰ تُسْحَرُونَ",
       "text_imlaei": "سَيَقُولُونَ لِلَّهِ ۚ قُلْ فَأَنَّىٰ تُسْحَرُونَ",
       "page_number": 347,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956611,
+          "resource_id": 140,
+          "text": "Dirán que Al-lah. Diles: «¿Por qué os dejáis engañar y os alejáis de la verdad?»."
+        }
+      ]
     },
     {
       "id": 2763,
@@ -1319,7 +1951,14 @@
       "text_uthmani": "بَلْ أَتَيْنَـٰهُم بِٱلْحَقِّ وَإِنَّهُمْ لَكَـٰذِبُونَ",
       "text_imlaei": "بَلْ أَتَيْنَاهُم بِالْحَقِّ وَإِنَّهُمْ لَكَاذِبُونَ",
       "page_number": 348,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956612,
+          "resource_id": 140,
+          "text": "Y les trajimos la verdad, pero (los idólatras) mienten (al adorar a otros además de a Al-lah y negar la resurrección)."
+        }
+      ]
     },
     {
       "id": 2764,
@@ -1333,7 +1972,14 @@
       "text_uthmani": "مَا ٱتَّخَذَ ٱللَّهُ مِن وَلَدٍ وَمَا كَانَ مَعَهُۥ مِنْ إِلَـٰهٍ ۚ إِذًا لَّذَهَبَ كُلُّ إِلَـٰهٍۭ بِمَا خَلَقَ وَلَعَلَا بَعْضُهُمْ عَلَىٰ بَعْضٍ ۚ سُبْحَـٰنَ ٱللَّهِ عَمَّا يَصِفُونَ",
       "text_imlaei": "مَا اتَّخَذَ اللَّهُ مِن وَلَدٍ وَمَا كَانَ مَعَهُ مِنْ إِلَٰهٍ ۚ إِذًا لَّذَهَبَ كُلُّ إِلَٰهٍ بِمَا خَلَقَ وَلَعَلَا بَعْضُهُمْ عَلَىٰ بَعْضٍ ۚ سُبْحَانَ اللَّهِ عَمَّا يَصِفُونَ",
       "page_number": 348,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956613,
+          "resource_id": 140,
+          "text": "Al-lah no ha tomado para Sí ningún hijo ni hay otras divinidades (verdaderas) fuera de Él. Si así fuera, cada divinidad controlaría su creación y unas intentarían imponerse sobre las demás.¡Alabado sea Al-lah! Él está muy por encima de lo que Le atribuyen."
+        }
+      ]
     },
     {
       "id": 2765,
@@ -1347,7 +1993,14 @@
       "text_uthmani": "عَـٰلِمِ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ فَتَعَـٰلَىٰ عَمَّا يُشْرِكُونَ",
       "text_imlaei": "عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَتَعَالَىٰ عَمَّا يُشْرِكُونَ",
       "page_number": 348,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956614,
+          "resource_id": 140,
+          "text": "Él es el Conocedor del gaib<sup foot_note=149692>1</sup> y de lo manifiesto.¡Exaltado sea! Él está muy por encima de compartir Su divinidad con nadie."
+        }
+      ]
     },
     {
       "id": 2766,
@@ -1361,7 +2014,14 @@
       "text_uthmani": "قُل رَّبِّ إِمَّا تُرِيَنِّى مَا يُوعَدُونَ",
       "text_imlaei": "قُل رَّبِّ إِمَّا تُرِيَنِّي مَا يُوعَدُونَ",
       "page_number": 348,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956615,
+          "resource_id": 140,
+          "text": "Di (¡oh, Muhammad!): «¡Señor!, si haces que presencie el castigo que has prometido (a quienes niegan la verdad),"
+        }
+      ]
     },
     {
       "id": 2767,
@@ -1375,7 +2035,14 @@
       "text_uthmani": "رَبِّ فَلَا تَجْعَلْنِى فِى ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
       "text_imlaei": "رَبِّ فَلَا تَجْعَلْنِي فِي الْقَوْمِ الظَّالِمِينَ",
       "page_number": 348,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956616,
+          "resource_id": 140,
+          "text": "»no me incluyas, ¡Señor!, entre los injustos (destruyéndome a mí con ellos)»."
+        }
+      ]
     },
     {
       "id": 2768,
@@ -1389,7 +2056,14 @@
       "text_uthmani": "وَإِنَّا عَلَىٰٓ أَن نُّرِيَكَ مَا نَعِدُهُمْ لَقَـٰدِرُونَ",
       "text_imlaei": "وَإِنَّا عَلَىٰ أَن نُّرِيَكَ مَا نَعِدُهُمْ لَقَادِرُونَ",
       "page_number": 348,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956617,
+          "resource_id": 140,
+          "text": "Y, ciertamente, somos capaces de hacerte presenciar el castigo que les hemos prometido."
+        }
+      ]
     },
     {
       "id": 2769,
@@ -1403,7 +2077,14 @@
       "text_uthmani": "ٱدْفَعْ بِٱلَّتِى هِىَ أَحْسَنُ ٱلسَّيِّئَةَ ۚ نَحْنُ أَعْلَمُ بِمَا يَصِفُونَ",
       "text_imlaei": "ادْفَعْ بِالَّتِي هِيَ أَحْسَنُ السَّيِّئَةَ ۚ نَحْنُ أَعْلَمُ بِمَا يَصِفُونَ",
       "page_number": 348,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956618,
+          "resource_id": 140,
+          "text": "Responde al mal con el bien. Nos sabemos bien lo que dicen (los idólatras y los castigaremos por ello)."
+        }
+      ]
     },
     {
       "id": 2770,
@@ -1417,7 +2098,14 @@
       "text_uthmani": "وَقُل رَّبِّ أَعُوذُ بِكَ مِنْ هَمَزَٰتِ ٱلشَّيَـٰطِينِ",
       "text_imlaei": "وَقُل رَّبِّ أَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِينِ",
       "page_number": 348,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956619,
+          "resource_id": 140,
+          "text": "Y di: «¡Señor!, busco refugio en Ti de los susurros de los demonios."
+        }
+      ]
     },
     {
       "id": 2771,
@@ -1431,7 +2119,14 @@
       "text_uthmani": "وَأَعُوذُ بِكَ رَبِّ أَن يَحْضُرُونِ",
       "text_imlaei": "وَأَعُوذُ بِكَ رَبِّ أَن يَحْضُرُونِ",
       "page_number": 348,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956620,
+          "resource_id": 140,
+          "text": "»Y busco refugio en Ti, ¡oh, Señor!, para que no se me aproximen»."
+        }
+      ]
     },
     {
       "id": 2772,
@@ -1445,7 +2140,14 @@
       "text_uthmani": "حَتَّىٰٓ إِذَا جَآءَ أَحَدَهُمُ ٱلْمَوْتُ قَالَ رَبِّ ٱرْجِعُونِ",
       "text_imlaei": "حَتَّىٰ إِذَا جَاءَ أَحَدَهُمُ الْمَوْتُ قَالَ رَبِّ ارْجِعُونِ",
       "page_number": 348,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956621,
+          "resource_id": 140,
+          "text": "Y cuando la muerte llegue a uno (de quienes rechazan la verdad), dirá: «¡Señor!, haz que regrese (a la vida terrenal)"
+        }
+      ]
     },
     {
       "id": 2773,
@@ -1459,7 +2161,14 @@
       "text_uthmani": "لَعَلِّىٓ أَعْمَلُ صَـٰلِحًا فِيمَا تَرَكْتُ ۚ كَلَّآ ۚ إِنَّهَا كَلِمَةٌ هُوَ قَآئِلُهَا ۖ وَمِن وَرَآئِهِم بَرْزَخٌ إِلَىٰ يَوْمِ يُبْعَثُونَ",
       "text_imlaei": "لَعَلِّي أَعْمَلُ صَالِحًا فِيمَا تَرَكْتُ ۚ كَلَّا ۚ إِنَّهَا كَلِمَةٌ هُوَ قَائِلُهَا ۖ وَمِن وَرَائِهِم بَرْزَخٌ إِلَىٰ يَوْمِ يُبْعَثُونَ",
       "page_number": 348,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956622,
+          "resource_id": 140,
+          "text": "»para que pueda obrar con rectituden los (asuntos) que dejé atrás». Pero no sucederá. Solo habla por hablar<sup foot_note=149693>1</sup>, y (todos) tendrán detrás una barrera<sup foot_note=149694>2</sup> (que les impedirá regresar a la vida) hasta el día en que resuciten."
+        }
+      ]
     },
     {
       "id": 2774,
@@ -1473,7 +2182,14 @@
       "text_uthmani": "فَإِذَا نُفِخَ فِى ٱلصُّورِ فَلَآ أَنسَابَ بَيْنَهُمْ يَوْمَئِذٍ وَلَا يَتَسَآءَلُونَ",
       "text_imlaei": "فَإِذَا نُفِخَ فِي الصُّورِ فَلَا أَنسَابَ بَيْنَهُمْ يَوْمَئِذٍ وَلَا يَتَسَاءَلُونَ",
       "page_number": 348,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956623,
+          "resource_id": 140,
+          "text": "Y cuando suene el cuerno (anunciando la resurrección), de nada les servirá su linaje (a quienes rechazan la verdad) ni sepreguntarán entre ellos (acerca de su situación, pues cada uno estará preocupado por lo que será de él en el Juicio Final)."
+        }
+      ]
     },
     {
       "id": 2775,
@@ -1487,7 +2203,14 @@
       "text_uthmani": "فَمَن ثَقُلَتْ مَوَٰزِينُهُۥ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
       "text_imlaei": "فَمَن ثَقُلَتْ مَوَازِينُهُ فَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ",
       "page_number": 348,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956624,
+          "resource_id": 140,
+          "text": "Aquellos cuyas buenas acciones pesen más (que las malas) en la balanza serán los triunfadores."
+        }
+      ]
     },
     {
       "id": 2776,
@@ -1501,7 +2224,14 @@
       "text_uthmani": "وَمَنْ خَفَّتْ مَوَٰزِينُهُۥ فَأُو۟لَـٰٓئِكَ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ فِى جَهَنَّمَ خَـٰلِدُونَ",
       "text_imlaei": "وَمَنْ خَفَّتْ مَوَازِينُهُ فَأُولَٰئِكَ الَّذِينَ خَسِرُوا أَنفُسَهُمْ فِي جَهَنَّمَ خَالِدُونَ",
       "page_number": 348,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956625,
+          "resource_id": 140,
+          "text": "Y aquellos cuyas buenas acciones pesen menos (que las malas) habrán llevado sus almas a la perdición y permanecerán para siempre en el infierno."
+        }
+      ]
     },
     {
       "id": 2777,
@@ -1515,7 +2245,14 @@
       "text_uthmani": "تَلْفَحُ وُجُوهَهُمُ ٱلنَّارُ وَهُمْ فِيهَا كَـٰلِحُونَ",
       "text_imlaei": "تَلْفَحُ وُجُوهَهُمُ النَّارُ وَهُمْ فِيهَا كَالِحُونَ",
       "page_number": 348,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956626,
+          "resource_id": 140,
+          "text": "El fuego les quemará los rostros y sus bocas aparecerán desfiguradas."
+        }
+      ]
     },
     {
       "id": 2778,
@@ -1529,7 +2266,14 @@
       "text_uthmani": "أَلَمْ تَكُنْ ءَايَـٰتِى تُتْلَىٰ عَلَيْكُمْ فَكُنتُم بِهَا تُكَذِّبُونَ",
       "text_imlaei": "أَلَمْ تَكُنْ آيَاتِي تُتْلَىٰ عَلَيْكُمْ فَكُنتُم بِهَا تُكَذِّبُونَ",
       "page_number": 349,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956627,
+          "resource_id": 140,
+          "text": "Se les dirá: «¿Acaso no se os recitaban Mis aleyas y vosotros las negabais?»."
+        }
+      ]
     },
     {
       "id": 2779,
@@ -1543,7 +2287,14 @@
       "text_uthmani": "قَالُوا۟ رَبَّنَا غَلَبَتْ عَلَيْنَا شِقْوَتُنَا وَكُنَّا قَوْمًا ضَآلِّينَ",
       "text_imlaei": "قَالُوا رَبَّنَا غَلَبَتْ عَلَيْنَا شِقْوَتُنَا وَكُنَّا قَوْمًا ضَالِّينَ",
       "page_number": 349,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956628,
+          "resource_id": 140,
+          "text": "Responderán: «¡Señor!, nuestras pasiones y nuestra maldad pudieron con nosotros y fuimos un pueblo extraviado."
+        }
+      ]
     },
     {
       "id": 2780,
@@ -1557,7 +2308,14 @@
       "text_uthmani": "رَبَّنَآ أَخْرِجْنَا مِنْهَا فَإِنْ عُدْنَا فَإِنَّا ظَـٰلِمُونَ",
       "text_imlaei": "رَبَّنَا أَخْرِجْنَا مِنْهَا فَإِنْ عُدْنَا فَإِنَّا ظَالِمُونَ",
       "page_number": 349,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956629,
+          "resource_id": 140,
+          "text": "»¡Señor!, sácanos (del fuego y devuélvenos a vida terrenal), y si reincidimos (en nuestros pecados y en nuestra incredulidad) entonces seremos realmente injustos»."
+        }
+      ]
     },
     {
       "id": 2781,
@@ -1571,7 +2329,14 @@
       "text_uthmani": "قَالَ ٱخْسَـُٔوا۟ فِيهَا وَلَا تُكَلِّمُونِ",
       "text_imlaei": "قَالَ اخْسَئُوا فِيهَا وَلَا تُكَلِّمُونِ",
       "page_number": 349,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956630,
+          "resource_id": 140,
+          "text": "(Al-lah) les dirá: «Permaneced en él humillados y no Me habléis más."
+        }
+      ]
     },
     {
       "id": 2782,
@@ -1585,7 +2350,14 @@
       "text_uthmani": "إِنَّهُۥ كَانَ فَرِيقٌ مِّنْ عِبَادِى يَقُولُونَ رَبَّنَآ ءَامَنَّا فَٱغْفِرْ لَنَا وَٱرْحَمْنَا وَأَنتَ خَيْرُ ٱلرَّٰحِمِينَ",
       "text_imlaei": "إِنَّهُ كَانَ فَرِيقٌ مِّنْ عِبَادِي يَقُولُونَ رَبَّنَا آمَنَّا فَاغْفِرْ لَنَا وَارْحَمْنَا وَأَنتَ خَيْرُ الرَّاحِمِينَ",
       "page_number": 349,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956631,
+          "resource_id": 140,
+          "text": "»Un grupo de Mis siervos decía (en la vida terrenal): “¡Señor!, creemos; perdónanos y apiádate de nosotros, pues Tú eres el más Misericordioso”."
+        }
+      ]
     },
     {
       "id": 2783,
@@ -1599,7 +2371,14 @@
       "text_uthmani": "فَٱتَّخَذْتُمُوهُمْ سِخْرِيًّا حَتَّىٰٓ أَنسَوْكُمْ ذِكْرِى وَكُنتُم مِّنْهُمْ تَضْحَكُونَ",
       "text_imlaei": "فَاتَّخَذْتُمُوهُمْ سِخْرِيًّا حَتَّىٰ أَنسَوْكُمْ ذِكْرِي وَكُنتُم مِّنْهُمْ تَضْحَكُونَ",
       "page_number": 349,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956632,
+          "resource_id": 140,
+          "text": "»Mas (vosotros, incrédulos) los tomasteis como el centro de vuestras burlas hasta el punto de llegar a olvidar Mi exhortación, y os reísteis de ellos."
+        }
+      ]
     },
     {
       "id": 2784,
@@ -1613,7 +2392,14 @@
       "text_uthmani": "إِنِّى جَزَيْتُهُمُ ٱلْيَوْمَ بِمَا صَبَرُوٓا۟ أَنَّهُمْ هُمُ ٱلْفَآئِزُونَ",
       "text_imlaei": "إِنِّي جَزَيْتُهُمُ الْيَوْمَ بِمَا صَبَرُوا أَنَّهُمْ هُمُ الْفَائِزُونَ",
       "page_number": 349,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956633,
+          "resource_id": 140,
+          "text": "»Hoy los he recompensado por su paciencia haciendo que sean ellos los vencedores»."
+        }
+      ]
     },
     {
       "id": 2785,
@@ -1627,7 +2413,14 @@
       "text_uthmani": "قَـٰلَ كَمْ لَبِثْتُمْ فِى ٱلْأَرْضِ عَدَدَ سِنِينَ",
       "text_imlaei": "قَالَ كَمْ لَبِثْتُمْ فِي الْأَرْضِ عَدَدَ سِنِينَ",
       "page_number": 349,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956634,
+          "resource_id": 140,
+          "text": "(Al-lah) les preguntará: «¿Cuántos años vivisteis en la tierra?»."
+        }
+      ]
     },
     {
       "id": 2786,
@@ -1641,7 +2434,14 @@
       "text_uthmani": "قَالُوا۟ لَبِثْنَا يَوْمًا أَوْ بَعْضَ يَوْمٍ فَسْـَٔلِ ٱلْعَآدِّينَ",
       "text_imlaei": "قَالُوا لَبِثْنَا يَوْمًا أَوْ بَعْضَ يَوْمٍ فَاسْأَلِ الْعَادِّينَ",
       "page_number": 349,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956635,
+          "resource_id": 140,
+          "text": "Dirán: «Vivimos un día o parte de él<sup foot_note=149695>1</sup>. Pregúntales a quienes llevan la cuenta»."
+        }
+      ]
     },
     {
       "id": 2787,
@@ -1655,7 +2455,14 @@
       "text_uthmani": "قَـٰلَ إِن لَّبِثْتُمْ إِلَّا قَلِيلًا ۖ لَّوْ أَنَّكُمْ كُنتُمْ تَعْلَمُونَ",
       "text_imlaei": "قَالَ إِن لَّبِثْتُمْ إِلَّا قَلِيلًا ۖ لَّوْ أَنَّكُمْ كُنتُمْ تَعْلَمُونَ",
       "page_number": 349,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956636,
+          "resource_id": 140,
+          "text": "(Al-lah) les responderá: «Vivisteis muy poco tiempo; ¡si hubierais sabido (que viviríais tan poco, no habrías preferido la vida terrenal a la eterna)!"
+        }
+      ]
     },
     {
       "id": 2788,
@@ -1669,7 +2476,14 @@
       "text_uthmani": "أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَـٰكُمْ عَبَثًا وَأَنَّكُمْ إِلَيْنَا لَا تُرْجَعُونَ",
       "text_imlaei": "أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَاكُمْ عَبَثًا وَأَنَّكُمْ إِلَيْنَا لَا تُرْجَعُونَ",
       "page_number": 349,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956637,
+          "resource_id": 140,
+          "text": "»¿Acaso pensasteis que os creamos sin ninguna finalidad y que no retornaríais después a Nos (para ser juzgados)?»."
+        }
+      ]
     },
     {
       "id": 2789,
@@ -1683,7 +2497,14 @@
       "text_uthmani": "فَتَعَـٰلَى ٱللَّهُ ٱلْمَلِكُ ٱلْحَقُّ ۖ لَآ إِلَـٰهَ إِلَّا هُوَ رَبُّ ٱلْعَرْشِ ٱلْكَرِيمِ",
       "text_imlaei": "فَتَعَالَى اللَّهُ الْمَلِكُ الْحَقُّ ۖ لَا إِلَٰهَ إِلَّا هُوَ رَبُّ الْعَرْشِ الْكَرِيمِ",
       "page_number": 349,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956638,
+          "resource_id": 140,
+          "text": "¡Exaltado sea Al-lah, el verdadero Soberano de todo! No existe nada ni nadie con derecho a ser adorado excepto Él, el Señor del espléndido Trono."
+        }
+      ]
     },
     {
       "id": 2790,
@@ -1697,7 +2518,14 @@
       "text_uthmani": "وَمَن يَدْعُ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَ لَا بُرْهَـٰنَ لَهُۥ بِهِۦ فَإِنَّمَا حِسَابُهُۥ عِندَ رَبِّهِۦٓ ۚ إِنَّهُۥ لَا يُفْلِحُ ٱلْكَـٰفِرُونَ",
       "text_imlaei": "وَمَن يَدْعُ مَعَ اللَّهِ إِلَٰهًا آخَرَ لَا بُرْهَانَ لَهُ بِهِ فَإِنَّمَا حِسَابُهُ عِندَ رَبِّهِ ۚ إِنَّهُ لَا يُفْلِحُ الْكَافِرُونَ",
       "page_number": 349,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956639,
+          "resource_id": 140,
+          "text": "Y quien invoque a otras divinidades además de a Al-lah, sin prueba alguna,tendrá que rendirle cuentas a su Señor.Ciertamente, quienes rechazan la verdad no triunfarán."
+        }
+      ]
     },
     {
       "id": 2791,
@@ -1711,7 +2539,14 @@
       "text_uthmani": "وَقُل رَّبِّ ٱغْفِرْ وَٱرْحَمْ وَأَنتَ خَيْرُ ٱلرَّٰحِمِينَ",
       "text_imlaei": "وَقُل رَّبِّ اغْفِرْ وَارْحَمْ وَأَنتَ خَيْرُ الرَّاحِمِينَ",
       "page_number": 349,
-      "juz_number": 18
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 956640,
+          "resource_id": 140,
+          "text": "Y di (¡oh, Muhammad!): «¡Señor!, perdóname y apiádate de mí, pues Tú eres el más Misericordioso»."
+        }
+      ]
     }
   ],
   "audio_metadata": {
