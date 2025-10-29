@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import Link from 'next/link'
 import { useEffect, useState } from 'react'
 
 export default function Home() {
@@ -37,13 +38,19 @@ export default function Home() {
               Islamic Knowledge Platform
             </p>
             
-            <div className="flex gap-4 justify-center mb-12">
-              <a
+            <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
+              <Link
                 href="/reader"
-                className="px-8 py-4 bg-green-600 hover:bg-green-700 text-white font-semibold rounded-lg shadow-lg transition-colors text-lg"
+                className="px-8 py-4 bg-green-600 hover:bg-green-700 text-white font-semibold rounded-lg shadow-lg transition-colors text-lg text-center"
               >
                 📖 Read Quran
-              </a>
+              </Link>
+              <Link
+                href="/qa"
+                className="px-8 py-4 bg-blue-600 hover:bg-blue-700 text-white font-semibold rounded-lg shadow-lg transition-colors text-lg text-center"
+              >
+                💬 Ask Questions
+              </Link>
             </div>
           </div>
           
