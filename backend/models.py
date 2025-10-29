@@ -36,6 +36,7 @@ class Verse(Base):
     verse_number = Column(Integer, nullable=False, index=True)
     text_arabic = Column(Text, nullable=False)
     text_simple = Column(Text)  # Simplified Arabic text without diacritics
+    text_transliteration = Column(Text)  # Romanized/transliterated text
     juz_number = Column(Integer, index=True)
     hizb_number = Column(Integer)
     rub_number = Column(Integer)
@@ -68,6 +69,8 @@ class Translation(Base):
     language = Column(String(10), nullable=False, index=True)  # ISO 639-1 code (e.g., 'en', 'ur')
     translator = Column(String(255), nullable=False)
     text = Column(Text, nullable=False)
+    license = Column(String(255))  # License information for this translation
+    source = Column(String(255))  # Source of the translation (e.g., 'api.quran.com')
     created_at = Column(DateTime, default=datetime.utcnow)
     updated_at = Column(DateTime, default=datetime.utcnow, onupdate=datetime.utcnow)
 

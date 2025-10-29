@@ -82,6 +82,7 @@ def generate_surah_json(surah_number: int, output_dir: Path):
             "scraped_at": timestamp,
             "source": "api.quran.com (fallback: local sample data for testing)",
             "version": "1.0",
+            "translation_ids": [131],
             "note": f"Sample data containing first 3 verses of {total_verses} total verses"
         },
         "license": {
@@ -106,6 +107,16 @@ def generate_surah_json(surah_number: int, output_dir: Path):
                 "terms_url": "https://everyayah.com/",
                 "note": "Audio URLs provided - not downloaded locally due to size",
                 "fetched_at": timestamp
+            }
+        },
+        "translation_metadata": {
+            "131": {
+                "name": "Dr. Mustafa Khattab, The Clear Quran",
+                "author": "Dr. Mustafa Khattab",
+                "language": "en",
+                "language_name": "English",
+                "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0",
+                "source": "api.quran.com"
             }
         },
         "surah_info": {

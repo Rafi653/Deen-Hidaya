@@ -21,6 +21,7 @@ from sqlalchemy.orm import Session
 from sqlalchemy.exc import IntegrityError
 from database import SessionLocal, engine
 from models import Base, Surah, Verse, Translation, AudioTrack
+from transliteration_generator import generate_transliteration
 
 
 class QuranDataIngester:
@@ -122,7 +123,7 @@ class QuranDataIngester:
             db.rollback()
             return None
     
-    def upsert_verses(self, db: Session, surah: Surah, verses_data: List[Dict]) -> int:
+    def upsert_verses(self, db: Session, surah: Surah, verses_data: List[Dict], translation_metadata: Dict = None) -> int:
         """
         Insert or update verses for a surah
         
@@ -130,6 +131,7 @@ class QuranDataIngester:
             db: Database session
             surah: Surah object
             verses_data: List of verse data from JSON
+            translation_metadata: Dictionary mapping translation IDs to metadata
             
         Returns:
             Number of verses processed
@@ -152,10 +154,20 @@ class QuranDataIngester:
                 text_arabic = verse_data.get("text_uthmani") or verse_data.get("text_imlaei", "")
                 text_simple = verse_data.get("text_imlaei", "")
                 
+                # Generate transliteration if not provided
+                text_transliteration = verse_data.get("text_transliteration")
+                if not text_transliteration and text_arabic:
+                    text_transliteration = generate_transliteration(
+                        text_arabic, 
+                        surah_number=surah.number, 
+                        verse_number=verse_number
+                    )
+                
                 if existing_verse:
                     # Update existing verse
                     existing_verse.text_arabic = text_arabic
                     existing_verse.text_simple = text_simple
+                    existing_verse.text_transliteration = text_transliteration
                     existing_verse.juz_number = verse_data.get("juz_number")
                     existing_verse.hizb_number = verse_data.get("hizb_number")
                     existing_verse.rub_number = verse_data.get("rub_el_hizb_number")
@@ -169,6 +181,7 @@ class QuranDataIngester:
                         verse_number=verse_number,
                         text_arabic=text_arabic,
                         text_simple=text_simple,
+                        text_transliteration=text_transliteration,
                         juz_number=verse_data.get("juz_number"),
                         hizb_number=verse_data.get("hizb_number"),
                         rub_number=verse_data.get("rub_el_hizb_number"),
@@ -181,7 +194,7 @@ class QuranDataIngester:
                 # Handle translations
                 translations = verse_data.get("translations", [])
                 if translations:
-                    self.upsert_translations(db, verse_obj, translations)
+                    self.upsert_translations(db, verse_obj, translations, translation_metadata)
                 
                 verses_processed += 1
                 
@@ -191,7 +204,7 @@ class QuranDataIngester:
         
         return verses_processed
     
-    def upsert_translations(self, db: Session, verse: Verse, translations_data: List[Dict]):
+    def upsert_translations(self, db: Session, verse: Verse, translations_data: List[Dict], translation_metadata: Dict = None):
         """
         Insert or update translations for a verse
         
@@ -199,6 +212,7 @@ class QuranDataIngester:
             db: Database session
             verse: Verse object
             translations_data: List of translation data from JSON
+            translation_metadata: Dictionary mapping translation IDs to metadata
         """
         for trans_data in translations_data:
             try:
@@ -212,6 +226,25 @@ class QuranDataIngester:
                 # Extract translator name from resource_name
                 translator = resource_name if resource_name else "Unknown"
                 
+                # Try to get license and source from metadata
+                license_info = None
+                source_info = "api.quran.com"
+                
+                if translation_metadata:
+                    # Try to find matching metadata by resource_id or name
+                    resource_id = trans_data.get("resource_id")
+                    if resource_id and str(resource_id) in translation_metadata:
+                        metadata = translation_metadata[str(resource_id)]
+                        license_info = metadata.get("license")
+                        source_info = metadata.get("source", source_info)
+                    else:
+                        # Fallback: try to match by resource_name
+                        for tid, metadata in translation_metadata.items():
+                            if metadata.get("name") == resource_name or metadata.get("author") == translator:
+                                license_info = metadata.get("license")
+                                source_info = metadata.get("source", source_info)
+                                break
+                
                 # Check if translation already exists
                 existing_translation = db.query(Translation).filter(
                     Translation.verse_id == verse.id,
@@ -222,6 +255,8 @@ class QuranDataIngester:
                 if existing_translation:
                     # Update existing translation
                     existing_translation.text = text
+                    existing_translation.license = license_info
+                    existing_translation.source = source_info
                     existing_translation.updated_at = datetime.now(timezone.utc)
                 else:
                     # Create new translation
@@ -229,7 +264,9 @@ class QuranDataIngester:
                         verse_id=verse.id,
                         language=language_code,
                         translator=translator,
-                        text=text
+                        text=text,
+                        license=license_info,
+                        source=source_info
                     )
                     db.add(new_translation)
                 
@@ -332,7 +369,8 @@ class QuranDataIngester:
             
             # Upsert verses
             verses_data = surah_data.get("verses", [])
-            verses_count = self.upsert_verses(db, surah, verses_data)
+            translation_metadata = surah_data.get("translation_metadata", {})
+            verses_count = self.upsert_verses(db, surah, verses_data, translation_metadata)
             print(f"  Processed {verses_count} verses")
             
             # Upsert audio metadata
