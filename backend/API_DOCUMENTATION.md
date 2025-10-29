@@ -360,10 +360,12 @@ Authorization: Bearer <admin_token>
 **Request Body:**
 ```json
 {
-  "surah_numbers": [1, 2, 3],
-  "force_refresh": false
+  "surah_numbers": [1, 2, 3]
 }
 ```
+
+**Optional Parameters:**
+- `surah_numbers`: Array of specific surah numbers to scrape (if omitted, scrapes all)
 
 **Response:**
 ```json
@@ -395,10 +397,14 @@ Authorization: Bearer <admin_token>
 {
   "verse_ids": [1, 2, 3],
   "model": "text-embedding-ada-002",
-  "language": "en",
-  "force_refresh": false
+  "language": "en"
 }
 ```
+
+**Optional Parameters:**
+- `verse_ids`: Array of specific verse IDs to embed (if omitted, embeds all)
+- `model`: Embedding model to use (default: "text-embedding-ada-002")
+- `language`: Language of text to embed (default: "en")
 
 **Response:**
 ```json
@@ -447,10 +453,16 @@ All endpoints follow consistent error response format:
 
 ## Rate Limiting
 
-Rate limiting is not currently implemented. For production use, consider:
-- FastAPI-limiter
-- Nginx rate limiting
-- API Gateway rate limiting
+Rate limiting is not currently implemented but is recommended for production use. 
+
+**Recommended Implementation:**
+- Use FastAPI-limiter or SlowAPI for application-level rate limiting
+- Configure Nginx or API Gateway for infrastructure-level rate limiting
+- Implement stricter limits for admin endpoints (e.g., 10 requests/hour)
+- Standard endpoints: 100 requests/minute per user
+- Search endpoints: 30 requests/minute per user
+
+**Note:** This is a minimal viable implementation focusing on core functionality. Rate limiting should be added before production deployment, especially for public-facing and admin endpoints.
 
 ---
 
@@ -549,9 +561,9 @@ curl -X POST http://localhost:8000/api/v1/bookmarks \
 curl -H "Range: bytes=0-1023" \
   http://localhost:8000/api/v1/verses/1/audio/stream
 
-# Admin endpoint
+# Admin endpoint (replace YOUR_ADMIN_TOKEN with actual token from .env file)
 curl -X POST http://localhost:8000/api/v1/admin/ingest/scrape \
-  -H "Authorization: Bearer dev_admin_token_change_in_production" \
+  -H "Authorization: Bearer YOUR_ADMIN_TOKEN" \
   -H "Content-Type: application/json" \
   -d '{"surah_numbers": [1, 2, 3]}'
 ```

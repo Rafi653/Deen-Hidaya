@@ -145,7 +145,6 @@ class SearchResponse(BaseModel):
 class IngestRequest(BaseModel):
     """Request schema for ingesting data"""
     surah_numbers: Optional[List[int]] = Field(None, description="Specific surah numbers to scrape")
-    force_refresh: bool = Field(False, description="Force refresh even if data exists")
 
 
 class IngestResponse(BaseModel):
@@ -161,7 +160,6 @@ class EmbedRequest(BaseModel):
     verse_ids: Optional[List[int]] = Field(None, description="Specific verse IDs to embed")
     model: str = Field("text-embedding-ada-002", description="Embedding model to use")
     language: str = Field("en", description="Language of text to embed")
-    force_refresh: bool = Field(False, description="Force refresh even if embeddings exist")
 
 
 class EmbedResponse(BaseModel):

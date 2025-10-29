@@ -122,10 +122,12 @@ curl -H "Range: bytes=0-1023" \
 
 # Admin: Run scraper (requires admin token)
 curl -X POST http://localhost:8000/api/v1/admin/ingest/scrape \
-  -H "Authorization: Bearer your_admin_token" \
+  -H "Authorization: Bearer YOUR_ADMIN_TOKEN" \
   -H "Content-Type: application/json" \
   -d '{"surah_numbers": [1, 2, 3]}'
 ```
+
+**Note:** Replace `YOUR_ADMIN_TOKEN` with the actual token configured in your `.env` file under `ADMIN_TOKEN`.
 
 ## Database Schema
 
