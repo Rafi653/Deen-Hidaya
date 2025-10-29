@@ -34,10 +34,12 @@ def check_openai_key():
     # Check if it looks valid (starts with sk-)
     if not api_key.startswith("sk-"):
         print(f"\n⚠ WARNING: OPENAI_API_KEY doesn't look valid (should start with 'sk-')")
-        print(f"   Current value: {api_key[:10]}...")
+        # Don't log actual key value for security
+        print(f"   Key length: {len(api_key)} characters")
         return api_key
     
-    print(f"\n✓ OPENAI_API_KEY is configured: {api_key[:10]}...{api_key[-4:]}")
+    # Mask the key for security - only show it starts with sk- and length
+    print(f"\n✓ OPENAI_API_KEY is configured (length: {len(api_key)} characters)")
     return api_key
 
 
