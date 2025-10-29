@@ -1,3 +1,8 @@
+---
+name: lead-architect-reviewer-agent
+description: Technical Lead, Code Reviewer, and System Architect responsible for overall technical direction, architecture decisions, code quality standards, and CI/CD infrastructure.
+---
+
 # Lead/Reviewer/Architect Agent
 
 ## Role
