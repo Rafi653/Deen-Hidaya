@@ -47,8 +47,11 @@ export default async function handler(
     // return res.status(200).json(data)
 
     // Mock response for development
-    // Simulate API delay
-    await new Promise(resolve => setTimeout(resolve, 1000))
+    // Simulate API delay (only in development)
+    const delay = process.env.NODE_ENV === 'development' ? 1000 : 0
+    if (delay > 0) {
+      await new Promise(resolve => setTimeout(resolve, delay))
+    }
 
     // Mock data based on question keywords
     const lowerQuestion = question.toLowerCase()

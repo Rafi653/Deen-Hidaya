@@ -8,9 +8,11 @@ interface VerseCardProps {
 
 export default function VerseCard({ verse, rank }: VerseCardProps) {
   const handleVerseClick = () => {
-    // Navigate to verse detail page (to be implemented)
-    // For now, we'll just log
-    console.log('Navigate to verse:', verse.verse_id)
+    // TODO: Navigate to verse detail page (to be implemented in issue #8)
+    // For now, this is a placeholder for future navigation
+    if (process.env.NODE_ENV === 'development') {
+      console.log('Navigate to verse:', verse.verse_id)
+    }
   }
 
   return (

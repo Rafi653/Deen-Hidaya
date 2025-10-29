@@ -55,39 +55,6 @@ export default function QAPage() {
     } catch (err) {
       console.error('Error fetching answer:', err)
       setError('Failed to get answer. Please try again.')
-      
-      // Mock data for development/testing
-      setResult({
-        question,
-        answer: 'Patience (Sabr) is mentioned throughout the Quran as a key virtue for believers. It involves perseverance through hardship, gratitude during ease, and steadfastness in faith.',
-        verses: [
-          {
-            verse_id: '2:153',
-            surah_number: 2,
-            verse_number: 153,
-            text_arabic: 'يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ ۚ إِنَّ اللَّهَ مَعَ الصَّابِرِينَ',
-            text_translation: 'O you who have believed, seek help through patience and prayer. Indeed, Allah is with the patient.',
-            relevance_score: 0.95
-          },
-          {
-            verse_id: '3:200',
-            surah_number: 3,
-            verse_number: 200,
-            text_arabic: 'يَا أَيُّهَا الَّذِينَ آمَنُوا اصْبِرُوا وَصَابِرُوا وَرَابِطُوا وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُفْلِحُونَ',
-            text_translation: 'O you who have believed, persevere and endure and remain stationed and fear Allah that you may be successful.',
-            relevance_score: 0.92
-          },
-          {
-            verse_id: '16:127',
-            surah_number: 16,
-            verse_number: 127,
-            text_arabic: 'وَاصْبِرْ وَمَا صَبْرُكَ إِلَّا بِاللَّهِ ۚ وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ فِي ضَيْقٍ مِّمَّا يَمْكُرُونَ',
-            text_translation: 'And be patient, and your patience is not but through Allah. And do not grieve over them and do not be in distress over what they conspire.',
-            relevance_score: 0.89
-          }
-        ],
-        timestamp: new Date().toISOString()
-      })
     } finally {
       setIsLoading(false)
     }
