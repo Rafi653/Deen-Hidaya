@@ -18,6 +18,7 @@ from schemas import (
 from audio_utils import stream_audio_file, get_audio_path
 from auth import verify_admin_token
 from search_utils import exact_search, fuzzy_search, semantic_search, hybrid_search
+from embedding_service import EmbeddingService
 
 
 router = APIRouter(prefix="/api/v1", tags=["quran"])
@@ -417,25 +418,65 @@ async def create_embeddings(
     """
     Admin endpoint to create embeddings for verses
     Protected with admin token authentication
-    Note: Full implementation depends on issue #7 (embeddings)
+    
+    This endpoint generates vector embeddings for verses to enable semantic search.
+    Embeddings can be created for specific verses or all verses in the database.
+    
+    Args:
+        request: EmbedRequest with optional verse_ids, model, and language
+        background_tasks: FastAPI background tasks
+        token: Admin authentication token
+        db: Database session
+        
+    Returns:
+        EmbedResponse with status and count of embedded verses
     """
     try:
-        # TODO: Implement embedding generation
-        # This is a placeholder for issue #7
+        # Initialize embedding service
+        embedding_service = EmbeddingService()
         
+        if not embedding_service.client:
+            raise HTTPException(
+                status_code=500,
+                detail="OpenAI API key not configured. Please set OPENAI_API_KEY environment variable."
+            )
+        
+        # Determine which verses to embed
         if request.verse_ids:
-            verses_to_embed = request.verse_ids
-            message = f"Would embed {len(verses_to_embed)} verses"
+            # Embed specific verses
+            verse_ids = request.verse_ids
+            message = f"Embedding {len(verse_ids)} verses"
         else:
-            verses_count = db.query(Verse).count()
-            message = f"Would embed all {verses_count} verses"
+            # Embed all verses
+            all_verses = db.query(Verse.id).all()
+            verse_ids = [v.id for v in all_verses]
+            message = f"Embedding all {len(verse_ids)} verses"
+        
+        # Create embeddings in batch
+        result = embedding_service.create_embeddings_batch(
+            verse_ids=verse_ids,
+            language=request.language,
+            db=db
+        )
+        
+        success_count = result["success"]
+        error_count = result["errors"]
+        
+        if error_count > 0:
+            status = "partial_success"
+            message = f"Embedded {success_count} verses successfully, {error_count} failed"
+        else:
+            status = "success"
+            message = f"Successfully embedded {success_count} verses in {request.language}"
         
         return EmbedResponse(
-            status="pending",
-            message=message + " (embedding generation not yet implemented)",
-            verses_embedded=0
+            status=status,
+            message=message,
+            verses_embedded=success_count
         )
     
+    except HTTPException:
+        raise
     except Exception as e:
         raise HTTPException(
             status_code=500,
