@@ -44,6 +44,19 @@ This project uses a cross-functional agent model for development. See [docs/AGEN
 - Git
 - (Optional) OpenAI API key for Q&A features
 
+### 🚨 Known Issues & Quick Fixes
+
+If you encounter missing translations or Q&A not working:
+
+**[→ Quick Fix Guide](./QUICKFIX_GUIDE.md)** - Complete step-by-step guide to fix:
+1. Missing English/Telugu translations
+2. Q&A functionality not working
+3. Embeddings generation
+
+**Time**: 15-30 minutes | **Cost**: ~$0.03 for embeddings
+
+See also: [Detailed Troubleshooting Guide](./backend/FIXES_README.md)
+
 ### Quick Start (Automated Setup)
 
 **Recommended:** Use the automated setup script for a complete one-command setup:
@@ -121,6 +134,41 @@ npm run dev
 ```
 
 See individual README files in `frontend/` and `backend/` directories for more details.
+
+## Troubleshooting
+
+### Common Issues
+
+#### ❌ "Translation not available" in frontend
+**Fix**: Run the translation fix script to get correct English and Telugu translations.
+```bash
+docker compose exec backend python fix_translations.py --force
+```
+[Full guide →](./QUICKFIX_GUIDE.md#step-2-fix-translations)
+
+#### ❌ Q&A page not working
+**Fix**: Generate embeddings with your OpenAI API key.
+```bash
+# Add OPENAI_API_KEY to .env first
+docker compose exec backend python fix_embeddings.py
+```
+[Full guide →](./QUICKFIX_GUIDE.md#step-3-fix-embeddings-enable-qa)
+
+#### ❌ Services not starting
+**Fix**: Check Docker logs and ensure ports are free.
+```bash
+docker compose logs backend
+docker compose logs frontend
+docker compose restart
+```
+
+### More Help
+
+- **[Quick Fix Guide](./QUICKFIX_GUIDE.md)** - Step-by-step fixes for common issues
+- **[Detailed Troubleshooting](./backend/FIXES_README.md)** - In-depth explanations
+- **[Backend Docs](./backend/README.md)** - API and backend setup
+- **[Frontend Docs](./frontend/README.md)** - UI development guide
+- **[API Documentation](http://localhost:8000/docs)** - Interactive API docs (when running)
 
 ## Contributing
 
