@@ -133,7 +133,7 @@ if [ -z "$VERSE_COUNT" ] || [ "$VERSE_COUNT" = "0" ]; then
     else
         print_info "No scraped data found in data/quran_text/"
         print_info "Scraping first 10 surahs..."
-        docker compose exec -T backend python scrape_quran.py --start 1 --end 10
+        docker compose exec -T backend python scrape_quran.py --start 1 --end 10 --translations 131,140
         print_info "Ingesting scraped data..."
         docker compose exec -T backend python ingest_data.py --start 1 --end 10
         if [ $? -eq 0 ]; then
