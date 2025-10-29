@@ -6,6 +6,14 @@ from typing import Optional, List
 from datetime import datetime
 
 
+class TranslationMetadata(BaseModel):
+    """Translation metadata schema"""
+    language: str
+    translator: str
+    source: Optional[str] = None
+    license: Optional[str] = None
+
+
 class TranslationResponse(BaseModel):
     """Translation response schema"""
     id: int

@@ -7,7 +7,7 @@ from typing import List, Optional
 
 from database import get_db
 from models import Surah, Verse, Translation
-from schemas import SurahSummary, SurahDetailResponse, VerseResponse
+from schemas import SurahSummary, SurahDetailResponse, VerseResponse, TranslationMetadata
 
 
 router = APIRouter(prefix="/api/v1", tags=["quran"])
@@ -109,7 +109,7 @@ def get_verse_by_surah_and_number(
     return verse
 
 
-@router.get("/translations", response_model=List[dict])
+@router.get("/translations", response_model=List[TranslationMetadata])
 def list_available_translations(db: Session = Depends(get_db)):
     """
     List all unique translator/language combinations available
@@ -126,11 +126,11 @@ def list_available_translations(db: Session = Depends(get_db)):
     )
     
     return [
-        {
-            "language": t.language,
-            "translator": t.translator,
-            "source": t.source,
-            "license": t.license
-        }
+        TranslationMetadata(
+            language=t.language,
+            translator=t.translator,
+            source=t.source,
+            license=t.license
+        )
         for t in translations
     ]
