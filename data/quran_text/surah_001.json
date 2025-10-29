@@ -1,0 +1,187 @@
+{
+  "metadata": {
+    "surah_number": 1,
+    "scraped_at": "2025-10-29T02:00:00.000000",
+    "source": "api.quran.com (fallback: local data)",
+    "version": "1.0"
+  },
+  "license": {
+    "text": {
+      "source": "api.quran.com",
+      "license": "Public Domain",
+      "attribution": "The Quran text is in the public domain",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-29T02:00:00.000000"
+    },
+    "translations": {
+      "source": "api.quran.com",
+      "license": "Various - See individual translation licenses",
+      "attribution": "Translation copyrights belong to respective translators",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-29T02:00:00.000000"
+    },
+    "audio": {
+      "source": "everyayah.com via api.quran.com",
+      "license": "Free for non-commercial use",
+      "attribution": "Audio recitations courtesy of everyayah.com",
+      "terms_url": "https://everyayah.com/",
+      "note": "Audio URLs provided - not downloaded locally due to size",
+      "fetched_at": "2025-10-29T02:00:00.000000"
+    }
+  },
+  "surah_info": {
+    "id": 1,
+    "revelation_place": "Meccan",
+    "name_complex": "Al-Fātihah",
+    "name_arabic": "الفاتحة",
+    "name_simple": "Al-Fatihah",
+    "verses_count": 7,
+    "pages": [1, 1]
+  },
+  "verses": [
+    {
+      "id": 1,
+      "verse_number": 1,
+      "verse_key": "1:1",
+      "juz_number": 1,
+      "hizb_number": 1,
+      "rub_el_hizb_number": 1,
+      "text_uthmani": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "text_imlaei": "بسم الله الرحمن الرحيم",
+      "translations": [
+        {
+          "id": 1,
+          "resource_id": 131,
+          "text": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+          "resource_name": "Sahih International",
+          "language_name": "english"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "verse_number": 2,
+      "verse_key": "1:2",
+      "juz_number": 1,
+      "hizb_number": 1,
+      "rub_el_hizb_number": 1,
+      "text_uthmani": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+      "text_imlaei": "الحمد لله رب العالمين",
+      "translations": [
+        {
+          "id": 2,
+          "resource_id": 131,
+          "text": "[All] praise is [due] to Allah, Lord of the worlds -",
+          "resource_name": "Sahih International",
+          "language_name": "english"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "verse_number": 3,
+      "verse_key": "1:3",
+      "juz_number": 1,
+      "hizb_number": 1,
+      "rub_el_hizb_number": 1,
+      "text_uthmani": "ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "text_imlaei": "الرحمن الرحيم",
+      "translations": [
+        {
+          "id": 3,
+          "resource_id": 131,
+          "text": "The Entirely Merciful, the Especially Merciful,",
+          "resource_name": "Sahih International",
+          "language_name": "english"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "verse_number": 4,
+      "verse_key": "1:4",
+      "juz_number": 1,
+      "hizb_number": 1,
+      "rub_el_hizb_number": 1,
+      "text_uthmani": "مَـٰلِكِ يَوْمِ ٱلدِّينِ",
+      "text_imlaei": "مالك يوم الدين",
+      "translations": [
+        {
+          "id": 4,
+          "resource_id": 131,
+          "text": "Sovereign of the Day of Recompense.",
+          "resource_name": "Sahih International",
+          "language_name": "english"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "verse_number": 5,
+      "verse_key": "1:5",
+      "juz_number": 1,
+      "hizb_number": 1,
+      "rub_el_hizb_number": 1,
+      "text_uthmani": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+      "text_imlaei": "إياك نعبد وإياك نستعين",
+      "translations": [
+        {
+          "id": 5,
+          "resource_id": 131,
+          "text": "It is You we worship and You we ask for help.",
+          "resource_name": "Sahih International",
+          "language_name": "english"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "verse_number": 6,
+      "verse_key": "1:6",
+      "juz_number": 1,
+      "hizb_number": 1,
+      "rub_el_hizb_number": 1,
+      "text_uthmani": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
+      "text_imlaei": "اهدنا الصراط المستقيم",
+      "translations": [
+        {
+          "id": 6,
+          "resource_id": 131,
+          "text": "Guide us to the straight path -",
+          "resource_name": "Sahih International",
+          "language_name": "english"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "verse_number": 7,
+      "verse_key": "1:7",
+      "juz_number": 1,
+      "hizb_number": 1,
+      "rub_el_hizb_number": 1,
+      "text_uthmani": "صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ",
+      "text_imlaei": "صراط الذين أنعمت عليهم غير المغضوب عليهم ولا الضالين",
+      "translations": [
+        {
+          "id": 7,
+          "resource_id": 131,
+          "text": "The path of those upon whom You have bestowed favor, not of those who have evoked [Your] anger or of those who are astray.",
+          "resource_name": "Sahih International",
+          "language_name": "english"
+        }
+      ]
+    }
+  ],
+  "audio_metadata": {
+    "audio_file": {
+      "chapter_id": 1,
+      "audio_url": "https://verses.quran.com/Alafasy/mp3/001.mp3"
+    },
+    "recitation": {
+      "id": 7,
+      "reciter_name": "Mishari Rashid al-`Afasy",
+      "style": "Murattal"
+    }
+  }
+}

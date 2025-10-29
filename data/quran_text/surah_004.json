@@ -1,0 +1,115 @@
+{
+  "metadata": {
+    "surah_number": 4,
+    "scraped_at": "2025-10-29T02:38:01.932657",
+    "source": "api.quran.com (fallback: local sample data for testing)",
+    "version": "1.0",
+    "note": "Sample data containing first 3 verses of 176 total verses"
+  },
+  "license": {
+    "text": {
+      "source": "api.quran.com",
+      "license": "Public Domain",
+      "attribution": "The Quran text is in the public domain",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-29T02:38:01.932657"
+    },
+    "translations": {
+      "source": "api.quran.com",
+      "license": "Various - See individual translation licenses",
+      "attribution": "Translation copyrights belong to respective translators",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-29T02:38:01.932657"
+    },
+    "audio": {
+      "source": "everyayah.com via api.quran.com",
+      "license": "Free for non-commercial use",
+      "attribution": "Audio recitations courtesy of everyayah.com",
+      "terms_url": "https://everyayah.com/",
+      "note": "Audio URLs provided - not downloaded locally due to size",
+      "fetched_at": "2025-10-29T02:38:01.932657"
+    }
+  },
+  "surah_info": {
+    "id": 4,
+    "revelation_place": "Medinan",
+    "name_complex": "The Women",
+    "name_arabic": "النساء",
+    "name_simple": "An-Nisa",
+    "verses_count": 176,
+    "pages": [
+      1,
+      1
+    ]
+  },
+  "verses": [
+    {
+      "id": 1,
+      "verse_number": 1,
+      "verse_key": "4:1",
+      "juz_number": 1,
+      "hizb_number": 1,
+      "rub_el_hizb_number": 1,
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمُ ٱلَّذِى خَلَقَكُم مِّن نَّفْسٍۢ وَٰحِدَةٍۢ",
+      "text_imlaei": "يا أيها الناس اتقوا ربكم الذي خلقكم من نفس واحدة",
+      "translations": [
+        {
+          "id": 1,
+          "resource_id": 131,
+          "text": "O mankind, fear your Lord, who created you from one soul and created from it its mate",
+          "resource_name": "Sahih International",
+          "language_name": "english"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "verse_number": 2,
+      "verse_key": "4:2",
+      "juz_number": 1,
+      "hizb_number": 1,
+      "rub_el_hizb_number": 1,
+      "text_uthmani": "وَءَاتُوا۟ ٱلْيَتَـٰمَىٰٓ أَمْوَٰلَهُمْ",
+      "text_imlaei": "وآتوا اليتامى أموالهم",
+      "translations": [
+        {
+          "id": 2,
+          "resource_id": 131,
+          "text": "And give to the orphans their properties",
+          "resource_name": "Sahih International",
+          "language_name": "english"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "verse_number": 3,
+      "verse_key": "4:3",
+      "juz_number": 1,
+      "hizb_number": 1,
+      "rub_el_hizb_number": 1,
+      "text_uthmani": "وَإِنْ خِفْتُمْ أَلَّا تُقْسِطُوا۟ فِى ٱلْيَتَـٰمَىٰ",
+      "text_imlaei": "وإن خفتم ألا تقسطوا في اليتامى",
+      "translations": [
+        {
+          "id": 3,
+          "resource_id": 131,
+          "text": "And if you fear that you will not deal justly with the orphan girls",
+          "resource_name": "Sahih International",
+          "language_name": "english"
+        }
+      ]
+    }
+  ],
+  "audio_metadata": {
+    "audio_file": {
+      "chapter_id": 4,
+      "audio_url": "https://verses.quran.com/Alafasy/mp3/004.mp3"
+    },
+    "recitation": {
+      "id": 7,
+      "reciter_name": "Mishari Rashid al-`Afasy",
+      "style": "Murattal"
+    }
+  }
+}

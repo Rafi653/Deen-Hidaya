@@ -1,0 +1,14 @@
+{
+  "total_attempted": 5,
+  "successful": 0,
+  "failed": 5,
+  "successful_surahs": [],
+  "failed_surahs": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "output_directory": "/home/runner/work/Deen-Hidaya/Deen-Hidaya/data/quran_text"
+}

@@ -1,0 +1,115 @@
+{
+  "metadata": {
+    "surah_number": 5,
+    "scraped_at": "2025-10-29T02:38:01.932841",
+    "source": "api.quran.com (fallback: local sample data for testing)",
+    "version": "1.0",
+    "note": "Sample data containing first 3 verses of 120 total verses"
+  },
+  "license": {
+    "text": {
+      "source": "api.quran.com",
+      "license": "Public Domain",
+      "attribution": "The Quran text is in the public domain",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-29T02:38:01.932841"
+    },
+    "translations": {
+      "source": "api.quran.com",
+      "license": "Various - See individual translation licenses",
+      "attribution": "Translation copyrights belong to respective translators",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-29T02:38:01.932841"
+    },
+    "audio": {
+      "source": "everyayah.com via api.quran.com",
+      "license": "Free for non-commercial use",
+      "attribution": "Audio recitations courtesy of everyayah.com",
+      "terms_url": "https://everyayah.com/",
+      "note": "Audio URLs provided - not downloaded locally due to size",
+      "fetched_at": "2025-10-29T02:38:01.932841"
+    }
+  },
+  "surah_info": {
+    "id": 5,
+    "revelation_place": "Medinan",
+    "name_complex": "The Table Spread",
+    "name_arabic": "المائدة",
+    "name_simple": "Al-Ma'idah",
+    "verses_count": 120,
+    "pages": [
+      1,
+      1
+    ]
+  },
+  "verses": [
+    {
+      "id": 1,
+      "verse_number": 1,
+      "verse_key": "5:1",
+      "juz_number": 1,
+      "hizb_number": 1,
+      "rub_el_hizb_number": 1,
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَوْفُوا۟ بِٱلْعُقُودِ",
+      "text_imlaei": "يا أيها الذين آمنوا أوفوا بالعقود",
+      "translations": [
+        {
+          "id": 1,
+          "resource_id": 131,
+          "text": "O you who have believed, fulfill [all] contracts.",
+          "resource_name": "Sahih International",
+          "language_name": "english"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "verse_number": 2,
+      "verse_key": "5:2",
+      "juz_number": 1,
+      "hizb_number": 1,
+      "rub_el_hizb_number": 1,
+      "text_uthmani": "يَسْـَٔلُونَكَ مَاذَآ أُحِلَّ لَهُمْ",
+      "text_imlaei": "يسألونك ماذا أحل لهم",
+      "translations": [
+        {
+          "id": 2,
+          "resource_id": 131,
+          "text": "They ask you, [O Muhammad], what has been made lawful for them.",
+          "resource_name": "Sahih International",
+          "language_name": "english"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "verse_number": 3,
+      "verse_key": "5:3",
+      "juz_number": 1,
+      "hizb_number": 1,
+      "rub_el_hizb_number": 1,
+      "text_uthmani": "حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ",
+      "text_imlaei": "حرمت عليكم الميتة والدم ولحم الخنزير",
+      "translations": [
+        {
+          "id": 3,
+          "resource_id": 131,
+          "text": "Prohibited to you are dead animals, blood, the flesh of swine",
+          "resource_name": "Sahih International",
+          "language_name": "english"
+        }
+      ]
+    }
+  ],
+  "audio_metadata": {
+    "audio_file": {
+      "chapter_id": 5,
+      "audio_url": "https://verses.quran.com/Alafasy/mp3/005.mp3"
+    },
+    "recitation": {
+      "id": 7,
+      "reciter_name": "Mishari Rashid al-`Afasy",
+      "style": "Murattal"
+    }
+  }
+}
