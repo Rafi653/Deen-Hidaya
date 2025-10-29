@@ -67,103 +67,62 @@ export async function fetchSurahs(): Promise<Surah[]> {
   }
 }
 
+const MOCK_SURAH_AL_FATIHAH: SurahDetail = {
+  id: 1,
+  number: 1,
+  name_arabic: 'الفاتحة',
+  name_english: 'Al-Fatihah',
+  name_transliteration: 'The Opening',
+  revelation_place: 'Makkah',
+  total_verses: 7,
+  verses: [
+    {
+      id: 1,
+      verse_number: 1,
+      text_arabic: 'بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ',
+      text_transliteration: 'Bismillahir-Rahmanir-Rahim',
+      sajda: false,
+      translations: [
+        { id: 1, language: 'english', translator: 'Sahih International', text: 'In the name of Allah, the Entirely Merciful, the Especially Merciful.' },
+        { id: 2, language: 'telugu', translator: 'Telugu Translation', text: 'అత్యంత కరుణామయుడు, అపార కృపాశీలుడు అయిన అల్లాహ్ పేరుతో (ప్రారంభిస్తున్నాను).' }
+      ]
+    },
+    {
+      id: 2,
+      verse_number: 2,
+      text_arabic: 'ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ',
+      text_transliteration: 'Al-hamdu lillahi rabbil-alamin',
+      sajda: false,
+      translations: [
+        { id: 3, language: 'english', translator: 'Sahih International', text: '[All] praise is [due] to Allah, Lord of the worlds.' },
+        { id: 4, language: 'telugu', translator: 'Telugu Translation', text: 'సర్వ ప్రపంచాలకు ప్రభువైన అల్లాహ్‌కే సమస్త స్తుతులు.' }
+      ]
+    },
+    {
+      id: 3,
+      verse_number: 3,
+      text_arabic: 'ٱلرَّحْمَٰنِ ٱلرَّحِيمِ',
+      text_transliteration: 'Ar-Rahmanir-Rahim',
+      sajda: false,
+      translations: [
+        { id: 5, language: 'english', translator: 'Sahih International', text: 'The Entirely Merciful, the Especially Merciful.' },
+        { id: 6, language: 'telugu', translator: 'Telugu Translation', text: 'అత్యంత కరుణామయుడు, అపార కృపాశీలుడు.' }
+      ]
+    }
+  ]
+};
+
 export async function fetchSurahDetail(surahNumber: number): Promise<SurahDetail> {
   try {
     const response = await fetch(`${API_BASE_URL}/api/v1/surahs/${surahNumber}`);
     if (!response.ok) {
-      // Return mock data for Surah Al-Fatihah as demo
-      return {
-        id: 1,
-        number: 1,
-        name_arabic: 'الفاتحة',
-        name_english: 'Al-Fatihah',
-        name_transliteration: 'The Opening',
-        revelation_place: 'Makkah',
-        total_verses: 7,
-        verses: [
-          {
-            id: 1,
-            verse_number: 1,
-            text_arabic: 'بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ',
-            text_transliteration: 'Bismillāhir-Raḥmānir-Raḥīm',
-            sajda: false,
-            translations: [
-              { id: 1, language: 'english', translator: 'Sahih International', text: 'In the name of Allah, the Entirely Merciful, the Especially Merciful.' },
-              { id: 2, language: 'telugu', translator: 'Telugu Translation', text: 'అత్యంత కరుణామయుడు, అపార కృపాశీలుడు అయిన అల్లాహ్ పేరుతో (ప్రారంభిస్తున్నాను).' }
-            ]
-          },
-          {
-            id: 2,
-            verse_number: 2,
-            text_arabic: 'ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ',
-            text_transliteration: 'Al-hamdu lillahi rabbil-alamin',
-            sajda: false,
-            translations: [
-              { id: 3, language: 'english', translator: 'Sahih International', text: '[All] praise is [due] to Allah, Lord of the worlds.' },
-              { id: 4, language: 'telugu', translator: 'Telugu Translation', text: 'సర్వ ప్రపంచాలకు ప్రభువైన అల్లాహ్‌కే సమస్త స్తుతులు.' }
-            ]
-          },
-          {
-            id: 3,
-            verse_number: 3,
-            text_arabic: 'ٱلرَّحْمَٰنِ ٱلرَّحِيمِ',
-            text_transliteration: 'Ar-Rahmanir-Rahim',
-            sajda: false,
-            translations: [
-              { id: 5, language: 'english', translator: 'Sahih International', text: 'The Entirely Merciful, the Especially Merciful.' },
-              { id: 6, language: 'telugu', translator: 'Telugu Translation', text: 'అత్యంత కరుణామయుడు, అపార కృపాశీలుడు.' }
-            ]
-          }
-        ]
-      };
+      console.warn('Backend unavailable, using mock data');
+      return MOCK_SURAH_AL_FATIHAH;
     }
     return response.json();
   } catch (error) {
-    // Return mock data for demo
-    return {
-      id: 1,
-      number: 1,
-      name_arabic: 'الفاتحة',
-      name_english: 'Al-Fatihah',
-      name_transliteration: 'The Opening',
-      revelation_place: 'Makkah',
-      total_verses: 7,
-      verses: [
-        {
-          id: 1,
-          verse_number: 1,
-          text_arabic: 'بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ',
-          text_transliteration: 'Bismillahir-Rahmanir-Rahim',
-          sajda: false,
-          translations: [
-            { id: 1, language: 'english', translator: 'Sahih International', text: 'In the name of Allah, the Entirely Merciful, the Especially Merciful.' },
-            { id: 2, language: 'telugu', translator: 'Telugu Translation', text: 'అత్యంత కరుణామయుడు, అపార కృపాశీలుడు అయిన అల్లాహ్ పేరుతో (ప్రారంభిస్తున్నాను).' }
-          ]
-        },
-        {
-          id: 2,
-          verse_number: 2,
-          text_arabic: 'ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ',
-          text_transliteration: 'Al-hamdu lillahi rabbil-alamin',
-          sajda: false,
-          translations: [
-            { id: 3, language: 'english', translator: 'Sahih International', text: '[All] praise is [due] to Allah, Lord of the worlds.' },
-            { id: 4, language: 'telugu', translator: 'Telugu Translation', text: 'సర్వ ప్రపంచాలకు ప్రభువైన అల్లాహ్‌కే సమస్త స్తుతులు.' }
-          ]
-        },
-        {
-          id: 3,
-          verse_number: 3,
-          text_arabic: 'ٱلرَّحْمَٰنِ ٱلرَّحِيمِ',
-          text_transliteration: 'Ar-Rahmanir-Rahim',
-          sajda: false,
-          translations: [
-            { id: 5, language: 'english', translator: 'Sahih International', text: 'The Entirely Merciful, the Especially Merciful.' },
-            { id: 6, language: 'telugu', translator: 'Telugu Translation', text: 'అత్యంత కరుణామయుడు, అపార కృపాశీలుడు.' }
-          ]
-        }
-      ]
-    };
+    console.warn('Backend unavailable, using mock data', error);
+    return MOCK_SURAH_AL_FATIHAH;
   }
 }
 
