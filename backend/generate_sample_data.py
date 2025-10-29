@@ -5,7 +5,7 @@ This creates minimal valid JSON files for surahs 2-5 with proper structure and l
 
 import json
 from pathlib import Path
-from datetime import datetime
+from datetime import datetime, timezone
 
 # Surah metadata (number, Arabic name, English name, transliteration, revelation, verses)
 SURAH_DATA = {
@@ -49,7 +49,7 @@ def generate_surah_json(surah_number: int, output_dir: Path):
     arabic_name, english_name, transliteration, revelation, total_verses = SURAH_DATA[surah_number]
     sample_verses = SAMPLE_VERSES[surah_number]
     
-    timestamp = datetime.utcnow().isoformat()
+    timestamp = datetime.now(timezone.utc).isoformat()
     
     # Generate verses (just first 3 as samples, mark that this is sample data)
     verses = []

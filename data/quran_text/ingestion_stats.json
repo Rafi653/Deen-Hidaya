@@ -1,14 +1,10 @@
 {
-  "total_attempted": 5,
-  "successful": 5,
+  "total_attempted": 1,
+  "successful": 1,
   "failed": 0,
   "successful_surahs": [
-    1,
-    2,
-    3,
-    4,
-    5
+    1
   ],
   "failed_surahs": [],
-  "ingested_at": "2025-10-29T02:40:43.228368"
+  "ingested_at": "2025-10-29T02:43:39.555409+00:00"
 }

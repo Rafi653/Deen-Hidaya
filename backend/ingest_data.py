@@ -12,7 +12,7 @@ import json
 import sys
 from pathlib import Path
 from typing import Dict, List, Optional, Any
-from datetime import datetime
+from datetime import datetime, timezone
 
 # Add parent directory to path to import our modules
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -97,7 +97,7 @@ class QuranDataIngester:
                 existing_surah.name_transliteration = surah_info.get("name_complex", existing_surah.name_transliteration)
                 existing_surah.revelation_place = surah_info.get("revelation_place", existing_surah.revelation_place)
                 existing_surah.total_verses = surah_info.get("verses_count", existing_surah.total_verses)
-                existing_surah.updated_at = datetime.utcnow()
+                existing_surah.updated_at = datetime.now(timezone.utc)
                 
                 print(f"  Updated existing Surah {surah_number}: {existing_surah.name_english}")
                 return existing_surah
@@ -159,7 +159,7 @@ class QuranDataIngester:
                     existing_verse.juz_number = verse_data.get("juz_number")
                     existing_verse.hizb_number = verse_data.get("hizb_number")
                     existing_verse.rub_number = verse_data.get("rub_el_hizb_number")
-                    existing_verse.updated_at = datetime.utcnow()
+                    existing_verse.updated_at = datetime.now(timezone.utc)
                     
                     verse_obj = existing_verse
                 else:
@@ -222,7 +222,7 @@ class QuranDataIngester:
                 if existing_translation:
                     # Update existing translation
                     existing_translation.text = text
-                    existing_translation.updated_at = datetime.utcnow()
+                    existing_translation.updated_at = datetime.now(timezone.utc)
                 else:
                     # Create new translation
                     new_translation = Translation(
@@ -286,7 +286,7 @@ class QuranDataIngester:
             if existing_audio:
                 # Update existing audio track
                 existing_audio.audio_url = audio_url
-                existing_audio.updated_at = datetime.utcnow()
+                existing_audio.updated_at = datetime.now(timezone.utc)
             else:
                 # Create new audio track
                 new_audio = AudioTrack(
@@ -389,7 +389,7 @@ class QuranDataIngester:
                 "failed": len(failed),
                 "successful_surahs": successful,
                 "failed_surahs": failed,
-                "ingested_at": datetime.utcnow().isoformat()
+                "ingested_at": datetime.now(timezone.utc).isoformat()
             }
             
             print(f"{'='*60}")
