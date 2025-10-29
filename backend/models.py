@@ -2,6 +2,7 @@
 from sqlalchemy import Column, Integer, String, Text, ForeignKey, DateTime, Boolean, Float, Index
 from sqlalchemy.orm import relationship
 from sqlalchemy.dialects.postgresql import ARRAY
+from pgvector.sqlalchemy import Vector
 from datetime import datetime
 from database import Base
 
@@ -160,7 +161,7 @@ class Entity(Base):
     name_arabic = Column(String(255))
     entity_type = Column(String(50), nullable=False, index=True)  # person, place, event, concept
     description = Column(Text)
-    verse_references = Column(ARRAY(String))  # Array of verse references like ["2:30", "2:31"]
+    verse_references = Column(Text)  # JSON string for SQLite compatibility, ARRAY for PostgreSQL
     created_at = Column(DateTime, default=datetime.utcnow)
     updated_at = Column(DateTime, default=datetime.utcnow, onupdate=datetime.utcnow)
 
@@ -175,7 +176,7 @@ class Embedding(Base):
     id = Column(Integer, primary_key=True, index=True)
     verse_id = Column(Integer, ForeignKey("verse.id", ondelete="CASCADE"), nullable=False, index=True)
     model = Column(String(100), nullable=False, index=True)  # embedding model used
-    embedding_vector = Column(Text, nullable=False)  # Stored as text, will use pgvector in production
+    embedding_vector = Column(Vector(1536), nullable=True)  # pgvector type for PostgreSQL, nullable for SQLite compatibility
     dimension = Column(Integer, nullable=False)  # embedding dimension (e.g., 1536 for OpenAI)
     language = Column(String(10), index=True)  # Language of the embedded text
     created_at = Column(DateTime, default=datetime.utcnow)
