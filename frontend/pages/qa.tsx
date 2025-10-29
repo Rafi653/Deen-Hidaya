@@ -2,6 +2,7 @@ import Head from 'next/head';
 import Link from 'next/link';
 import { useState } from 'react';
 import { askQuestion, QAResponse, CitedVerse } from '../lib/api';
+import { AccessibilityBar } from '../components/AccessibilityBar';
 
 export default function QA() {
   const [question, setQuestion] = useState('');
@@ -59,7 +60,8 @@ export default function QA() {
         <link href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&display=swap" rel="stylesheet" />
       </Head>
 
-      <main className="min-h-screen bg-gradient-to-b from-green-50 to-white dark:from-gray-900 dark:to-gray-800">
+      <AccessibilityBar className="sticky top-0 z-50" />
+      <main id="main-content" className="min-h-screen bg-gradient-to-b from-green-50 to-white dark:from-gray-900 dark:to-gray-800">
         <div className="container mx-auto px-4 py-8 max-w-5xl">
           {/* Header */}
           <header className="text-center mb-8">

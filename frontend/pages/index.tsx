@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Link from 'next/link'
 import { useEffect, useState } from 'react'
+import { AccessibilityBar } from '../components/AccessibilityBar'
 
 export default function Home() {
   const [backendStatus, setBackendStatus] = useState<string>('checking...')
@@ -28,7 +29,8 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <main className="min-h-screen bg-gradient-to-b from-green-50 to-white dark:from-gray-900 dark:to-gray-800">
+      <AccessibilityBar className="sticky top-0 z-50" />
+      <main id="main-content" className="min-h-screen bg-gradient-to-b from-green-50 to-white dark:from-gray-900 dark:to-gray-800">
         <div className="container mx-auto px-4 py-16 max-w-4xl">
           <div className="text-center mb-12">
             <h1 className="text-5xl font-bold text-green-800 dark:text-green-400 mb-4">
