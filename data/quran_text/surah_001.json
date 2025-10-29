@@ -1,9 +1,14 @@
 {
   "metadata": {
     "surah_number": 1,
-    "scraped_at": "2025-10-29T02:54:02.706425",
+    "scraped_at": "2025-10-29T03:59:23.174418",
     "source": "api.quran.com",
-    "version": "1.0"
+    "version": "1.0",
+    "translation_ids": [
+      131,
+      20,
+      140
+    ]
   },
   "license": {
     "text": {
@@ -11,14 +16,14 @@
       "license": "Public Domain",
       "attribution": "The Quran text is in the public domain",
       "terms_url": "https://quran.com/terms",
-      "fetched_at": "2025-10-29T02:54:02.706425"
+      "fetched_at": "2025-10-29T03:59:23.174418"
     },
     "translations": {
       "source": "api.quran.com",
       "license": "Various - See individual translation licenses",
       "attribution": "Translation copyrights belong to respective translators",
       "terms_url": "https://quran.com/terms",
-      "fetched_at": "2025-10-29T02:54:02.706425"
+      "fetched_at": "2025-10-29T03:59:23.174418"
     },
     "audio": {
       "source": "everyayah.com via api.quran.com",
@@ -26,7 +31,33 @@
       "attribution": "Audio recitations courtesy of everyayah.com",
       "terms_url": "https://everyayah.com/",
       "note": "Audio URLs provided - not downloaded locally due to size",
-      "fetched_at": "2025-10-29T02:54:02.706425"
+      "fetched_at": "2025-10-29T03:59:23.174418"
+    }
+  },
+  "translation_metadata": {
+    "131": {
+      "name": "Dr. Mustafa Khattab, The Clear Quran",
+      "author": "Dr. Mustafa Khattab",
+      "language": "en",
+      "language_name": "English",
+      "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0",
+      "source": "api.quran.com"
+    },
+    "20": {
+      "name": "Saheeh International",
+      "author": "Saheeh International",
+      "language": "en",
+      "language_name": "English",
+      "license": "Public Domain",
+      "source": "api.quran.com"
+    },
+    "140": {
+      "name": "Telugu Translation",
+      "author": "Unknown",
+      "language": "te",
+      "language_name": "Telugu",
+      "license": "Various",
+      "source": "api.quran.com"
     }
   },
   "surah_info": {
@@ -60,7 +91,19 @@
       "text_uthmani": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
       "text_imlaei": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
       "page_number": 1,
-      "juz_number": 1
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 96343,
+          "resource_id": 20,
+          "text": "In the name of Allāh,<sup foot_note=195932>1</sup> the Entirely Merciful, the Especially Merciful.<sup foot_note=195931>2</sup>"
+        },
+        {
+          "id": 953850,
+          "resource_id": 140,
+          "text": "(Empiezo)<sup foot_note=149054>1</sup> con el nombre de Al-lah<sup foot_note=149055>2</sup>, el Clemente, el Misericordioso<sup foot_note=149056>3</sup>."
+        }
+      ]
     },
     {
       "id": 2,
@@ -74,7 +117,19 @@
       "text_uthmani": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
       "text_imlaei": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
       "page_number": 1,
-      "juz_number": 1
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 96493,
+          "resource_id": 20,
+          "text": "[All] praise is [due] to Allāh, Lord<sup foot_note=195933>1</sup> of the worlds -"
+        },
+        {
+          "id": 953851,
+          "resource_id": 140,
+          "text": "¡Alabado sea Al-lah, Señor de toda la creación!,"
+        }
+      ]
     },
     {
       "id": 3,
@@ -88,7 +143,19 @@
       "text_uthmani": "ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
       "text_imlaei": "الرَّحْمَٰنِ الرَّحِيمِ",
       "page_number": 1,
-      "juz_number": 1
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 96606,
+          "resource_id": 20,
+          "text": "The Entirely Merciful, the Especially Merciful,"
+        },
+        {
+          "id": 953852,
+          "resource_id": 140,
+          "text": "el Clemente, el Misericordioso,"
+        }
+      ]
     },
     {
       "id": 4,
@@ -102,7 +169,19 @@
       "text_uthmani": "مَـٰلِكِ يَوْمِ ٱلدِّينِ",
       "text_imlaei": "مَالِكِ يَوْمِ الدِّينِ",
       "page_number": 1,
-      "juz_number": 1
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 96653,
+          "resource_id": 20,
+          "text": "Sovereign of the Day of Recompense.<sup foot_note=195934>1</sup>"
+        },
+        {
+          "id": 953853,
+          "resource_id": 140,
+          "text": "Soberano del Día del Juicio Final<sup foot_note=149057>1</sup>."
+        }
+      ]
     },
     {
       "id": 5,
@@ -116,7 +195,19 @@
       "text_uthmani": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
       "text_imlaei": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
       "page_number": 1,
-      "juz_number": 1
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 96707,
+          "resource_id": 20,
+          "text": "It is You we worship and You we ask for help."
+        },
+        {
+          "id": 953854,
+          "resource_id": 140,
+          "text": "Solo a Ti adoramos y solo a Ti pedimos ayuda."
+        }
+      ]
     },
     {
       "id": 6,
@@ -130,7 +221,19 @@
       "text_uthmani": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
       "text_imlaei": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
       "page_number": 1,
-      "juz_number": 1
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 96503,
+          "resource_id": 20,
+          "text": "Guide us to the straight path -"
+        },
+        {
+          "id": 953855,
+          "resource_id": 140,
+          "text": "Guíanos por el camino recto,"
+        }
+      ]
     },
     {
       "id": 7,
@@ -144,7 +247,19 @@
       "text_uthmani": "صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ",
       "text_imlaei": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
       "page_number": 1,
-      "juz_number": 1
+      "juz_number": 1,
+      "translations": [
+        {
+          "id": 96932,
+          "resource_id": 20,
+          "text": "The path of those upon whom You have bestowed favor, not of those who have earned [Your] anger or of those who are astray."
+        },
+        {
+          "id": 953856,
+          "resource_id": 140,
+          "text": "el camino de quienes has agraciado, no el de quienes han incurrido en Tu ira ni el de quienes se han extraviado (a pesar de conocer la verdad)."
+        }
+      ]
     }
   ],
   "audio_metadata": {

@@ -1,9 +1,14 @@
 {
   "metadata": {
     "surah_number": 9,
-    "scraped_at": "2025-10-29T02:54:17.867171",
+    "scraped_at": "2025-10-29T03:59:38.071506",
     "source": "api.quran.com",
-    "version": "1.0"
+    "version": "1.0",
+    "translation_ids": [
+      131,
+      20,
+      140
+    ]
   },
   "license": {
     "text": {
@@ -11,14 +16,14 @@
       "license": "Public Domain",
       "attribution": "The Quran text is in the public domain",
       "terms_url": "https://quran.com/terms",
-      "fetched_at": "2025-10-29T02:54:17.867171"
+      "fetched_at": "2025-10-29T03:59:38.071506"
     },
     "translations": {
       "source": "api.quran.com",
       "license": "Various - See individual translation licenses",
       "attribution": "Translation copyrights belong to respective translators",
       "terms_url": "https://quran.com/terms",
-      "fetched_at": "2025-10-29T02:54:17.867171"
+      "fetched_at": "2025-10-29T03:59:38.071506"
     },
     "audio": {
       "source": "everyayah.com via api.quran.com",
@@ -26,7 +31,33 @@
       "attribution": "Audio recitations courtesy of everyayah.com",
       "terms_url": "https://everyayah.com/",
       "note": "Audio URLs provided - not downloaded locally due to size",
-      "fetched_at": "2025-10-29T02:54:17.867171"
+      "fetched_at": "2025-10-29T03:59:38.071506"
+    }
+  },
+  "translation_metadata": {
+    "131": {
+      "name": "Dr. Mustafa Khattab, The Clear Quran",
+      "author": "Dr. Mustafa Khattab",
+      "language": "en",
+      "language_name": "English",
+      "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0",
+      "source": "api.quran.com"
+    },
+    "20": {
+      "name": "Saheeh International",
+      "author": "Saheeh International",
+      "language": "en",
+      "language_name": "English",
+      "license": "Public Domain",
+      "source": "api.quran.com"
+    },
+    "140": {
+      "name": "Telugu Translation",
+      "author": "Unknown",
+      "language": "te",
+      "language_name": "Telugu",
+      "license": "Various",
+      "source": "api.quran.com"
     }
   },
   "surah_info": {
@@ -60,7 +91,19 @@
       "text_uthmani": "بَرَآءَةٌ مِّنَ ٱللَّهِ وَرَسُولِهِۦٓ إِلَى ٱلَّذِينَ عَـٰهَدتُّم مِّنَ ٱلْمُشْرِكِينَ",
       "text_imlaei": "بَرَاءَةٌ مِّنَ اللَّهِ وَرَسُولِهِ إِلَى الَّذِينَ عَاهَدتُّم مِّنَ الْمُشْرِكِينَ",
       "page_number": 187,
-      "juz_number": 10
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 102162,
+          "resource_id": 20,
+          "text": "[This is a declaration of] disassociation, from Allāh and His Messenger, to those with whom you had made a treaty among the polytheists.<sup foot_note=196382>1</sup>"
+        },
+        {
+          "id": 955085,
+          "resource_id": 140,
+          "text": "Esta es una declaración<sup foot_note=149335>1</sup> de Al-lah y de Su Mensajero que anuncia el cese de los pactos que manteníais con los idólatras."
+        }
+      ]
     },
     {
       "id": 1237,
@@ -74,7 +117,19 @@
       "text_uthmani": "فَسِيحُوا۟ فِى ٱلْأَرْضِ أَرْبَعَةَ أَشْهُرٍ وَٱعْلَمُوٓا۟ أَنَّكُمْ غَيْرُ مُعْجِزِى ٱللَّهِ ۙ وَأَنَّ ٱللَّهَ مُخْزِى ٱلْكَـٰفِرِينَ",
       "text_imlaei": "فَسِيحُوا فِي الْأَرْضِ أَرْبَعَةَ أَشْهُرٍ وَاعْلَمُوا أَنَّكُمْ غَيْرُ مُعْجِزِي اللَّهِ ۙ وَأَنَّ اللَّهَ مُخْزِي الْكَافِرِينَ",
       "page_number": 187,
-      "juz_number": 10
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 102219,
+          "resource_id": 20,
+          "text": "So travel freely, [O disbelievers], throughout the land [during] four months but know that you cannot cause failure to Allāh and that Allāh will disgrace the disbelievers."
+        },
+        {
+          "id": 955086,
+          "resource_id": 140,
+          "text": "Podéis transitar (seguros) por la tierra durante cuatro meses (¡oh, idólatras!, antes de que queden anulados vuestros pactos con los creyentes), y sabed que no podréis escaparos de Al-lah y que Al-lah humillará a quienes rechazan la verdad."
+        }
+      ]
     },
     {
       "id": 1238,
@@ -88,7 +143,19 @@
       "text_uthmani": "وَأَذَٰنٌ مِّنَ ٱللَّهِ وَرَسُولِهِۦٓ إِلَى ٱلنَّاسِ يَوْمَ ٱلْحَجِّ ٱلْأَكْبَرِ أَنَّ ٱللَّهَ بَرِىٓءٌ مِّنَ ٱلْمُشْرِكِينَ ۙ وَرَسُولُهُۥ ۚ فَإِن تُبْتُمْ فَهُوَ خَيْرٌ لَّكُمْ ۖ وَإِن تَوَلَّيْتُمْ فَٱعْلَمُوٓا۟ أَنَّكُمْ غَيْرُ مُعْجِزِى ٱللَّهِ ۗ وَبَشِّرِ ٱلَّذِينَ كَفَرُوا۟ بِعَذَابٍ أَلِيمٍ",
       "text_imlaei": "وَأَذَانٌ مِّنَ اللَّهِ وَرَسُولِهِ إِلَى النَّاسِ يَوْمَ الْحَجِّ الْأَكْبَرِ أَنَّ اللَّهَ بَرِيءٌ مِّنَ الْمُشْرِكِينَ ۙ وَرَسُولُهُ ۚ فَإِن تُبْتُمْ فَهُوَ خَيْرٌ لَّكُمْ ۖ وَإِن تَوَلَّيْتُمْ فَاعْلَمُوا أَنَّكُمْ غَيْرُ مُعْجِزِي اللَّهِ ۗ وَبَشِّرِ الَّذِينَ كَفَرُوا بِعَذَابٍ أَلِيمٍ",
       "page_number": 187,
-      "juz_number": 10
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 102251,
+          "resource_id": 20,
+          "text": "And [it is] an announcement from Allāh and His Messenger to the people on the day of the greater pilgrimage<sup foot_note=196384>1</sup> that Allāh is disassociated from the disbelievers, and [so is] His Messenger. So if you repent, that is best for you; but if you turn away - then know that you will not cause failure to Allāh.<sup foot_note=196383>2</sup> And give tidings to those who disbelieve of a painful punishment."
+        },
+        {
+          "id": 955087,
+          "resource_id": 140,
+          "text": "Y Al-lah y Su Mensajero proclaman a la gente, el Día del Sacrificio<sup foot_note=149336>1</sup>, que ambos están exentos de la obligación de cumplir los pactos acordados anteriormente con los idólatras. Si os arrepentís (y aceptáis el islam, ¡oh, idólatras!), serámejor para vosotros; pero si os desentendéis de la fe, sabed que no podréis escaparos de Al-lah. Y anuncia a quienes rechazan la verdad que recibirán un castigo doloroso (en esta vida y en la otra)."
+        }
+      ]
     },
     {
       "id": 1239,
@@ -102,7 +169,19 @@
       "text_uthmani": "إِلَّا ٱلَّذِينَ عَـٰهَدتُّم مِّنَ ٱلْمُشْرِكِينَ ثُمَّ لَمْ يَنقُصُوكُمْ شَيْـًٔا وَلَمْ يُظَـٰهِرُوا۟ عَلَيْكُمْ أَحَدًا فَأَتِمُّوٓا۟ إِلَيْهِمْ عَهْدَهُمْ إِلَىٰ مُدَّتِهِمْ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَّقِينَ",
       "text_imlaei": "إِلَّا الَّذِينَ عَاهَدتُّم مِّنَ الْمُشْرِكِينَ ثُمَّ لَمْ يَنقُصُوكُمْ شَيْئًا وَلَمْ يُظَاهِرُوا عَلَيْكُمْ أَحَدًا فَأَتِمُّوا إِلَيْهِمْ عَهْدَهُمْ إِلَىٰ مُدَّتِهِمْ ۚ إِنَّ اللَّهَ يُحِبُّ الْمُتَّقِينَ",
       "page_number": 187,
-      "juz_number": 10
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 102273,
+          "resource_id": 20,
+          "text": "Excepted are those with whom you made a treaty among the polytheists and then they have not been deficient toward you in anything or supported anyone against you; so complete for them their treaty until their term [has ended]. Indeed, Allāh loves the righteous [who fear Him]."
+        },
+        {
+          "id": 955088,
+          "resource_id": 140,
+          "text": "Mas con aquellos idólatras con quienes pactasteis y no han quebrantado ningún punto del pacto ni han apoyado al enemigo contra vosotros, cumplid lo convenido hasta el final (aunque supere el plazo de cuatro meses). Ciertamente, Al-lah ama a los piadosos (que cumplen sus compromisos)."
+        }
+      ]
     },
     {
       "id": 1240,
@@ -116,7 +195,19 @@
       "text_uthmani": "فَإِذَا ٱنسَلَخَ ٱلْأَشْهُرُ ٱلْحُرُمُ فَٱقْتُلُوا۟ ٱلْمُشْرِكِينَ حَيْثُ وَجَدتُّمُوهُمْ وَخُذُوهُمْ وَٱحْصُرُوهُمْ وَٱقْعُدُوا۟ لَهُمْ كُلَّ مَرْصَدٍ ۚ فَإِن تَابُوا۟ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟ ٱلزَّكَوٰةَ فَخَلُّوا۟ سَبِيلَهُمْ ۚ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
       "text_imlaei": "فَإِذَا انسَلَخَ الْأَشْهُرُ الْحُرُمُ فَاقْتُلُوا الْمُشْرِكِينَ حَيْثُ وَجَدتُّمُوهُمْ وَخُذُوهُمْ وَاحْصُرُوهُمْ وَاقْعُدُوا لَهُمْ كُلَّ مَرْصَدٍ ۚ فَإِن تَابُوا وَأَقَامُوا الصَّلَاةَ وَآتَوُا الزَّكَاةَ فَخَلُّوا سَبِيلَهُمْ ۚ إِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ",
       "page_number": 187,
-      "juz_number": 10
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 102292,
+          "resource_id": 20,
+          "text": "And when the inviolable months<sup foot_note=196385>1</sup> have passed, then kill the polytheists wherever you find them and capture them and besiege them and sit in wait for them at every place of ambush. But if they should repent, establish prayer, and give zakāh, let them [go] on their way. Indeed, Allāh is Forgiving and Merciful."
+        },
+        {
+          "id": 955089,
+          "resource_id": 140,
+          "text": "Y una vez transcurridos los cuatro meses de plazo, durante los cuales los idólatras gozaban de seguridad, (anunciad la guerra al enemigo de Al-lah) y matadlos allí donde los encontréis, capturadlos, cercadlos y acechadlos en todo lugar<sup foot_note=149337>1</sup>. Pero si se arrepienten (de su incredulidad y aceptan el islam), practican el salat y entregan en azaque<sup foot_note=149338>2</sup>, dejad que prosigan en paz su camino. Ciertamente, Al-lah es Indulgente y Misericordioso."
+        }
+      ]
     },
     {
       "id": 1241,
@@ -130,7 +221,19 @@
       "text_uthmani": "وَإِنْ أَحَدٌ مِّنَ ٱلْمُشْرِكِينَ ٱسْتَجَارَكَ فَأَجِرْهُ حَتَّىٰ يَسْمَعَ كَلَـٰمَ ٱللَّهِ ثُمَّ أَبْلِغْهُ مَأْمَنَهُۥ ۚ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌ لَّا يَعْلَمُونَ",
       "text_imlaei": "وَإِنْ أَحَدٌ مِّنَ الْمُشْرِكِينَ اسْتَجَارَكَ فَأَجِرْهُ حَتَّىٰ يَسْمَعَ كَلَامَ اللَّهِ ثُمَّ أَبْلِغْهُ مَأْمَنَهُ ۚ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌ لَّا يَعْلَمُونَ",
       "page_number": 187,
-      "juz_number": 10
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 102312,
+          "resource_id": 20,
+          "text": "And if any one of the polytheists seeks your protection, then grant him protection so that he may hear the words of Allāh [i.e., the Qur’ān]. Then deliver him to his place of safety. That is because they are a people who do not know."
+        },
+        {
+          "id": 955090,
+          "resource_id": 140,
+          "text": "Y si algún idólatra te pide protección (¡oh, Muhammad!) para escuchar la palabra de Al-lah, concédesela para que la escuche y después facilítale la llegada a un lugar seguro. Esto es porque son gentes que no conocen (la palabra de Al-lah)."
+        }
+      ]
     },
     {
       "id": 1242,
@@ -144,7 +247,19 @@
       "text_uthmani": "كَيْفَ يَكُونُ لِلْمُشْرِكِينَ عَهْدٌ عِندَ ٱللَّهِ وَعِندَ رَسُولِهِۦٓ إِلَّا ٱلَّذِينَ عَـٰهَدتُّمْ عِندَ ٱلْمَسْجِدِ ٱلْحَرَامِ ۖ فَمَا ٱسْتَقَـٰمُوا۟ لَكُمْ فَٱسْتَقِيمُوا۟ لَهُمْ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَّقِينَ",
       "text_imlaei": "كَيْفَ يَكُونُ لِلْمُشْرِكِينَ عَهْدٌ عِندَ اللَّهِ وَعِندَ رَسُولِهِ إِلَّا الَّذِينَ عَاهَدتُّمْ عِندَ الْمَسْجِدِ الْحَرَامِ ۖ فَمَا اسْتَقَامُوا لَكُمْ فَاسْتَقِيمُوا لَهُمْ ۚ إِنَّ اللَّهَ يُحِبُّ الْمُتَّقِينَ",
       "page_number": 188,
-      "juz_number": 10
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 102342,
+          "resource_id": 20,
+          "text": "How can there be for the polytheists a treaty in the sight of Allāh and with His Messenger, except for those with whom you made a treaty at al-Masjid al-Ḥarām? So as long as they are upright toward you,<sup foot_note=196386>1</sup> be upright toward them. Indeed, Allāh loves the righteous [who fear Him]."
+        },
+        {
+          "id": 955091,
+          "resource_id": 140,
+          "text": "¡Cómo podrían los idólatras mantener un pacto con Al-lah y con Su Mensajero, a excepción de aquellos con los que establecisteis un acuerdo<sup foot_note=149339>1</sup> cerca de la Mezquita Sagrada! Mientras estos cumplan con vosotros, cumplid con ellos. Ciertamente, Al-lah ama a los piadosos que cumplen lo que pactan."
+        }
+      ]
     },
     {
       "id": 1243,
@@ -158,7 +273,19 @@
       "text_uthmani": "كَيْفَ وَإِن يَظْهَرُوا۟ عَلَيْكُمْ لَا يَرْقُبُوا۟ فِيكُمْ إِلًّا وَلَا ذِمَّةً ۚ يُرْضُونَكُم بِأَفْوَٰهِهِمْ وَتَأْبَىٰ قُلُوبُهُمْ وَأَكْثَرُهُمْ فَـٰسِقُونَ",
       "text_imlaei": "كَيْفَ وَإِن يَظْهَرُوا عَلَيْكُمْ لَا يَرْقُبُوا فِيكُمْ إِلًّا وَلَا ذِمَّةً ۚ يُرْضُونَكُم بِأَفْوَاهِهِمْ وَتَأْبَىٰ قُلُوبُهُمْ وَأَكْثَرُهُمْ فَاسِقُونَ",
       "page_number": 188,
-      "juz_number": 10
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 102358,
+          "resource_id": 20,
+          "text": "How [can there be a treaty] while, if they gain dominance over you, they do not observe concerning you any pact of kinship or covenant of protection? They satisfy you with their mouths, but their hearts refuse [compliance], and most of them are defiantly disobedient."
+        },
+        {
+          "id": 955092,
+          "resource_id": 140,
+          "text": "¡Cómo (podría haber un convenio entre vosotros) si, de venceros, no respetarían ni lazos de sangre ni pacto alguno! Sus palabras os complacen, pero sus corazones os rechazan, y la mayoría de ellos no respetan lo pactado."
+        }
+      ]
     },
     {
       "id": 1244,
@@ -172,7 +299,19 @@
       "text_uthmani": "ٱشْتَرَوْا۟ بِـَٔايَـٰتِ ٱللَّهِ ثَمَنًا قَلِيلًا فَصَدُّوا۟ عَن سَبِيلِهِۦٓ ۚ إِنَّهُمْ سَآءَ مَا كَانُوا۟ يَعْمَلُونَ",
       "text_imlaei": "اشْتَرَوْا بِآيَاتِ اللَّهِ ثَمَنًا قَلِيلًا فَصَدُّوا عَن سَبِيلِهِ ۚ إِنَّهُمْ سَاءَ مَا كَانُوا يَعْمَلُونَ",
       "page_number": 188,
-      "juz_number": 10
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 102377,
+          "resource_id": 20,
+          "text": "They have exchanged the signs of Allāh for a small price and averted [people] from His way. Indeed, it was evil that they were doing."
+        },
+        {
+          "id": 955093,
+          "resource_id": 140,
+          "text": "Han vendido las aleyas de Al-lah por un vil beneficio (al preferir los bienes mundanales a la verdad) y desvían a los hombres de Su camino. ¡Qué malo es lo que hacen!"
+        }
+      ]
     },
     {
       "id": 1245,
@@ -186,7 +325,19 @@
       "text_uthmani": "لَا يَرْقُبُونَ فِى مُؤْمِنٍ إِلًّا وَلَا ذِمَّةً ۚ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُعْتَدُونَ",
       "text_imlaei": "لَا يَرْقُبُونَ فِي مُؤْمِنٍ إِلًّا وَلَا ذِمَّةً ۚ وَأُولَٰئِكَ هُمُ الْمُعْتَدُونَ",
       "page_number": 188,
-      "juz_number": 10
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 102163,
+          "resource_id": 20,
+          "text": "They do not observe toward a believer any pact of kinship or covenant of protection. And it is they who are the transgressors."
+        },
+        {
+          "id": 955094,
+          "resource_id": 140,
+          "text": "No respetan con ningún creyente ni lazos de sangre ni pacto alguno. Esos son los transgresores."
+        }
+      ]
     }
   ],
   "audio_metadata": {

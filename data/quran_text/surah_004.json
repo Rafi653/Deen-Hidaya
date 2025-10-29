@@ -1,9 +1,14 @@
 {
   "metadata": {
     "surah_number": 4,
-    "scraped_at": "2025-10-29T02:54:08.993727",
+    "scraped_at": "2025-10-29T03:59:27.931261",
     "source": "api.quran.com",
-    "version": "1.0"
+    "version": "1.0",
+    "translation_ids": [
+      131,
+      20,
+      140
+    ]
   },
   "license": {
     "text": {
@@ -11,14 +16,14 @@
       "license": "Public Domain",
       "attribution": "The Quran text is in the public domain",
       "terms_url": "https://quran.com/terms",
-      "fetched_at": "2025-10-29T02:54:08.993727"
+      "fetched_at": "2025-10-29T03:59:27.931261"
     },
     "translations": {
       "source": "api.quran.com",
       "license": "Various - See individual translation licenses",
       "attribution": "Translation copyrights belong to respective translators",
       "terms_url": "https://quran.com/terms",
-      "fetched_at": "2025-10-29T02:54:08.993727"
+      "fetched_at": "2025-10-29T03:59:27.931261"
     },
     "audio": {
       "source": "everyayah.com via api.quran.com",
@@ -26,7 +31,33 @@
       "attribution": "Audio recitations courtesy of everyayah.com",
       "terms_url": "https://everyayah.com/",
       "note": "Audio URLs provided - not downloaded locally due to size",
-      "fetched_at": "2025-10-29T02:54:08.993727"
+      "fetched_at": "2025-10-29T03:59:27.931261"
+    }
+  },
+  "translation_metadata": {
+    "131": {
+      "name": "Dr. Mustafa Khattab, The Clear Quran",
+      "author": "Dr. Mustafa Khattab",
+      "language": "en",
+      "language_name": "English",
+      "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0",
+      "source": "api.quran.com"
+    },
+    "20": {
+      "name": "Saheeh International",
+      "author": "Saheeh International",
+      "language": "en",
+      "language_name": "English",
+      "license": "Public Domain",
+      "source": "api.quran.com"
+    },
+    "140": {
+      "name": "Telugu Translation",
+      "author": "Unknown",
+      "language": "te",
+      "language_name": "Telugu",
+      "license": "Various",
+      "source": "api.quran.com"
     }
   },
   "surah_info": {
@@ -60,7 +91,19 @@
       "text_uthmani": " يَـٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمُ ٱلَّذِى خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا كَثِيرًا وَنِسَآءً ۚ وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِى تَسَآءَلُونَ بِهِۦ وَٱلْأَرْحَامَ ۚ إِنَّ ٱللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا",
       "text_imlaei": "يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمُ الَّذِي خَلَقَكُم مِّن نَّفْسٍ وَاحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا كَثِيرًا وَنِسَاءً ۚ وَاتَّقُوا اللَّهَ الَّذِي تَسَاءَلُونَ بِهِ وَالْأَرْحَامَ ۚ إِنَّ اللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا",
       "page_number": 77,
-      "juz_number": 4
+      "juz_number": 4,
+      "translations": [
+        {
+          "id": 99615,
+          "resource_id": 20,
+          "text": "O mankind, fear your Lord, who created you from one soul and created from it its mate and dispersed from both of them many men and women. And fear Allāh, through whom<sup foot_note=196086>1</sup> you ask one another,<sup foot_note=196085>2</sup> and the wombs.<sup foot_note=196084>3</sup> Indeed Allāh is ever,<sup foot_note=196083>4</sup> over you, an Observer.<sup foot_note=196082>5</sup>"
+        },
+        {
+          "id": 954343,
+          "resource_id": 140,
+          "text": "¡Gentes!, temed a vuestro Señor, Quien os creó a partir de un solo ser (Adán) y creó de él a su pareja, e hizo que de ambos surgieran y se diseminaran por la tierra multitudes de hombres y mujeres. Y temed a Al-lah, en Cuyo nombre os reclamáis mutuamente (vuestros derechos), y mantened los lazos familiares<sup foot_note=149173>1</sup>. Ciertamente, Al-lah os observa (en todo momento)."
+        }
+      ]
     },
     {
       "id": 495,
@@ -74,7 +117,19 @@
       "text_uthmani": "وَءَاتُوا۟ ٱلْيَتَـٰمَىٰٓ أَمْوَٰلَهُمْ ۖ وَلَا تَتَبَدَّلُوا۟ ٱلْخَبِيثَ بِٱلطَّيِّبِ ۖ وَلَا تَأْكُلُوٓا۟ أَمْوَٰلَهُمْ إِلَىٰٓ أَمْوَٰلِكُمْ ۚ إِنَّهُۥ كَانَ حُوبًا كَبِيرًا",
       "text_imlaei": "وَآتُوا الْيَتَامَىٰ أَمْوَالَهُمْ ۖ وَلَا تَتَبَدَّلُوا الْخَبِيثَ بِالطَّيِّبِ ۖ وَلَا تَأْكُلُوا أَمْوَالَهُمْ إِلَىٰ أَمْوَالِكُمْ ۚ إِنَّهُ كَانَ حُوبًا كَبِيرًا",
       "page_number": 77,
-      "juz_number": 4
+      "juz_number": 4,
+      "translations": [
+        {
+          "id": 99757,
+          "resource_id": 20,
+          "text": "And give to the orphans their properties and do not substitute the defective [of your own] for the good [of theirs]. And do not consume their properties into your own. Indeed, that is ever a great sin."
+        },
+        {
+          "id": 954344,
+          "resource_id": 140,
+          "text": "Y (cuando alcancen la madurez suficiente) dadles a los huérfanos sus bienes (que vosotros custodiáis) y no sustituyáis lo malo que vosotros tenéis por lo bueno que ellos poseen. Y no consumáis sus riquezas añadiéndolas a las vuestras (apropiándoos de ellas injustamente). En verdad, ello es un grave pecado."
+        }
+      ]
     },
     {
       "id": 496,
@@ -88,7 +143,19 @@
       "text_uthmani": "وَإِنْ خِفْتُمْ أَلَّا تُقْسِطُوا۟ فِى ٱلْيَتَـٰمَىٰ فَٱنكِحُوا۟ مَا طَابَ لَكُم مِّنَ ٱلنِّسَآءِ مَثْنَىٰ وَثُلَـٰثَ وَرُبَـٰعَ ۖ فَإِنْ خِفْتُمْ أَلَّا تَعْدِلُوا۟ فَوَٰحِدَةً أَوْ مَا مَلَكَتْ أَيْمَـٰنُكُمْ ۚ ذَٰلِكَ أَدْنَىٰٓ أَلَّا تَعُولُوا۟",
       "text_imlaei": "وَإِنْ خِفْتُمْ أَلَّا تُقْسِطُوا فِي الْيَتَامَىٰ فَانكِحُوا مَا طَابَ لَكُم مِّنَ النِّسَاءِ مَثْنَىٰ وَثُلَاثَ وَرُبَاعَ ۖ فَإِنْ خِفْتُمْ أَلَّا تَعْدِلُوا فَوَاحِدَةً أَوْ مَا مَلَكَتْ أَيْمَانُكُمْ ۚ ذَٰلِكَ أَدْنَىٰ أَلَّا تَعُولُوا",
       "page_number": 77,
-      "juz_number": 4
+      "juz_number": 4,
+      "translations": [
+        {
+          "id": 99821,
+          "resource_id": 20,
+          "text": "And if you fear that you will not deal justly with the orphan girls, then marry those that please you of [other] women, two or three or four. But if you fear that you will not be just, then [marry only] one or those your right hands possess [i.e., slaves]. That is more suitable that you may not incline [to injustice]."
+        },
+        {
+          "id": 954345,
+          "resource_id": 140,
+          "text": "Y si teméis no tratar con justicia a las huérfanas (que tenéis bajo vuestra tutela, en lo referente a no concederles un maher<sup foot_note=149174>1</sup> apropiado en caso de querer casaos con ellas, no las desposéis), casaos, entonces, con otras mujeres (lícitas) que sean de vuestro agrado, ya sean dos, tres o cuatro (como máximo)<sup foot_note=149175>2</sup>. Pero si teméis no ser justos con todas ellas por igual, casaos solamente con una o recurrid a vuestras esclavas<sup foot_note=149176>3</sup>. Eso es lo más apropiado para evitar caer en la injusticia."
+        }
+      ]
     },
     {
       "id": 497,
@@ -102,7 +169,19 @@
       "text_uthmani": "وَءَاتُوا۟ ٱلنِّسَآءَ صَدُقَـٰتِهِنَّ نِحْلَةً ۚ فَإِن طِبْنَ لَكُمْ عَن شَىْءٍ مِّنْهُ نَفْسًا فَكُلُوهُ هَنِيٓـًٔا مَّرِيٓـًٔا",
       "text_imlaei": "وَآتُوا النِّسَاءَ صَدُقَاتِهِنَّ نِحْلَةً ۚ فَإِن طِبْنَ لَكُمْ عَن شَيْءٍ مِّنْهُ نَفْسًا فَكُلُوهُ هَنِيئًا مَّرِيئًا",
       "page_number": 77,
-      "juz_number": 4
+      "juz_number": 4,
+      "translations": [
+        {
+          "id": 99922,
+          "resource_id": 20,
+          "text": "And give the women [upon marriage] their [bridal] gifts<sup foot_note=196088>1</sup> graciously. But if they give up willingly to you anything of it, then take it in satisfaction and ease.<sup foot_note=196087>2</sup>"
+        },
+        {
+          "id": 954346,
+          "resource_id": 140,
+          "text": "Y entregad de buen grado a las mujeres que vayáis a desposar su debido maher. Mas si ellas renuncian libremente a una parte de dicho maher, tomadla y disfrutadla sin nada que temer."
+        }
+      ]
     },
     {
       "id": 498,
@@ -116,7 +195,19 @@
       "text_uthmani": "وَلَا تُؤْتُوا۟ ٱلسُّفَهَآءَ أَمْوَٰلَكُمُ ٱلَّتِى جَعَلَ ٱللَّهُ لَكُمْ قِيَـٰمًا وَٱرْزُقُوهُمْ فِيهَا وَٱكْسُوهُمْ وَقُولُوا۟ لَهُمْ قَوْلًا مَّعْرُوفًا",
       "text_imlaei": "وَلَا تُؤْتُوا السُّفَهَاءَ أَمْوَالَكُمُ الَّتِي جَعَلَ اللَّهُ لَكُمْ قِيَامًا وَارْزُقُوهُمْ فِيهَا وَاكْسُوهُمْ وَقُولُوا لَهُمْ قَوْلًا مَّعْرُوفًا",
       "page_number": 77,
-      "juz_number": 4
+      "juz_number": 4,
+      "translations": [
+        {
+          "id": 99985,
+          "resource_id": 20,
+          "text": "And do not give the weak-minded your property,<sup foot_note=196089>1</sup> which Allāh has made a means of sustenance for you, but provide for them with it and clothe them and speak to them words of appropriate kindness."
+        },
+        {
+          "id": 954347,
+          "resource_id": 140,
+          "text": "Y no deis los bienes que Al-lah os ha otorgado para vuestra subsistencia a quienes no hacen buen uso de la razón (ya sea porque despilfarran o por alguna incapacidad mental que padezcan y estén bajo vuestra tutela). Pero alimentadlos y vestidlos con parte de vuestros bienes y habladles con gentileza."
+        }
+      ]
     },
     {
       "id": 499,
@@ -130,7 +221,19 @@
       "text_uthmani": "وَٱبْتَلُوا۟ ٱلْيَتَـٰمَىٰ حَتَّىٰٓ إِذَا بَلَغُوا۟ ٱلنِّكَاحَ فَإِنْ ءَانَسْتُم مِّنْهُمْ رُشْدًا فَٱدْفَعُوٓا۟ إِلَيْهِمْ أَمْوَٰلَهُمْ ۖ وَلَا تَأْكُلُوهَآ إِسْرَافًا وَبِدَارًا أَن يَكْبَرُوا۟ ۚ وَمَن كَانَ غَنِيًّا فَلْيَسْتَعْفِفْ ۖ وَمَن كَانَ فَقِيرًا فَلْيَأْكُلْ بِٱلْمَعْرُوفِ ۚ فَإِذَا دَفَعْتُمْ إِلَيْهِمْ أَمْوَٰلَهُمْ فَأَشْهِدُوا۟ عَلَيْهِمْ ۚ وَكَفَىٰ بِٱللَّهِ حَسِيبًا",
       "text_imlaei": "وَابْتَلُوا الْيَتَامَىٰ حَتَّىٰ إِذَا بَلَغُوا النِّكَاحَ فَإِنْ آنَسْتُم مِّنْهُمْ رُشْدًا فَادْفَعُوا إِلَيْهِمْ أَمْوَالَهُمْ ۖ وَلَا تَأْكُلُوهَا إِسْرَافًا وَبِدَارًا أَن يَكْبَرُوا ۚ وَمَن كَانَ غَنِيًّا فَلْيَسْتَعْفِفْ ۖ وَمَن كَانَ فَقِيرًا فَلْيَأْكُلْ بِالْمَعْرُوفِ ۚ فَإِذَا دَفَعْتُمْ إِلَيْهِمْ أَمْوَالَهُمْ فَأَشْهِدُوا عَلَيْهِمْ ۚ وَكَفَىٰ بِاللَّهِ حَسِيبًا",
       "page_number": 77,
-      "juz_number": 4
+      "juz_number": 4,
+      "translations": [
+        {
+          "id": 100037,
+          "resource_id": 20,
+          "text": "And test the orphans [in their abilities] until they reach marriageable age. Then if you perceive in them sound judgement, release their property to them. And do not consume it excessively and quickly, [anticipating] that they will grow up. And whoever, [when acting as guardian], is self-sufficient should refrain [from taking a fee]; and whoever is poor - let him take according to what is acceptable. Then when you release their property to them, bring witnesses upon them. And sufficient is Allāh as Accountant."
+        },
+        {
+          "id": 954348,
+          "resource_id": 140,
+          "text": "Y observad de cerca a los huérfanos (para comprobar su nivel de madurez mental) hasta que alcancen la edad de casarse. Si entonces veis que son lo suficientemente maduros (en el entendimiento de la religión y en su capacidad para administrarse su dinero), dadles sus bienes (que custodiabais). No los consumáis injustamente y con rapidez antes de que crezcan (para evitar tener que entregárselos llegada la edad). Quien sea rico, que se abstenga de tomar nada (de esos bienes que custodia); y quien sea pobre, que tome solo para él lo justo y razonable. Y cuando entreguéis a los huérfanos sus bienes, hacedlo delante de testigos. Y Al-lah basta para llevar la cuenta de todo."
+        }
+      ]
     },
     {
       "id": 500,
@@ -144,7 +247,19 @@
       "text_uthmani": "لِّلرِّجَالِ نَصِيبٌ مِّمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ وَلِلنِّسَآءِ نَصِيبٌ مِّمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ مِمَّا قَلَّ مِنْهُ أَوْ كَثُرَ ۚ نَصِيبًا مَّفْرُوضًا",
       "text_imlaei": "لِّلرِّجَالِ نَصِيبٌ مِّمَّا تَرَكَ الْوَالِدَانِ وَالْأَقْرَبُونَ وَلِلنِّسَاءِ نَصِيبٌ مِّمَّا تَرَكَ الْوَالِدَانِ وَالْأَقْرَبُونَ مِمَّا قَلَّ مِنْهُ أَوْ كَثُرَ ۚ نَصِيبًا مَّفْرُوضًا",
       "page_number": 78,
-      "juz_number": 4
+      "juz_number": 4,
+      "translations": [
+        {
+          "id": 100082,
+          "resource_id": 20,
+          "text": "For men is a share of what the parents and close relatives leave, and for women is a share of what the parents and close relatives leave, be it little or much - an obligatory share."
+        },
+        {
+          "id": 954349,
+          "resource_id": 140,
+          "text": "Tanto a los hombres como a las mujeres les corresponde (en herencia) una parte de lo que dejen sus padres y sus parientes cercanos, ya sea mucho o poco; es una parte prescrita (por Al-lah)."
+        }
+      ]
     },
     {
       "id": 501,
@@ -158,7 +273,19 @@
       "text_uthmani": "وَإِذَا حَضَرَ ٱلْقِسْمَةَ أُو۟لُوا۟ ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينُ فَٱرْزُقُوهُم مِّنْهُ وَقُولُوا۟ لَهُمْ قَوْلًا مَّعْرُوفًا",
       "text_imlaei": "وَإِذَا حَضَرَ الْقِسْمَةَ أُولُو الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينُ فَارْزُقُوهُم مِّنْهُ وَقُولُوا لَهُمْ قَوْلًا مَّعْرُوفًا",
       "page_number": 78,
-      "juz_number": 4
+      "juz_number": 4,
+      "translations": [
+        {
+          "id": 100131,
+          "resource_id": 20,
+          "text": "And when [other] relatives and orphans and the needy are present at the [time of] division, then provide for them [something] out of it [i.e., the estate] and speak to them words of appropriate kindness."
+        },
+        {
+          "id": 954350,
+          "resource_id": 140,
+          "text": "Y si también están presentes, en la repartición de la herencia, otros parientes (que no tienen derecho a heredar), huérfanos y pobres, dadles algo de ella (antes de repartirla) y habladles con amabilidad."
+        }
+      ]
     },
     {
       "id": 502,
@@ -172,7 +299,19 @@
       "text_uthmani": "وَلْيَخْشَ ٱلَّذِينَ لَوْ تَرَكُوا۟ مِنْ خَلْفِهِمْ ذُرِّيَّةً ضِعَـٰفًا خَافُوا۟ عَلَيْهِمْ فَلْيَتَّقُوا۟ ٱللَّهَ وَلْيَقُولُوا۟ قَوْلًا سَدِيدًا",
       "text_imlaei": "وَلْيَخْشَ الَّذِينَ لَوْ تَرَكُوا مِنْ خَلْفِهِمْ ذُرِّيَّةً ضِعَافًا خَافُوا عَلَيْهِمْ فَلْيَتَّقُوا اللَّهَ وَلْيَقُولُوا قَوْلًا سَدِيدًا",
       "page_number": 78,
-      "juz_number": 4
+      "juz_number": 4,
+      "translations": [
+        {
+          "id": 100175,
+          "resource_id": 20,
+          "text": "And let those [executors and guardians] fear [injustice] as if they [themselves] had left weak offspring behind and feared for them. So let them fear Allāh and speak words of appropriate justice."
+        },
+        {
+          "id": 954351,
+          "resource_id": 140,
+          "text": "Y que (los tutores de los huérfanos) se preocupen<sup foot_note=149177>1</sup> (por ellos) del mismo modo que lo harían por sus propios hijos si estos fueran pequeños y quedasen huérfanos; y que teman a Al-lah y les hablen con buenas palabras."
+        }
+      ]
     },
     {
       "id": 503,
@@ -186,7 +325,19 @@
       "text_uthmani": "إِنَّ ٱلَّذِينَ يَأْكُلُونَ أَمْوَٰلَ ٱلْيَتَـٰمَىٰ ظُلْمًا إِنَّمَا يَأْكُلُونَ فِى بُطُونِهِمْ نَارًا ۖ وَسَيَصْلَوْنَ سَعِيرًا",
       "text_imlaei": "إِنَّ الَّذِينَ يَأْكُلُونَ أَمْوَالَ الْيَتَامَىٰ ظُلْمًا إِنَّمَا يَأْكُلُونَ فِي بُطُونِهِمْ نَارًا ۖ وَسَيَصْلَوْنَ سَعِيرًا",
       "page_number": 78,
-      "juz_number": 4
+      "juz_number": 4,
+      "translations": [
+        {
+          "id": 99616,
+          "resource_id": 20,
+          "text": "Indeed, those who devour the property of orphans unjustly are only consuming into their bellies fire. And they will be burned in a Blaze [i.e., Hellfire]."
+        },
+        {
+          "id": 954352,
+          "resource_id": 140,
+          "text": "Quienes consuman injustamente los bienes de los huérfanos estarán consumiendo fuego (que arderá) en sus entrañas. Y (el Día de la Resurrección) arderán en un fuego abrasador."
+        }
+      ]
     }
   ],
   "audio_metadata": {

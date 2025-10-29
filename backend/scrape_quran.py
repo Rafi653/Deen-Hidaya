@@ -30,7 +30,40 @@ class QuranScraper:
     
     # Default editions
     DEFAULT_TEXT_EDITION = "quran-uthmani"  # Uthmani script with diacritics
-    DEFAULT_TRANSLATION = "en.sahih"  # Sahih International English translation
+    # Translation IDs - can be configured for different languages
+    # Common translation IDs from api.quran.com:
+    # English: 131 (Dr. Mustafa Khattab), 20 (Sahih International), 85 (Pickthall)
+    # Telugu: 140 (Telugu translation)
+    # Urdu: 97 (Abul A'ala Maududi), 151 (Ahmed Ali)
+    DEFAULT_TRANSLATIONS = [131]  # Dr. Mustafa Khattab (The Clear Quran) as default
+    
+    # Translation metadata - maps translation ID to metadata
+    TRANSLATION_METADATA = {
+        131: {
+            "name": "Dr. Mustafa Khattab, The Clear Quran",
+            "author": "Dr. Mustafa Khattab",
+            "language": "en",
+            "language_name": "English",
+            "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0",
+            "source": "api.quran.com"
+        },
+        20: {
+            "name": "Saheeh International",
+            "author": "Saheeh International",
+            "language": "en",
+            "language_name": "English",
+            "license": "Public Domain",
+            "source": "api.quran.com"
+        },
+        140: {
+            "name": "Telugu Translation",
+            "author": "Unknown", 
+            "language": "te",
+            "language_name": "Telugu",
+            "license": "Various",
+            "source": "api.quran.com"
+        }
+    }
     
     # License information
     LICENSE_INFO = {
@@ -127,23 +160,31 @@ class QuranScraper:
             return result["chapter"]
         return None
     
-    def fetch_surah_verses(self, surah_number: int, language: str = "ar") -> Optional[Dict]:
+    def fetch_surah_verses(self, surah_number: int, translation_ids: List[int] = None, language: str = "ar") -> Optional[Dict]:
         """
         Fetch verses for a surah with text and translations
         
         Args:
             surah_number: Surah number (1-114)
-            language: Language code for translation
+            translation_ids: List of translation IDs to fetch (default: DEFAULT_TRANSLATIONS)
+            language: Language code for UI language
             
         Returns:
             Verses data or None
         """
-        # Fetch Arabic text
+        if translation_ids is None:
+            translation_ids = self.DEFAULT_TRANSLATIONS
+        
+        # Fetch Arabic text with translations
         endpoint = f"verses/by_chapter/{surah_number}"
+        
+        # Build translations parameter - comma-separated list of translation IDs
+        translations_param = ",".join(str(tid) for tid in translation_ids)
+        
         params = {
             "language": language,
             "words": "false",  # Don't fetch word-by-word data for now
-            "translations": self.DEFAULT_TRANSLATION,
+            "translations": translations_param,
             "fields": "text_uthmani,text_imlaei,verse_key,verse_number,juz_number,hizb_number,rub_el_hizb_number"
         }
         
@@ -185,17 +226,21 @@ class QuranScraper:
             return result["recitations"]
         return None
     
-    def scrape_surah(self, surah_number: int, include_audio: bool = True) -> bool:
+    def scrape_surah(self, surah_number: int, translation_ids: List[int] = None, include_audio: bool = True) -> bool:
         """
         Scrape complete data for a single surah and save to JSON
         
         Args:
             surah_number: Surah number (1-114)
+            translation_ids: List of translation IDs to fetch (default: DEFAULT_TRANSLATIONS)
             include_audio: Whether to include audio metadata
             
         Returns:
             True if successful, False otherwise
         """
+        if translation_ids is None:
+            translation_ids = self.DEFAULT_TRANSLATIONS
+            
         print(f"Scraping Surah {surah_number}...")
         
         # Fetch surah info
@@ -204,8 +249,8 @@ class QuranScraper:
             print(f"Failed to fetch info for Surah {surah_number}")
             return False
         
-        # Fetch verses
-        verses_data = self.fetch_surah_verses(surah_number)
+        # Fetch verses with translations
+        verses_data = self.fetch_surah_verses(surah_number, translation_ids=translation_ids)
         if not verses_data:
             print(f"Failed to fetch verses for Surah {surah_number}")
             return False
@@ -218,18 +263,26 @@ class QuranScraper:
         # Prepare output data
         timestamp = datetime.utcnow().isoformat()
         
+        # Build translation metadata
+        translation_metadata = {}
+        for trans_id in translation_ids:
+            if trans_id in self.TRANSLATION_METADATA:
+                translation_metadata[str(trans_id)] = self.TRANSLATION_METADATA[trans_id]
+        
         output_data = {
             "metadata": {
                 "surah_number": surah_number,
                 "scraped_at": timestamp,
                 "source": "api.quran.com",
-                "version": "1.0"
+                "version": "1.0",
+                "translation_ids": translation_ids
             },
             "license": {
                 "text": self.LICENSE_INFO["quran_text"].copy(),
                 "translations": self.LICENSE_INFO["translations"].copy(),
                 "audio": self.LICENSE_INFO["audio"].copy() if include_audio else None
             },
+            "translation_metadata": translation_metadata,
             "surah_info": surah_info,
             "verses": verses_data.get("verses", []),
             "audio_metadata": audio_data if include_audio else None
@@ -252,21 +305,26 @@ class QuranScraper:
             print(f"✗ Failed to save Surah {surah_number}: {e}")
             return False
     
-    def scrape_multiple_surahs(self, start: int = 1, end: int = 5, include_audio: bool = True) -> Dict[str, Any]:
+    def scrape_multiple_surahs(self, start: int = 1, end: int = 5, translation_ids: List[int] = None, include_audio: bool = True) -> Dict[str, Any]:
         """
         Scrape multiple surahs
         
         Args:
             start: Starting surah number
             end: Ending surah number (inclusive)
+            translation_ids: List of translation IDs to fetch (default: DEFAULT_TRANSLATIONS)
             include_audio: Whether to include audio metadata
             
         Returns:
             Dictionary with scraping statistics
         """
+        if translation_ids is None:
+            translation_ids = self.DEFAULT_TRANSLATIONS
+            
         print(f"\n{'='*60}")
         print(f"Starting Quran Data Scraping")
         print(f"Surahs: {start} to {end}")
+        print(f"Translation IDs: {translation_ids}")
         print(f"Output directory: {self.quran_text_dir}")
         print(f"{'='*60}\n")
         
@@ -274,7 +332,7 @@ class QuranScraper:
         failed = []
         
         for surah_num in range(start, end + 1):
-            if self.scrape_surah(surah_num, include_audio=include_audio):
+            if self.scrape_surah(surah_num, translation_ids=translation_ids, include_audio=include_audio):
                 successful.append(surah_num)
             else:
                 failed.append(surah_num)
@@ -311,6 +369,7 @@ def main():
     parser.add_argument("--end", type=int, default=5, help="Ending surah number (default: 5)")
     parser.add_argument("--no-audio", action="store_true", help="Skip audio metadata")
     parser.add_argument("--output-dir", type=str, help="Output directory for scraped data")
+    parser.add_argument("--translations", type=str, help="Comma-separated list of translation IDs (default: 131)")
     
     args = parser.parse_args()
     
@@ -323,11 +382,21 @@ def main():
         print("Error: Start surah must be less than or equal to end surah")
         return 1
     
+    # Parse translation IDs
+    translation_ids = None
+    if args.translations:
+        try:
+            translation_ids = [int(tid.strip()) for tid in args.translations.split(',')]
+        except ValueError:
+            print("Error: Translation IDs must be comma-separated integers")
+            return 1
+    
     # Create scraper and run
     scraper = QuranScraper(output_dir=args.output_dir)
     stats = scraper.scrape_multiple_surahs(
         start=args.start,
         end=args.end,
+        translation_ids=translation_ids,
         include_audio=not args.no_audio
     )
     

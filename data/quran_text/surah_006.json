@@ -1,9 +1,14 @@
 {
   "metadata": {
     "surah_number": 6,
-    "scraped_at": "2025-10-29T02:54:12.304726",
+    "scraped_at": "2025-10-29T03:59:31.809189",
     "source": "api.quran.com",
-    "version": "1.0"
+    "version": "1.0",
+    "translation_ids": [
+      131,
+      20,
+      140
+    ]
   },
   "license": {
     "text": {
@@ -11,14 +16,14 @@
       "license": "Public Domain",
       "attribution": "The Quran text is in the public domain",
       "terms_url": "https://quran.com/terms",
-      "fetched_at": "2025-10-29T02:54:12.304726"
+      "fetched_at": "2025-10-29T03:59:31.809189"
     },
     "translations": {
       "source": "api.quran.com",
       "license": "Various - See individual translation licenses",
       "attribution": "Translation copyrights belong to respective translators",
       "terms_url": "https://quran.com/terms",
-      "fetched_at": "2025-10-29T02:54:12.304726"
+      "fetched_at": "2025-10-29T03:59:31.809189"
     },
     "audio": {
       "source": "everyayah.com via api.quran.com",
@@ -26,7 +31,33 @@
       "attribution": "Audio recitations courtesy of everyayah.com",
       "terms_url": "https://everyayah.com/",
       "note": "Audio URLs provided - not downloaded locally due to size",
-      "fetched_at": "2025-10-29T02:54:12.304726"
+      "fetched_at": "2025-10-29T03:59:31.809189"
+    }
+  },
+  "translation_metadata": {
+    "131": {
+      "name": "Dr. Mustafa Khattab, The Clear Quran",
+      "author": "Dr. Mustafa Khattab",
+      "language": "en",
+      "language_name": "English",
+      "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0",
+      "source": "api.quran.com"
+    },
+    "20": {
+      "name": "Saheeh International",
+      "author": "Saheeh International",
+      "language": "en",
+      "language_name": "English",
+      "license": "Public Domain",
+      "source": "api.quran.com"
+    },
+    "140": {
+      "name": "Telugu Translation",
+      "author": "Unknown",
+      "language": "te",
+      "language_name": "Telugu",
+      "license": "Various",
+      "source": "api.quran.com"
     }
   },
   "surah_info": {
@@ -60,7 +91,19 @@
       "text_uthmani": " ٱلْحَمْدُ لِلَّهِ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَجَعَلَ ٱلظُّلُمَـٰتِ وَٱلنُّورَ ۖ ثُمَّ ٱلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ يَعْدِلُونَ",
       "text_imlaei": "الْحَمْدُ لِلَّهِ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَجَعَلَ الظُّلُمَاتِ وَالنُّورَ ۖ ثُمَّ الَّذِينَ كَفَرُوا بِرَبِّهِمْ يَعْدِلُونَ",
       "page_number": 128,
-      "juz_number": 7
+      "juz_number": 7,
+      "translations": [
+        {
+          "id": 100845,
+          "resource_id": 20,
+          "text": "[All] praise is [due] to Allāh, who created the heavens and the earth and made the darkness and the light. Then those who disbelieve equate [others] with their Lord."
+        },
+        {
+          "id": 954639,
+          "resource_id": 140,
+          "text": "¡Alabado sea Al-lah, Quien creó los cielos y la tierra y estableció las tinieblas y la luz! Y, sin embargo, quienes rechazan la verdad equiparan a Al-lah con otros (y los adoran)."
+        }
+      ]
     },
     {
       "id": 791,
@@ -74,7 +117,19 @@
       "text_uthmani": "هُوَ ٱلَّذِى خَلَقَكُم مِّن طِينٍ ثُمَّ قَضَىٰٓ أَجَلًا ۖ وَأَجَلٌ مُّسَمًّى عِندَهُۥ ۖ ثُمَّ أَنتُمْ تَمْتَرُونَ",
       "text_imlaei": "هُوَ الَّذِي خَلَقَكُم مِّن طِينٍ ثُمَّ قَضَىٰ أَجَلًا ۖ وَأَجَلٌ مُّسَمًّى عِندَهُ ۖ ثُمَّ أَنتُمْ تَمْتَرُونَ",
       "page_number": 128,
-      "juz_number": 7
+      "juz_number": 7,
+      "translations": [
+        {
+          "id": 100937,
+          "resource_id": 20,
+          "text": "It is He who created you from clay and then decreed a term<sup foot_note=196216>1</sup> and a specified time [known] to Him;<sup foot_note=196215>2</sup> then [still] you are in dispute."
+        },
+        {
+          "id": 954640,
+          "resource_id": 140,
+          "text": "Él es Quien os creó a partir del barro y os ha decretado un plazo de tiempo (para vivir), y otro plazo que solo Él conoce (para la resurrección). Y, sin embargo, dudáis (sobre ella)."
+        }
+      ]
     },
     {
       "id": 792,
@@ -88,7 +143,19 @@
       "text_uthmani": "وَهُوَ ٱللَّهُ فِى ٱلسَّمَـٰوَٰتِ وَفِى ٱلْأَرْضِ ۖ يَعْلَمُ سِرَّكُمْ وَجَهْرَكُمْ وَيَعْلَمُ مَا تَكْسِبُونَ",
       "text_imlaei": "وَهُوَ اللَّهُ فِي السَّمَاوَاتِ وَفِي الْأَرْضِ ۖ يَعْلَمُ سِرَّكُمْ وَجَهْرَكُمْ وَيَعْلَمُ مَا تَكْسِبُونَ",
       "page_number": 128,
-      "juz_number": 7
+      "juz_number": 7,
+      "translations": [
+        {
+          "id": 100959,
+          "resource_id": 20,
+          "text": "And He is Allāh, [the only deity] in the heavens and the earth. He knows your secret and what you make public, and He knows that which you earn."
+        },
+        {
+          "id": 954641,
+          "resource_id": 140,
+          "text": "Y Él es Al-lah, (el único que merece la adoración) en los cielos y en la tierra. Él sabe lo que ocultáis en vuestro interior y lo que manifestáis, así como las obras (buenas y malas) que hacéis."
+        }
+      ]
     },
     {
       "id": 793,
@@ -102,7 +169,19 @@
       "text_uthmani": "وَمَا تَأْتِيهِم مِّنْ ءَايَةٍ مِّنْ ءَايَـٰتِ رَبِّهِمْ إِلَّا كَانُوا۟ عَنْهَا مُعْرِضِينَ",
       "text_imlaei": "وَمَا تَأْتِيهِم مِّنْ آيَةٍ مِّنْ آيَاتِ رَبِّهِمْ إِلَّا كَانُوا عَنْهَا مُعْرِضِينَ",
       "page_number": 128,
-      "juz_number": 7
+      "juz_number": 7,
+      "translations": [
+        {
+          "id": 100979,
+          "resource_id": 20,
+          "text": "And no sign comes to them from the signs of their Lord except that they turn away therefrom."
+        },
+        {
+          "id": 954642,
+          "resource_id": 140,
+          "text": "Y cada vez que reciben una prueba (o una aleya) de su Señor, (quienes niegan la verdad) se alejan de ella rechazándola."
+        }
+      ]
     },
     {
       "id": 794,
@@ -116,7 +195,19 @@
       "text_uthmani": "فَقَدْ كَذَّبُوا۟ بِٱلْحَقِّ لَمَّا جَآءَهُمْ ۖ فَسَوْفَ يَأْتِيهِمْ أَنۢبَـٰٓؤُا۟ مَا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
       "text_imlaei": "فَقَدْ كَذَّبُوا بِالْحَقِّ لَمَّا جَاءَهُمْ ۖ فَسَوْفَ يَأْتِيهِمْ أَنبَاءُ مَا كَانُوا بِهِ يَسْتَهْزِئُونَ",
       "page_number": 128,
-      "juz_number": 7
+      "juz_number": 7,
+      "translations": [
+        {
+          "id": 101010,
+          "resource_id": 20,
+          "text": "For they had denied the truth when it came to them, but there is going to reach them the news of what they used to ridicule.<sup foot_note=196217>1</sup>"
+        },
+        {
+          "id": 954643,
+          "resource_id": 140,
+          "text": "Y, ciertamente, negaron la verdad (el Corán) cuando les llegó (a manos de Muhammad, y se burlaron). Mas pronto recibirán noticias de aquello sobre lo que se burlaban (sabrán que era la verdad y serán juzgados por negarla)."
+        }
+      ]
     },
     {
       "id": 795,
@@ -130,7 +221,19 @@
       "text_uthmani": "أَلَمْ يَرَوْا۟ كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّن قَرْنٍ مَّكَّنَّـٰهُمْ فِى ٱلْأَرْضِ مَا لَمْ نُمَكِّن لَّكُمْ وَأَرْسَلْنَا ٱلسَّمَآءَ عَلَيْهِم مِّدْرَارًا وَجَعَلْنَا ٱلْأَنْهَـٰرَ تَجْرِى مِن تَحْتِهِمْ فَأَهْلَكْنَـٰهُم بِذُنُوبِهِمْ وَأَنشَأْنَا مِنۢ بَعْدِهِمْ قَرْنًا ءَاخَرِينَ",
       "text_imlaei": "أَلَمْ يَرَوْا كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّن قَرْنٍ مَّكَّنَّاهُمْ فِي الْأَرْضِ مَا لَمْ نُمَكِّن لَّكُمْ وَأَرْسَلْنَا السَّمَاءَ عَلَيْهِم مِّدْرَارًا وَجَعَلْنَا الْأَنْهَارَ تَجْرِي مِن تَحْتِهِمْ فَأَهْلَكْنَاهُم بِذُنُوبِهِمْ وَأَنشَأْنَا مِن بَعْدِهِمْ قَرْنًا آخَرِينَ",
       "page_number": 128,
-      "juz_number": 7
+      "juz_number": 7,
+      "translations": [
+        {
+          "id": 101033,
+          "resource_id": 20,
+          "text": "Have they not seen how many generations We destroyed before them which We had established upon the earth as We have not established you? And We sent [rain from] the sky upon them in showers and made rivers flow beneath them; then We destroyed them for their sins and brought forth after them a generation of others."
+        },
+        {
+          "id": 954644,
+          "resource_id": 140,
+          "text": "¿Acaso no ven (cuando viajan) cuántas comunidades anteriores a ellos destruimos —y reflexionan sobre ello—, a pesar de que les concedimos en la tierra más poder que a vosotros (que negáis a Muhammad), y hacíamos descender (frecuentemente) sobre ellas lluvia en abundancia e hicimos que los ríos (y manantiales) fluyesen (por sus tierras)? No obstante, las destruimos por sus pecados (por negar a sus profetas) e hicimos que las sucedieran otras comunidades."
+        }
+      ]
     },
     {
       "id": 796,
@@ -144,7 +247,19 @@
       "text_uthmani": "وَلَوْ نَزَّلْنَا عَلَيْكَ كِتَـٰبًا فِى قِرْطَاسٍ فَلَمَسُوهُ بِأَيْدِيهِمْ لَقَالَ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَـٰذَآ إِلَّا سِحْرٌ مُّبِينٌ",
       "text_imlaei": "وَلَوْ نَزَّلْنَا عَلَيْكَ كِتَابًا فِي قِرْطَاسٍ فَلَمَسُوهُ بِأَيْدِيهِمْ لَقَالَ الَّذِينَ كَفَرُوا إِنْ هَٰذَا إِلَّا سِحْرٌ مُّبِينٌ",
       "page_number": 128,
-      "juz_number": 7
+      "juz_number": 7,
+      "translations": [
+        {
+          "id": 101057,
+          "resource_id": 20,
+          "text": "And even if We had sent down to you, [O Muḥammad], a written scripture on a page and they touched it with their hands, the disbelievers would say, \"This is not but obvious magic.\""
+        },
+        {
+          "id": 954645,
+          "resource_id": 140,
+          "text": "Y si hubiésemos hecho descender sobre ti (¡oh, Muhammad!) un libro escrito en un pergamino que pudieran tocar con sus propias manos (y cuyo descenso hubiesen podido presenciar), quienes rechazan la verdad habrían dicho: «Esto no es sino pura brujería»."
+        }
+      ]
     },
     {
       "id": 797,
@@ -158,7 +273,19 @@
       "text_uthmani": "وَقَالُوا۟ لَوْلَآ أُنزِلَ عَلَيْهِ مَلَكٌ ۖ وَلَوْ أَنزَلْنَا مَلَكًا لَّقُضِىَ ٱلْأَمْرُ ثُمَّ لَا يُنظَرُونَ",
       "text_imlaei": "وَقَالُوا لَوْلَا أُنزِلَ عَلَيْهِ مَلَكٌ ۖ وَلَوْ أَنزَلْنَا مَلَكًا لَّقُضِيَ الْأَمْرُ ثُمَّ لَا يُنظَرُونَ",
       "page_number": 128,
-      "juz_number": 7
+      "juz_number": 7,
+      "translations": [
+        {
+          "id": 101096,
+          "resource_id": 20,
+          "text": "And they say, \"Why was there not sent down to him an angel?\"<sup foot_note=196219>1</sup> But if We had sent down an angel, the matter would have been decided;<sup foot_note=196218>2</sup> then they would not be reprieved."
+        },
+        {
+          "id": 954646,
+          "resource_id": 140,
+          "text": "Y dicen (burlándose): «¿Por qué no ha sido enviado un ángel (con Muhammad)?». Si hubiésemos enviado a ellos un ángel, habrían sido destruidos sin demora alguna (sin tiempo para arrepentirse, porque no habrían creído<sup foot_note=149250>1</sup>)."
+        }
+      ]
     },
     {
       "id": 798,
@@ -172,7 +299,19 @@
       "text_uthmani": "وَلَوْ جَعَلْنَـٰهُ مَلَكًا لَّجَعَلْنَـٰهُ رَجُلًا وَلَلَبَسْنَا عَلَيْهِم مَّا يَلْبِسُونَ",
       "text_imlaei": "وَلَوْ جَعَلْنَاهُ مَلَكًا لَّجَعَلْنَاهُ رَجُلًا وَلَلَبَسْنَا عَلَيْهِم مَّا يَلْبِسُونَ",
       "page_number": 129,
-      "juz_number": 7
+      "juz_number": 7,
+      "translations": [
+        {
+          "id": 101159,
+          "resource_id": 20,
+          "text": "And if We had made him [i.e., the messenger] an angel, We would have made him [appear as] a man, and We would have covered them with that in which they cover themselves [i.e., confusion and doubt]."
+        },
+        {
+          "id": 954647,
+          "resource_id": 140,
+          "text": "Y si les hubiésemos enviado un ángel, le habríamos dado apariencia humana (para que pudieran hablar con él y beneficiarse de sus enseñanzas) y habríamos causado en ellos dudas (acerca de si era realmente un mensajero de Al-lah) del mismo modo que dudan (acerca de Muhammad)."
+        }
+      ]
     },
     {
       "id": 799,
@@ -186,7 +325,19 @@
       "text_uthmani": "وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍ مِّن قَبْلِكَ فَحَاقَ بِٱلَّذِينَ سَخِرُوا۟ مِنْهُم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
       "text_imlaei": "وَلَقَدِ اسْتُهْزِئَ بِرُسُلٍ مِّن قَبْلِكَ فَحَاقَ بِالَّذِينَ سَخِرُوا مِنْهُم مَّا كَانُوا بِهِ يَسْتَهْزِئُونَ",
       "page_number": 129,
-      "juz_number": 7
+      "juz_number": 7,
+      "translations": [
+        {
+          "id": 100846,
+          "resource_id": 20,
+          "text": "And already were messengers ridiculed before you, but those who mocked them were enveloped by that which they used to ridicule."
+        },
+        {
+          "id": 954648,
+          "resource_id": 140,
+          "text": "Y los mensajeros que te precedieron (¡oh, Muhammad!) también fueron objeto de burlas, y quienes se mofaban recibieron (el castigo) sobre el que ellos mismos se burlaban (y el cual negaban)."
+        }
+      ]
     }
   ],
   "audio_metadata": {

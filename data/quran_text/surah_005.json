@@ -1,9 +1,14 @@
 {
   "metadata": {
     "surah_number": 5,
-    "scraped_at": "2025-10-29T02:54:10.657066",
+    "scraped_at": "2025-10-29T03:59:29.292475",
     "source": "api.quran.com",
-    "version": "1.0"
+    "version": "1.0",
+    "translation_ids": [
+      131,
+      20,
+      140
+    ]
   },
   "license": {
     "text": {
@@ -11,14 +16,14 @@
       "license": "Public Domain",
       "attribution": "The Quran text is in the public domain",
       "terms_url": "https://quran.com/terms",
-      "fetched_at": "2025-10-29T02:54:10.657066"
+      "fetched_at": "2025-10-29T03:59:29.292475"
     },
     "translations": {
       "source": "api.quran.com",
       "license": "Various - See individual translation licenses",
       "attribution": "Translation copyrights belong to respective translators",
       "terms_url": "https://quran.com/terms",
-      "fetched_at": "2025-10-29T02:54:10.657066"
+      "fetched_at": "2025-10-29T03:59:29.292475"
     },
     "audio": {
       "source": "everyayah.com via api.quran.com",
@@ -26,7 +31,33 @@
       "attribution": "Audio recitations courtesy of everyayah.com",
       "terms_url": "https://everyayah.com/",
       "note": "Audio URLs provided - not downloaded locally due to size",
-      "fetched_at": "2025-10-29T02:54:10.657066"
+      "fetched_at": "2025-10-29T03:59:29.292475"
+    }
+  },
+  "translation_metadata": {
+    "131": {
+      "name": "Dr. Mustafa Khattab, The Clear Quran",
+      "author": "Dr. Mustafa Khattab",
+      "language": "en",
+      "language_name": "English",
+      "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0",
+      "source": "api.quran.com"
+    },
+    "20": {
+      "name": "Saheeh International",
+      "author": "Saheeh International",
+      "language": "en",
+      "language_name": "English",
+      "license": "Public Domain",
+      "source": "api.quran.com"
+    },
+    "140": {
+      "name": "Telugu Translation",
+      "author": "Unknown",
+      "language": "te",
+      "language_name": "Telugu",
+      "license": "Various",
+      "source": "api.quran.com"
     }
   },
   "surah_info": {
@@ -60,7 +91,19 @@
       "text_uthmani": " يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَوْفُوا۟ بِٱلْعُقُودِ ۚ أُحِلَّتْ لَكُم بَهِيمَةُ ٱلْأَنْعَـٰمِ إِلَّا مَا يُتْلَىٰ عَلَيْكُمْ غَيْرَ مُحِلِّى ٱلصَّيْدِ وَأَنتُمْ حُرُمٌ ۗ إِنَّ ٱللَّهَ يَحْكُمُ مَا يُرِيدُ",
       "text_imlaei": "يَا أَيُّهَا الَّذِينَ آمَنُوا أَوْفُوا بِالْعُقُودِ ۚ أُحِلَّتْ لَكُم بَهِيمَةُ الْأَنْعَامِ إِلَّا مَا يُتْلَىٰ عَلَيْكُمْ غَيْرَ مُحِلِّي الصَّيْدِ وَأَنتُمْ حُرُمٌ ۗ إِنَّ اللَّهَ يَحْكُمُ مَا يُرِيدُ",
       "page_number": 106,
-      "juz_number": 6
+      "juz_number": 6,
+      "translations": [
+        {
+          "id": 100248,
+          "resource_id": 20,
+          "text": "O you who have believed, fulfill [all] contracts.<sup foot_note=196165>1</sup> Lawful for you are the animals of grazing livestock except for that which is recited to you [in this Qur’ān] - hunting not being permitted while you are in the state of iḥrām.<sup foot_note=196164>2</sup> Indeed, Allāh ordains what He intends."
+        },
+        {
+          "id": 954519,
+          "resource_id": 140,
+          "text": "¡Oh, creyentes!, cumplid vuestros compromisos y obligaciones (con Al-lah y con los hombres). Se os permite (comer la carne de) los animales de rebaño<sup foot_note=149222>1</sup>, salvo lo que se os menciona (en esta misma sura). No se os permite cazar si os halláis en estado de consagración<sup foot_note=149223>2</sup> para realizar la peregrinación. Ciertamente, Al-lah dictamina lo que quiere."
+        }
+      ]
     },
     {
       "id": 671,
@@ -74,7 +117,19 @@
       "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُحِلُّوا۟ شَعَـٰٓئِرَ ٱللَّهِ وَلَا ٱلشَّهْرَ ٱلْحَرَامَ وَلَا ٱلْهَدْىَ وَلَا ٱلْقَلَـٰٓئِدَ وَلَآ ءَآمِّينَ ٱلْبَيْتَ ٱلْحَرَامَ يَبْتَغُونَ فَضْلًا مِّن رَّبِّهِمْ وَرِضْوَٰنًا ۚ وَإِذَا حَلَلْتُمْ فَٱصْطَادُوا۟ ۚ وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ أَن صَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ أَن تَعْتَدُوا۟ ۘ وَتَعَاوَنُوا۟ عَلَى ٱلْبِرِّ وَٱلتَّقْوَىٰ ۖ وَلَا تَعَاوَنُوا۟ عَلَى ٱلْإِثْمِ وَٱلْعُدْوَٰنِ ۚ وَٱتَّقُوا۟ ٱللَّهَ ۖ إِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ",
       "text_imlaei": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُحِلُّوا شَعَائِرَ اللَّهِ وَلَا الشَّهْرَ الْحَرَامَ وَلَا الْهَدْيَ وَلَا الْقَلَائِدَ وَلَا آمِّينَ الْبَيْتَ الْحَرَامَ يَبْتَغُونَ فَضْلًا مِّن رَّبِّهِمْ وَرِضْوَانًا ۚ وَإِذَا حَلَلْتُمْ فَاصْطَادُوا ۚ وَلَا يَجْرِمَنَّكُمْ شَنَآنُ قَوْمٍ أَن صَدُّوكُمْ عَنِ الْمَسْجِدِ الْحَرَامِ أَن تَعْتَدُوا ۘ وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوَىٰ ۖ وَلَا تَعَاوَنُوا عَلَى الْإِثْمِ وَالْعُدْوَانِ ۚ وَاتَّقُوا اللَّهَ ۖ إِنَّ اللَّهَ شَدِيدُ الْعِقَابِ",
       "page_number": 106,
-      "juz_number": 6
+      "juz_number": 6,
+      "translations": [
+        {
+          "id": 100341,
+          "resource_id": 20,
+          "text": "O you who have believed, do not violate the rites of Allāh or [the sanctity of] the sacred month or [neglect the marking of] the sacrificial animals and garlanding [them] or [violate the safety of] those coming to the Sacred House seeking bounty from their Lord and [His] approval. But when you come out of iḥrām, then [you may] hunt. And do not let the hatred of a people for having obstructed you from al-Masjid al-Ḥarām lead you to transgress. And cooperate in righteousness and piety, but do not cooperate in sin and aggression. And fear Allāh; indeed, Allāh is severe in penalty."
+        },
+        {
+          "id": 954520,
+          "resource_id": 140,
+          "text": "¡Oh, creyentes!, no profanéis los ritos de Al-lah (relacionados con la peregrinación), ni los meses sagrados, ni los animales destinados para el sacrificio ni (dejéis la práctica de adornar tales animales con) guirnaldas<sup foot_note=149224>1</sup> (para distinguirlos del resto de los animales y para que sean, pues, respetados). Y respetad a quienes se dirigen a la Casa Sagrada (la Kaaba) en busca del favor de Al-lah (a través del comercio) y de Su complacencia (realizando la peregrinación). Una vez finalizada la peregrinación y el estado de consagración para esta, se os permite cazar.Y que el rencor que sentís hacia quienes os impidieron llegar a la Mezquita Sagrada<sup foot_note=149225>2</sup> no os haga transgredir los límites. Ayudaos los unos a los otros para alcanzar la piedad y el temor de Al-lah, mas no os ayudéis en el pecado y en la transgresión. Y temed a Al-lah. Ciertamente, Al-lah es severo en el castigo."
+        }
+      ]
     },
     {
       "id": 672,
@@ -88,7 +143,19 @@
       "text_uthmani": "حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ وَٱلْمُنْخَنِقَةُ وَٱلْمَوْقُوذَةُ وَٱلْمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ وَأَن تَسْتَقْسِمُوا۟ بِٱلْأَزْلَـٰمِ ۚ ذَٰلِكُمْ فِسْقٌ ۗ ٱلْيَوْمَ يَئِسَ ٱلَّذِينَ كَفَرُوا۟ مِن دِينِكُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِ ۚ ٱلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَـٰمَ دِينًا ۚ فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍ لِّإِثْمٍ ۙ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
       "text_imlaei": "حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ وَالدَّمُ وَلَحْمُ الْخِنزِيرِ وَمَا أُهِلَّ لِغَيْرِ اللَّهِ بِهِ وَالْمُنْخَنِقَةُ وَالْمَوْقُوذَةُ وَالْمُتَرَدِّيَةُ وَالنَّطِيحَةُ وَمَا أَكَلَ السَّبُعُ إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى النُّصُبِ وَأَن تَسْتَقْسِمُوا بِالْأَزْلَامِ ۚ ذَٰلِكُمْ فِسْقٌ ۗ الْيَوْمَ يَئِسَ الَّذِينَ كَفَرُوا مِن دِينِكُمْ فَلَا تَخْشَوْهُمْ وَاخْشَوْنِ ۚ الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِي وَرَضِيتُ لَكُمُ الْإِسْلَامَ دِينًا ۚ فَمَنِ اضْطُرَّ فِي مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍ لِّإِثْمٍ ۙ فَإِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ",
       "page_number": 107,
-      "juz_number": 6
+      "juz_number": 6,
+      "translations": [
+        {
+          "id": 100397,
+          "resource_id": 20,
+          "text": "Prohibited to you are dead animals,<sup foot_note=196167>1</sup> blood, the flesh of swine, and that which has been dedicated to other than Allāh, and [those animals] killed by strangling or by a violent blow or by a head-long fall or by the goring of horns, and those from which a wild animal has eaten, except what you [are able to] slaughter [before its death], and those which are sacrificed on stone altars,<sup foot_note=196166>2</sup> and [prohibited is] that you seek decision through divining arrows. That is grave disobedience. This day those who disbelieve have despaired of [defeating] your religion; so fear them not, but fear Me. This day I have perfected for you your religion and completed My favor upon you and have approved for you Islām as religion. But whoever is forced by severe hunger with no inclination to sin - then indeed, Allāh is Forgiving and Merciful."
+        },
+        {
+          "id": 954521,
+          "resource_id": 140,
+          "text": "Se os prohíbe (comer) la carne del animal encontrado muerto, la sangre, la carne de cerdo y la de cualquier animal que haya sido sacrificado en nombre de otro que no sea Al-lah. Se os prohíbe también la carne del animal que muere asfixiado, golpeado, despeñado o corneado, y la carne del animal que haya sido devorado en parte por una fiera, salvo si lo sacrificáis (antes de que muera). Se os prohíben los animales sacrificados en altares de piedra dedicados a falsas divinidades. También se os prohíbe tomar decisiones a través de la adivinación. Todo ello es una abominación (y su práctica conlleva la desobediencia). Hoy, quienes rechazan la verdad han perdido toda esperanza de haceros renegar de vuestra religión; no los temáis, pues, y temedme solo a Mí. Hoy he completado vuestra religión y Mi favor sobre vosotros y he escogido el islam como vuestra religión. Y quien se vea obligado a comer de lo prohibido por necesidad extrema sin intención de pecar, entonces Al-lah es Indulgente y Misericordioso."
+        }
+      ]
     },
     {
       "id": 673,
@@ -102,7 +169,19 @@
       "text_uthmani": "يَسْـَٔلُونَكَ مَاذَآ أُحِلَّ لَهُمْ ۖ قُلْ أُحِلَّ لَكُمُ ٱلطَّيِّبَـٰتُ ۙ وَمَا عَلَّمْتُم مِّنَ ٱلْجَوَارِحِ مُكَلِّبِينَ تُعَلِّمُونَهُنَّ مِمَّا عَلَّمَكُمُ ٱللَّهُ ۖ فَكُلُوا۟ مِمَّآ أَمْسَكْنَ عَلَيْكُمْ وَٱذْكُرُوا۟ ٱسْمَ ٱللَّهِ عَلَيْهِ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ",
       "text_imlaei": "يَسْأَلُونَكَ مَاذَا أُحِلَّ لَهُمْ ۖ قُلْ أُحِلَّ لَكُمُ الطَّيِّبَاتُ ۙ وَمَا عَلَّمْتُم مِّنَ الْجَوَارِحِ مُكَلِّبِينَ تُعَلِّمُونَهُنَّ مِمَّا عَلَّمَكُمُ اللَّهُ ۖ فَكُلُوا مِمَّا أَمْسَكْنَ عَلَيْكُمْ وَاذْكُرُوا اسْمَ اللَّهِ عَلَيْهِ ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ سَرِيعُ الْحِسَابِ",
       "page_number": 107,
-      "juz_number": 6
+      "juz_number": 6,
+      "translations": [
+        {
+          "id": 100462,
+          "resource_id": 20,
+          "text": "They ask you, [O Muḥammad], what has been made lawful for them. Say, \"Lawful for you are [all] good foods and [game caught by] what you have trained of hunting animals<sup foot_note=196168>1</sup> which you train as Allāh has taught you. So eat of what they catch for you, and mention the name of Allāh upon it, and fear Allāh.\" Indeed, Allāh is swift in account."
+        },
+        {
+          "id": 954522,
+          "resource_id": 140,
+          "text": "Te preguntan (¡oh, Muhammad!) acerca de qué les es lícito (comer). Diles: «Se os permiten todas las cosas buenas (que no son nocivas ni han sido adquiridas de manera ilegal), y lo que capturen para vosotros los animales de presa instruidos para la caza de acuerdo con lo que Al-lah os ha enseñado». Comed, pues, de lo que capturen para vosotros y mencionad el nombre de Al-lah (cuando los soltéis para cazar). Y temed a Al-lah. Ciertamente, Al-lah es rápido en la retribución de Su recompensa."
+        }
+      ]
     },
     {
       "id": 674,
@@ -116,7 +195,19 @@
       "text_uthmani": "ٱلْيَوْمَ أُحِلَّ لَكُمُ ٱلطَّيِّبَـٰتُ ۖ وَطَعَامُ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ حِلٌّ لَّكُمْ وَطَعَامُكُمْ حِلٌّ لَّهُمْ ۖ وَٱلْمُحْصَنَـٰتُ مِنَ ٱلْمُؤْمِنَـٰتِ وَٱلْمُحْصَنَـٰتُ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ مِن قَبْلِكُمْ إِذَآ ءَاتَيْتُمُوهُنَّ أُجُورَهُنَّ مُحْصِنِينَ غَيْرَ مُسَـٰفِحِينَ وَلَا مُتَّخِذِىٓ أَخْدَانٍ ۗ وَمَن يَكْفُرْ بِٱلْإِيمَـٰنِ فَقَدْ حَبِطَ عَمَلُهُۥ وَهُوَ فِى ٱلْـَٔاخِرَةِ مِنَ ٱلْخَـٰسِرِينَ",
       "text_imlaei": "الْيَوْمَ أُحِلَّ لَكُمُ الطَّيِّبَاتُ ۖ وَطَعَامُ الَّذِينَ أُوتُوا الْكِتَابَ حِلٌّ لَّكُمْ وَطَعَامُكُمْ حِلٌّ لَّهُمْ ۖ وَالْمُحْصَنَاتُ مِنَ الْمُؤْمِنَاتِ وَالْمُحْصَنَاتُ مِنَ الَّذِينَ أُوتُوا الْكِتَابَ مِن قَبْلِكُمْ إِذَا آتَيْتُمُوهُنَّ أُجُورَهُنَّ مُحْصِنِينَ غَيْرَ مُسَافِحِينَ وَلَا مُتَّخِذِي أَخْدَانٍ ۗ وَمَن يَكْفُرْ بِالْإِيمَانِ فَقَدْ حَبِطَ عَمَلُهُ وَهُوَ فِي الْآخِرَةِ مِنَ الْخَاسِرِينَ",
       "page_number": 107,
-      "juz_number": 6
+      "juz_number": 6,
+      "translations": [
+        {
+          "id": 100528,
+          "resource_id": 20,
+          "text": "This day [all] good foods have been made lawful, and the food of those who were given the Scripture is lawful for you and your food is lawful for them. And [lawful in marriage are] chaste women from among the believers and chaste women from among those who were given the Scripture before you, when you have given them their due compensation,<sup foot_note=196169>1</sup> desiring chastity, not unlawful sexual intercourse or taking [secret] lovers. And whoever denies the faith - his work has become worthless, and he, in the Hereafter, will be among the losers."
+        },
+        {
+          "id": 954523,
+          "resource_id": 140,
+          "text": "Hoy se os han hecho lícitas todas las cosas buenas, así como los animales sacrificados<sup foot_note=149226>1</sup> por quienes recibieron las Escrituras,como también se les permite a ellos alimentarse de lo que vosotros habéis sacrificado. También os son lícitas en matrimonio las mujeres virtuosas de entre los creyentes y las mujeres virtuosas de quienes recibieron las Escrituras antes que vosotros si les entregáis unos bienes como maher con la intención de casaros con ellas, no como fornicadores ni para tomarlas como amantes. Y quien reniegue de su fe habrá echado a perder todas sus buenas acciones, y en la otra vida estará entre los perdedores."
+        }
+      ]
     },
     {
       "id": 675,
@@ -130,7 +221,19 @@
       "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا قُمْتُمْ إِلَى ٱلصَّلَوٰةِ فَٱغْسِلُوا۟ وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى ٱلْمَرَافِقِ وَٱمْسَحُوا۟ بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى ٱلْكَعْبَيْنِ ۚ وَإِن كُنتُمْ جُنُبًا فَٱطَّهَّرُوا۟ ۚ وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَـٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءً فَتَيَمَّمُوا۟ صَعِيدًا طَيِّبًا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُم مِّنْهُ ۚ مَا يُرِيدُ ٱللَّهُ لِيَجْعَلَ عَلَيْكُم مِّنْ حَرَجٍ وَلَـٰكِن يُرِيدُ لِيُطَهِّرَكُمْ وَلِيُتِمَّ نِعْمَتَهُۥ عَلَيْكُمْ لَعَلَّكُمْ تَشْكُرُونَ",
       "text_imlaei": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا قُمْتُمْ إِلَى الصَّلَاةِ فَاغْسِلُوا وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى الْمَرَافِقِ وَامْسَحُوا بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى الْكَعْبَيْنِ ۚ وَإِن كُنتُمْ جُنُبًا فَاطَّهَّرُوا ۚ وَإِن كُنتُم مَّرْضَىٰ أَوْ عَلَىٰ سَفَرٍ أَوْ جَاءَ أَحَدٌ مِّنكُم مِّنَ الْغَائِطِ أَوْ لَامَسْتُمُ النِّسَاءَ فَلَمْ تَجِدُوا مَاءً فَتَيَمَّمُوا صَعِيدًا طَيِّبًا فَامْسَحُوا بِوُجُوهِكُمْ وَأَيْدِيكُم مِّنْهُ ۚ مَا يُرِيدُ اللَّهُ لِيَجْعَلَ عَلَيْكُم مِّنْ حَرَجٍ وَلَٰكِن يُرِيدُ لِيُطَهِّرَكُمْ وَلِيُتِمَّ نِعْمَتَهُ عَلَيْكُمْ لَعَلَّكُمْ تَشْكُرُونَ",
       "page_number": 108,
-      "juz_number": 6
+      "juz_number": 6,
+      "translations": [
+        {
+          "id": 100618,
+          "resource_id": 20,
+          "text": "O you who have believed, when you rise to [perform] prayer, wash your faces and your forearms to the elbows and wipe over your heads and wash your feet to the ankles. And if you are in a state of janābah,<sup foot_note=196171>1</sup> then purify yourselves. But if you are ill or on a journey or one of you comes from the place of relieving himself or you have contacted women<sup foot_note=196170>2</sup> and do not find water, then seek clean earth and wipe over your faces and hands with it. Allāh does not intend to make difficulty for you, but He intends to purify you and complete His favor upon you that you may be grateful."
+        },
+        {
+          "id": 954524,
+          "resource_id": 140,
+          "text": "¡Oh, creyentes!, cuando os dispongáis a rezar, lavaos la cara y los brazos desde las manos hasta los codos inclusive, pasaos las manos húmedas por vuestras cabezas y (lavaos) los pies hasta los tobillos inclusive<sup foot_note=149227>1</sup>; y si estáis en estado de impureza sexual, purificaos con un baño completo. Si estuvierais enfermos o de viaje, o alguno de vosotros viniese de hacer sus necesidades, o hubieseis tenido contacto sexual con vuestras mujeres y no encontraseis agua, purificaos con tierra limpia y pura (sacudiendo en ella las manos y eliminando el exceso de tierra) pasando las manos por los rostros y frotándooslas (a continuación).Al-lah no quiere poneros en dificultades, sino que quiere purificaros y completar Su favor sobre vosotros para que seáis agradecidos."
+        }
+      ]
     },
     {
       "id": 676,
@@ -144,7 +247,19 @@
       "text_uthmani": "وَٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ وَمِيثَـٰقَهُ ٱلَّذِى وَاثَقَكُم بِهِۦٓ إِذْ قُلْتُمْ سَمِعْنَا وَأَطَعْنَا ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ",
       "text_imlaei": "وَاذْكُرُوا نِعْمَةَ اللَّهِ عَلَيْكُمْ وَمِيثَاقَهُ الَّذِي وَاثَقَكُم بِهِ إِذْ قُلْتُمْ سَمِعْنَا وَأَطَعْنَا ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ عَلِيمٌ بِذَاتِ الصُّدُورِ",
       "page_number": 108,
-      "juz_number": 6
+      "juz_number": 6,
+      "translations": [
+        {
+          "id": 100720,
+          "resource_id": 20,
+          "text": "And remember the favor of Allāh upon you and His covenant with which He bound you when you said, \"We hear and we obey\"; and fear Allāh. Indeed, Allāh is Knowing of that within the breasts."
+        },
+        {
+          "id": 954525,
+          "resource_id": 140,
+          "text": "Y recordad la gracia que Al-lah os ha concedido (el islam) y el pacto al que os comprometisteis con Él cuando dijisteis (al Profeta jurándole fidelidad al aceptar la religión): «Oímos y obedecemos». Y temed a Al-lah; ciertamente, Al-lah conoce lo que encierran los corazones."
+        }
+      ]
     },
     {
       "id": 677,
@@ -158,7 +273,19 @@
       "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ لِلَّهِ شُهَدَآءَ بِٱلْقِسْطِ ۖ وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ عَلَىٰٓ أَلَّا تَعْدِلُوا۟ ۚ ٱعْدِلُوا۟ هُوَ أَقْرَبُ لِلتَّقْوَىٰ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
       "text_imlaei": "يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ لِلَّهِ شُهَدَاءَ بِالْقِسْطِ ۖ وَلَا يَجْرِمَنَّكُمْ شَنَآنُ قَوْمٍ عَلَىٰ أَلَّا تَعْدِلُوا ۚ اعْدِلُوا هُوَ أَقْرَبُ لِلتَّقْوَىٰ ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ خَبِيرٌ بِمَا تَعْمَلُونَ",
       "page_number": 108,
-      "juz_number": 6
+      "juz_number": 6,
+      "translations": [
+        {
+          "id": 100762,
+          "resource_id": 20,
+          "text": "O you who have believed, be persistently standing firm for Allāh, witnesses in justice, and do not let the hatred of a people prevent you from being just. Be just; that is nearer to righteousness. And fear Allāh; indeed, Allāh is [fully] Aware of what you do."
+        },
+        {
+          "id": 954526,
+          "resource_id": 140,
+          "text": "¡Oh, creyentes!, manteneos firmes en la verdad por Al-lah (y cumplid vuestras obligaciones para con Él) y sed testigos justos.Y que el odio que sentís hacia quienes rechazan la verdad no os impida actuar con justicia. Sed justos, pues es lo más cercano a la piedad. Y temed a Al-lah; ciertamente, Al-lah está bien informado de lo que hacéis."
+        }
+      ]
     },
     {
       "id": 678,
@@ -172,7 +299,19 @@
       "text_uthmani": "وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ ۙ لَهُم مَّغْفِرَةٌ وَأَجْرٌ عَظِيمٌ",
       "text_imlaei": "وَعَدَ اللَّهُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ ۙ لَهُم مَّغْفِرَةٌ وَأَجْرٌ عَظِيمٌ",
       "page_number": 108,
-      "juz_number": 6
+      "juz_number": 6,
+      "translations": [
+        {
+          "id": 100796,
+          "resource_id": 20,
+          "text": "Allāh has promised those who believe and do righteous deeds [that] for them there is forgiveness and great reward."
+        },
+        {
+          "id": 954527,
+          "resource_id": 140,
+          "text": "Al-lah ha prometido a quienes creen y obran rectamente que obtendrán Su perdón y una gran recompensa."
+        }
+      ]
     },
     {
       "id": 679,
@@ -186,7 +325,19 @@
       "text_uthmani": "وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَـٰتِنَآ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْجَحِيمِ",
       "text_imlaei": "وَالَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا أُولَٰئِكَ أَصْحَابُ الْجَحِيمِ",
       "page_number": 109,
-      "juz_number": 6
+      "juz_number": 6,
+      "translations": [
+        {
+          "id": 100249,
+          "resource_id": 20,
+          "text": "But those who disbelieve and deny Our signs - those are the companions of Hellfire."
+        },
+        {
+          "id": 954528,
+          "resource_id": 140,
+          "text": "Y quienes rechacen la verdad y nieguen Nuestras aleyas (y las pruebas que os ha traído Muhammad) serán los habitantes del fuego."
+        }
+      ]
     }
   ],
   "audio_metadata": {
