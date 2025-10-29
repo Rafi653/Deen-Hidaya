@@ -139,7 +139,7 @@ export default function Reader() {
 
           {!loading && !error && filteredSurahs.length === 0 && (
             <div className="text-center py-12 text-gray-600 dark:text-gray-400">
-              <p>No surahs found matching "{searchQuery}"</p>
+              <p>No surahs found matching &quot;{searchQuery}&quot;</p>
             </div>
           )}
         </div>
