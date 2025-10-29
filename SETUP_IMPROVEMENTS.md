@@ -77,6 +77,8 @@ for verse in verses:
 
 **Result:** Every verse now has an audio URL following the everyayah.com pattern (e.g., `http://everyayah.com/data/Alafasy_128kbps/001001.mp3`).
 
+**Note on HTTP URLs:** The everyayah.com service uses HTTP (not HTTPS). This is the standard URL pattern for their API. For production use, consider setting up a proxy that serves these audio files over HTTPS or hosting audio files directly.
+
 ### 4. Implemented Q&A Endpoint
 
 **Problem:** Frontend was calling `/api/v1/qa/ask` endpoint which didn't exist, causing 404 errors.
@@ -192,7 +194,12 @@ All code changes:
 
 2. **Audio URL Pattern:** Uses everyayah.com URL pattern which may not work for all verses if the reciter doesn't have complete recordings. Consider adding fallback audio sources.
 
-3. **Q&A Answers:** Contextual answers are template-based. For more sophisticated answers, consider integrating with GPT-4 or similar LLM.
+3. **HTTP Audio URLs:** The everyayah.com service uses HTTP (not HTTPS) for audio URLs. For production deployments, consider:
+   - Setting up an HTTPS proxy for audio files
+   - Hosting audio files directly on your infrastructure
+   - Using a CDN with HTTPS support
+
+4. **Q&A Answers:** Contextual answers are template-based. For more sophisticated answers, consider integrating with GPT-4 or similar LLM.
 
 ## Performance Impact
 
@@ -228,10 +235,32 @@ For existing installations:
    ```
 
 4. **(Optional) Generate embeddings for better Q&A:**
+   
+   First, add your OpenAI API key to `.env`:
    ```bash
-   # Add OPENAI_API_KEY to .env first
+   OPENAI_API_KEY=your_actual_api_key_here
+   ```
+   
+   Then restart backend and generate embeddings:
+   ```bash
    docker compose restart backend
-   docker compose exec backend python -c "from embedding_service import EmbeddingService; from database import SessionLocal; from models import Verse; es = EmbeddingService(); db = SessionLocal(); verses = db.query(Verse).all(); es.create_embeddings_batch([v.id for v in verses], 'en', db)"
+   
+   # Generate embeddings for all verses (cleaner multi-line version)
+   docker compose exec backend python << 'EOF'
+from embedding_service import EmbeddingService
+from database import SessionLocal
+from models import Verse
+
+es = EmbeddingService()
+db = SessionLocal()
+try:
+    verses = db.query(Verse).all()
+    verse_ids = [v.id for v in verses]
+    result = es.create_embeddings_batch(verse_ids, 'en', db)
+    print(f"Embedded {result['success']} verses")
+finally:
+    db.close()
+EOF
    ```
 
 ## Conclusion
