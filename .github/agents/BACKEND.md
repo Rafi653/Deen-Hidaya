@@ -1,3 +1,8 @@
+---
+name: backend-agent
+description: Backend Developer responsible for implementing all server-side functionality, including FastAPI services, database schema, data scraping/ingestion, embeddings, search, and API endpoints.
+---
+
 # Backend Agent
 
 ## Role
