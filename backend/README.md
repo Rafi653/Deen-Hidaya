@@ -37,32 +37,54 @@ uvicorn main:app --reload
 
 ## Testing
 
-### Running Tests
+### Quick Start
 
-Run all tests:
+The easiest way to run tests is using the provided test runner script:
+
 ```bash
-pytest
+./run_tests.sh
+```
+
+This script automatically:
+- Sets `TESTING=true` to use SQLite instead of PostgreSQL
+- Cleans up any previous test databases and Python cache
+- Runs pytest with all tests
+
+You can also pass pytest arguments to the script:
+```bash
+./run_tests.sh -v                    # Verbose output
+./run_tests.sh test_api.py          # Run specific file
+./run_tests.sh -k test_health        # Run tests matching pattern
+./run_tests.sh --cov=.              # With coverage
+```
+
+### Running Tests Manually
+
+If you prefer to run pytest directly, always set `TESTING=true`:
+
+```bash
+TESTING=true pytest
 ```
 
 Run tests with coverage:
 ```bash
-pytest --cov=. --cov-report=html
+TESTING=true pytest --cov=. --cov-report=html
 ```
 
 Run specific test file:
 ```bash
-pytest test_api.py -v
+TESTING=true pytest test_api.py -v
 ```
 
 Run tests with specific markers:
 ```bash
-pytest -m unit          # Run only unit tests
-pytest -m integration   # Run only integration tests
+TESTING=true pytest -m unit          # Run only unit tests
+TESTING=true pytest -m integration   # Run only integration tests
 ```
 
 ### Test Database
 
-Tests automatically use an in-memory SQLite database, so you don't need PostgreSQL running to execute tests. The test environment is activated by setting `TESTING=true` in the environment.
+Tests automatically use a file-based SQLite database in `/tmp` when `TESTING=true` is set, so you don't need PostgreSQL running to execute tests. This also avoids any psycopg2 installation issues during testing.
 
 ## Database Migrations
 
