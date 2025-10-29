@@ -71,3 +71,99 @@ class SurahDetailResponse(BaseModel):
     
     class Config:
         from_attributes = True
+
+
+class AudioMetadataResponse(BaseModel):
+    """Audio metadata response schema"""
+    id: int
+    reciter: str
+    reciter_arabic: Optional[str] = None
+    audio_url: str
+    duration: Optional[float] = None
+    format: Optional[str] = None
+    quality: Optional[str] = None
+    
+    class Config:
+        from_attributes = True
+
+
+class BookmarkCreate(BaseModel):
+    """Schema for creating a bookmark"""
+    verse_id: int = Field(..., description="ID of the verse to bookmark")
+    user_id: str = Field(..., description="User ID or session ID")
+    note: Optional[str] = Field(None, description="Optional note for the bookmark")
+
+
+class BookmarkResponse(BaseModel):
+    """Bookmark response schema"""
+    id: int
+    verse_id: int
+    user_id: str
+    note: Optional[str] = None
+    created_at: datetime
+    updated_at: datetime
+    
+    class Config:
+        from_attributes = True
+
+
+class BookmarkWithVerseResponse(BaseModel):
+    """Bookmark response with verse details"""
+    id: int
+    verse_id: int
+    user_id: str
+    note: Optional[str] = None
+    created_at: datetime
+    updated_at: datetime
+    verse: Optional[VerseResponse] = None
+    
+    class Config:
+        from_attributes = True
+
+
+class SearchResult(BaseModel):
+    """Search result schema"""
+    verse_id: int
+    verse_number: int
+    surah_number: int
+    surah_name: str
+    text_arabic: str
+    text_transliteration: Optional[str] = None
+    translations: List[TranslationResponse] = []
+    score: float = Field(..., description="Relevance score")
+    match_type: str = Field(..., description="Type of match: exact, fuzzy, or semantic")
+
+
+class SearchResponse(BaseModel):
+    """Search response schema"""
+    query: str
+    results: List[SearchResult]
+    total: int
+    search_type: str = Field(..., description="Search type used: exact, fuzzy, semantic, or hybrid")
+
+
+class IngestRequest(BaseModel):
+    """Request schema for ingesting data"""
+    surah_numbers: Optional[List[int]] = Field(None, description="Specific surah numbers to scrape")
+
+
+class IngestResponse(BaseModel):
+    """Response schema for ingest operation"""
+    status: str
+    message: str
+    surahs_processed: List[int] = []
+    verses_processed: int = 0
+
+
+class EmbedRequest(BaseModel):
+    """Request schema for creating embeddings"""
+    verse_ids: Optional[List[int]] = Field(None, description="Specific verse IDs to embed")
+    model: str = Field("text-embedding-ada-002", description="Embedding model to use")
+    language: str = Field("en", description="Language of text to embed")
+
+
+class EmbedResponse(BaseModel):
+    """Response schema for embed operation"""
+    status: str
+    message: str
+    verses_embedded: int = 0

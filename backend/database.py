@@ -16,7 +16,16 @@ POSTGRES_DB = os.getenv("POSTGRES_DB", "deen_hidaya")
 
 DATABASE_URL = f"postgresql://{POSTGRES_USER}:{POSTGRES_PASSWORD}@{POSTGRES_HOST}:{POSTGRES_PORT}/{POSTGRES_DB}"
 
-engine = create_engine(DATABASE_URL)
+# Check if we're running in test mode
+TESTING = os.getenv("TESTING", "false").lower() == "true"
+
+if TESTING:
+    # Use SQLite in-memory database for testing
+    engine = create_engine("sqlite:///:memory:", connect_args={"check_same_thread": False})
+else:
+    engine = create_engine(DATABASE_URL)
+
+# engine = create_engine(DATABASE_URL)
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 
 Base = declarative_base()
