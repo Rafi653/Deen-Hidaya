@@ -228,6 +228,11 @@ const MOCK_QA_RESPONSE: QAResponse = {
 };
 
 export async function askQuestion(request: QARequest): Promise<QAResponse> {
+  const getMockResponse = () => ({
+    ...MOCK_QA_RESPONSE,
+    question: request.question,
+  });
+
   try {
     const response = await fetch(`${API_BASE_URL}/api/v1/qa/ask`, {
       method: 'POST',
@@ -239,20 +244,12 @@ export async function askQuestion(request: QARequest): Promise<QAResponse> {
     
     if (!response.ok) {
       console.warn('Q&A endpoint not available, using mock data');
-      // Return mock data with the user's question
-      return {
-        ...MOCK_QA_RESPONSE,
-        question: request.question,
-      };
+      return getMockResponse();
     }
     
     return response.json();
   } catch (error) {
     console.warn('Q&A endpoint not available, using mock data', error);
-    // Return mock data with the user's question
-    return {
-      ...MOCK_QA_RESPONSE,
-      question: request.question,
-    };
+    return getMockResponse();
   }
 }

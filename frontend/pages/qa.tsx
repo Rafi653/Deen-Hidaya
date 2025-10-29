@@ -27,7 +27,10 @@ export default function QA() {
       });
       setResponse(result);
     } catch (err) {
-      setError('Failed to process your question. Please try again.');
+      const errorMessage = err instanceof Error 
+        ? `Failed to process your question: ${err.message}` 
+        : 'Failed to process your question. Please check your connection and try again.';
+      setError(errorMessage);
       console.error(err);
     } finally {
       setLoading(false);
@@ -215,7 +218,7 @@ export default function QA() {
 
                       {/* Arabic Text */}
                       <div className="mb-3 text-right">
-                        <p className="text-2xl leading-loose text-gray-900 dark:text-gray-100 font-arabic">
+                        <p className="text-2xl leading-loose text-gray-900 dark:text-gray-100 font-arabic" lang="ar">
                           {verse.text_arabic}
                         </p>
                       </div>
@@ -223,7 +226,7 @@ export default function QA() {
                       {/* Transliteration */}
                       {verse.text_transliteration && (
                         <div className="mb-3">
-                          <p className="text-sm italic text-gray-600 dark:text-gray-400">
+                          <p className="text-sm italic text-gray-600 dark:text-gray-400" lang="ar-Latn">
                             {verse.text_transliteration}
                           </p>
                         </div>
@@ -298,7 +301,7 @@ export default function QA() {
                     
                     {/* Arabic */}
                     <div className="mb-4 text-right">
-                      <p className="text-3xl leading-loose text-gray-900 dark:text-gray-100 font-arabic">
+                      <p className="text-3xl leading-loose text-gray-900 dark:text-gray-100 font-arabic" lang="ar">
                         {selectedVerse.text_arabic}
                       </p>
                     </div>
@@ -306,7 +309,7 @@ export default function QA() {
                     {/* Transliteration */}
                     {selectedVerse.text_transliteration && (
                       <div className="mb-4">
-                        <p className="text-base italic text-gray-600 dark:text-gray-400">
+                        <p className="text-base italic text-gray-600 dark:text-gray-400" lang="ar-Latn">
                           {selectedVerse.text_transliteration}
                         </p>
                       </div>
