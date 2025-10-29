@@ -151,19 +151,28 @@ def setup_database():
     
     db.commit()
     
-    # Create test tags (check if Tag model has name_arabic field)
-    try:
-        tags = [
-            Tag(name="Faith"),
-            Tag(name="Mercy"),
-            Tag(name="Prayer"),
-        ]
-        for tag in tags:
-            db.add(tag)
-        db.commit()
-    except TypeError:
-        # Tag model might not have name_arabic field
-        pass
+    # Create test tags (Tag model may not have name_arabic field in all versions)
+    # Using introspection to check available fields
+    from sqlalchemy import inspect as sql_inspect
+    tag_mapper = sql_inspect(Tag)
+    tag_columns = [col.key for col in tag_mapper.columns]
+    
+    tags_data = [
+        {"name": "Faith"},
+        {"name": "Mercy"},
+        {"name": "Prayer"},
+    ]
+    
+    # Add name_arabic if the field exists
+    if "name_arabic" in tag_columns:
+        tags_data[0]["name_arabic"] = "الإيمان"
+        tags_data[1]["name_arabic"] = "الرحمة"
+        tags_data[2]["name_arabic"] = "الصلاة"
+    
+    for tag_data in tags_data:
+        db.add(Tag(**tag_data))
+    
+    db.commit()
     
     # Associate verses with tags
     verse_tags = [
@@ -478,7 +487,7 @@ class TestEmbeddingsAndSemanticSearch:
         assert service.dimension == 1536
     
     @patch("embedding_service.OpenAI")
-    def test_embedding_generation_mock(self, mock_openai):
+    def test_embedding_generation_mock(self, mock_openai, monkeypatch):
         """Test embedding generation with mocked OpenAI"""
         mock_client = Mock()
         mock_response = Mock()
@@ -486,7 +495,8 @@ class TestEmbeddingsAndSemanticSearch:
         mock_client.embeddings.create.return_value = mock_response
         mock_openai.return_value = mock_client
         
-        os.environ["OPENAI_API_KEY"] = "test-key"
+        # Use monkeypatch to set environment variable safely
+        monkeypatch.setenv("OPENAI_API_KEY", "test-key")
         
         service = EmbeddingService()
         embedding = service.generate_embedding("test text")
@@ -513,7 +523,7 @@ class TestEmbeddingsAndSemanticSearch:
         assert "results" in data
     
     @patch("embedding_service.OpenAI")
-    def test_batch_embedding_creation(self, mock_openai):
+    def test_batch_embedding_creation(self, mock_openai, monkeypatch):
         """Test batch embedding creation endpoint"""
         mock_client = Mock()
         mock_response = Mock()
@@ -521,7 +531,8 @@ class TestEmbeddingsAndSemanticSearch:
         mock_client.embeddings.create.return_value = mock_response
         mock_openai.return_value = mock_client
         
-        os.environ["OPENAI_API_KEY"] = "test-key"
+        # Use monkeypatch to set environment variable safely
+        monkeypatch.setenv("OPENAI_API_KEY", "test-key")
         
         headers = {"Authorization": "Bearer dev_admin_token_change_in_production"}
         response = client.post(
@@ -586,9 +597,15 @@ class TestSecurityAndErrorHandling:
     
     def test_invalid_search_language(self):
         """Test invalid language code handling"""
-        response = client.get("/api/v1/search?q=test&lang=invalid")
-        # Should handle gracefully
-        assert response.status_code in [200, 400]
+        response = client.get("/api/v1/search?q=test&lang=invalid_lang")
+        
+        # API should either return no results (200) or reject invalid language (400)
+        # Based on implementation, it returns 200 with empty results for unsupported languages
+        assert response.status_code == 200
+        
+        data = response.json()
+        # With invalid language, should return no results
+        assert "results" in data
 
 
 # ==================== Performance and Integration Tests ====================
