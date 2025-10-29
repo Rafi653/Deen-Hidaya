@@ -185,7 +185,8 @@ class QuranScraper:
             "language": language,
             "words": "false",  # Don't fetch word-by-word data for now
             "translations": translations_param,
-            "fields": "text_uthmani,text_imlaei,verse_key,verse_number,juz_number,hizb_number,rub_el_hizb_number"
+            "fields": "text_uthmani,text_imlaei,verse_key,verse_number,juz_number,hizb_number,rub_el_hizb_number",
+            "per_page": 300  # Max verses in a surah (Al-Baqarah has 286)
         }
         
         result = self._make_request(endpoint, params=params)
