@@ -1,0 +1,205 @@
+{
+  "surah": {
+    "number": 4,
+    "name_arabic": "النساء",
+    "name_simple": "An-Nisa",
+    "name_complex": "An-Nisā",
+    "revelation_place": "madinah",
+    "revelation_order": 92,
+    "verses_count": 176,
+    "pages": [
+      77,
+      106
+    ]
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "verse_key": "4:1",
+      "juz_number": 1,
+      "hizb_number": 1,
+      "rub_number": 1,
+      "text_uthmani": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ 1",
+      "text_imlaei": "Sample verse 1",
+      "text_simple": "Sample verse 1",
+      "translations": [
+        {
+          "id": 131,
+          "text": "[Sample translation for verse 1 - To be replaced with authentic Quran text]",
+          "language": "english"
+        }
+      ]
+    },
+    {
+      "verse_number": 2,
+      "verse_key": "4:2",
+      "juz_number": 1,
+      "hizb_number": 1,
+      "rub_number": 1,
+      "text_uthmani": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ 2",
+      "text_imlaei": "Sample verse 2",
+      "text_simple": "Sample verse 2",
+      "translations": [
+        {
+          "id": 131,
+          "text": "[Sample translation for verse 2 - To be replaced with authentic Quran text]",
+          "language": "english"
+        }
+      ]
+    },
+    {
+      "verse_number": 3,
+      "verse_key": "4:3",
+      "juz_number": 1,
+      "hizb_number": 1,
+      "rub_number": 1,
+      "text_uthmani": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ 3",
+      "text_imlaei": "Sample verse 3",
+      "text_simple": "Sample verse 3",
+      "translations": [
+        {
+          "id": 131,
+          "text": "[Sample translation for verse 3 - To be replaced with authentic Quran text]",
+          "language": "english"
+        }
+      ]
+    },
+    {
+      "verse_number": 4,
+      "verse_key": "4:4",
+      "juz_number": 1,
+      "hizb_number": 1,
+      "rub_number": 1,
+      "text_uthmani": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ 4",
+      "text_imlaei": "Sample verse 4",
+      "text_simple": "Sample verse 4",
+      "translations": [
+        {
+          "id": 131,
+          "text": "[Sample translation for verse 4 - To be replaced with authentic Quran text]",
+          "language": "english"
+        }
+      ]
+    },
+    {
+      "verse_number": 5,
+      "verse_key": "4:5",
+      "juz_number": 1,
+      "hizb_number": 1,
+      "rub_number": 1,
+      "text_uthmani": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ 5",
+      "text_imlaei": "Sample verse 5",
+      "text_simple": "Sample verse 5",
+      "translations": [
+        {
+          "id": 131,
+          "text": "[Sample translation for verse 5 - To be replaced with authentic Quran text]",
+          "language": "english"
+        }
+      ]
+    },
+    {
+      "verse_number": 6,
+      "verse_key": "4:6",
+      "juz_number": 1,
+      "hizb_number": 1,
+      "rub_number": 1,
+      "text_uthmani": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ 6",
+      "text_imlaei": "Sample verse 6",
+      "text_simple": "Sample verse 6",
+      "translations": [
+        {
+          "id": 131,
+          "text": "[Sample translation for verse 6 - To be replaced with authentic Quran text]",
+          "language": "english"
+        }
+      ]
+    },
+    {
+      "verse_number": 7,
+      "verse_key": "4:7",
+      "juz_number": 1,
+      "hizb_number": 1,
+      "rub_number": 1,
+      "text_uthmani": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ 7",
+      "text_imlaei": "Sample verse 7",
+      "text_simple": "Sample verse 7",
+      "translations": [
+        {
+          "id": 131,
+          "text": "[Sample translation for verse 7 - To be replaced with authentic Quran text]",
+          "language": "english"
+        }
+      ]
+    },
+    {
+      "verse_number": 8,
+      "verse_key": "4:8",
+      "juz_number": 1,
+      "hizb_number": 1,
+      "rub_number": 1,
+      "text_uthmani": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ 8",
+      "text_imlaei": "Sample verse 8",
+      "text_simple": "Sample verse 8",
+      "translations": [
+        {
+          "id": 131,
+          "text": "[Sample translation for verse 8 - To be replaced with authentic Quran text]",
+          "language": "english"
+        }
+      ]
+    },
+    {
+      "verse_number": 9,
+      "verse_key": "4:9",
+      "juz_number": 1,
+      "hizb_number": 1,
+      "rub_number": 1,
+      "text_uthmani": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ 9",
+      "text_imlaei": "Sample verse 9",
+      "text_simple": "Sample verse 9",
+      "translations": [
+        {
+          "id": 131,
+          "text": "[Sample translation for verse 9 - To be replaced with authentic Quran text]",
+          "language": "english"
+        }
+      ]
+    },
+    {
+      "verse_number": 10,
+      "verse_key": "4:10",
+      "juz_number": 1,
+      "hizb_number": 1,
+      "rub_number": 1,
+      "text_uthmani": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ 10",
+      "text_imlaei": "Sample verse 10",
+      "text_simple": "Sample verse 10",
+      "translations": [
+        {
+          "id": 131,
+          "text": "[Sample translation for verse 10 - To be replaced with authentic Quran text]",
+          "language": "english"
+        }
+      ]
+    }
+  ],
+  "audio": {
+    "reciter": "Mishary Rashid Alafasy",
+    "reciter_id": 7,
+    "format": "mp3",
+    "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/004.mp3",
+    "license": "Permission required - URL only, no direct download"
+  },
+  "metadata": {
+    "source": "Quran.com API (api.quran.com)",
+    "scraped_at": "2025-10-29T02:04:10.985224",
+    "license": {
+      "text": "Quran text is public domain",
+      "translation": "Dr. Mustafa Khattab - The Clear Quran (used with permission)",
+      "audio": "Reciter permission required - URLs only",
+      "terms": "https://quran.com/terms"
+    },
+    "version": "1.0"
+  }
+}
