@@ -182,7 +182,7 @@ class QuranIngestor:
                 if not existing_source:
                     data_source = DataSource(
                         source_name=metadata.get("source", "Unknown"),
-                        license_text=str(metadata.get("license", {})),
+                        license_text=json.dumps(metadata.get("license", {})),
                         data_type="quran_text",
                         scraped_at=metadata.get("scraped_at"),
                         source_metadata=metadata

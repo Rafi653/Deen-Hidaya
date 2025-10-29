@@ -19,13 +19,13 @@
       "juz_number": 1,
       "hizb_number": 1,
       "rub_number": 1,
-      "text_uthmani": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ 1",
-      "text_imlaei": "Sample verse 1",
-      "text_simple": "Sample verse 1",
+      "text_uthmani": "[نص عربي نموذجي للآية 1]",
+      "text_imlaei": "[Sample verse 1 - placeholder]",
+      "text_simple": "[Sample verse 1 - placeholder]",
       "translations": [
         {
           "id": 131,
-          "text": "[Sample translation for verse 1 - To be replaced with authentic Quran text]",
+          "text": "[Placeholder translation for verse 1 - To be replaced with authentic Quran text from API]",
           "language": "english"
         }
       ]
@@ -36,13 +36,13 @@
       "juz_number": 1,
       "hizb_number": 1,
       "rub_number": 1,
-      "text_uthmani": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ 2",
-      "text_imlaei": "Sample verse 2",
-      "text_simple": "Sample verse 2",
+      "text_uthmani": "[نص عربي نموذجي للآية 2]",
+      "text_imlaei": "[Sample verse 2 - placeholder]",
+      "text_simple": "[Sample verse 2 - placeholder]",
       "translations": [
         {
           "id": 131,
-          "text": "[Sample translation for verse 2 - To be replaced with authentic Quran text]",
+          "text": "[Placeholder translation for verse 2 - To be replaced with authentic Quran text from API]",
           "language": "english"
         }
       ]
@@ -53,13 +53,13 @@
       "juz_number": 1,
       "hizb_number": 1,
       "rub_number": 1,
-      "text_uthmani": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ 3",
-      "text_imlaei": "Sample verse 3",
-      "text_simple": "Sample verse 3",
+      "text_uthmani": "[نص عربي نموذجي للآية 3]",
+      "text_imlaei": "[Sample verse 3 - placeholder]",
+      "text_simple": "[Sample verse 3 - placeholder]",
       "translations": [
         {
           "id": 131,
-          "text": "[Sample translation for verse 3 - To be replaced with authentic Quran text]",
+          "text": "[Placeholder translation for verse 3 - To be replaced with authentic Quran text from API]",
           "language": "english"
         }
       ]
@@ -70,13 +70,13 @@
       "juz_number": 1,
       "hizb_number": 1,
       "rub_number": 1,
-      "text_uthmani": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ 4",
-      "text_imlaei": "Sample verse 4",
-      "text_simple": "Sample verse 4",
+      "text_uthmani": "[نص عربي نموذجي للآية 4]",
+      "text_imlaei": "[Sample verse 4 - placeholder]",
+      "text_simple": "[Sample verse 4 - placeholder]",
       "translations": [
         {
           "id": 131,
-          "text": "[Sample translation for verse 4 - To be replaced with authentic Quran text]",
+          "text": "[Placeholder translation for verse 4 - To be replaced with authentic Quran text from API]",
           "language": "english"
         }
       ]
@@ -87,13 +87,13 @@
       "juz_number": 1,
       "hizb_number": 1,
       "rub_number": 1,
-      "text_uthmani": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ 5",
-      "text_imlaei": "Sample verse 5",
-      "text_simple": "Sample verse 5",
+      "text_uthmani": "[نص عربي نموذجي للآية 5]",
+      "text_imlaei": "[Sample verse 5 - placeholder]",
+      "text_simple": "[Sample verse 5 - placeholder]",
       "translations": [
         {
           "id": 131,
-          "text": "[Sample translation for verse 5 - To be replaced with authentic Quran text]",
+          "text": "[Placeholder translation for verse 5 - To be replaced with authentic Quran text from API]",
           "language": "english"
         }
       ]
@@ -104,13 +104,13 @@
       "juz_number": 1,
       "hizb_number": 1,
       "rub_number": 1,
-      "text_uthmani": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ 6",
-      "text_imlaei": "Sample verse 6",
-      "text_simple": "Sample verse 6",
+      "text_uthmani": "[نص عربي نموذجي للآية 6]",
+      "text_imlaei": "[Sample verse 6 - placeholder]",
+      "text_simple": "[Sample verse 6 - placeholder]",
       "translations": [
         {
           "id": 131,
-          "text": "[Sample translation for verse 6 - To be replaced with authentic Quran text]",
+          "text": "[Placeholder translation for verse 6 - To be replaced with authentic Quran text from API]",
           "language": "english"
         }
       ]
@@ -121,13 +121,13 @@
       "juz_number": 1,
       "hizb_number": 1,
       "rub_number": 1,
-      "text_uthmani": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ 7",
-      "text_imlaei": "Sample verse 7",
-      "text_simple": "Sample verse 7",
+      "text_uthmani": "[نص عربي نموذجي للآية 7]",
+      "text_imlaei": "[Sample verse 7 - placeholder]",
+      "text_simple": "[Sample verse 7 - placeholder]",
       "translations": [
         {
           "id": 131,
-          "text": "[Sample translation for verse 7 - To be replaced with authentic Quran text]",
+          "text": "[Placeholder translation for verse 7 - To be replaced with authentic Quran text from API]",
           "language": "english"
         }
       ]
@@ -138,13 +138,13 @@
       "juz_number": 1,
       "hizb_number": 1,
       "rub_number": 1,
-      "text_uthmani": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ 8",
-      "text_imlaei": "Sample verse 8",
-      "text_simple": "Sample verse 8",
+      "text_uthmani": "[نص عربي نموذجي للآية 8]",
+      "text_imlaei": "[Sample verse 8 - placeholder]",
+      "text_simple": "[Sample verse 8 - placeholder]",
       "translations": [
         {
           "id": 131,
-          "text": "[Sample translation for verse 8 - To be replaced with authentic Quran text]",
+          "text": "[Placeholder translation for verse 8 - To be replaced with authentic Quran text from API]",
           "language": "english"
         }
       ]
@@ -155,13 +155,13 @@
       "juz_number": 1,
       "hizb_number": 1,
       "rub_number": 1,
-      "text_uthmani": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ 9",
-      "text_imlaei": "Sample verse 9",
-      "text_simple": "Sample verse 9",
+      "text_uthmani": "[نص عربي نموذجي للآية 9]",
+      "text_imlaei": "[Sample verse 9 - placeholder]",
+      "text_simple": "[Sample verse 9 - placeholder]",
       "translations": [
         {
           "id": 131,
-          "text": "[Sample translation for verse 9 - To be replaced with authentic Quran text]",
+          "text": "[Placeholder translation for verse 9 - To be replaced with authentic Quran text from API]",
           "language": "english"
         }
       ]
@@ -172,13 +172,13 @@
       "juz_number": 1,
       "hizb_number": 1,
       "rub_number": 1,
-      "text_uthmani": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ 10",
-      "text_imlaei": "Sample verse 10",
-      "text_simple": "Sample verse 10",
+      "text_uthmani": "[نص عربي نموذجي للآية 10]",
+      "text_imlaei": "[Sample verse 10 - placeholder]",
+      "text_simple": "[Sample verse 10 - placeholder]",
       "translations": [
         {
           "id": 131,
-          "text": "[Sample translation for verse 10 - To be replaced with authentic Quran text]",
+          "text": "[Placeholder translation for verse 10 - To be replaced with authentic Quran text from API]",
           "language": "english"
         }
       ]
@@ -193,7 +193,7 @@
   },
   "metadata": {
     "source": "Quran.com API (api.quran.com)",
-    "scraped_at": "2025-10-29T02:04:10.985224",
+    "scraped_at": "2025-10-29T02:17:25.940716",
     "license": {
       "text": "Quran text is public domain",
       "translation": "Dr. Mustafa Khattab - The Clear Quran (used with permission)",

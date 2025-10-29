@@ -148,7 +148,7 @@ class QuranScraper:
         """
         # Sample data for first few surahs with authentic verses
         sample_verses = {
-            1: [  # Al-Fatihah
+            1: [  # Al-Fatihah (authentic text - complete surah)
                 {
                     "verse_number": 1,
                     "verse_key": "1:1",
@@ -215,14 +215,15 @@ class QuranScraper:
             verses = sample_verses[chapter_number]
         else:
             # Generate placeholder verses for other surahs
+            # NOTE: These are placeholders for demonstration only - not authentic Quran text
             verses_count = chapter_meta["verses_count"] if chapter_meta else 10
             verses = [
                 {
                     "verse_number": i,
                     "verse_key": f"{chapter_number}:{i}",
-                    "text_uthmani": f"بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ {i}",
-                    "text_simple": f"Sample verse {i}",
-                    "translation": f"[Sample translation for verse {i} - To be replaced with authentic Quran text]",
+                    "text_uthmani": f"[نص عربي نموذجي للآية {i}]",  # Placeholder: "Sample Arabic text for verse i"
+                    "text_simple": f"[Sample verse {i} - placeholder]",
+                    "translation": f"[Placeholder translation for verse {i} - To be replaced with authentic Quran text from API]",
                     "juz_number": 1,
                     "hizb_number": 1,
                     "rub_number": 1

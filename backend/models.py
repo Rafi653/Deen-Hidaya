@@ -4,10 +4,9 @@ Database models for Deen Hidaya
 Defines SQLAlchemy models for storing Quran data.
 """
 
-from sqlalchemy import Column, Integer, String, Text, ForeignKey, JSON, TIMESTAMP
+from sqlalchemy import Column, Integer, String, Text, ForeignKey, JSON, TIMESTAMP, func
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import relationship
-from datetime import datetime
 
 Base = declarative_base()
 
@@ -26,8 +25,8 @@ class Surah(Base):
     revelation_order = Column(Integer)
     verses_count = Column(Integer, nullable=False)
     pages = Column(JSON)  # [start_page, end_page]
-    created_at = Column(TIMESTAMP, default=datetime.now)
-    updated_at = Column(TIMESTAMP, default=datetime.now, onupdate=datetime.now)
+    created_at = Column(TIMESTAMP, server_default=func.now())
+    updated_at = Column(TIMESTAMP, server_default=func.now(), onupdate=func.now())
     
     # Relationship
     verses = relationship("Verse", back_populates="surah", cascade="all, delete-orphan")
@@ -52,8 +51,8 @@ class Verse(Base):
     text_uthmani = Column(Text, nullable=False)  # Uthmani script (with tajweed marks)
     text_imlaei = Column(Text)  # Imlaei script (simplified)
     text_simple = Column(Text)  # Simple text
-    created_at = Column(TIMESTAMP, default=datetime.now)
-    updated_at = Column(TIMESTAMP, default=datetime.now, onupdate=datetime.now)
+    created_at = Column(TIMESTAMP, server_default=func.now())
+    updated_at = Column(TIMESTAMP, server_default=func.now(), onupdate=func.now())
     
     # Relationships
     surah = relationship("Surah", back_populates="verses")
@@ -73,7 +72,7 @@ class Translation(Base):
     resource_id = Column(Integer)  # External translation resource ID
     text = Column(Text, nullable=False)
     language = Column(String(50), default="english")
-    created_at = Column(TIMESTAMP, default=datetime.now)
+    created_at = Column(TIMESTAMP, server_default=func.now())
     
     # Relationship
     verse = relationship("Verse", back_populates="translations")
@@ -94,7 +93,7 @@ class AudioTrack(Base):
     audio_url = Column(Text, nullable=False)
     format = Column(String(10), default="mp3")
     license_info = Column(Text)
-    created_at = Column(TIMESTAMP, default=datetime.now)
+    created_at = Column(TIMESTAMP, server_default=func.now())
     
     # Relationship
     surah = relationship("Surah", back_populates="audio_tracks")
@@ -116,7 +115,7 @@ class DataSource(Base):
     data_type = Column(String(50))  # text, translation, audio
     scraped_at = Column(TIMESTAMP)
     source_metadata = Column(JSON)
-    created_at = Column(TIMESTAMP, default=datetime.now)
+    created_at = Column(TIMESTAMP, server_default=func.now())
     
     def __repr__(self):
         return f"<DataSource {self.source_name}>"
