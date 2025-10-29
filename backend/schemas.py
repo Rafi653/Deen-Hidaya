@@ -167,3 +167,31 @@ class EmbedResponse(BaseModel):
     status: str
     message: str
     verses_embedded: int = 0
+
+
+class QARequest(BaseModel):
+    """Request schema for Q&A"""
+    question: str = Field(..., min_length=1, description="Question to ask about the Quran")
+    language: str = Field("en", description="Language for answers (en, ar, te)")
+    max_verses: int = Field(5, ge=1, le=20, description="Maximum number of verses to cite")
+
+
+class CitedVerse(BaseModel):
+    """Cited verse in Q&A response"""
+    verse_id: int
+    surah_number: int
+    verse_number: int
+    surah_name: str
+    text_arabic: str
+    text_transliteration: Optional[str] = None
+    translations: List[TranslationResponse] = []
+    relevance_score: float
+
+
+class QAResponse(BaseModel):
+    """Response schema for Q&A"""
+    question: str
+    answer: str
+    cited_verses: List[CitedVerse]
+    confidence_score: Optional[float] = None
+    processing_time_ms: Optional[float] = None
