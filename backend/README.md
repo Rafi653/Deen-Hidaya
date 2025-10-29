@@ -52,22 +52,79 @@ alembic history
 
 ## API Endpoints
 
+### Health Check
 - `GET /` - Root endpoint
 - `GET /health` - Health check endpoint
 - `GET /api/v1/health` - API health check endpoint
 
+### Quran Data
+- `GET /api/v1/surahs` - List all surahs with pagination
+- `GET /api/v1/surahs/{surah_number}` - Get surah details with all verses
+- `GET /api/v1/verses/{verse_id}` - Get specific verse by ID
+- `GET /api/v1/surahs/{surah_number}/verses/{verse_number}` - Get verse by Quran reference (e.g., 2:255)
+- `GET /api/v1/translations` - List all available translations with license info
+
+### API Features
+- **Transliteration**: All verses include romanized Arabic text
+- **Multiple Translations**: Support for multiple language translations
+- **License Metadata**: All translations include license and source information
+- **Pagination**: List endpoints support skip/limit parameters
+- **OpenAPI Documentation**: Available at `/docs` when server is running
+
+### Example API Usage
+```bash
+# Get verse with transliteration and translation
+curl http://localhost:8000/api/v1/surahs/2/verses/255
+
+# List available translations
+curl http://localhost:8000/api/v1/translations
+```
+
 ## Database Schema
 
 The backend uses PostgreSQL with the following main tables:
-- `surah` - Quran chapters (114 surahs)
-- `verse` - Quran verses (ayahs)
-- `translation` - Verse translations
+- `surah` - Quran chapters (114 surahs) with transliteration
+- `verse` - Quran verses (ayahs) with Arabic text, simple text, and **transliteration**
+- `translation` - Verse translations with **license and source metadata**
 - `audio_track` - Audio recordings by reciters
 - `tag` - Tags for categorizing verses
 - `verse_tag` - Verse-tag relationships
 - `entity` - Named entities in the Quran
 - `embedding` - Vector embeddings for semantic search
 - `bookmark` - User bookmarks
+
+### Key Fields Added in Issue #5
+- `verse.text_transliteration` - Romanized Arabic text
+- `translation.license` - License information for translations
+- `translation.source` - Source attribution for translations
+
+## Data Pipeline
+
+### Scraping Quran Data
+```bash
+# Scrape with multiple translations
+python scrape_quran.py --start 1 --end 5 --translations "131,20,140"
+
+# Available translation IDs:
+# 131 - Dr. Mustafa Khattab, The Clear Quran (English)
+# 20  - Saheeh International (English)
+# 140 - Telugu Translation
+```
+
+### Ingesting Data
+```bash
+# Generate sample data for testing
+python generate_sample_data.py
+
+# Ingest scraped data (automatically generates transliteration)
+python ingest_data.py --start 1 --end 5
+```
+
+### Transliteration
+Transliteration is automatically generated during data ingestion using the `transliteration_generator.py` module. It converts Arabic text to romanized Latin characters:
+- Example: "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ" → "Bismi llahi lrahmaani lrahiymi"
+
+See [DATA_PIPELINE.md](./DATA_PIPELINE.md) for complete documentation on the data pipeline.
 
 ## Docker
 
