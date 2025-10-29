@@ -27,15 +27,44 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <main style={{ padding: '2rem', fontFamily: 'system-ui, sans-serif' }}>
-        <h1>Deen Hidaya</h1>
-        <p>Islamic Knowledge Platform</p>
-        
-        <div style={{ marginTop: '2rem', padding: '1rem', border: '1px solid #ddd', borderRadius: '8px' }}>
-          <h2>System Status</h2>
-          <div style={{ marginTop: '1rem' }}>
-            <p><strong>Frontend:</strong> <span style={{ color: frontendStatus === 'healthy' ? 'green' : 'red' }}>{frontendStatus}</span></p>
-            <p><strong>Backend:</strong> <span style={{ color: backendStatus === 'healthy' ? 'green' : 'red' }}>{backendStatus}</span></p>
+      <main className="min-h-screen bg-gradient-to-b from-green-50 to-white dark:from-gray-900 dark:to-gray-800">
+        <div className="container mx-auto px-4 py-16 max-w-4xl">
+          <div className="text-center mb-12">
+            <h1 className="text-5xl font-bold text-green-800 dark:text-green-400 mb-4">
+              Deen Hidaya
+            </h1>
+            <p className="text-xl text-gray-700 dark:text-gray-300 mb-8">
+              Islamic Knowledge Platform
+            </p>
+            
+            <div className="flex gap-4 justify-center mb-12">
+              <a
+                href="/reader"
+                className="px-8 py-4 bg-green-600 hover:bg-green-700 text-white font-semibold rounded-lg shadow-lg transition-colors text-lg"
+              >
+                📖 Read Quran
+              </a>
+            </div>
+          </div>
+          
+          <div className="bg-white dark:bg-gray-800 rounded-lg shadow-lg p-6 border border-gray-200 dark:border-gray-700">
+            <h2 className="text-2xl font-semibold text-gray-900 dark:text-gray-100 mb-4">
+              System Status
+            </h2>
+            <div className="space-y-3">
+              <div className="flex items-center justify-between p-3 bg-gray-50 dark:bg-gray-900 rounded">
+                <span className="font-medium text-gray-700 dark:text-gray-300">Frontend:</span>
+                <span className={`font-semibold ${frontendStatus === 'healthy' ? 'text-green-600 dark:text-green-400' : 'text-red-600 dark:text-red-400'}`}>
+                  {frontendStatus}
+                </span>
+              </div>
+              <div className="flex items-center justify-between p-3 bg-gray-50 dark:bg-gray-900 rounded">
+                <span className="font-medium text-gray-700 dark:text-gray-300">Backend:</span>
+                <span className={`font-semibold ${backendStatus === 'healthy' ? 'text-green-600 dark:text-green-400' : 'text-red-600 dark:text-red-400'}`}>
+                  {backendStatus}
+                </span>
+              </div>
+            </div>
           </div>
         </div>
       </main>
