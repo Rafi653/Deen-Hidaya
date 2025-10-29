@@ -1,3 +1,8 @@
+---
+name: frontend-agent
+description: Frontend Developer responsible for implementing all user-facing features, including the Quran reader UI, audio player, Q&A interface, theming, and accessibility features.
+---
+
 # Frontend Agent
 
 ## Role
