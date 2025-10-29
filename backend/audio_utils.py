@@ -2,29 +2,81 @@
 Audio streaming utilities with range request support
 """
 import os
+import re
 from pathlib import Path
 from typing import Optional
 from fastapi import HTTPException, status
 from fastapi.responses import StreamingResponse
 
 
+def _sanitize_path_component(component: str, allowed_pattern: str = r'^[a-zA-Z0-9_-]+$') -> str:
+    """
+    Sanitize a path component to prevent path traversal attacks
+    
+    Args:
+        component: Path component to sanitize
+        allowed_pattern: Regex pattern for allowed characters
+        
+    Returns:
+        Sanitized component
+        
+    Raises:
+        HTTPException: If component contains invalid characters
+    """
+    if not re.match(allowed_pattern, component):
+        raise HTTPException(
+            status_code=status.HTTP_400_BAD_REQUEST,
+            detail=f"Invalid path component: {component}"
+        )
+    return component
+
+
 def get_audio_path(verse_id: int, language: str = "ar", reciter: str = "default") -> Path:
     """
-    Get the file path for audio file
+    Get the file path for audio file with path traversal protection
     
     Args:
         verse_id: ID of the verse
-        language: Language code (ar, en, te)
-        reciter: Reciter name/identifier
+        language: Language code (ar, en, te) - sanitized
+        reciter: Reciter name/identifier - sanitized
         
     Returns:
         Path to audio file
+        
+    Raises:
+        HTTPException: If language or reciter contains invalid characters
     """
+    # Validate language code (only allow specific language codes)
+    allowed_languages = ['ar', 'en', 'te']
+    if language not in allowed_languages:
+        raise HTTPException(
+            status_code=status.HTTP_400_BAD_REQUEST,
+            detail=f"Invalid language code. Must be one of: {', '.join(allowed_languages)}"
+        )
+    
+    # Sanitize reciter name (allow alphanumeric, underscore, hyphen)
+    reciter = _sanitize_path_component(reciter)
+    
     # Base audio directory
     audio_base = Path("/home/runner/work/Deen-Hidaya/Deen-Hidaya/data/audio")
     
-    # Construct path based on language and reciter
+    # Construct path - language and reciter are now sanitized
     audio_path = audio_base / language / reciter / f"{verse_id}.mp3"
+    
+    # Additional safety check: ensure the resolved path is still within audio_base
+    try:
+        audio_path = audio_path.resolve()
+        audio_base = audio_base.resolve()
+        if not str(audio_path).startswith(str(audio_base)):
+            raise HTTPException(
+                status_code=status.HTTP_400_BAD_REQUEST,
+                detail="Invalid audio path"
+            )
+    except (ValueError, RuntimeError) as e:
+        raise HTTPException(
+            status_code=status.HTTP_400_BAD_REQUEST,
+            detail="Invalid audio path"
+        )
     
     return audio_path
 
@@ -36,8 +88,12 @@ def stream_audio_file(
     """
     Stream audio file with support for range requests
     
+    SECURITY NOTE: file_path must be validated by get_audio_path() before calling this function.
+    The get_audio_path() function sanitizes all user inputs and validates that the path
+    stays within the allowed audio directory, preventing path traversal attacks.
+    
     Args:
-        file_path: Path to the audio file
+        file_path: Path to the audio file (must be pre-validated by get_audio_path)
         range_header: HTTP Range header value
         
     Returns:
@@ -46,6 +102,8 @@ def stream_audio_file(
     Raises:
         HTTPException: If file not found
     """
+    # NOTE: Path validation is done by get_audio_path() before calling this function
+    # to prevent path traversal. See get_audio_path() for security controls.
     if not file_path.exists():
         raise HTTPException(
             status_code=status.HTTP_404_NOT_FOUND,

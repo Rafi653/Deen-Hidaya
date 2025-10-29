@@ -307,5 +307,23 @@ def test_delete_bookmark_wrong_user():
     assert response.status_code == 403
 
 
+def test_audio_stream_invalid_language():
+    """Test audio streaming with invalid language code"""
+    response = client.get("/api/v1/verses/1/audio/stream?language=invalid")
+    assert response.status_code == 400
+    assert "Invalid language code" in response.json()["detail"]
+
+
+def test_audio_stream_path_traversal():
+    """Test audio streaming rejects path traversal attempts"""
+    # Try path traversal in reciter parameter
+    response = client.get("/api/v1/verses/1/audio/stream?reciter=../../../etc/passwd")
+    assert response.status_code == 400
+    
+    # Try with encoded path traversal
+    response = client.get("/api/v1/verses/1/audio/stream?reciter=..%2F..%2Fetc%2Fpasswd")
+    assert response.status_code == 400
+
+
 if __name__ == "__main__":
     pytest.main([__file__, "-v"])
