@@ -1,0 +1,201 @@
+{
+  "metadata": {
+    "surah_number": 9,
+    "scraped_at": "2025-10-29T02:54:17.867171",
+    "source": "api.quran.com",
+    "version": "1.0"
+  },
+  "license": {
+    "text": {
+      "source": "api.quran.com",
+      "license": "Public Domain",
+      "attribution": "The Quran text is in the public domain",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-29T02:54:17.867171"
+    },
+    "translations": {
+      "source": "api.quran.com",
+      "license": "Various - See individual translation licenses",
+      "attribution": "Translation copyrights belong to respective translators",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-29T02:54:17.867171"
+    },
+    "audio": {
+      "source": "everyayah.com via api.quran.com",
+      "license": "Free for non-commercial use",
+      "attribution": "Audio recitations courtesy of everyayah.com",
+      "terms_url": "https://everyayah.com/",
+      "note": "Audio URLs provided - not downloaded locally due to size",
+      "fetched_at": "2025-10-29T02:54:17.867171"
+    }
+  },
+  "surah_info": {
+    "id": 9,
+    "revelation_place": "madinah",
+    "revelation_order": 113,
+    "bismillah_pre": false,
+    "name_simple": "At-Tawbah",
+    "name_complex": "At-Tawbah",
+    "name_arabic": "التوبة",
+    "verses_count": 129,
+    "pages": [
+      187,
+      207
+    ],
+    "translated_name": {
+      "language_name": "english",
+      "name": "The Repentance"
+    }
+  },
+  "verses": [
+    {
+      "id": 1236,
+      "verse_number": 1,
+      "verse_key": "9:1",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 75,
+      "ruku_number": 156,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "بَرَآءَةٌ مِّنَ ٱللَّهِ وَرَسُولِهِۦٓ إِلَى ٱلَّذِينَ عَـٰهَدتُّم مِّنَ ٱلْمُشْرِكِينَ",
+      "text_imlaei": "بَرَاءَةٌ مِّنَ اللَّهِ وَرَسُولِهِ إِلَى الَّذِينَ عَاهَدتُّم مِّنَ الْمُشْرِكِينَ",
+      "page_number": 187,
+      "juz_number": 10
+    },
+    {
+      "id": 1237,
+      "verse_number": 2,
+      "verse_key": "9:2",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 75,
+      "ruku_number": 156,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "فَسِيحُوا۟ فِى ٱلْأَرْضِ أَرْبَعَةَ أَشْهُرٍ وَٱعْلَمُوٓا۟ أَنَّكُمْ غَيْرُ مُعْجِزِى ٱللَّهِ ۙ وَأَنَّ ٱللَّهَ مُخْزِى ٱلْكَـٰفِرِينَ",
+      "text_imlaei": "فَسِيحُوا فِي الْأَرْضِ أَرْبَعَةَ أَشْهُرٍ وَاعْلَمُوا أَنَّكُمْ غَيْرُ مُعْجِزِي اللَّهِ ۙ وَأَنَّ اللَّهَ مُخْزِي الْكَافِرِينَ",
+      "page_number": 187,
+      "juz_number": 10
+    },
+    {
+      "id": 1238,
+      "verse_number": 3,
+      "verse_key": "9:3",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 75,
+      "ruku_number": 156,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَذَٰنٌ مِّنَ ٱللَّهِ وَرَسُولِهِۦٓ إِلَى ٱلنَّاسِ يَوْمَ ٱلْحَجِّ ٱلْأَكْبَرِ أَنَّ ٱللَّهَ بَرِىٓءٌ مِّنَ ٱلْمُشْرِكِينَ ۙ وَرَسُولُهُۥ ۚ فَإِن تُبْتُمْ فَهُوَ خَيْرٌ لَّكُمْ ۖ وَإِن تَوَلَّيْتُمْ فَٱعْلَمُوٓا۟ أَنَّكُمْ غَيْرُ مُعْجِزِى ٱللَّهِ ۗ وَبَشِّرِ ٱلَّذِينَ كَفَرُوا۟ بِعَذَابٍ أَلِيمٍ",
+      "text_imlaei": "وَأَذَانٌ مِّنَ اللَّهِ وَرَسُولِهِ إِلَى النَّاسِ يَوْمَ الْحَجِّ الْأَكْبَرِ أَنَّ اللَّهَ بَرِيءٌ مِّنَ الْمُشْرِكِينَ ۙ وَرَسُولُهُ ۚ فَإِن تُبْتُمْ فَهُوَ خَيْرٌ لَّكُمْ ۖ وَإِن تَوَلَّيْتُمْ فَاعْلَمُوا أَنَّكُمْ غَيْرُ مُعْجِزِي اللَّهِ ۗ وَبَشِّرِ الَّذِينَ كَفَرُوا بِعَذَابٍ أَلِيمٍ",
+      "page_number": 187,
+      "juz_number": 10
+    },
+    {
+      "id": 1239,
+      "verse_number": 4,
+      "verse_key": "9:4",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 75,
+      "ruku_number": 156,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "إِلَّا ٱلَّذِينَ عَـٰهَدتُّم مِّنَ ٱلْمُشْرِكِينَ ثُمَّ لَمْ يَنقُصُوكُمْ شَيْـًٔا وَلَمْ يُظَـٰهِرُوا۟ عَلَيْكُمْ أَحَدًا فَأَتِمُّوٓا۟ إِلَيْهِمْ عَهْدَهُمْ إِلَىٰ مُدَّتِهِمْ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَّقِينَ",
+      "text_imlaei": "إِلَّا الَّذِينَ عَاهَدتُّم مِّنَ الْمُشْرِكِينَ ثُمَّ لَمْ يَنقُصُوكُمْ شَيْئًا وَلَمْ يُظَاهِرُوا عَلَيْكُمْ أَحَدًا فَأَتِمُّوا إِلَيْهِمْ عَهْدَهُمْ إِلَىٰ مُدَّتِهِمْ ۚ إِنَّ اللَّهَ يُحِبُّ الْمُتَّقِينَ",
+      "page_number": 187,
+      "juz_number": 10
+    },
+    {
+      "id": 1240,
+      "verse_number": 5,
+      "verse_key": "9:5",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 75,
+      "ruku_number": 156,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "فَإِذَا ٱنسَلَخَ ٱلْأَشْهُرُ ٱلْحُرُمُ فَٱقْتُلُوا۟ ٱلْمُشْرِكِينَ حَيْثُ وَجَدتُّمُوهُمْ وَخُذُوهُمْ وَٱحْصُرُوهُمْ وَٱقْعُدُوا۟ لَهُمْ كُلَّ مَرْصَدٍ ۚ فَإِن تَابُوا۟ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟ ٱلزَّكَوٰةَ فَخَلُّوا۟ سَبِيلَهُمْ ۚ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+      "text_imlaei": "فَإِذَا انسَلَخَ الْأَشْهُرُ الْحُرُمُ فَاقْتُلُوا الْمُشْرِكِينَ حَيْثُ وَجَدتُّمُوهُمْ وَخُذُوهُمْ وَاحْصُرُوهُمْ وَاقْعُدُوا لَهُمْ كُلَّ مَرْصَدٍ ۚ فَإِن تَابُوا وَأَقَامُوا الصَّلَاةَ وَآتَوُا الزَّكَاةَ فَخَلُّوا سَبِيلَهُمْ ۚ إِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ",
+      "page_number": 187,
+      "juz_number": 10
+    },
+    {
+      "id": 1241,
+      "verse_number": 6,
+      "verse_key": "9:6",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 75,
+      "ruku_number": 156,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِنْ أَحَدٌ مِّنَ ٱلْمُشْرِكِينَ ٱسْتَجَارَكَ فَأَجِرْهُ حَتَّىٰ يَسْمَعَ كَلَـٰمَ ٱللَّهِ ثُمَّ أَبْلِغْهُ مَأْمَنَهُۥ ۚ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌ لَّا يَعْلَمُونَ",
+      "text_imlaei": "وَإِنْ أَحَدٌ مِّنَ الْمُشْرِكِينَ اسْتَجَارَكَ فَأَجِرْهُ حَتَّىٰ يَسْمَعَ كَلَامَ اللَّهِ ثُمَّ أَبْلِغْهُ مَأْمَنَهُ ۚ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌ لَّا يَعْلَمُونَ",
+      "page_number": 187,
+      "juz_number": 10
+    },
+    {
+      "id": 1242,
+      "verse_number": 7,
+      "verse_key": "9:7",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 75,
+      "ruku_number": 157,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "كَيْفَ يَكُونُ لِلْمُشْرِكِينَ عَهْدٌ عِندَ ٱللَّهِ وَعِندَ رَسُولِهِۦٓ إِلَّا ٱلَّذِينَ عَـٰهَدتُّمْ عِندَ ٱلْمَسْجِدِ ٱلْحَرَامِ ۖ فَمَا ٱسْتَقَـٰمُوا۟ لَكُمْ فَٱسْتَقِيمُوا۟ لَهُمْ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَّقِينَ",
+      "text_imlaei": "كَيْفَ يَكُونُ لِلْمُشْرِكِينَ عَهْدٌ عِندَ اللَّهِ وَعِندَ رَسُولِهِ إِلَّا الَّذِينَ عَاهَدتُّمْ عِندَ الْمَسْجِدِ الْحَرَامِ ۖ فَمَا اسْتَقَامُوا لَكُمْ فَاسْتَقِيمُوا لَهُمْ ۚ إِنَّ اللَّهَ يُحِبُّ الْمُتَّقِينَ",
+      "page_number": 188,
+      "juz_number": 10
+    },
+    {
+      "id": 1243,
+      "verse_number": 8,
+      "verse_key": "9:8",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 75,
+      "ruku_number": 157,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "كَيْفَ وَإِن يَظْهَرُوا۟ عَلَيْكُمْ لَا يَرْقُبُوا۟ فِيكُمْ إِلًّا وَلَا ذِمَّةً ۚ يُرْضُونَكُم بِأَفْوَٰهِهِمْ وَتَأْبَىٰ قُلُوبُهُمْ وَأَكْثَرُهُمْ فَـٰسِقُونَ",
+      "text_imlaei": "كَيْفَ وَإِن يَظْهَرُوا عَلَيْكُمْ لَا يَرْقُبُوا فِيكُمْ إِلًّا وَلَا ذِمَّةً ۚ يُرْضُونَكُم بِأَفْوَاهِهِمْ وَتَأْبَىٰ قُلُوبُهُمْ وَأَكْثَرُهُمْ فَاسِقُونَ",
+      "page_number": 188,
+      "juz_number": 10
+    },
+    {
+      "id": 1244,
+      "verse_number": 9,
+      "verse_key": "9:9",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 75,
+      "ruku_number": 157,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "ٱشْتَرَوْا۟ بِـَٔايَـٰتِ ٱللَّهِ ثَمَنًا قَلِيلًا فَصَدُّوا۟ عَن سَبِيلِهِۦٓ ۚ إِنَّهُمْ سَآءَ مَا كَانُوا۟ يَعْمَلُونَ",
+      "text_imlaei": "اشْتَرَوْا بِآيَاتِ اللَّهِ ثَمَنًا قَلِيلًا فَصَدُّوا عَن سَبِيلِهِ ۚ إِنَّهُمْ سَاءَ مَا كَانُوا يَعْمَلُونَ",
+      "page_number": 188,
+      "juz_number": 10
+    },
+    {
+      "id": 1245,
+      "verse_number": 10,
+      "verse_key": "9:10",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 75,
+      "ruku_number": 157,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "text_uthmani": "لَا يَرْقُبُونَ فِى مُؤْمِنٍ إِلًّا وَلَا ذِمَّةً ۚ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُعْتَدُونَ",
+      "text_imlaei": "لَا يَرْقُبُونَ فِي مُؤْمِنٍ إِلًّا وَلَا ذِمَّةً ۚ وَأُولَٰئِكَ هُمُ الْمُعْتَدُونَ",
+      "page_number": 188,
+      "juz_number": 10
+    }
+  ],
+  "audio_metadata": {
+    "audio_file": {
+      "id": 927,
+      "chapter_id": 9,
+      "file_size": 58003584.0,
+      "format": "mp3",
+      "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/9.mp3"
+    }
+  }
+}

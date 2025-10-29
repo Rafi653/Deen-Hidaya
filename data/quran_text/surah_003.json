@@ -1,10 +1,9 @@
 {
   "metadata": {
     "surah_number": 3,
-    "scraped_at": "2025-10-29T02:38:01.932457",
-    "source": "api.quran.com (fallback: local sample data for testing)",
-    "version": "1.0",
-    "note": "Sample data containing first 3 verses of 200 total verses"
+    "scraped_at": "2025-10-29T02:54:07.015403",
+    "source": "api.quran.com",
+    "version": "1.0"
   },
   "license": {
     "text": {
@@ -12,14 +11,14 @@
       "license": "Public Domain",
       "attribution": "The Quran text is in the public domain",
       "terms_url": "https://quran.com/terms",
-      "fetched_at": "2025-10-29T02:38:01.932457"
+      "fetched_at": "2025-10-29T02:54:07.015403"
     },
     "translations": {
       "source": "api.quran.com",
       "license": "Various - See individual translation licenses",
       "attribution": "Translation copyrights belong to respective translators",
       "terms_url": "https://quran.com/terms",
-      "fetched_at": "2025-10-29T02:38:01.932457"
+      "fetched_at": "2025-10-29T02:54:07.015403"
     },
     "audio": {
       "source": "everyayah.com via api.quran.com",
@@ -27,89 +26,176 @@
       "attribution": "Audio recitations courtesy of everyayah.com",
       "terms_url": "https://everyayah.com/",
       "note": "Audio URLs provided - not downloaded locally due to size",
-      "fetched_at": "2025-10-29T02:38:01.932457"
+      "fetched_at": "2025-10-29T02:54:07.015403"
     }
   },
   "surah_info": {
     "id": 3,
-    "revelation_place": "Medinan",
-    "name_complex": "Family of Imran",
-    "name_arabic": "آل عمران",
+    "revelation_place": "madinah",
+    "revelation_order": 89,
+    "bismillah_pre": true,
     "name_simple": "Ali 'Imran",
+    "name_complex": "Āli `Imrān",
+    "name_arabic": "آل عمران",
     "verses_count": 200,
     "pages": [
-      1,
-      1
-    ]
+      50,
+      76
+    ],
+    "translated_name": {
+      "language_name": "english",
+      "name": "Family of Imran"
+    }
   },
   "verses": [
     {
-      "id": 1,
+      "id": 294,
       "verse_number": 1,
       "verse_key": "3:1",
-      "juz_number": 1,
-      "hizb_number": 1,
-      "rub_el_hizb_number": 1,
-      "text_uthmani": "الٓمٓ",
+      "hizb_number": 5,
+      "rub_el_hizb_number": 20,
+      "ruku_number": 42,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": " الٓمٓ",
       "text_imlaei": "الم",
-      "translations": [
-        {
-          "id": 1,
-          "resource_id": 131,
-          "text": "Alif, Lam, Meem.",
-          "resource_name": "Sahih International",
-          "language_name": "english"
-        }
-      ]
+      "page_number": 50,
+      "juz_number": 3
     },
     {
-      "id": 2,
+      "id": 295,
       "verse_number": 2,
       "verse_key": "3:2",
-      "juz_number": 1,
-      "hizb_number": 1,
-      "rub_el_hizb_number": 1,
-      "text_uthmani": "ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ",
-      "text_imlaei": "الله لا إله إلا هو الحي القيوم",
-      "translations": [
-        {
-          "id": 2,
-          "resource_id": 131,
-          "text": "Allah - there is no deity except Him, the Ever-Living, the Sustainer of existence.",
-          "resource_name": "Sahih International",
-          "language_name": "english"
-        }
-      ]
+      "hizb_number": 5,
+      "rub_el_hizb_number": 20,
+      "ruku_number": 42,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ",
+      "text_imlaei": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ",
+      "page_number": 50,
+      "juz_number": 3
     },
     {
-      "id": 3,
+      "id": 296,
       "verse_number": 3,
       "verse_key": "3:3",
-      "juz_number": 1,
-      "hizb_number": 1,
-      "rub_el_hizb_number": 1,
-      "text_uthmani": "نَزَّلَ عَلَيْكَ ٱلْكِتَـٰبَ بِٱلْحَقِّ مُصَدِّقًۭا لِّمَا بَيْنَ يَدَيْهِ وَأَنزَلَ ٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ",
-      "text_imlaei": "نزل عليك الكتاب بالحق مصدقا لما بين يديه وأنزل التوراة والإنجيل",
-      "translations": [
-        {
-          "id": 3,
-          "resource_id": 131,
-          "text": "He has sent down upon you, [O Muhammad], the Book in truth, confirming what was before it. And He revealed the Torah and the Gospel.",
-          "resource_name": "Sahih International",
-          "language_name": "english"
-        }
-      ]
+      "hizb_number": 5,
+      "rub_el_hizb_number": 20,
+      "ruku_number": 42,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "نَزَّلَ عَلَيْكَ ٱلْكِتَـٰبَ بِٱلْحَقِّ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ وَأَنزَلَ ٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ",
+      "text_imlaei": "نَزَّلَ عَلَيْكَ الْكِتَابَ بِالْحَقِّ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ وَأَنزَلَ التَّوْرَاةَ وَالْإِنجِيلَ",
+      "page_number": 50,
+      "juz_number": 3
+    },
+    {
+      "id": 297,
+      "verse_number": 4,
+      "verse_key": "3:4",
+      "hizb_number": 5,
+      "rub_el_hizb_number": 20,
+      "ruku_number": 42,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "مِن قَبْلُ هُدًى لِّلنَّاسِ وَأَنزَلَ ٱلْفُرْقَانَ ۗ إِنَّ ٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِ ٱللَّهِ لَهُمْ عَذَابٌ شَدِيدٌ ۗ وَٱللَّهُ عَزِيزٌ ذُو ٱنتِقَامٍ",
+      "text_imlaei": "مِن قَبْلُ هُدًى لِّلنَّاسِ وَأَنزَلَ الْفُرْقَانَ ۗ إِنَّ الَّذِينَ كَفَرُوا بِآيَاتِ اللَّهِ لَهُمْ عَذَابٌ شَدِيدٌ ۗ وَاللَّهُ عَزِيزٌ ذُو انتِقَامٍ",
+      "page_number": 50,
+      "juz_number": 3
+    },
+    {
+      "id": 298,
+      "verse_number": 5,
+      "verse_key": "3:5",
+      "hizb_number": 5,
+      "rub_el_hizb_number": 20,
+      "ruku_number": 42,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ ٱللَّهَ لَا يَخْفَىٰ عَلَيْهِ شَىْءٌ فِى ٱلْأَرْضِ وَلَا فِى ٱلسَّمَآءِ",
+      "text_imlaei": "إِنَّ اللَّهَ لَا يَخْفَىٰ عَلَيْهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ",
+      "page_number": 50,
+      "juz_number": 3
+    },
+    {
+      "id": 299,
+      "verse_number": 6,
+      "verse_key": "3:6",
+      "hizb_number": 5,
+      "rub_el_hizb_number": 20,
+      "ruku_number": 42,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "هُوَ ٱلَّذِى يُصَوِّرُكُمْ فِى ٱلْأَرْحَامِ كَيْفَ يَشَآءُ ۚ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+      "text_imlaei": "هُوَ الَّذِي يُصَوِّرُكُمْ فِي الْأَرْحَامِ كَيْفَ يَشَاءُ ۚ لَا إِلَٰهَ إِلَّا هُوَ الْعَزِيزُ الْحَكِيمُ",
+      "page_number": 50,
+      "juz_number": 3
+    },
+    {
+      "id": 300,
+      "verse_number": 7,
+      "verse_key": "3:7",
+      "hizb_number": 5,
+      "rub_el_hizb_number": 20,
+      "ruku_number": 42,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "هُوَ ٱلَّذِىٓ أَنزَلَ عَلَيْكَ ٱلْكِتَـٰبَ مِنْهُ ءَايَـٰتٌ مُّحْكَمَـٰتٌ هُنَّ أُمُّ ٱلْكِتَـٰبِ وَأُخَرُ مُتَشَـٰبِهَـٰتٌ ۖ فَأَمَّا ٱلَّذِينَ فِى قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا تَشَـٰبَهَ مِنْهُ ٱبْتِغَآءَ ٱلْفِتْنَةِ وَٱبْتِغَآءَ تَأْوِيلِهِۦ ۗ وَمَا يَعْلَمُ تَأْوِيلَهُۥٓ إِلَّا ٱللَّهُ ۗ وَٱلرَّٰسِخُونَ فِى ٱلْعِلْمِ يَقُولُونَ ءَامَنَّا بِهِۦ كُلٌّ مِّنْ عِندِ رَبِّنَا ۗ وَمَا يَذَّكَّرُ إِلَّآ أُو۟لُوا۟ ٱلْأَلْبَـٰبِ",
+      "text_imlaei": "هُوَ الَّذِي أَنزَلَ عَلَيْكَ الْكِتَابَ مِنْهُ آيَاتٌ مُّحْكَمَاتٌ هُنَّ أُمُّ الْكِتَابِ وَأُخَرُ مُتَشَابِهَاتٌ ۖ فَأَمَّا الَّذِينَ فِي قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا تَشَابَهَ مِنْهُ ابْتِغَاءَ الْفِتْنَةِ وَابْتِغَاءَ تَأْوِيلِهِ ۗ وَمَا يَعْلَمُ تَأْوِيلَهُ إِلَّا اللَّهُ ۗ وَالرَّاسِخُونَ فِي الْعِلْمِ يَقُولُونَ آمَنَّا بِهِ كُلٌّ مِّنْ عِندِ رَبِّنَا ۗ وَمَا يَذَّكَّرُ إِلَّا أُولُو الْأَلْبَابِ",
+      "page_number": 50,
+      "juz_number": 3
+    },
+    {
+      "id": 301,
+      "verse_number": 8,
+      "verse_key": "3:8",
+      "hizb_number": 5,
+      "rub_el_hizb_number": 20,
+      "ruku_number": 42,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً ۚ إِنَّكَ أَنتَ ٱلْوَهَّابُ",
+      "text_imlaei": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً ۚ إِنَّكَ أَنتَ الْوَهَّابُ",
+      "page_number": 50,
+      "juz_number": 3
+    },
+    {
+      "id": 302,
+      "verse_number": 9,
+      "verse_key": "3:9",
+      "hizb_number": 5,
+      "rub_el_hizb_number": 20,
+      "ruku_number": 42,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "رَبَّنَآ إِنَّكَ جَامِعُ ٱلنَّاسِ لِيَوْمٍ لَّا رَيْبَ فِيهِ ۚ إِنَّ ٱللَّهَ لَا يُخْلِفُ ٱلْمِيعَادَ",
+      "text_imlaei": "رَبَّنَا إِنَّكَ جَامِعُ النَّاسِ لِيَوْمٍ لَّا رَيْبَ فِيهِ ۚ إِنَّ اللَّهَ لَا يُخْلِفُ الْمِيعَادَ",
+      "page_number": 50,
+      "juz_number": 3
+    },
+    {
+      "id": 303,
+      "verse_number": 10,
+      "verse_key": "3:10",
+      "hizb_number": 5,
+      "rub_el_hizb_number": 20,
+      "ruku_number": 43,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ لَن تُغْنِىَ عَنْهُمْ أَمْوَٰلُهُمْ وَلَآ أَوْلَـٰدُهُم مِّنَ ٱللَّهِ شَيْـًٔا ۖ وَأُو۟لَـٰٓئِكَ هُمْ وَقُودُ ٱلنَّارِ",
+      "text_imlaei": "إِنَّ الَّذِينَ كَفَرُوا لَن تُغْنِيَ عَنْهُمْ أَمْوَالُهُمْ وَلَا أَوْلَادُهُم مِّنَ اللَّهِ شَيْئًا ۖ وَأُولَٰئِكَ هُمْ وَقُودُ النَّارِ",
+      "page_number": 51,
+      "juz_number": 3
     }
   ],
   "audio_metadata": {
     "audio_file": {
+      "id": 915,
       "chapter_id": 3,
-      "audio_url": "https://verses.quran.com/Alafasy/mp3/003.mp3"
-    },
-    "recitation": {
-      "id": 7,
-      "reciter_name": "Mishari Rashid al-`Afasy",
-      "style": "Murattal"
+      "file_size": 75616384.0,
+      "format": "mp3",
+      "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/3.mp3"
     }
   }
 }

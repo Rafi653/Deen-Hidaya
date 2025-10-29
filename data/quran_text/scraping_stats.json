@@ -1,14 +1,19 @@
 {
-  "total_attempted": 5,
-  "successful": 0,
-  "failed": 5,
-  "successful_surahs": [],
-  "failed_surahs": [
+  "total_attempted": 10,
+  "successful": 10,
+  "failed": 0,
+  "successful_surahs": [
     1,
     2,
     3,
     4,
-    5
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
   ],
-  "output_directory": "/home/runner/work/Deen-Hidaya/Deen-Hidaya/data/quran_text"
+  "failed_surahs": [],
+  "output_directory": "/Users/mohammad.rafi.shaik/Desktop/Deen-Hidaya/data/quran_text"
 }
