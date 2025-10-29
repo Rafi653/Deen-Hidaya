@@ -70,14 +70,21 @@ export default function SurahReader() {
         }).filter(url => url !== '');
         
         if (audioUrls.length > 0) {
-          // Initialize audio player with URLs
-          const player = new GaplessAudioPlayer(audioUrls);
-          player.onTrackChange((trackIndex) => {
-            setCurrentPlayingVerse(trackIndex + 1);
+          // Initialize audio player with config
+          const player = new GaplessAudioPlayer({
+            onTrackChange: (verseNumber: number) => {
+              setCurrentPlayingVerse(verseNumber);
+            },
+            onPlayStateChange: (playing: boolean) => {
+              setIsPlaying(playing);
+            },
+            onError: (error: Error) => {
+              console.error('Audio player error:', error);
+            }
           });
-          player.onPlayStateChange((playing) => {
-            setIsPlaying(playing);
-          });
+          
+          // Initialize with audio URLs
+          await player.initialize(audioUrls);
           setAudioPlayer(player);
           setAudioSupported(true);
         } else {
