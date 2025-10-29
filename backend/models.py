@@ -3,7 +3,7 @@ from sqlalchemy import Column, Integer, String, Text, ForeignKey, DateTime, Bool
 from sqlalchemy.orm import relationship
 from sqlalchemy.dialects.postgresql import ARRAY
 from datetime import datetime
-from database import Base
+from database import Base, TESTING
 
 
 class Surah(Base):
@@ -160,7 +160,8 @@ class Entity(Base):
     name_arabic = Column(String(255))
     entity_type = Column(String(50), nullable=False, index=True)  # person, place, event, concept
     description = Column(Text)
-    verse_references = Column(ARRAY(String))  # Array of verse references like ["2:30", "2:31"]
+    # Use Text for SQLite compatibility (store JSON string), ARRAY for PostgreSQL
+    verse_references = Column(Text if TESTING else ARRAY(String))  # Array of verse references like ["2:30", "2:31"]
     created_at = Column(DateTime, default=datetime.utcnow)
     updated_at = Column(DateTime, default=datetime.utcnow, onupdate=datetime.utcnow)
 

@@ -20,8 +20,8 @@ DATABASE_URL = f"postgresql://{POSTGRES_USER}:{POSTGRES_PASSWORD}@{POSTGRES_HOST
 TESTING = os.getenv("TESTING", "false").lower() == "true"
 
 if TESTING:
-    # Use SQLite in-memory database for testing
-    engine = create_engine("sqlite:///:memory:", connect_args={"check_same_thread": False})
+    # Use SQLite file-based database in /tmp for testing
+    engine = create_engine("sqlite:////tmp/test_deen_hidaya.db", connect_args={"check_same_thread": False})
 else:
     engine = create_engine(DATABASE_URL)
 

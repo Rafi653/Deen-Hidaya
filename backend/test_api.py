@@ -46,8 +46,7 @@ def test_list_surahs_with_data(client, sample_surah):
     data = response.json()
     assert len(data) == 1
     assert data[0]["number"] == 1
-    assert data[0]["name"] == "Al-Fatihah"
-    assert data[0]["english_name"] == "The Opener"
+    assert data[0]["name_english"] == "Al-Fatihah"
 
 
 def test_get_surah_not_found(client):
@@ -63,7 +62,7 @@ def test_get_surah_with_verses(client, sample_surah, sample_verses):
     assert response.status_code == 200
     data = response.json()
     assert data["number"] == sample_surah.number
-    assert data["name"] == sample_surah.name
+    assert data["name_english"] == sample_surah.name_english
     assert len(data["verses"]) == 3
     assert data["verses"][0]["verse_number"] == 1
 
@@ -99,7 +98,7 @@ def test_get_verse_by_surah_and_number(client, sample_surah, sample_verses):
     assert response.status_code == 200
     data = response.json()
     assert data["verse_number"] == 1
-    assert data["text"] == "Arabic text 1"
+    assert data["text_arabic"] == "Arabic text 1"
 
 
 def test_get_verse_by_surah_and_number_not_found(client, sample_surah):
