@@ -9,6 +9,11 @@ FastAPI backend service for the Deen Hidaya Islamic knowledge platform.
 pip install -r requirements.txt
 ```
 
+For development and testing, install additional dependencies:
+```bash
+pip install -r requirements-dev.txt
+```
+
 2. Configure environment variables:
 ```bash
 cp ../.env.example ../.env
@@ -29,6 +34,35 @@ python seed_surahs.py
 ```bash
 uvicorn main:app --reload
 ```
+
+## Testing
+
+### Running Tests
+
+Run all tests:
+```bash
+pytest
+```
+
+Run tests with coverage:
+```bash
+pytest --cov=. --cov-report=html
+```
+
+Run specific test file:
+```bash
+pytest test_api.py -v
+```
+
+Run tests with specific markers:
+```bash
+pytest -m unit          # Run only unit tests
+pytest -m integration   # Run only integration tests
+```
+
+### Test Database
+
+Tests automatically use an in-memory SQLite database, so you don't need PostgreSQL running to execute tests. The test environment is activated by setting `TESTING=true` in the environment.
 
 ## Database Migrations
 
@@ -138,4 +172,65 @@ Or use Docker Compose from the project root:
 ```bash
 docker-compose up backend
 ```
+
+## Troubleshooting
+
+### psycopg2 Import Error on macOS
+
+If you encounter an error like `ImportError: symbol not found in flat namespace '_PQbackendPID'` when running tests or importing the application, this is typically caused by a broken `psycopg2` installation in conda environments on macOS.
+
+**Solution 1: Use psycopg2-binary (Recommended for development)**
+```bash
+pip uninstall psycopg2 psycopg2-binary
+pip install psycopg2-binary==2.9.9
+```
+
+**Solution 2: Reinstall PostgreSQL client libraries**
+```bash
+brew reinstall postgresql
+pip uninstall psycopg2 psycopg2-binary
+pip install psycopg2-binary==2.9.9
+```
+
+**Solution 3: Use a virtual environment instead of conda**
+```bash
+# Create a fresh virtual environment
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements-dev.txt
+```
+
+**For Testing Only:**
+If you only need to run tests and don't need PostgreSQL connectivity, set the `TESTING` environment variable:
+```bash
+export TESTING=true
+pytest test_api.py -v
+```
+
+This will use SQLite in-memory database instead of PostgreSQL, avoiding the psycopg2 dependency entirely during tests.
+
+### Database Connection Issues
+
+If you get connection errors when starting the application:
+
+1. Ensure PostgreSQL is running:
+```bash
+# macOS
+brew services start postgresql
+
+# Linux
+sudo systemctl start postgresql
+```
+
+2. Check your `.env` file has correct database credentials
+3. Verify the database exists:
+```bash
+psql -U postgres -c "SELECT 1 FROM pg_database WHERE datname='deen_hidaya'"
+```
+
+4. Create the database if it doesn't exist:
+```bash
+psql -U postgres -c "CREATE DATABASE deen_hidaya"
+```
+
 
