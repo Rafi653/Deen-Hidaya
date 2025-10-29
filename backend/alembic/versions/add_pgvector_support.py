@@ -39,20 +39,21 @@ def upgrade() -> None:
     
     if dialect_name == 'postgresql':
         # For PostgreSQL: Convert embedding_vector from Text to Vector
-        # First, drop the old column and recreate it with Vector type
+        # First, check if there are any existing embeddings and clear them
+        # since text data cannot be directly cast to vector
         op.execute("""
-            ALTER TABLE embedding 
-            ALTER COLUMN embedding_vector 
-            DROP DEFAULT
+            DELETE FROM embedding WHERE embedding_vector IS NOT NULL
         """)
         
+        # Now safely convert the column type
         op.execute("""
             ALTER TABLE embedding 
             ALTER COLUMN embedding_vector 
             TYPE vector(1536) 
-            USING embedding_vector::vector
+            USING NULL::vector(1536)
         """)
         
+        # Make column nullable (embeddings will be regenerated)
         op.execute("""
             ALTER TABLE embedding 
             ALTER COLUMN embedding_vector 

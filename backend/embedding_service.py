@@ -10,8 +10,7 @@ from sqlalchemy.orm import Session
 from models import Verse, Embedding, Translation
 import numpy as np
 
-# Configure logging
-logging.basicConfig(level=logging.INFO)
+# Configure module-specific logger
 logger = logging.getLogger(__name__)
 
 

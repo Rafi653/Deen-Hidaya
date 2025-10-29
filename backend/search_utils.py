@@ -11,9 +11,13 @@ from embedding_service import EmbeddingService
 import os
 import logging
 
-# Configure logging
-logging.basicConfig(level=logging.INFO)
+# Configure module-specific logger
 logger = logging.getLogger(__name__)
+
+# Search scoring weights
+EXACT_MATCH_WEIGHT = 1.0
+FUZZY_MATCH_WEIGHT = 0.8
+SEMANTIC_MATCH_WEIGHT = 0.7
 
 # Initialize embedding service (lazy loading)
 _embedding_service = None
@@ -331,7 +335,7 @@ def hybrid_search(
     for result in fuzzy_results:
         if result.verse_id not in seen_verse_ids:
             seen_verse_ids.add(result.verse_id)
-            result.score = result.score * 0.8  # Weight fuzzy matches lower
+            result.score = result.score * FUZZY_MATCH_WEIGHT
             result.match_type = "fuzzy"
             combined_results.append(result)
     
@@ -339,7 +343,7 @@ def hybrid_search(
     for result in semantic_results:
         if result.verse_id not in seen_verse_ids:
             seen_verse_ids.add(result.verse_id)
-            result.score = result.score * 0.7  # Weight semantic matches lower
+            result.score = result.score * SEMANTIC_MATCH_WEIGHT
             result.match_type = "semantic"
             combined_results.append(result)
     
