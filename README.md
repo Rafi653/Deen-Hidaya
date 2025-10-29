@@ -24,9 +24,71 @@ This project uses a cross-functional agent model for development. See [docs/AGEN
 | Backend | `role:backend` | FastAPI, DB, search, embeddings |
 | QA | `role:qa` | Test strategy, acceptance verification |
 
+## Repository Structure
+
+```
+.
+├── frontend/          # Next.js frontend application
+├── backend/           # FastAPI backend service
+├── infra/            # Infrastructure configuration and database init scripts
+├── data/             # Data files (excluded from version control)
+├── docs/             # Project documentation
+└── scripts/          # Utility scripts
+```
+
 ## Getting Started
 
-*(To be added as development progresses)*
+### Prerequisites
+
+- Docker and Docker Compose
+- Git
+
+### Quick Start
+
+1. Clone the repository:
+```bash
+git clone https://github.com/Rafi653/Deen-Hidaya.git
+cd Deen-Hidaya
+```
+
+2. Copy the environment example file:
+```bash
+cp .env.example .env
+```
+
+3. Start all services with Docker Compose:
+```bash
+docker-compose up
+```
+
+This will start:
+- **Frontend**: http://localhost:3000
+- **Backend API**: http://localhost:8000
+- **PostgreSQL**: localhost:5432
+
+### Health Checks
+
+Verify all services are running:
+- Frontend: http://localhost:3000/api/health
+- Backend: http://localhost:8000/health
+
+### Development
+
+#### Backend
+```bash
+cd backend
+pip install -r requirements.txt
+uvicorn main:app --reload
+```
+
+#### Frontend
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+See individual README files in `frontend/` and `backend/` directories for more details.
 
 ## Contributing
 
