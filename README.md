@@ -42,8 +42,35 @@ This project uses a cross-functional agent model for development. See [docs/AGEN
 
 - Docker and Docker Compose
 - Git
+- (Optional) OpenAI API key for Q&A features
 
-### Quick Start
+### Quick Start (Automated Setup)
+
+**Recommended:** Use the automated setup script for a complete one-command setup:
+
+```bash
+git clone https://github.com/Rafi653/Deen-Hidaya.git
+cd Deen-Hidaya
+./setup.sh
+```
+
+This script will:
+- ✅ Create `.env` file from template
+- ✅ Start Docker services (PostgreSQL, Backend, Frontend)
+- ✅ Run database migrations
+- ✅ Ingest Quran data (if not already present)
+- ✅ Optionally generate embeddings for Q&A
+- ✅ Verify all services are healthy
+
+After setup completes:
+- **Frontend**: http://localhost:3000
+- **Backend API**: http://localhost:8000
+- **API Docs**: http://localhost:8000/docs
+- **PostgreSQL**: localhost:5432
+
+### Quick Start (Manual Setup)
+
+If you prefer manual setup:
 
 1. Clone the repository:
 ```bash
@@ -58,13 +85,18 @@ cp .env.example .env
 
 3. Start all services with Docker Compose:
 ```bash
-docker-compose up
+docker compose up -d
 ```
 
-This will start:
-- **Frontend**: http://localhost:3000
-- **Backend API**: http://localhost:8000
-- **PostgreSQL**: localhost:5432
+4. Run database migrations:
+```bash
+docker compose exec backend alembic upgrade head
+```
+
+5. Ingest data (if not already done):
+```bash
+docker compose exec backend python ingest_data.py
+```
 
 ### Health Checks
 

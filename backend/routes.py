@@ -13,7 +13,7 @@ from schemas import (
     SurahSummary, SurahDetailResponse, VerseResponse, TranslationMetadata,
     AudioMetadataResponse, BookmarkCreate, BookmarkResponse, BookmarkWithVerseResponse,
     SearchResponse, SearchResult, IngestRequest, IngestResponse,
-    EmbedRequest, EmbedResponse
+    EmbedRequest, EmbedResponse, QARequest, QAResponse, CitedVerse
 )
 from audio_utils import stream_audio_file, get_audio_path
 from auth import verify_admin_token
@@ -335,6 +335,101 @@ def search_verses(
         results=results,
         total=len(results),
         search_type=search_type
+    )
+
+
+@router.post("/qa/ask", response_model=QAResponse)
+def ask_question(
+    request: QARequest,
+    db: Session = Depends(get_db)
+):
+    """
+    Q&A endpoint - Ask questions about the Quran and get answers with verse citations
+    Uses semantic search to find relevant verses and provides contextual answers
+    """
+    import time
+    start_time = time.time()
+    
+    # Use semantic search to find relevant verses
+    try:
+        # Try semantic search first
+        search_results = semantic_search(db, request.question, request.language, request.max_verses)
+        
+        # If semantic search returns no results (no embeddings), fall back to hybrid search
+        if not search_results:
+            search_results = hybrid_search(db, request.question, request.language, request.max_verses)
+        
+    except Exception as e:
+        # If search fails, fall back to fuzzy search
+        print(f"Search error in Q&A: {e}")
+        search_results = fuzzy_search(db, request.question, request.language, request.max_verses)
+    
+    # Convert search results to cited verses
+    cited_verses = []
+    for result in search_results:
+        # Get full verse details with translations
+        verse = db.query(Verse).options(
+            joinedload(Verse.translations),
+            joinedload(Verse.surah)
+        ).filter(Verse.id == result.verse_id).first()
+        
+        if verse:
+            cited_verses.append(CitedVerse(
+                verse_id=verse.id,
+                surah_number=verse.surah.number,
+                verse_number=verse.verse_number,
+                surah_name=verse.surah.name_english,
+                text_arabic=verse.text_arabic,
+                text_transliteration=verse.text_transliteration,
+                translations=[
+                    {
+                        "id": t.id,
+                        "language": t.language,
+                        "translator": t.translator,
+                        "text": t.text,
+                        "license": t.license,
+                        "source": t.source
+                    }
+                    for t in verse.translations
+                ],
+                relevance_score=result.score
+            ))
+    
+    # Generate answer based on found verses
+    if cited_verses:
+        # Build a contextual answer
+        answer = f"Based on the Quran, {len(cited_verses)} relevant verse(s) address this topic. "
+        
+        # Add specific context based on the question
+        if "patience" in request.question.lower() or "sabr" in request.question.lower():
+            answer += "The Quran emphasizes patience (sabr) as a fundamental virtue for believers. It teaches that patience is essential during times of hardship and that Allah is with those who are patient."
+        elif "prayer" in request.question.lower() or "salah" in request.question.lower():
+            answer += "Prayer (salah) is one of the five pillars of Islam. The Quran repeatedly emphasizes its importance and commands believers to establish regular prayer."
+        elif "charity" in request.question.lower() or "zakah" in request.question.lower() or "sadaqah" in request.question.lower():
+            answer += "Charity is highly emphasized in the Quran. Believers are encouraged to give from what they have been provided, and charity purifies wealth and souls."
+        elif "forgiveness" in request.question.lower() or "mercy" in request.question.lower():
+            answer += "Allah's mercy and forgiveness are recurring themes in the Quran. Believers are encouraged to seek forgiveness and to show mercy and forgiveness to others."
+        elif "paradise" in request.question.lower() or "jannah" in request.question.lower() or "heaven" in request.question.lower():
+            answer += "The Quran describes Paradise (Jannah) as a reward for believers who do righteous deeds. It is depicted as a place of eternal bliss with gardens, rivers, and the pleasure of Allah."
+        elif "hell" in request.question.lower() or "jahannam" in request.question.lower():
+            answer += "The Quran warns about Hell (Jahannam) as a consequence for those who reject faith and commit wrongdoing. It serves as a reminder to stay on the righteous path."
+        else:
+            # Generic answer for other questions
+            answer += "The following verses provide relevant guidance on this topic."
+        
+        confidence_score = sum(v.relevance_score for v in cited_verses) / len(cited_verses) if cited_verses else 0.0
+    else:
+        answer = "I couldn't find specific verses directly addressing this question. Try rephrasing your question or using different keywords."
+        confidence_score = 0.0
+    
+    processing_time = (time.time() - start_time) * 1000  # Convert to milliseconds
+    
+    return QAResponse(
+        question=request.question,
+        answer=answer,
+        cited_verses=cited_verses,
+        confidence_score=confidence_score,
+        processing_time_ms=processing_time
     )
 
 

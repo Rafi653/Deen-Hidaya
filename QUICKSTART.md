@@ -7,8 +7,43 @@ This guide helps you get started with Deen Hidaya development.
 - Docker and Docker Compose (for containerized setup)
 - OR Python 3.11+ and Node.js 18+ (for local development)
 - Git
+- (Optional) OpenAI API key for Q&A features
 
-## Option 1: Docker Setup (Recommended)
+## Automated Setup (Recommended) ⚡
+
+The fastest way to get started is using our automated setup script:
+
+```bash
+git clone https://github.com/Rafi653/Deen-Hidaya.git
+cd Deen-Hidaya
+./setup.sh
+```
+
+**What it does:**
+- ✅ Creates `.env` from template
+- ✅ Starts Docker services (PostgreSQL, Backend, Frontend)
+- ✅ Runs database migrations
+- ✅ Ingests Quran data (10 surahs if available)
+- ✅ Optionally generates embeddings for Q&A
+- ✅ Verifies all services are healthy
+
+**Time to complete:** ~3-5 minutes (without embeddings)
+
+After setup:
+- Frontend: http://localhost:3000
+- Backend API: http://localhost:8000
+- API Docs: http://localhost:8000/docs
+
+To stop services:
+```bash
+docker compose down
+```
+
+---
+
+## Manual Setup (Docker)
+
+If you prefer manual control:
 
 ### 1. Clone and Configure
 
@@ -21,7 +56,7 @@ cp .env.example .env
 ### 2. Start All Services
 
 ```bash
-docker compose up
+docker compose up -d
 ```
 
 This starts:
@@ -29,7 +64,37 @@ This starts:
 - **Backend API** on http://localhost:8000
 - **Frontend** on http://localhost:3000
 
-### 3. Verify Services
+### 3. Run Database Migrations
+
+```bash
+docker compose exec backend alembic upgrade head
+```
+
+### 4. Ingest Data
+
+```bash
+# If data/quran_text/ has JSON files:
+docker compose exec backend python ingest_data.py
+
+# Otherwise, scrape and ingest:
+docker compose exec backend python scrape_quran.py --start 1 --end 10
+docker compose exec backend python ingest_data.py --start 1 --end 10
+```
+
+### 5. (Optional) Generate Embeddings for Q&A
+
+First, add your OpenAI API key to `.env`:
+```
+OPENAI_API_KEY=your_actual_api_key_here
+```
+
+Then restart backend and generate embeddings:
+```bash
+docker compose restart backend
+docker compose exec backend python -c "from embedding_service import EmbeddingService; from database import SessionLocal; from models import Verse; es = EmbeddingService(); db = SessionLocal(); verses = db.query(Verse).all(); es.create_embeddings_batch([v.id for v in verses], 'en', db)"
+```
+
+### 6. Verify Services
 
 Open these URLs in your browser:
 - Frontend: http://localhost:3000
@@ -37,7 +102,7 @@ Open these URLs in your browser:
 - Backend Health: http://localhost:8000/health
 - Backend API Docs: http://localhost:8000/docs
 
-### 4. Stop Services
+### 7. Stop Services
 
 ```bash
 docker compose down
