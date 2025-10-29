@@ -198,6 +198,7 @@ All code changes:
    - Setting up an HTTPS proxy for audio files
    - Hosting audio files directly on your infrastructure
    - Using a CDN with HTTPS support
+   - Note: Modern browsers may show mixed content warnings when serving HTTPS pages with HTTP audio resources
 
 4. **Q&A Answers:** Contextual answers are template-based. For more sophisticated answers, consider integrating with GPT-4 or similar LLM.
 
@@ -212,8 +213,13 @@ All code changes:
 
 - Setup script uses existing Docker security
 - Q&A endpoint has no authentication (intentional for public access)
-- Audio URLs point to external service (everyayah.com)
+- Audio URLs point to external service (everyayah.com) using HTTP
+  - May trigger mixed content warnings in browsers when frontend uses HTTPS
+  - Consider proxying audio through your backend for production
 - OpenAI API key stored in .env (not in git)
+  - `.gitignore` already excludes `.env` file
+  - Never commit API keys or secrets to version control
+  - Rotate API keys if accidentally exposed
 
 ## Migration Path
 
@@ -240,6 +246,8 @@ For existing installations:
    ```bash
    OPENAI_API_KEY=your_actual_api_key_here
    ```
+   
+   **Security Note:** Never commit your `.env` file to version control. The `.gitignore` file already excludes it, but always verify before pushing changes.
    
    Then restart backend and generate embeddings:
    ```bash
