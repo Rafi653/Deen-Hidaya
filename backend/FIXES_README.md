@@ -8,10 +8,14 @@ This document explains how to fix two critical issues in the Deen Hidaya backend
 ## Issue #1: Missing Translations
 
 ### Problem
-The Quran data was scraped with both English (translation ID 131) and Telugu (translation ID 140) requested, but only one translation appears in the actual verse data. This causes the frontend to display "Translation not available" for one or both languages.
+The Quran data was scraped with incorrect translation IDs. Resource ID 140 was assumed to be Telugu but is actually Spanish. The correct translation IDs are:
+- **131**: English (Dr. Mustafa Khattab) 
+- **213**: Telugu (Abdul Hafeez & Mohammed Abdul Haq)
+
+This causes the frontend to display "Translation not available" when Telugu translations are missing.
 
 ### Root Cause
-The API response from api.quran.com may only include one translation per request, or the scraping parameters need adjustment.
+Translation ID mapping error in the scraper. The data needs to be re-scraped with the correct Telugu translation ID (213 instead of 140).
 
 ### Solution
 
@@ -20,15 +24,17 @@ Use the provided `fix_translations.py` script to re-scrape and re-ingest the dat
 ```bash
 cd backend
 
-# Fix all surahs (1-114)
+# Fix all surahs (1-114) with correct translation IDs [131, 213]
 python fix_translations.py
 
 # Fix specific range
 python fix_translations.py --start 1 --end 10
 
-# Force re-scrape even if files exist
+# Force re-scrape even if files exist (recommended to get correct translations)
 python fix_translations.py --force
 ```
+
+**Note**: The script now uses the correct translation IDs: 131 (English) and 213 (Telugu).
 
 ### What the Script Does
 

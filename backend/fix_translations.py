@@ -61,8 +61,8 @@ def fix_translations(start_surah=1, end_surah=114, force_rescrape=False):
     
     # Translation IDs
     # 131 = Dr. Mustafa Khattab (English)
-    # 140 = Telugu translation
-    translation_ids = [131, 140]
+    # 213 = Abdul Hafeez & Mohammed Abdul Haq (Telugu)
+    translation_ids = [131, 213]
     
     print(f"\n{'='*70}")
     print(f"Re-scraping surahs {start_surah} to {end_surah}")
