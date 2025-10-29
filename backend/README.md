@@ -285,3 +285,69 @@ See [EMBEDDING_EXAMPLES.md](./EMBEDDING_EXAMPLES.md) for complete examples inclu
 - **Storage**: ~6KB per verse embedding (1536 dimensions)
 - **API Cost**: ~$0.03 to embed entire Quran
 
+## Troubleshooting & Common Fixes
+
+### Issue: Missing Translations
+
+**Symptoms:**
+- Frontend displays "Translation not available"
+- Only one language shows up in translation selector
+- Database has fewer translations than expected
+
+**Solution:**
+```bash
+# Run the translation fix script
+python fix_translations.py
+
+# Or for specific range
+python fix_translations.py --start 1 --end 10
+
+# Force re-scrape
+python fix_translations.py --force
+```
+
+See [FIXES_README.md](./FIXES_README.md) for detailed instructions.
+
+### Issue: Q&A Page Not Working
+
+**Symptoms:**
+- Q&A endpoint returns no results or errors
+- Semantic search fails
+- Embeddings table is empty
+
+**Prerequisites:**
+- OPENAI_API_KEY must be configured in .env
+- Translations must be available (run fix_translations.py first)
+
+**Solution:**
+```bash
+# Check current state
+python fix_embeddings.py --check-only
+
+# Generate embeddings for all verses
+python fix_embeddings.py
+
+# Test with limited verses
+python fix_embeddings.py --max-verses 100
+```
+
+See [FIXES_README.md](./FIXES_README.md) for detailed instructions.
+
+### Quick Diagnostics
+
+```bash
+# Check translations
+python -c "from database import SessionLocal; from models import Translation; db = SessionLocal(); print('Translations:', db.query(Translation).count()); print('Languages:', [l[0] for l in db.query(Translation.language).distinct().all()])"
+
+# Check embeddings
+python -c "from database import SessionLocal; from models import Embedding; db = SessionLocal(); print('Embeddings:', db.query(Embedding).count())"
+
+# Check verses
+python -c "from database import SessionLocal; from models import Verse; db = SessionLocal(); print('Verses:', db.query(Verse).count())"
+```
+
+### Complete Fix Documentation
+
+For comprehensive troubleshooting and fix procedures, see:
+- **[FIXES_README.md](./FIXES_README.md)** - Complete guide to fixing translation and embedding issues
+
