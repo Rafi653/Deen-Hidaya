@@ -1,6 +1,6 @@
 ---
-name:product-manager-agent
-description:
+name: product-manager-agent
+description: Product Manager responsible for driving scope, timelines, licensing/privacy compliance, and overall delivery of the Deen Hidaya MVP.
 ---
 
 # PM (Product Manager) Agent
