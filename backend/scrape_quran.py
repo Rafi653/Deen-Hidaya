@@ -33,9 +33,10 @@ class QuranScraper:
     # Translation IDs - can be configured for different languages
     # Common translation IDs from api.quran.com:
     # English: 131 (Dr. Mustafa Khattab), 20 (Sahih International), 85 (Pickthall)
-    # Telugu: 140 (Telugu translation)
+    # Telugu: 213 (Abdul Hafeez & Mohammed Abdul Haq)
+    # Spanish: 140 (Muhammad Isa Garcia)
     # Urdu: 97 (Abul A'ala Maududi), 151 (Ahmed Ali)
-    DEFAULT_TRANSLATIONS = [131]  # Dr. Mustafa Khattab (The Clear Quran) as default
+    DEFAULT_TRANSLATIONS = [131, 213]  # English and Telugu as defaults
     
     # Translation metadata - maps translation ID to metadata
     TRANSLATION_METADATA = {
@@ -56,8 +57,16 @@ class QuranScraper:
             "source": "api.quran.com"
         },
         140: {
-            "name": "Telugu Translation",
-            "author": "Unknown", 
+            "name": "Muhammad Isa Garcia",
+            "author": "Muhammad Isa Garcia", 
+            "language": "es",
+            "language_name": "Spanish",
+            "license": "Public Domain",
+            "source": "api.quran.com"
+        },
+        213: {
+            "name": "Abdul Hafeez & Mohammed Abdul Haq",
+            "author": "Abdul Hafeez, Mohammed Abdul Haq", 
             "language": "te",
             "language_name": "Telugu",
             "license": "Various",
