@@ -40,7 +40,7 @@ echo -e "${GREEN}✓ Migrations applied successfully${NC}"
 # Check tables
 echo ""
 echo "Verifying tables were created..."
-TABLE_COUNT=$(docker compose exec postgres psql -U deen_user -d deen_hidaya -t -c "SELECT COUNT(*) FROM information_schema.tables WHERE table_schema = 'public' AND table_name != 'alembic_version';")
+TABLE_COUNT=$(docker compose exec postgres psql -U deen_user -d deen_hidaya -t -c "SELECT COUNT(*) FROM information_schema.tables WHERE table_schema = 'public' AND table_name != 'alembic_version';" | tr -d ' \n')
 
 if [ "$TABLE_COUNT" -eq 9 ]; then
     echo -e "${GREEN}✓ All 9 tables created successfully${NC}"
@@ -59,7 +59,7 @@ echo -e "${GREEN}✓ Seed script executed successfully${NC}"
 # Verify data
 echo ""
 echo "Verifying seeded data..."
-SURAH_COUNT=$(docker compose exec postgres psql -U deen_user -d deen_hidaya -t -c "SELECT COUNT(*) FROM surah;")
+SURAH_COUNT=$(docker compose exec postgres psql -U deen_user -d deen_hidaya -t -c "SELECT COUNT(*) FROM surah;" | tr -d ' \n')
 
 if [ "$SURAH_COUNT" -eq 114 ]; then
     echo -e "${GREEN}✓ All 114 surahs seeded successfully${NC}"
@@ -78,7 +78,7 @@ echo ""
 echo "Testing migration downgrade..."
 alembic downgrade -1
 
-TABLE_COUNT_AFTER_DOWNGRADE=$(docker compose exec postgres psql -U deen_user -d deen_hidaya -t -c "SELECT COUNT(*) FROM information_schema.tables WHERE table_schema = 'public' AND table_name != 'alembic_version';")
+TABLE_COUNT_AFTER_DOWNGRADE=$(docker compose exec postgres psql -U deen_user -d deen_hidaya -t -c "SELECT COUNT(*) FROM information_schema.tables WHERE table_schema = 'public' AND table_name != 'alembic_version';" | tr -d ' \n')
 
 if [ "$TABLE_COUNT_AFTER_DOWNGRADE" -eq 0 ]; then
     echo -e "${GREEN}✓ Downgrade successful - all tables dropped${NC}"
@@ -92,7 +92,7 @@ echo ""
 echo "Testing migration upgrade..."
 alembic upgrade head
 
-TABLE_COUNT_AFTER_UPGRADE=$(docker compose exec postgres psql -U deen_user -d deen_hidaya -t -c "SELECT COUNT(*) FROM information_schema.tables WHERE table_schema = 'public' AND table_name != 'alembic_version';")
+TABLE_COUNT_AFTER_UPGRADE=$(docker compose exec postgres psql -U deen_user -d deen_hidaya -t -c "SELECT COUNT(*) FROM information_schema.tables WHERE table_schema = 'public' AND table_name != 'alembic_version';" | tr -d ' \n')
 
 if [ "$TABLE_COUNT_AFTER_UPGRADE" -eq 9 ]; then
     echo -e "${GREEN}✓ Upgrade successful - all tables recreated${NC}"
