@@ -57,13 +57,6 @@ def upgrade():
         CREATE INDEX IF NOT EXISTS translations_text_trgm_idx 
         ON translations USING GIN(text gin_trgm_ops)
     """)
-    
-    print("✓ Full-text search indexes created successfully")
-    print("  - verses_text_simple_fts_idx")
-    print("  - verses_text_arabic_fts_idx")
-    print("  - translations_text_fts_idx")
-    print("  - verses_text_simple_trgm_idx (for fuzzy search)")
-    print("  - translations_text_trgm_idx (for fuzzy search)")
 
 
 def downgrade():
@@ -73,5 +66,3 @@ def downgrade():
     op.execute("DROP INDEX IF EXISTS translations_text_fts_idx")
     op.execute("DROP INDEX IF EXISTS verses_text_simple_trgm_idx")
     op.execute("DROP INDEX IF EXISTS translations_text_trgm_idx")
-    
-    print("✓ Full-text search indexes removed")

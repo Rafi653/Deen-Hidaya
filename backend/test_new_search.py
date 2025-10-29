@@ -15,6 +15,9 @@ from pathlib import Path
 # Add backend to path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
+# Constants
+SEPARATOR_WIDTH = 70
+
 from database import SessionLocal
 from embedding_service_v2 import EmbeddingServiceV2
 from search_utils_v2 import unified_search, fulltext_search, semantic_search, exact_search
@@ -23,9 +26,9 @@ from models import Verse
 
 def test_embedding_service():
     """Test embedding service initialization and embedding generation"""
-    print("=" * 70)
+    print("=" * SEPARATOR_WIDTH)
     print("Testing Embedding Service")
-    print("=" * 70)
+    print("=" * SEPARATOR_WIDTH)
     
     # Test auto-detection
     print("\n1. Testing auto-detection...")
@@ -71,9 +74,9 @@ def test_embedding_service():
 
 def test_search_methods(db):
     """Test different search methods"""
-    print("\n" + "=" * 70)
+    print("\n" + "=" * SEPARATOR_WIDTH)
     print("Testing Search Methods")
-    print("=" * 70)
+    print("=" * SEPARATOR_WIDTH)
     
     # Count verses in database
     verse_count = db.query(Verse).count()
@@ -91,9 +94,9 @@ def test_search_methods(db):
     ]
     
     for query, search_type in test_queries:
-        print(f"\n{'─' * 70}")
+        print(f"\n{'─' * SEPARATOR_WIDTH}")
         print(f"Query: '{query}' (type: {search_type})")
-        print('─' * 70)
+        print('─' * SEPARATOR_WIDTH)
         
         start = time.time()
         results = unified_search(db, query, language="en", search_type=search_type, limit=5)
@@ -112,9 +115,9 @@ def test_search_methods(db):
 
 def test_performance_comparison(db):
     """Compare performance of different search methods"""
-    print("\n" + "=" * 70)
+    print("\n" + "=" * SEPARATOR_WIDTH)
     print("Performance Comparison")
-    print("=" * 70)
+    print("=" * SEPARATOR_WIDTH)
     
     verse_count = db.query(Verse).count()
     if verse_count == 0:
@@ -125,7 +128,7 @@ def test_performance_comparison(db):
     
     # Test exact search
     print(f"\nQuery: '{query}'")
-    print("─" * 70)
+    print("─" * SEPARATOR_WIDTH)
     
     methods = [
         ("Exact Search", lambda: exact_search(db, query, limit=10)),
@@ -155,9 +158,9 @@ def test_performance_comparison(db):
 
 def main():
     """Main test function"""
-    print("\n" + "=" * 70)
+    print("\n" + "=" * SEPARATOR_WIDTH)
     print("NEW SEARCH & EMBEDDING TEST SUITE")
-    print("=" * 70)
+    print("=" * SEPARATOR_WIDTH)
     
     # Check environment
     print("\nEnvironment Configuration:")
@@ -177,9 +180,9 @@ def main():
         db.close()
     
     # Summary
-    print("\n" + "=" * 70)
+    print("\n" + "=" * SEPARATOR_WIDTH)
     print("Test Summary")
-    print("=" * 70)
+    print("=" * SEPARATOR_WIDTH)
     print(f"✓ Embedding Backend: {embedding_service.backend_name}")
     print(f"✓ Search Methods: Available")
     print("\nRecommendations:")
@@ -194,7 +197,7 @@ def main():
         print(f"  • Using {embedding_service.backend_name} for embeddings")
         print("  • Run fix_embeddings.py to generate embeddings for all verses")
     
-    print("\n" + "=" * 70)
+    print("\n" + "=" * SEPARATOR_WIDTH)
 
 
 if __name__ == "__main__":
