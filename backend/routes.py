@@ -1,13 +1,23 @@
 """
 API routes for Quran data
 """
-from fastapi import APIRouter, Depends, HTTPException, Query
+from fastapi import APIRouter, Depends, HTTPException, Query, Header, Request, BackgroundTasks
 from sqlalchemy.orm import Session, joinedload
 from typing import List, Optional
+import subprocess
+import sys
 
 from database import get_db
-from models import Surah, Verse, Translation
-from schemas import SurahSummary, SurahDetailResponse, VerseResponse, TranslationMetadata
+from models import Surah, Verse, Translation, Bookmark, AudioTrack
+from schemas import (
+    SurahSummary, SurahDetailResponse, VerseResponse, TranslationMetadata,
+    AudioMetadataResponse, BookmarkCreate, BookmarkResponse, BookmarkWithVerseResponse,
+    SearchResponse, SearchResult, IngestRequest, IngestResponse,
+    EmbedRequest, EmbedResponse
+)
+from audio_utils import stream_audio_file, get_audio_path
+from auth import verify_admin_token
+from search_utils import exact_search, fuzzy_search, semantic_search, hybrid_search
 
 
 router = APIRouter(prefix="/api/v1", tags=["quran"])
@@ -134,3 +144,304 @@ def list_available_translations(db: Session = Depends(get_db)):
         )
         for t in translations
     ]
+
+
+@router.get("/verses/{verse_id}/audio", response_model=List[AudioMetadataResponse])
+def get_verse_audio_metadata(
+    verse_id: int,
+    language: Optional[str] = Query(None, description="Filter by language (ar, en, te)"),
+    reciter: Optional[str] = Query(None, description="Filter by reciter"),
+    db: Session = Depends(get_db)
+):
+    """
+    Get audio metadata for a specific verse
+    """
+    # Check if verse exists
+    verse = db.query(Verse).filter(Verse.id == verse_id).first()
+    if not verse:
+        raise HTTPException(status_code=404, detail=f"Verse {verse_id} not found")
+    
+    # Query audio tracks
+    query = db.query(AudioTrack).filter(AudioTrack.verse_id == verse_id)
+    
+    # Apply filters
+    if language:
+        # Note: language info would need to be added to AudioTrack model
+        # For now, we'll filter by reciter which may include language info
+        pass
+    
+    if reciter:
+        query = query.filter(AudioTrack.reciter == reciter)
+    
+    audio_tracks = query.all()
+    
+    return audio_tracks
+
+
+@router.get("/verses/{verse_id}/audio/stream")
+async def stream_verse_audio(
+    verse_id: int,
+    language: str = Query("ar", description="Language: ar, en, or te"),
+    reciter: str = Query("default", description="Reciter identifier"),
+    range: Optional[str] = Header(None),
+    db: Session = Depends(get_db)
+):
+    """
+    Stream audio file for a verse with range request support
+    """
+    # Check if verse exists
+    verse = db.query(Verse).filter(Verse.id == verse_id).first()
+    if not verse:
+        raise HTTPException(status_code=404, detail=f"Verse {verse_id} not found")
+    
+    # Get audio file path
+    audio_path = get_audio_path(verse_id, language, reciter)
+    
+    # Stream the file
+    return stream_audio_file(audio_path, range)
+
+
+@router.post("/bookmarks", response_model=BookmarkResponse, status_code=201)
+def create_bookmark(
+    bookmark: BookmarkCreate,
+    db: Session = Depends(get_db)
+):
+    """
+    Create a new bookmark
+    """
+    # Check if verse exists
+    verse = db.query(Verse).filter(Verse.id == bookmark.verse_id).first()
+    if not verse:
+        raise HTTPException(status_code=404, detail=f"Verse {bookmark.verse_id} not found")
+    
+    # Check if bookmark already exists for this user and verse
+    existing = db.query(Bookmark).filter(
+        Bookmark.verse_id == bookmark.verse_id,
+        Bookmark.user_id == bookmark.user_id
+    ).first()
+    
+    if existing:
+        raise HTTPException(
+            status_code=400,
+            detail="Bookmark already exists for this verse and user"
+        )
+    
+    # Create new bookmark
+    db_bookmark = Bookmark(
+        verse_id=bookmark.verse_id,
+        user_id=bookmark.user_id,
+        note=bookmark.note
+    )
+    
+    db.add(db_bookmark)
+    db.commit()
+    db.refresh(db_bookmark)
+    
+    return db_bookmark
+
+
+@router.get("/bookmarks", response_model=List[BookmarkWithVerseResponse])
+def list_bookmarks(
+    user_id: str = Query(..., description="User ID or session ID"),
+    include_verses: bool = Query(True, description="Include verse details"),
+    skip: int = Query(0, ge=0),
+    limit: int = Query(100, ge=1, le=100),
+    db: Session = Depends(get_db)
+):
+    """
+    List all bookmarks for a user
+    """
+    query = db.query(Bookmark).filter(Bookmark.user_id == user_id)
+    
+    if include_verses:
+        query = query.options(
+            joinedload(Bookmark.verse)
+            .joinedload(Verse.translations)
+        )
+        query = query.options(
+            joinedload(Bookmark.verse)
+            .joinedload(Verse.surah)
+        )
+    
+    bookmarks = query.offset(skip).limit(limit).all()
+    
+    return bookmarks
+
+
+@router.delete("/bookmarks/{bookmark_id}", status_code=204)
+def delete_bookmark(
+    bookmark_id: int,
+    user_id: str = Query(..., description="User ID for verification"),
+    db: Session = Depends(get_db)
+):
+    """
+    Delete a bookmark
+    """
+    bookmark = db.query(Bookmark).filter(Bookmark.id == bookmark_id).first()
+    
+    if not bookmark:
+        raise HTTPException(status_code=404, detail="Bookmark not found")
+    
+    # Verify ownership
+    if bookmark.user_id != user_id:
+        raise HTTPException(
+            status_code=403,
+            detail="Not authorized to delete this bookmark"
+        )
+    
+    db.delete(bookmark)
+    db.commit()
+    
+    return None
+
+
+@router.get("/search", response_model=SearchResponse)
+def search_verses(
+    q: str = Query(..., min_length=1, description="Search query"),
+    lang: str = Query("en", description="Language: en, ar, or te"),
+    search_type: str = Query("hybrid", description="Search type: exact, fuzzy, semantic, or hybrid"),
+    limit: int = Query(20, ge=1, le=100),
+    db: Session = Depends(get_db)
+):
+    """
+    Unified search endpoint for Quran verses
+    Supports exact, fuzzy, semantic, and hybrid search
+    """
+    # Validate search type
+    valid_types = ["exact", "fuzzy", "semantic", "hybrid"]
+    if search_type not in valid_types:
+        raise HTTPException(
+            status_code=400,
+            detail=f"Invalid search_type. Must be one of: {', '.join(valid_types)}"
+        )
+    
+    # Perform search based on type
+    if search_type == "exact":
+        results = exact_search(db, q, lang, limit)
+    elif search_type == "fuzzy":
+        results = fuzzy_search(db, q, lang, limit)
+    elif search_type == "semantic":
+        results = semantic_search(db, q, lang, limit)
+        if not results:
+            # Fallback to fuzzy if semantic not available
+            results = fuzzy_search(db, q, lang, limit)
+            search_type = "fuzzy (semantic fallback)"
+    else:  # hybrid
+        results = hybrid_search(db, q, lang, limit)
+    
+    return SearchResponse(
+        query=q,
+        results=results,
+        total=len(results),
+        search_type=search_type
+    )
+
+
+# Admin endpoints
+admin_router = APIRouter(prefix="/admin", tags=["admin"])
+
+
+@admin_router.post("/ingest/scrape", response_model=IngestResponse)
+async def run_scraper(
+    request: IngestRequest,
+    background_tasks: BackgroundTasks,
+    token: str = Depends(verify_admin_token),
+    db: Session = Depends(get_db)
+):
+    """
+    Admin endpoint to run data scraping and ingestion
+    Protected with admin token authentication
+    """
+    try:
+        # Run the scraping script
+        if request.surah_numbers:
+            # Scrape specific surahs
+            for surah_num in request.surah_numbers:
+                subprocess.run(
+                    [sys.executable, "scrape_quran.py", "--surah", str(surah_num)],
+                    cwd="/home/runner/work/Deen-Hidaya/Deen-Hidaya/backend",
+                    check=True,
+                    capture_output=True,
+                    text=True
+                )
+            message = f"Scraped {len(request.surah_numbers)} surahs"
+        else:
+            # Scrape all
+            subprocess.run(
+                [sys.executable, "scrape_quran.py"],
+                cwd="/home/runner/work/Deen-Hidaya/Deen-Hidaya/backend",
+                check=True,
+                capture_output=True,
+                text=True
+            )
+            message = "Scraped all surahs"
+        
+        # Run the ingestion script
+        result = subprocess.run(
+            [sys.executable, "ingest_data.py"],
+            cwd="/home/runner/work/Deen-Hidaya/Deen-Hidaya/backend",
+            check=True,
+            capture_output=True,
+            text=True
+        )
+        
+        # Count processed verses
+        verses_count = db.query(Verse).count()
+        
+        return IngestResponse(
+            status="success",
+            message=message + " and ingested successfully",
+            surahs_processed=request.surah_numbers or list(range(1, 115)),
+            verses_processed=verses_count
+        )
+    
+    except subprocess.CalledProcessError as e:
+        raise HTTPException(
+            status_code=500,
+            detail=f"Scraping/ingestion failed: {e.stderr}"
+        )
+    except Exception as e:
+        raise HTTPException(
+            status_code=500,
+            detail=f"Unexpected error: {str(e)}"
+        )
+
+
+@admin_router.post("/embed/verse", response_model=EmbedResponse)
+async def create_embeddings(
+    request: EmbedRequest,
+    background_tasks: BackgroundTasks,
+    token: str = Depends(verify_admin_token),
+    db: Session = Depends(get_db)
+):
+    """
+    Admin endpoint to create embeddings for verses
+    Protected with admin token authentication
+    Note: Full implementation depends on issue #7 (embeddings)
+    """
+    try:
+        # TODO: Implement embedding generation
+        # This is a placeholder for issue #7
+        
+        if request.verse_ids:
+            verses_to_embed = request.verse_ids
+            message = f"Would embed {len(verses_to_embed)} verses"
+        else:
+            verses_count = db.query(Verse).count()
+            message = f"Would embed all {verses_count} verses"
+        
+        return EmbedResponse(
+            status="pending",
+            message=message + " (embedding generation not yet implemented)",
+            verses_embedded=0
+        )
+    
+    except Exception as e:
+        raise HTTPException(
+            status_code=500,
+            detail=f"Embedding creation failed: {str(e)}"
+        )
+
+
+# Include admin router
+router.include_router(admin_router)
