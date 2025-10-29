@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import Link from 'next/link'
 import { useEffect, useState } from 'react'
 
 export default function Home() {
@@ -31,6 +32,20 @@ export default function Home() {
         <h1>Deen Hidaya</h1>
         <p>Islamic Knowledge Platform</p>
         
+        <div style={{ marginTop: '2rem', display: 'flex', gap: '1rem', flexWrap: 'wrap' }}>
+          <Link href="/qa" style={{ 
+            padding: '1rem 2rem', 
+            background: 'linear-gradient(135deg, #d6b55f 0%, #c9a548 100%)',
+            color: 'white',
+            textDecoration: 'none',
+            borderRadius: '8px',
+            fontWeight: 600,
+            display: 'inline-block'
+          }}>
+            Ask a Question
+          </Link>
+        </div>
+
         <div style={{ marginTop: '2rem', padding: '1rem', border: '1px solid #ddd', borderRadius: '8px' }}>
           <h2>System Status</h2>
           <div style={{ marginTop: '1rem' }}>

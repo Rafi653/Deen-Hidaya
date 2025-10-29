@@ -1,0 +1,93 @@
+.container {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #f7f8fa 0%, #e8eef3 100%);
+  padding: 2rem 1rem;
+}
+
+.content {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.header h1 {
+  font-size: 2.5rem;
+  color: #0b2545;
+  margin-bottom: 0.5rem;
+  font-weight: 700;
+}
+
+.subtitle {
+  font-size: 1.125rem;
+  color: #2e5a78;
+  margin: 0;
+}
+
+.error {
+  background-color: #fee;
+  border: 1px solid #fcc;
+  border-radius: 8px;
+  padding: 1rem;
+  margin: 1rem 0;
+  color: #c33;
+  font-weight: 500;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .header h1 {
+    font-size: 2rem;
+  }
+
+  .subtitle {
+    font-size: 1rem;
+  }
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  .container {
+    background: linear-gradient(135deg, #071224 0%, #0b2545 100%);
+  }
+
+  .header h1 {
+    color: #f7f8fa;
+  }
+
+  .subtitle {
+    color: #a0c4d9;
+  }
+
+  .error {
+    background-color: #3a1a1a;
+    border-color: #5a2a2a;
+    color: #ff8888;
+  }
+}
+
+/* High contrast mode */
+@media (prefers-contrast: high) {
+  .header h1 {
+    color: #000;
+    text-shadow: none;
+  }
+
+  .subtitle {
+    color: #333;
+  }
+}
+
+/* Reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  .container,
+  .header,
+  .subtitle,
+  .error {
+    animation: none !important;
+    transition: none !important;
+  }
+}

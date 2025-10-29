@@ -1,0 +1,169 @@
+.container {
+  background: white;
+  border-radius: 12px;
+  padding: 2rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1.5rem;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.title {
+  font-size: 1.75rem;
+  color: #0b2545;
+  margin: 0;
+  font-weight: 700;
+}
+
+.explanationButton {
+  padding: 0.5rem 1rem;
+  background: #2e5a78;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-size: 0.875rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.2s;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.explanationButton:hover {
+  background: #1e4a68;
+}
+
+.explanationButton:focus {
+  outline: 2px solid #d6b55f;
+  outline-offset: 2px;
+}
+
+.answer {
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+  background: #f7f8fa;
+  border-radius: 8px;
+  border-left: 4px solid #d6b55f;
+}
+
+.answerLabel {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #0b2545;
+  margin: 0 0 0.75rem 0;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.answerText {
+  font-size: 1.125rem;
+  line-height: 1.6;
+  color: #2e5a78;
+  margin: 0 0 1rem 0;
+}
+
+.disclaimer {
+  font-size: 0.875rem;
+  color: #666;
+  margin: 0;
+  padding-top: 0.75rem;
+  border-top: 1px solid #e0e0e0;
+}
+
+.verses {
+  margin-top: 2rem;
+}
+
+.versesLabel {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #0b2545;
+  margin: 0 0 1rem 0;
+}
+
+.versesList {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+  .container {
+    background: #1a2332;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  }
+
+  .title {
+    color: #f7f8fa;
+  }
+
+  .explanationButton {
+    background: #3e6a88;
+  }
+
+  .explanationButton:hover {
+    background: #4e7a98;
+  }
+
+  .answer {
+    background: #0b1829;
+    border-left-color: #d6b55f;
+  }
+
+  .answerLabel {
+    color: #f7f8fa;
+  }
+
+  .answerText {
+    color: #a0c4d9;
+  }
+
+  .disclaimer {
+    color: #8a9eb3;
+    border-top-color: #2e5a78;
+  }
+
+  .versesLabel {
+    color: #f7f8fa;
+  }
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .container {
+    padding: 1.5rem;
+  }
+
+  .header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .title {
+    font-size: 1.5rem;
+  }
+
+  .explanationButton {
+    width: 100%;
+    justify-content: center;
+  }
+}
+
+/* High contrast */
+@media (prefers-contrast: high) {
+  .answer {
+    border-left-width: 6px;
+  }
+
+  .explanationButton {
+    border: 2px solid #fff;
+  }
+}

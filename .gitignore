@@ -43,6 +43,12 @@ yarn-error.log*
 .yarn/install-state.gz
 .pnp.*
 
+# Next.js
+.next/
+out/
+next-env.d.ts
+.vercel
+
 # IDEs
 .vscode/
 .idea/

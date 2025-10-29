@@ -1,0 +1,171 @@
+.card {
+  background: white;
+  border: 2px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 1.5rem;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.card:hover {
+  border-color: #d6b55f;
+  box-shadow: 0 2px 8px rgba(214, 181, 95, 0.2);
+}
+
+.card:focus-within {
+  border-color: #d6b55f;
+  box-shadow: 0 0 0 3px rgba(214, 181, 95, 0.1);
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.rank {
+  background: linear-gradient(135deg, #d6b55f 0%, #c9a548 100%);
+  color: white;
+  font-weight: 700;
+  font-size: 0.875rem;
+  padding: 0.25rem 0.75rem;
+  border-radius: 20px;
+  min-width: 40px;
+  text-align: center;
+}
+
+.reference {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.surahVerse {
+  font-weight: 600;
+  color: #0b2545;
+  font-size: 1rem;
+}
+
+.relevance {
+  font-size: 0.875rem;
+  color: #666;
+}
+
+.content {
+  margin-bottom: 1rem;
+}
+
+.arabic {
+  font-size: 1.5rem;
+  line-height: 2;
+  color: #0b2545;
+  margin-bottom: 1rem;
+  font-family: 'Traditional Arabic', 'Noto Naskh Arabic', 'Amiri', serif;
+  text-align: right;
+}
+
+.translation {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #2e5a78;
+}
+
+.viewButton {
+  background: transparent;
+  color: #2e5a78;
+  border: 1px solid #2e5a78;
+  border-radius: 6px;
+  padding: 0.5rem 1rem;
+  font-size: 0.875rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+  width: 100%;
+}
+
+.viewButton:hover {
+  background: #2e5a78;
+  color: white;
+}
+
+.viewButton:focus {
+  outline: 2px solid #d6b55f;
+  outline-offset: 2px;
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+  .card {
+    background: #1a2332;
+    border-color: #2e5a78;
+  }
+
+  .card:hover {
+    border-color: #d6b55f;
+    box-shadow: 0 2px 8px rgba(214, 181, 95, 0.3);
+  }
+
+  .surahVerse {
+    color: #f7f8fa;
+  }
+
+  .relevance {
+    color: #8a9eb3;
+  }
+
+  .arabic {
+    color: #f7f8fa;
+  }
+
+  .translation {
+    color: #a0c4d9;
+  }
+
+  .viewButton {
+    color: #a0c4d9;
+    border-color: #2e5a78;
+  }
+
+  .viewButton:hover {
+    background: #2e5a78;
+    color: #f7f8fa;
+  }
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .card {
+    padding: 1rem;
+  }
+
+  .arabic {
+    font-size: 1.25rem;
+  }
+
+  .header {
+    flex-wrap: wrap;
+  }
+}
+
+/* High contrast */
+@media (prefers-contrast: high) {
+  .card {
+    border-width: 3px;
+  }
+
+  .viewButton {
+    border-width: 2px;
+  }
+}
+
+/* Large text support */
+@media (min-width: 1200px) {
+  .arabic {
+    font-size: 1.75rem;
+  }
+
+  .translation {
+    font-size: 1.125rem;
+  }
+}
