@@ -1,4 +1,4 @@
-FROM node:18-alpine
+FROM node:20-alpine
 
 WORKDIR /app
 
@@ -6,10 +6,15 @@ WORKDIR /app
 RUN apk add --no-cache wget
 
 # Copy package files
-COPY package*.json ./
+# COPY package*.json ./
 
-# Install dependencies
-RUN npm install
+# # Install dependencies
+# RUN npm install
+# Copy only manifest first for better layer caching
+COPY package.json package-lock.json ./
+
+# Install exact deps per lockfile
+RUN npm ci
 
 # Copy application code
 COPY . .

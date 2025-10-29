@@ -5,10 +5,14 @@ import { useEffect, useState } from 'react';
 import { fetchSurahDetail, SurahDetail, Verse } from '../../lib/api';
 import { GaplessAudioPlayer } from '../../lib/audioPlayer';
 import { addBookmark, removeBookmark, isBookmarked, Bookmark } from '../../lib/bookmarks';
+import { AccessibilityBar } from '../../components/AccessibilityBar';
+import { useTheme, getFontSizeClasses } from '../../lib/theme';
 
 export default function SurahReader() {
   const router = useRouter();
   const { surahNumber } = router.query;
+  const { fontSize } = useTheme();
+  const fontClasses = getFontSizeClasses(fontSize);
   
   const [surah, setSurah] = useState<SurahDetail | null>(null);
   const [loading, setLoading] = useState(true);
@@ -148,7 +152,8 @@ export default function SurahReader() {
         <link rel="icon" href="/favicon.ico" />
         <link href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&display=swap" rel="stylesheet" />
       </Head>
-      <main className="min-h-screen bg-gradient-to-b from-green-50 to-white dark:from-gray-900 dark:to-gray-800">
+      <AccessibilityBar className="sticky top-0 z-50" />
+      <main id="main-content" className="min-h-screen bg-gradient-to-b from-green-50 to-white dark:from-gray-900 dark:to-gray-800">
         <div className="container mx-auto px-4 py-8 max-w-4xl">
           {/* Header */}
           <header className="mb-8">
@@ -160,13 +165,13 @@ export default function SurahReader() {
             </Link>
             
             <div className="bg-white dark:bg-gray-800 rounded-lg shadow-lg p-6 text-center border-t-4 border-green-500">
-              <h1 className="text-4xl font-arabic text-gray-900 dark:text-gray-100 mb-2">
+              <h1 className={`font-arabic text-gray-900 dark:text-gray-100 mb-2 ${fontClasses.heading}`}>
                 {surah.name_arabic}
               </h1>
-              <h2 className="text-2xl font-bold text-gray-800 dark:text-gray-200 mb-1">
+              <h2 className={`font-bold text-gray-800 dark:text-gray-200 mb-1 ${fontClasses.body}`}>
                 {surah.name_english}
               </h2>
-              <p className="text-gray-600 dark:text-gray-400">
+              <p className={`text-gray-600 dark:text-gray-400 ${fontClasses.body}`}>
                 {surah.name_transliteration} • {surah.total_verses} verses • {surah.revelation_place}
               </p>
             </div>
@@ -209,10 +214,10 @@ export default function SurahReader() {
           {/* Bismillah (except for Surah 9) */}
           {surah.number !== 9 && surah.number !== 1 && (
             <div className="text-center mb-8 py-6">
-              <p className="text-3xl font-arabic text-gray-900 dark:text-gray-100">
+              <p className={`font-arabic text-gray-900 dark:text-gray-100 ${fontClasses.heading}`}>
                 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
               </p>
-              <p className="text-sm text-gray-600 dark:text-gray-400 mt-2">
+              <p className={`text-gray-600 dark:text-gray-400 mt-2 ${fontClasses.body}`}>
                 In the name of Allah, the Most Gracious, the Most Merciful
               </p>
             </div>
@@ -269,7 +274,7 @@ export default function SurahReader() {
 
                 {/* Arabic Text */}
                 <div className="mb-4 text-right" dir="rtl">
-                  <p className="text-3xl font-arabic leading-loose text-gray-900 dark:text-gray-100">
+                  <p className={`font-arabic leading-loose text-gray-900 dark:text-gray-100 ${fontClasses.arabic}`}>
                     {verse.text_arabic}
                   </p>
                 </div>
@@ -277,7 +282,7 @@ export default function SurahReader() {
                 {/* Transliteration */}
                 {showTransliteration && verse.text_transliteration && (
                   <div className="mb-4 p-3 bg-gray-50 dark:bg-gray-900 rounded-lg">
-                    <p className="text-sm font-medium text-gray-700 dark:text-gray-300 italic">
+                    <p className={`font-medium text-gray-700 dark:text-gray-300 italic ${fontClasses.body}`}>
                       {verse.text_transliteration}
                     </p>
                   </div>
@@ -285,7 +290,7 @@ export default function SurahReader() {
 
                 {/* Translation */}
                 <div className="p-3 bg-green-50 dark:bg-green-900/20 rounded-lg">
-                  <p className="text-gray-800 dark:text-gray-200">
+                  <p className={`text-gray-800 dark:text-gray-200 ${fontClasses.translation}`}>
                     {getTranslation(verse)}
                   </p>
                 </div>

@@ -47,6 +47,11 @@ yarn-error.log*
 .next/
 out/
 
+# Playwright
+playwright-report/
+test-results/
+.last-run.json
+
 # IDEs
 .vscode/
 .idea/
