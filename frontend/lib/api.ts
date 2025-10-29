@@ -20,6 +20,16 @@ export interface Translation {
   source?: string;
 }
 
+export interface AudioTrack {
+  id: number;
+  reciter: string;
+  reciter_arabic?: string;
+  audio_url: string;
+  duration?: number;
+  format?: string;
+  quality?: string;
+}
+
 export interface Verse {
   id: number;
   verse_number: number;
@@ -31,6 +41,7 @@ export interface Verse {
   rub_number?: number;
   sajda: boolean;
   translations: Translation[];
+  audio_tracks?: AudioTrack[];
 }
 
 export interface SurahDetail extends Surah {
@@ -85,6 +96,9 @@ const MOCK_SURAH_AL_FATIHAH: SurahDetail = {
       translations: [
         { id: 1, language: 'english', translator: 'Sahih International', text: 'In the name of Allah, the Entirely Merciful, the Especially Merciful.' },
         { id: 2, language: 'telugu', translator: 'Telugu Translation', text: 'అత్యంత కరుణామయుడు, అపార కృపాశీలుడు అయిన అల్లాహ్ పేరుతో (ప్రారంభిస్తున్నాను).' }
+      ],
+      audio_tracks: [
+        { id: 1, reciter: 'Mishari Al-Afasy', audio_url: 'http://everyayah.com/data/Alafasy_128kbps/001001.mp3', format: 'mp3', quality: '128kbps' }
       ]
     },
     {
@@ -96,6 +110,9 @@ const MOCK_SURAH_AL_FATIHAH: SurahDetail = {
       translations: [
         { id: 3, language: 'english', translator: 'Sahih International', text: '[All] praise is [due] to Allah, Lord of the worlds.' },
         { id: 4, language: 'telugu', translator: 'Telugu Translation', text: 'సర్వ ప్రపంచాలకు ప్రభువైన అల్లాహ్‌కే సమస్త స్తుతులు.' }
+      ],
+      audio_tracks: [
+        { id: 2, reciter: 'Mishari Al-Afasy', audio_url: 'http://everyayah.com/data/Alafasy_128kbps/001002.mp3', format: 'mp3', quality: '128kbps' }
       ]
     },
     {
@@ -107,6 +124,9 @@ const MOCK_SURAH_AL_FATIHAH: SurahDetail = {
       translations: [
         { id: 5, language: 'english', translator: 'Sahih International', text: 'The Entirely Merciful, the Especially Merciful.' },
         { id: 6, language: 'telugu', translator: 'Telugu Translation', text: 'అత్యంత కరుణామయుడు, అపార కృపాశీలుడు.' }
+      ],
+      audio_tracks: [
+        { id: 3, reciter: 'Mishari Al-Afasy', audio_url: 'http://everyayah.com/data/Alafasy_128kbps/001003.mp3', format: 'mp3', quality: '128kbps' }
       ]
     }
   ]

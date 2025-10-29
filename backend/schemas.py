@@ -39,6 +39,7 @@ class VerseResponse(BaseModel):
     rub_number: Optional[int] = None
     sajda: bool = False
     translations: List[TranslationResponse] = []
+    audio_tracks: List['AudioMetadataResponse'] = []
     
     class Config:
         from_attributes = True

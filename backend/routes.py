@@ -41,6 +41,7 @@ def list_surahs(
 def get_surah(
     surah_number: int,
     include_translations: bool = Query(True, description="Include translations in verses"),
+    include_audio: bool = Query(True, description="Include audio tracks in verses"),
     db: Session = Depends(get_db)
 ):
     """
@@ -55,6 +56,10 @@ def get_surah(
         # Also eagerly load translations
         query = query.options(joinedload(Surah.verses).joinedload(Verse.translations))
     
+    if include_audio:
+        # Also eagerly load audio tracks
+        query = query.options(joinedload(Surah.verses).joinedload(Verse.audio_tracks))
+    
     surah = query.first()
     
     if not surah:
@@ -67,6 +72,7 @@ def get_surah(
 def get_verse(
     verse_id: int,
     include_translations: bool = Query(True, description="Include translations"),
+    include_audio: bool = Query(True, description="Include audio tracks"),
     db: Session = Depends(get_db)
 ):
     """
@@ -76,6 +82,9 @@ def get_verse(
     
     if include_translations:
         query = query.options(joinedload(Verse.translations))
+    
+    if include_audio:
+        query = query.options(joinedload(Verse.audio_tracks))
     
     verse = query.first()
     

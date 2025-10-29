@@ -57,9 +57,35 @@ export default function SurahReader() {
       setSurah(data);
       setError(null);
       
-      // Initialize audio player (mock URLs - in production, these would come from API)
-      // For now, we'll show the UI without actual audio
-      setAudioSupported(false);
+      // Check if audio URLs are available
+      const hasAudio = data.verses.some(verse => 
+        verse.audio_tracks && verse.audio_tracks.length > 0
+      );
+      
+      if (hasAudio) {
+        // Extract audio URLs from verses
+        const audioUrls = data.verses.map(verse => {
+          const audioTrack = verse.audio_tracks?.[0]; // Use first audio track
+          return audioTrack?.audio_url || '';
+        }).filter(url => url !== '');
+        
+        if (audioUrls.length > 0) {
+          // Initialize audio player with URLs
+          const player = new GaplessAudioPlayer(audioUrls);
+          player.onTrackChange((trackIndex) => {
+            setCurrentPlayingVerse(trackIndex + 1);
+          });
+          player.onPlayStateChange((playing) => {
+            setIsPlaying(playing);
+          });
+          setAudioPlayer(player);
+          setAudioSupported(true);
+        } else {
+          setAudioSupported(false);
+        }
+      } else {
+        setAudioSupported(false);
+      }
       
     } catch (err) {
       setError('Failed to load surah. Please try again.');
@@ -105,17 +131,20 @@ export default function SurahReader() {
   }
 
   async function handlePlayVerse(verseIndex: number) {
-    if (!audioSupported) {
-      alert('Audio playback is not yet configured. Please add audio URLs to enable playback.');
+    if (!audioSupported || !audioPlayer) {
+      alert('Audio playback is not available for this surah. Audio data may not be loaded yet.');
       return;
     }
     
-    if (audioPlayer) {
+    try {
       if (currentPlayingVerse === verseIndex + 1 && isPlaying) {
         audioPlayer.pause();
       } else {
         await audioPlayer.playVerse(verseIndex);
       }
+    } catch (error) {
+      console.error('Error playing verse:', error);
+      alert('Failed to play audio. Please try again.');
     }
   }
 
