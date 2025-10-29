@@ -216,34 +216,35 @@ class QuranDataIngester:
         """
         for trans_data in translations_data:
             try:
-                resource_name = trans_data.get("resource_name", "")
-                language_code = trans_data.get("language_name", "en")[:10]
                 text = trans_data.get("text", "")
-                
                 if not text:
                     continue
                 
-                # Extract translator name from resource_name
-                translator = resource_name if resource_name else "Unknown"
+                # Get resource_id to look up metadata
+                resource_id = trans_data.get("resource_id")
                 
-                # Try to get license and source from metadata
+                # Default values
+                language_code = "en"
+                translator = "Unknown"
                 license_info = None
                 source_info = "api.quran.com"
                 
-                if translation_metadata:
-                    # Try to find matching metadata by resource_id or name
-                    resource_id = trans_data.get("resource_id")
-                    if resource_id and str(resource_id) in translation_metadata:
-                        metadata = translation_metadata[str(resource_id)]
-                        license_info = metadata.get("license")
-                        source_info = metadata.get("source", source_info)
-                    else:
-                        # Fallback: try to match by resource_name
-                        for tid, metadata in translation_metadata.items():
-                            if metadata.get("name") == resource_name or metadata.get("author") == translator:
-                                license_info = metadata.get("license")
-                                source_info = metadata.get("source", source_info)
-                                break
+                # Try to get metadata from translation_metadata
+                if translation_metadata and resource_id and str(resource_id) in translation_metadata:
+                    metadata = translation_metadata[str(resource_id)]
+                    language_code = metadata.get("language", "en")
+                    translator = metadata.get("author", metadata.get("name", "Unknown"))
+                    license_info = metadata.get("license")
+                    source_info = metadata.get("source", source_info)
+                else:
+                    # Fallback: try resource_name if present (legacy support)
+                    resource_name = trans_data.get("resource_name", "")
+                    if resource_name:
+                        translator = resource_name
+                    language_code = trans_data.get("language_name", "en")[:10]
+                
+                # Ensure language code is not too long (max 10 chars)
+                language_code = language_code[:10]
                 
                 # Check if translation already exists
                 existing_translation = db.query(Translation).filter(
@@ -292,48 +293,56 @@ class QuranDataIngester:
                 return
             
             # Get audio file info
-            audio_url = audio_file.get("audio_url", "")
+            chapter_audio_url = audio_file.get("audio_url", "")
             chapter_id = audio_file.get("chapter_id")
             
-            # Get reciter info
+            # Get reciter info - default to Mishari Al-Afasy if not specified
             recitation = audio_data.get("recitation", {})
-            reciter_name = recitation.get("reciter_name", "Unknown")
+            reciter_name = recitation.get("reciter_name", "Mishari Al-Afasy")
             
-            if not audio_url or not chapter_id:
+            if not chapter_audio_url:
                 return
             
-            # For chapter-level audio, we create a single audio track entry
-            # In a more complete implementation, we'd have verse-level audio
+            # Get all verses for this surah
+            verses = db.query(Verse).filter(Verse.surah_id == surah.id).all()
             
-            # Get first verse of the surah to attach audio metadata
-            first_verse = db.query(Verse).filter(
-                Verse.surah_id == surah.id,
-                Verse.verse_number == 1
-            ).first()
-            
-            if not first_verse:
+            if not verses:
                 return
             
-            # Check if audio track already exists
-            existing_audio = db.query(AudioTrack).filter(
-                AudioTrack.verse_id == first_verse.id,
-                AudioTrack.reciter == reciter_name
-            ).first()
+            # Generate verse-level audio URLs using everyayah.com pattern
+            # Format: http://everyayah.com/data/[reciter_folder]/[surah][verse].mp3
+            # Example: http://everyayah.com/data/Alafasy_128kbps/001001.mp3
+            reciter_folder = "Alafasy_128kbps"  # Default reciter folder
             
-            if existing_audio:
-                # Update existing audio track
-                existing_audio.audio_url = audio_url
-                existing_audio.updated_at = datetime.now(timezone.utc)
-            else:
-                # Create new audio track
-                new_audio = AudioTrack(
-                    verse_id=first_verse.id,
-                    reciter=reciter_name,
-                    audio_url=audio_url,
-                    format="mp3",
-                    quality="128kbps"
-                )
-                db.add(new_audio)
+            audio_tracks_created = 0
+            for verse in verses:
+                # Generate verse-level audio URL
+                verse_audio_url = f"http://everyayah.com/data/{reciter_folder}/{surah.number:03d}{verse.verse_number:03d}.mp3"
+                
+                # Check if audio track already exists for this verse
+                existing_audio = db.query(AudioTrack).filter(
+                    AudioTrack.verse_id == verse.id,
+                    AudioTrack.reciter == reciter_name
+                ).first()
+                
+                if existing_audio:
+                    # Update existing audio track
+                    existing_audio.audio_url = verse_audio_url
+                    existing_audio.updated_at = datetime.now(timezone.utc)
+                else:
+                    # Create new audio track for this verse
+                    new_audio = AudioTrack(
+                        verse_id=verse.id,
+                        reciter=reciter_name,
+                        audio_url=verse_audio_url,
+                        format="mp3",
+                        quality="128kbps"
+                    )
+                    db.add(new_audio)
+                    audio_tracks_created += 1
+            
+            if audio_tracks_created > 0:
+                print(f"  Added {audio_tracks_created} verse-level audio tracks")
             
         except Exception as e:
             print(f"  Error processing audio metadata: {e}")
