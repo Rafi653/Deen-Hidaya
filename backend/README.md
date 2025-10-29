@@ -64,12 +64,41 @@ alembic history
 - `GET /api/v1/surahs/{surah_number}/verses/{verse_number}` - Get verse by Quran reference (e.g., 2:255)
 - `GET /api/v1/translations` - List all available translations with license info
 
+### Audio Endpoints (NEW in Issue #6)
+- `GET /api/v1/verses/{verse_id}/audio` - Get audio metadata for a verse
+- `GET /api/v1/verses/{verse_id}/audio/stream` - Stream audio with range request support
+
+### Bookmark Endpoints (NEW in Issue #6)
+- `POST /api/v1/bookmarks` - Create a new bookmark
+- `GET /api/v1/bookmarks` - List bookmarks for a user
+- `DELETE /api/v1/bookmarks/{bookmark_id}` - Delete a bookmark
+
+### Search Endpoint (NEW in Issue #6)
+- `GET /api/v1/search` - Unified search (exact, fuzzy, semantic, hybrid)
+  - Query parameters: `q`, `lang`, `search_type`, `limit`
+  - Supports exact matching, fuzzy search, and semantic search (placeholder)
+
+### Admin Endpoints (NEW in Issue #6)
+**Authentication Required:** Bearer token in Authorization header
+- `POST /api/v1/admin/ingest/scrape` - Run data scraping pipeline
+- `POST /api/v1/admin/embed/verse` - Create embeddings (placeholder for Issue #7)
+
 ### API Features
 - **Transliteration**: All verses include romanized Arabic text
 - **Multiple Translations**: Support for multiple language translations
 - **License Metadata**: All translations include license and source information
 - **Pagination**: List endpoints support skip/limit parameters
+- **Audio Streaming**: HTTP range request support for efficient audio streaming
+- **Search**: Exact, fuzzy, and hybrid search capabilities
+- **Bookmarks**: User bookmark management
+- **Admin Protection**: Admin endpoints secured with token authentication
 - **OpenAPI Documentation**: Available at `/docs` when server is running
+
+### API Documentation
+Complete API documentation is available at:
+- **Interactive Swagger UI**: http://localhost:8000/docs
+- **ReDoc**: http://localhost:8000/redoc
+- **Markdown Documentation**: [API_DOCUMENTATION.md](./API_DOCUMENTATION.md)
 
 ### Example API Usage
 ```bash
@@ -78,7 +107,27 @@ curl http://localhost:8000/api/v1/surahs/2/verses/255
 
 # List available translations
 curl http://localhost:8000/api/v1/translations
+
+# Search for verses about patience
+curl "http://localhost:8000/api/v1/search?q=patience&lang=en&search_type=hybrid"
+
+# Create a bookmark
+curl -X POST http://localhost:8000/api/v1/bookmarks \
+  -H "Content-Type: application/json" \
+  -d '{"verse_id": 1, "user_id": "user123", "note": "Important verse"}'
+
+# Stream audio with range support
+curl -H "Range: bytes=0-1023" \
+  http://localhost:8000/api/v1/verses/1/audio/stream
+
+# Admin: Run scraper (requires admin token)
+curl -X POST http://localhost:8000/api/v1/admin/ingest/scrape \
+  -H "Authorization: Bearer YOUR_ADMIN_TOKEN" \
+  -H "Content-Type: application/json" \
+  -d '{"surah_numbers": [1, 2, 3]}'
 ```
+
+**Note:** Replace `YOUR_ADMIN_TOKEN` with the actual token configured in your `.env` file under `ADMIN_TOKEN`.
 
 ## Database Schema
 
@@ -125,6 +174,32 @@ Transliteration is automatically generated during data ingestion using the `tran
 - Example: "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ" → "Bismi llahi lrahmaani lrahiymi"
 
 See [DATA_PIPELINE.md](./DATA_PIPELINE.md) for complete documentation on the data pipeline.
+
+## Testing
+
+### Running Tests
+```bash
+# Run all tests
+pytest test_api.py -v
+
+# Run specific test
+pytest test_api.py::test_search_exact -v
+
+# Run with coverage
+pytest test_api.py --cov=. --cov-report=html
+```
+
+### Test Coverage
+The test suite covers:
+- Health check endpoints
+- Surah and verse retrieval
+- Translation listing
+- Bookmark CRUD operations
+- Search functionality (exact, fuzzy, hybrid)
+- Admin endpoint authentication
+- Error handling and edge cases
+
+All 19 tests pass successfully with SQLite in-memory database.
 
 ## Docker
 
