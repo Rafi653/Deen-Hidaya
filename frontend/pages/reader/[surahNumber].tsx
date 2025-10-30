@@ -130,7 +130,7 @@ export default function SurahReader() {
   }
 
   function getTranslation(verse: Verse): string {
-    const lang = translationLanguage === 'en' ? 'english' : 'telugu';
+    const lang = translationLanguage === 'en' ? 'en' : 'te';
     const translation = verse.translations.find(t => 
       t.language.toLowerCase() === lang
     );

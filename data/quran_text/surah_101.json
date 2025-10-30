@@ -1,0 +1,369 @@
+{
+  "metadata": {
+    "surah_number": 101,
+    "scraped_at": "2025-10-30T05:15:51.768291",
+    "source": "api.quran.com",
+    "version": "1.0",
+    "translation_ids": [
+      213,
+      20
+    ]
+  },
+  "license": {
+    "text": {
+      "source": "api.quran.com",
+      "license": "Public Domain",
+      "attribution": "The Quran text is in the public domain",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:15:51.768291"
+    },
+    "translations": {
+      "source": "api.quran.com",
+      "license": "Various - See individual translation licenses",
+      "attribution": "Translation copyrights belong to respective translators",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:15:51.768291"
+    },
+    "audio": {
+      "source": "everyayah.com via api.quran.com",
+      "license": "Free for non-commercial use",
+      "attribution": "Audio recitations courtesy of everyayah.com",
+      "terms_url": "https://everyayah.com/",
+      "note": "Audio URLs provided - not downloaded locally due to size",
+      "fetched_at": "2025-10-30T05:15:51.768291"
+    }
+  },
+  "translation_metadata": {
+    "213": {
+      "name": "Abdul Hafeez & Mohammed Abdul Haq",
+      "author": "Abdul Hafeez, Mohammed Abdul Haq",
+      "language": "te",
+      "language_name": "Telugu",
+      "license": "Various",
+      "source": "api.quran.com"
+    },
+    "20": {
+      "name": "Saheeh International",
+      "author": "Saheeh International",
+      "language": "en",
+      "language_name": "English",
+      "license": "Public Domain",
+      "source": "api.quran.com"
+    }
+  },
+  "surah_info": {
+    "id": 101,
+    "revelation_place": "makkah",
+    "revelation_order": 30,
+    "bismillah_pre": true,
+    "name_simple": "Al-Qari'ah",
+    "name_complex": "Al-Qāri`ah",
+    "name_arabic": "القارعة",
+    "verses_count": 11,
+    "pages": [
+      600,
+      600
+    ],
+    "translated_name": {
+      "language_name": "english",
+      "name": "The Calamity"
+    }
+  },
+  "verses": [
+    {
+      "id": 6158,
+      "verse_number": 1,
+      "verse_key": "101:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 545,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " ٱلْقَارِعَةُ",
+      "text_imlaei": "الْقَارِعَةُ",
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96188,
+          "resource_id": 20,
+          "text": "The Striking Calamity -"
+        },
+        {
+          "id": 1172754,
+          "resource_id": 213,
+          "text": "ভীতিপ্ৰদ মহা বিপদ  [১]"
+        }
+      ]
+    },
+    {
+      "id": 6159,
+      "verse_number": 2,
+      "verse_key": "101:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 545,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "مَا ٱلْقَارِعَةُ",
+      "text_imlaei": "مَا الْقَارِعَةُ",
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96193,
+          "resource_id": 20,
+          "text": "What is the Striking Calamity?"
+        },
+        {
+          "id": 1172755,
+          "resource_id": 213,
+          "text": "ভীতিপ্ৰদ মহা বিপদ কী?"
+        }
+      ]
+    },
+    {
+      "id": 6160,
+      "verse_number": 3,
+      "verse_key": "101:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 545,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ",
+      "text_imlaei": "وَمَا أَدْرَاكَ مَا الْقَارِعَةُ",
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96195,
+          "resource_id": 20,
+          "text": "And what can make you know what is the Striking Calamity?"
+        },
+        {
+          "id": 1172756,
+          "resource_id": 213,
+          "text": "আর ভীতিপ্ৰদ মহা বিপদ সম্পর্কে আপনাকে কিসে জানাবে?"
+        }
+      ]
+    },
+    {
+      "id": 6161,
+      "verse_number": 4,
+      "verse_key": "101:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 545,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ",
+      "text_imlaei": "يَوْمَ يَكُونُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوثِ",
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96197,
+          "resource_id": 20,
+          "text": "It is the Day when people will be like moths, dispersed,<sup foot_note=197804>1</sup>"
+        },
+        {
+          "id": 1172757,
+          "resource_id": 213,
+          "text": "সেদিন মানুষ হবে বিক্ষিপ্ত পতঙ্গের মত [১]"
+        }
+      ]
+    },
+    {
+      "id": 6162,
+      "verse_number": 5,
+      "verse_key": "101:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 545,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ",
+      "text_imlaei": "وَتَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنفُوشِ",
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96199,
+          "resource_id": 20,
+          "text": "And the mountains will be like wool, fluffed up.<sup foot_note=197805>1</sup>"
+        },
+        {
+          "id": 1172758,
+          "resource_id": 213,
+          "text": "আর পর্বতসমূহ হবে ধুনিত রঙ্গিন পশমের মত [১]।"
+        }
+      ]
+    },
+    {
+      "id": 6163,
+      "verse_number": 6,
+      "verse_key": "101:6",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 545,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ",
+      "text_imlaei": "فَأَمَّا مَن ثَقُلَتْ مَوَازِينُهُ",
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96201,
+          "resource_id": 20,
+          "text": "Then as for one whose scales are heavy [with good deeds],"
+        },
+        {
+          "id": 1172759,
+          "resource_id": 213,
+          "text": "অতঃপর যার পাল্লাসমূহ [১] ভারী হবে [২],"
+        }
+      ]
+    },
+    {
+      "id": 6164,
+      "verse_number": 7,
+      "verse_key": "101:7",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 545,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَهُوَ فِى عِيشَةٍ رَّاضِيَةٍ",
+      "text_imlaei": "فَهُوَ فِي عِيشَةٍ رَّاضِيَةٍ",
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96203,
+          "resource_id": 20,
+          "text": "He will be in a pleasant life."
+        },
+        {
+          "id": 1172760,
+          "resource_id": 213,
+          "text": "সে তো থাকবে সন্তোষজনক জীবনে।"
+        }
+      ]
+    },
+    {
+      "id": 6165,
+      "verse_number": 8,
+      "verse_key": "101:8",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 545,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ",
+      "text_imlaei": "وَأَمَّا مَنْ خَفَّتْ مَوَازِينُهُ",
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96205,
+          "resource_id": 20,
+          "text": "But as for one whose scales are light,"
+        },
+        {
+          "id": 1172761,
+          "resource_id": 213,
+          "text": "আর যার পাল্লাসমূহ হাল্কা হবে [১]"
+        }
+      ]
+    },
+    {
+      "id": 6166,
+      "verse_number": 9,
+      "verse_key": "101:9",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 545,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَأُمُّهُۥ هَاوِيَةٌ",
+      "text_imlaei": "فَأُمُّهُ هَاوِيَةٌ",
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96207,
+          "resource_id": 20,
+          "text": "His refuge<sup foot_note=197806>1</sup> will be an abyss.<sup foot_note=197807>2</sup>"
+        },
+        {
+          "id": 1172762,
+          "resource_id": 213,
+          "text": "তার স্থান হবে ‘হাওয়িয়াহ্’ [১]।"
+        }
+      ]
+    },
+    {
+      "id": 6167,
+      "verse_number": 10,
+      "verse_key": "101:10",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 545,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا هِيَهْ",
+      "text_imlaei": "وَمَا أَدْرَاكَ مَا هِيَهْ",
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96189,
+          "resource_id": 20,
+          "text": "And what can make you know what that is?"
+        },
+        {
+          "id": 1172763,
+          "resource_id": 213,
+          "text": "আর আপনাকে কিসে জানাবে সেটা কী?"
+        }
+      ]
+    },
+    {
+      "id": 6168,
+      "verse_number": 11,
+      "verse_key": "101:11",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 545,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "نَارٌ حَامِيَةٌۢ",
+      "text_imlaei": "نَارٌ حَامِيَةٌ",
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96190,
+          "resource_id": 20,
+          "text": "It is a Fire, intensely hot."
+        },
+        {
+          "id": 1172764,
+          "resource_id": 213,
+          "text": "অত্যন্ত উত্তপ্ত আগুন [১]।"
+        }
+      ]
+    }
+  ],
+  "audio_metadata": {
+    "audio_file": {
+      "id": 1111,
+      "chapter_id": 101,
+      "file_size": 1009792.0,
+      "format": "mp3",
+      "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/101.mp3"
+    }
+  }
+}

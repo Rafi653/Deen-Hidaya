@@ -1,0 +1,161 @@
+{
+  "metadata": {
+    "surah_number": 103,
+    "scraped_at": "2025-10-30T05:15:55.458825",
+    "source": "api.quran.com",
+    "version": "1.0",
+    "translation_ids": [
+      213,
+      20
+    ]
+  },
+  "license": {
+    "text": {
+      "source": "api.quran.com",
+      "license": "Public Domain",
+      "attribution": "The Quran text is in the public domain",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:15:55.458825"
+    },
+    "translations": {
+      "source": "api.quran.com",
+      "license": "Various - See individual translation licenses",
+      "attribution": "Translation copyrights belong to respective translators",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:15:55.458825"
+    },
+    "audio": {
+      "source": "everyayah.com via api.quran.com",
+      "license": "Free for non-commercial use",
+      "attribution": "Audio recitations courtesy of everyayah.com",
+      "terms_url": "https://everyayah.com/",
+      "note": "Audio URLs provided - not downloaded locally due to size",
+      "fetched_at": "2025-10-30T05:15:55.458825"
+    }
+  },
+  "translation_metadata": {
+    "213": {
+      "name": "Abdul Hafeez & Mohammed Abdul Haq",
+      "author": "Abdul Hafeez, Mohammed Abdul Haq",
+      "language": "te",
+      "language_name": "Telugu",
+      "license": "Various",
+      "source": "api.quran.com"
+    },
+    "20": {
+      "name": "Saheeh International",
+      "author": "Saheeh International",
+      "language": "en",
+      "language_name": "English",
+      "license": "Public Domain",
+      "source": "api.quran.com"
+    }
+  },
+  "surah_info": {
+    "id": 103,
+    "revelation_place": "makkah",
+    "revelation_order": 13,
+    "bismillah_pre": true,
+    "name_simple": "Al-'Asr",
+    "name_complex": "Al-`Aşr",
+    "name_arabic": "العصر",
+    "verses_count": 3,
+    "pages": [
+      601,
+      601
+    ],
+    "translated_name": {
+      "language_name": "english",
+      "name": "The Declining Day"
+    }
+  },
+  "verses": [
+    {
+      "id": 6177,
+      "verse_number": 1,
+      "verse_key": "103:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 547,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " وَٱلْعَصْرِ",
+      "text_imlaei": "وَالْعَصْرِ",
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96230,
+          "resource_id": 20,
+          "text": "By time,<sup foot_note=197812>1</sup>"
+        },
+        {
+          "id": 1172773,
+          "resource_id": 213,
+          "text": "সময়ের শপথ [১] ,"
+        }
+      ]
+    },
+    {
+      "id": 6178,
+      "verse_number": 2,
+      "verse_key": "103:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 547,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ ٱلْإِنسَـٰنَ لَفِى خُسْرٍ",
+      "text_imlaei": "إِنَّ الْإِنسَانَ لَفِي خُسْرٍ",
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96232,
+          "resource_id": 20,
+          "text": "Indeed, mankind is in loss,"
+        },
+        {
+          "id": 1172774,
+          "resource_id": 213,
+          "text": "নিশ্চয় মানুষ [১] ক্ষতির মাঝে নিপতিত [২],"
+        }
+      ]
+    },
+    {
+      "id": 6179,
+      "verse_number": 3,
+      "verse_key": "103:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 547,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ",
+      "text_imlaei": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ",
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96191,
+          "resource_id": 20,
+          "text": "Except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience."
+        },
+        {
+          "id": 1172775,
+          "resource_id": 213,
+          "text": "কিন্তু তারা নয় [১], যারা ঈমান এনেছে [২] এবং সৎকাজ করেছে [৩] আর পরস্পরকে উপদেশ দিয়েছে হকের [৪] এবং উপদেশ দিয়েছে ধৈর্যের [৫]।"
+        }
+      ]
+    }
+  ],
+  "audio_metadata": {
+    "audio_file": {
+      "id": 1115,
+      "chapter_id": 103,
+      "file_size": 448640.0,
+      "format": "mp3",
+      "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/103.mp3"
+    }
+  }
+}

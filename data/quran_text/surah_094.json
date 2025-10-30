@@ -1,0 +1,291 @@
+{
+  "metadata": {
+    "surah_number": 94,
+    "scraped_at": "2025-10-30T05:15:39.647190",
+    "source": "api.quran.com",
+    "version": "1.0",
+    "translation_ids": [
+      213,
+      20
+    ]
+  },
+  "license": {
+    "text": {
+      "source": "api.quran.com",
+      "license": "Public Domain",
+      "attribution": "The Quran text is in the public domain",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:15:39.647190"
+    },
+    "translations": {
+      "source": "api.quran.com",
+      "license": "Various - See individual translation licenses",
+      "attribution": "Translation copyrights belong to respective translators",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:15:39.647190"
+    },
+    "audio": {
+      "source": "everyayah.com via api.quran.com",
+      "license": "Free for non-commercial use",
+      "attribution": "Audio recitations courtesy of everyayah.com",
+      "terms_url": "https://everyayah.com/",
+      "note": "Audio URLs provided - not downloaded locally due to size",
+      "fetched_at": "2025-10-30T05:15:39.647190"
+    }
+  },
+  "translation_metadata": {
+    "213": {
+      "name": "Abdul Hafeez & Mohammed Abdul Haq",
+      "author": "Abdul Hafeez, Mohammed Abdul Haq",
+      "language": "te",
+      "language_name": "Telugu",
+      "license": "Various",
+      "source": "api.quran.com"
+    },
+    "20": {
+      "name": "Saheeh International",
+      "author": "Saheeh International",
+      "language": "en",
+      "language_name": "English",
+      "license": "Public Domain",
+      "source": "api.quran.com"
+    }
+  },
+  "surah_info": {
+    "id": 94,
+    "revelation_place": "makkah",
+    "revelation_order": 12,
+    "bismillah_pre": true,
+    "name_simple": "Ash-Sharh",
+    "name_complex": "Ash-Sharĥ",
+    "name_arabic": "الشرح",
+    "verses_count": 8,
+    "pages": [
+      596,
+      596
+    ],
+    "translated_name": {
+      "language_name": "english",
+      "name": "The Relief"
+    }
+  },
+  "verses": [
+    {
+      "id": 6091,
+      "verse_number": 1,
+      "verse_key": "94:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 538,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+      "text_imlaei": "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+      "page_number": 596,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102276,
+          "resource_id": 20,
+          "text": "Did We not expand for you, [O Muḥammad], your breast?<sup foot_note=197780>1</sup>"
+        },
+        {
+          "id": 1172687,
+          "resource_id": 213,
+          "text": "আমরা কি আপনার বক্ষ আপনার কল্যাণে প্রশস্ত করে দেইনি [১]?"
+        }
+      ]
+    },
+    {
+      "id": 6092,
+      "verse_number": 2,
+      "verse_key": "94:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 538,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
+      "text_imlaei": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
+      "page_number": 596,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102278,
+          "resource_id": 20,
+          "text": "And We removed from you your burden<sup foot_note=197781>1</sup>"
+        },
+        {
+          "id": 1172688,
+          "resource_id": 213,
+          "text": "আর আমরা অপসারণ করেছি আপনার ভার,"
+        }
+      ]
+    },
+    {
+      "id": 6093,
+      "verse_number": 3,
+      "verse_key": "94:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 538,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِىٓ أَنقَضَ ظَهْرَكَ",
+      "text_imlaei": "الَّذِي أَنقَضَ ظَهْرَكَ",
+      "page_number": 596,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102280,
+          "resource_id": 20,
+          "text": "Which had weighed upon your back"
+        },
+        {
+          "id": 1172689,
+          "resource_id": 213,
+          "text": "যা আপনার পিঠ ভেঙ্গে দিচ্ছিল [১]।"
+        }
+      ]
+    },
+    {
+      "id": 6094,
+      "verse_number": 4,
+      "verse_key": "94:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 538,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+      "text_imlaei": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+      "page_number": 596,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102282,
+          "resource_id": 20,
+          "text": "And raised high for you your repute."
+        },
+        {
+          "id": 1172690,
+          "resource_id": 213,
+          "text": "আর আমরা আপনার (মর্যাদা বৃদ্ধির) জন্য আপনার স্মরণকে সমুন্নত করেছি [১]।"
+        }
+      ]
+    },
+    {
+      "id": 6095,
+      "verse_number": 5,
+      "verse_key": "94:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 538,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "text_imlaei": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا",
+      "page_number": 596,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102284,
+          "resource_id": 20,
+          "text": "For indeed, with hardship [will be] ease [i.e., relief]."
+        },
+        {
+          "id": 1172691,
+          "resource_id": 213,
+          "text": "সুতরাং কষ্টের সাথেই তো স্বস্তি আছে,"
+        }
+      ]
+    },
+    {
+      "id": 6096,
+      "verse_number": 6,
+      "verse_key": "94:6",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 538,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "text_imlaei": "إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+      "page_number": 596,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102286,
+          "resource_id": 20,
+          "text": "Indeed, with hardship [will be] ease."
+        },
+        {
+          "id": 1172692,
+          "resource_id": 213,
+          "text": "নিশ্চয় কষ্টের সাথেই স্বস্তি আছে [১]।"
+        }
+      ]
+    },
+    {
+      "id": 6097,
+      "verse_number": 7,
+      "verse_key": "94:7",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 538,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَإِذَا فَرَغْتَ فَٱنصَبْ",
+      "text_imlaei": "فَإِذَا فَرَغْتَ فَانصَبْ",
+      "page_number": 596,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102288,
+          "resource_id": 20,
+          "text": "So when you have finished [your duties], then stand up [for worship]."
+        },
+        {
+          "id": 1172693,
+          "resource_id": 213,
+          "text": "অতএব আপনি যখনই অবসর পান তখনই কঠোর ইবাদাতে রত হোন"
+        }
+      ]
+    },
+    {
+      "id": 6098,
+      "verse_number": 8,
+      "verse_key": "94:8",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 538,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِلَىٰ رَبِّكَ فَٱرْغَب",
+      "text_imlaei": "وَإِلَىٰ رَبِّكَ فَارْغَب",
+      "page_number": 596,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102290,
+          "resource_id": 20,
+          "text": "And to your Lord direct [your] longing."
+        },
+        {
+          "id": 1172694,
+          "resource_id": 213,
+          "text": "আর আপনার রবের প্রতি গভীর মনোযোগী হোন [১]।"
+        }
+      ]
+    }
+  ],
+  "audio_metadata": {
+    "audio_file": {
+      "id": 1097,
+      "chapter_id": 94,
+      "file_size": 698496.0,
+      "format": "mp3",
+      "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/94.mp3"
+    }
+  }
+}

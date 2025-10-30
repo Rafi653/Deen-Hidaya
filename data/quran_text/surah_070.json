@@ -1,0 +1,1227 @@
+{
+  "metadata": {
+    "surah_number": 70,
+    "scraped_at": "2025-10-30T05:14:51.863692",
+    "source": "api.quran.com",
+    "version": "1.0",
+    "translation_ids": [
+      213,
+      20
+    ]
+  },
+  "license": {
+    "text": {
+      "source": "api.quran.com",
+      "license": "Public Domain",
+      "attribution": "The Quran text is in the public domain",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:14:51.863692"
+    },
+    "translations": {
+      "source": "api.quran.com",
+      "license": "Various - See individual translation licenses",
+      "attribution": "Translation copyrights belong to respective translators",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:14:51.863692"
+    },
+    "audio": {
+      "source": "everyayah.com via api.quran.com",
+      "license": "Free for non-commercial use",
+      "attribution": "Audio recitations courtesy of everyayah.com",
+      "terms_url": "https://everyayah.com/",
+      "note": "Audio URLs provided - not downloaded locally due to size",
+      "fetched_at": "2025-10-30T05:14:51.863692"
+    }
+  },
+  "translation_metadata": {
+    "213": {
+      "name": "Abdul Hafeez & Mohammed Abdul Haq",
+      "author": "Abdul Hafeez, Mohammed Abdul Haq",
+      "language": "te",
+      "language_name": "Telugu",
+      "license": "Various",
+      "source": "api.quran.com"
+    },
+    "20": {
+      "name": "Saheeh International",
+      "author": "Saheeh International",
+      "language": "en",
+      "language_name": "English",
+      "license": "Public Domain",
+      "source": "api.quran.com"
+    }
+  },
+  "surah_info": {
+    "id": 70,
+    "revelation_place": "makkah",
+    "revelation_order": 79,
+    "bismillah_pre": true,
+    "name_simple": "Al-Ma'arij",
+    "name_complex": "Al-Ma`ārij",
+    "name_arabic": "المعارج",
+    "verses_count": 44,
+    "pages": [
+      568,
+      570
+    ],
+    "translated_name": {
+      "language_name": "english",
+      "name": "The Ascending Stairways"
+    }
+  },
+  "verses": [
+    {
+      "id": 5376,
+      "verse_number": 1,
+      "verse_key": "70:1",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " سَأَلَ سَآئِلٌۢ بِعَذَابٍ وَاقِعٍ",
+      "text_imlaei": "سَأَلَ سَائِلٌ بِعَذَابٍ وَاقِعٍ",
+      "page_number": 568,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 101218,
+          "resource_id": 20,
+          "text": "A supplicant asked for a punishment bound to happen<sup foot_note=197608>1</sup>"
+        },
+        {
+          "id": 1171972,
+          "resource_id": 213,
+          "text": "এক ব্যক্তি চাইল, সংঘটিত হোক শাস্তি যা অবধারিত [১] ---"
+        }
+      ]
+    },
+    {
+      "id": 5377,
+      "verse_number": 2,
+      "verse_key": "70:2",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لِّلْكَـٰفِرِينَ لَيْسَ لَهُۥ دَافِعٌ",
+      "text_imlaei": "لِّلْكَافِرِينَ لَيْسَ لَهُ دَافِعٌ",
+      "page_number": 568,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 101229,
+          "resource_id": 20,
+          "text": "To the disbelievers; of it there is no preventer."
+        },
+        {
+          "id": 1171973,
+          "resource_id": 213,
+          "text": "কাফিরদের জন্য, এটাকে প্রতিরোধ করার কেউ নেই [১]।"
+        }
+      ]
+    },
+    {
+      "id": 5378,
+      "verse_number": 3,
+      "verse_key": "70:3",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "مِّنَ ٱللَّهِ ذِى ٱلْمَعَارِجِ",
+      "text_imlaei": "مِّنَ اللَّهِ ذِي الْمَعَارِجِ",
+      "page_number": 568,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 101240,
+          "resource_id": 20,
+          "text": "[It is] from Allāh, owner of the ways of ascent."
+        },
+        {
+          "id": 1171974,
+          "resource_id": 213,
+          "text": "এটা আসবে আল্লাহর কাছ থেকে, যিনি উর্ধ্বারোহণের সোপানসমূহের অধিকারী [১]।"
+        }
+      ]
+    },
+    {
+      "id": 5379,
+      "verse_number": 4,
+      "verse_key": "70:4",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "تَعْرُجُ ٱلْمَلَـٰٓئِكَةُ وَٱلرُّوحُ إِلَيْهِ فِى يَوْمٍ كَانَ مِقْدَارُهُۥ خَمْسِينَ أَلْفَ سَنَةٍ",
+      "text_imlaei": "تَعْرُجُ الْمَلَائِكَةُ وَالرُّوحُ إِلَيْهِ فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ",
+      "page_number": 568,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 101251,
+          "resource_id": 20,
+          "text": "The angels and the Spirit [i.e., Gabriel] will ascend to Him during a Day the extent of which is fifty thousand years."
+        },
+        {
+          "id": 1171975,
+          "resource_id": 213,
+          "text": "ফেরেশতা এবং রূহ আল্লাহর দিকে উর্ধ্বগামী হয় [১] এমন এক দিনে, যার পরিমাণ পঞ্চাশ হাজার বছর [২] ।"
+        }
+      ]
+    },
+    {
+      "id": 5380,
+      "verse_number": 5,
+      "verse_key": "70:5",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَٱصْبِرْ صَبْرًا جَمِيلًا",
+      "text_imlaei": "فَاصْبِرْ صَبْرًا جَمِيلًا",
+      "page_number": 568,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 101258,
+          "resource_id": 20,
+          "text": "So be patient with gracious patience."
+        },
+        {
+          "id": 1171976,
+          "resource_id": 213,
+          "text": "কাজেই আপনি ধৈর্য ধারণ করুন পরম ধৈৰ্য।"
+        }
+      ]
+    },
+    {
+      "id": 5381,
+      "verse_number": 6,
+      "verse_key": "70:6",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّهُمْ يَرَوْنَهُۥ بَعِيدًا",
+      "text_imlaei": "إِنَّهُمْ يَرَوْنَهُ بَعِيدًا",
+      "page_number": 568,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 101259,
+          "resource_id": 20,
+          "text": "Indeed, they see it [as] distant,"
+        },
+        {
+          "id": 1171977,
+          "resource_id": 213,
+          "text": "তারা ঐ দিনকে মনে করে সুদূর,"
+        }
+      ]
+    },
+    {
+      "id": 5382,
+      "verse_number": 7,
+      "verse_key": "70:7",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَنَرَىٰهُ قَرِيبًا",
+      "text_imlaei": "وَنَرَاهُ قَرِيبًا",
+      "page_number": 568,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 101260,
+          "resource_id": 20,
+          "text": "But We see it [as] near."
+        },
+        {
+          "id": 1171978,
+          "resource_id": 213,
+          "text": "কিন্তু আমরা দেখছি তা আসন্ন [১]"
+        }
+      ]
+    },
+    {
+      "id": 5383,
+      "verse_number": 8,
+      "verse_key": "70:8",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَوْمَ تَكُونُ ٱلسَّمَآءُ كَٱلْمُهْلِ",
+      "text_imlaei": "يَوْمَ تَكُونُ السَّمَاءُ كَالْمُهْلِ",
+      "page_number": 568,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 101261,
+          "resource_id": 20,
+          "text": "On the Day the sky will be like murky oil,<sup foot_note=197609>1</sup>"
+        },
+        {
+          "id": 1171979,
+          "resource_id": 213,
+          "text": "সেদিন আকাশ হবে গলিত ধাতুর মত"
+        }
+      ]
+    },
+    {
+      "id": 5384,
+      "verse_number": 9,
+      "verse_key": "70:9",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ",
+      "text_imlaei": "وَتَكُونُ الْجِبَالُ كَالْعِهْنِ",
+      "page_number": 568,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 101262,
+          "resource_id": 20,
+          "text": "And the mountains will be like wool,<sup foot_note=197610>1</sup>"
+        },
+        {
+          "id": 1171980,
+          "resource_id": 213,
+          "text": "এবং পর্বতসমূহ হবে রঙ্গীন পশমের মত"
+        }
+      ]
+    },
+    {
+      "id": 5385,
+      "verse_number": 10,
+      "verse_key": "70:10",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَا يَسْـَٔلُ حَمِيمٌ حَمِيمًا",
+      "text_imlaei": "وَلَا يَسْأَلُ حَمِيمٌ حَمِيمًا",
+      "page_number": 568,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 101219,
+          "resource_id": 20,
+          "text": "And no friend will ask [anything of] a friend,"
+        },
+        {
+          "id": 1171981,
+          "resource_id": 213,
+          "text": "এবং সুহৃদ সুহৃদের খোঁজ নেবে না,"
+        }
+      ]
+    },
+    {
+      "id": 5386,
+      "verse_number": 11,
+      "verse_key": "70:11",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يُبَصَّرُونَهُمْ ۚ يَوَدُّ ٱلْمُجْرِمُ لَوْ يَفْتَدِى مِنْ عَذَابِ يَوْمِئِذٍۭ بِبَنِيهِ",
+      "text_imlaei": "يُبَصَّرُونَهُمْ ۚ يَوَدُّ الْمُجْرِمُ لَوْ يَفْتَدِي مِنْ عَذَابِ يَوْمِئِذٍ بِبَنِيهِ",
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 101220,
+          "resource_id": 20,
+          "text": "They will be shown each other. The criminal will wish that he could be ransomed from the punishment of that Day by his children."
+        },
+        {
+          "id": 1171982,
+          "resource_id": 213,
+          "text": "তাদেরকে করা হবে একে অপরের দৃষ্টিগোচর। অপরাধী সেদিনের শাস্তির বদলে দিতে চাইবে তার সন্তান-সন্ততিকে,"
+        }
+      ]
+    },
+    {
+      "id": 5387,
+      "verse_number": 12,
+      "verse_key": "70:12",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَصَـٰحِبَتِهِۦ وَأَخِيهِ",
+      "text_imlaei": "وَصَاحِبَتِهِ وَأَخِيهِ",
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 101221,
+          "resource_id": 20,
+          "text": "And his wife and his brother"
+        },
+        {
+          "id": 1171983,
+          "resource_id": 213,
+          "text": "আর তার স্ত্রী ও ভাইকে,"
+        }
+      ]
+    },
+    {
+      "id": 5388,
+      "verse_number": 13,
+      "verse_key": "70:13",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَفَصِيلَتِهِ ٱلَّتِى تُـْٔوِيهِ",
+      "text_imlaei": "وَفَصِيلَتِهِ الَّتِي تُؤْوِيهِ",
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 101222,
+          "resource_id": 20,
+          "text": "And his nearest kindred who shelter him."
+        },
+        {
+          "id": 1171984,
+          "resource_id": 213,
+          "text": "আর তার জ্ঞাতি-গোষ্ঠীকে, যারা তাকে আশ্রয় দিত,"
+        }
+      ]
+    },
+    {
+      "id": 5389,
+      "verse_number": 14,
+      "verse_key": "70:14",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَن فِى ٱلْأَرْضِ جَمِيعًا ثُمَّ يُنجِيهِ",
+      "text_imlaei": "وَمَن فِي الْأَرْضِ جَمِيعًا ثُمَّ يُنجِيهِ",
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 101223,
+          "resource_id": 20,
+          "text": "And whoever is on earth entirely [so] then it could save him."
+        },
+        {
+          "id": 1171985,
+          "resource_id": 213,
+          "text": "আর যমীনে যারা আছে তাদের সবাইকে, তারপর যাতে এটি তাকে মুক্তি দেয়।"
+        }
+      ]
+    },
+    {
+      "id": 5390,
+      "verse_number": 15,
+      "verse_key": "70:15",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "كَلَّآ ۖ إِنَّهَا لَظَىٰ",
+      "text_imlaei": "كَلَّا ۖ إِنَّهَا لَظَىٰ",
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 101224,
+          "resource_id": 20,
+          "text": "No!<sup foot_note=197611>1</sup> Indeed, it is the Flame [of Hell],"
+        },
+        {
+          "id": 1171986,
+          "resource_id": 213,
+          "text": "কখনই নয়, নিশ্চয় এটা লেলিহান আগুন,"
+        }
+      ]
+    },
+    {
+      "id": 5391,
+      "verse_number": 16,
+      "verse_key": "70:16",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "نَزَّاعَةً لِّلشَّوَىٰ",
+      "text_imlaei": "نَزَّاعَةً لِّلشَّوَىٰ",
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 101225,
+          "resource_id": 20,
+          "text": "A remover of exteriors.<sup foot_note=197612>1</sup>"
+        },
+        {
+          "id": 1171987,
+          "resource_id": 213,
+          "text": "যা মাথার চামড়া খসিয়ে দেবে [১]।"
+        }
+      ]
+    },
+    {
+      "id": 5392,
+      "verse_number": 17,
+      "verse_key": "70:17",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "تَدْعُوا۟ مَنْ أَدْبَرَ وَتَوَلَّىٰ",
+      "text_imlaei": "تَدْعُو مَنْ أَدْبَرَ وَتَوَلَّىٰ",
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 101226,
+          "resource_id": 20,
+          "text": "It invites he who turned his back [on truth] and went away [from obedience]"
+        },
+        {
+          "id": 1171988,
+          "resource_id": 213,
+          "text": "জাহান্নাম সে ব্যক্তিকে ডাকবে, যে সত্যের প্রতি পিঠ দেখিয়েছিল এবং মুখ ফিরিয়ে নিয়েছিল।"
+        }
+      ]
+    },
+    {
+      "id": 5393,
+      "verse_number": 18,
+      "verse_key": "70:18",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَجَمَعَ فَأَوْعَىٰٓ",
+      "text_imlaei": "وَجَمَعَ فَأَوْعَىٰ",
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 101227,
+          "resource_id": 20,
+          "text": "And collected [wealth] and hoarded."
+        },
+        {
+          "id": 1171989,
+          "resource_id": 213,
+          "text": "আর যে সম্পদ পুঞ্জীভূত করেছিল অতঃপর সংরক্ষিত করে রেখেছিল [১]।"
+        }
+      ]
+    },
+    {
+      "id": 5394,
+      "verse_number": 19,
+      "verse_key": "70:19",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "۞ إِنَّ ٱلْإِنسَـٰنَ خُلِقَ هَلُوعًا",
+      "text_imlaei": "إِنَّ الْإِنسَانَ خُلِقَ هَلُوعًا",
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 101228,
+          "resource_id": 20,
+          "text": "Indeed, mankind was created anxious:"
+        },
+        {
+          "id": 1171990,
+          "resource_id": 213,
+          "text": "নিশ্চয় মানুষকে সৃষ্টি করা হয়েছে অতিশয় অস্থিরচিত্তরূপে [১] ।"
+        }
+      ]
+    },
+    {
+      "id": 5395,
+      "verse_number": 20,
+      "verse_key": "70:20",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِذَا مَسَّهُ ٱلشَّرُّ جَزُوعًا",
+      "text_imlaei": "إِذَا مَسَّهُ الشَّرُّ جَزُوعًا",
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 101230,
+          "resource_id": 20,
+          "text": "When evil touches him, impatient,"
+        },
+        {
+          "id": 1171991,
+          "resource_id": 213,
+          "text": "যখন বিপদ তাকে স্পর্শ করে সে হয় হা-হুতাশকারী।"
+        }
+      ]
+    },
+    {
+      "id": 5396,
+      "verse_number": 21,
+      "verse_key": "70:21",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا مَسَّهُ ٱلْخَيْرُ مَنُوعًا",
+      "text_imlaei": "وَإِذَا مَسَّهُ الْخَيْرُ مَنُوعًا",
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 101231,
+          "resource_id": 20,
+          "text": "And when good touches him, withholding [of it],"
+        },
+        {
+          "id": 1171992,
+          "resource_id": 213,
+          "text": "আর যখন কল্যাণ তাকে স্পর্শ করে সে হয় অতি কৃপণ;"
+        }
+      ]
+    },
+    {
+      "id": 5397,
+      "verse_number": 22,
+      "verse_key": "70:22",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِلَّا ٱلْمُصَلِّينَ",
+      "text_imlaei": "إِلَّا الْمُصَلِّينَ",
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 101232,
+          "resource_id": 20,
+          "text": "Except the observers of prayer -"
+        },
+        {
+          "id": 1171993,
+          "resource_id": 213,
+          "text": "তবে সালাত আদায়কারীগণ ছাড়া [১],"
+        }
+      ]
+    },
+    {
+      "id": 5398,
+      "verse_number": 23,
+      "verse_key": "70:23",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ دَآئِمُونَ",
+      "text_imlaei": "الَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ دَائِمُونَ",
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 101233,
+          "resource_id": 20,
+          "text": "Those who are constant in their prayer"
+        },
+        {
+          "id": 1171994,
+          "resource_id": 213,
+          "text": "যারা তাদের সালাতে সর্বদা প্রতিষ্ঠিত [১],"
+        }
+      ]
+    },
+    {
+      "id": 5399,
+      "verse_number": 24,
+      "verse_key": "70:24",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلَّذِينَ فِىٓ أَمْوَٰلِهِمْ حَقٌّ مَّعْلُومٌ",
+      "text_imlaei": "وَالَّذِينَ فِي أَمْوَالِهِمْ حَقٌّ مَّعْلُومٌ",
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 101234,
+          "resource_id": 20,
+          "text": "And those within whose wealth is a known right<sup foot_note=197613>1</sup>"
+        },
+        {
+          "id": 1171995,
+          "resource_id": 213,
+          "text": "আর যাদের সম্পদে নির্ধারিত হক রয়েছে"
+        }
+      ]
+    },
+    {
+      "id": 5400,
+      "verse_number": 25,
+      "verse_key": "70:25",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لِّلسَّآئِلِ وَٱلْمَحْرُومِ",
+      "text_imlaei": "لِّلسَّائِلِ وَالْمَحْرُومِ",
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 101235,
+          "resource_id": 20,
+          "text": "For the petitioner and the deprived -"
+        },
+        {
+          "id": 1171996,
+          "resource_id": 213,
+          "text": "যাচ্ঞাকারী ও বঞ্চিতের,"
+        }
+      ]
+    },
+    {
+      "id": 5401,
+      "verse_number": 26,
+      "verse_key": "70:26",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلَّذِينَ يُصَدِّقُونَ بِيَوْمِ ٱلدِّينِ",
+      "text_imlaei": "وَالَّذِينَ يُصَدِّقُونَ بِيَوْمِ الدِّينِ",
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 101236,
+          "resource_id": 20,
+          "text": "And those who believe in the Day of Recompense"
+        },
+        {
+          "id": 1171997,
+          "resource_id": 213,
+          "text": "আর যারা প্রতিদান দিবসকে সত্য বলে বিশ্বাস করে।"
+        }
+      ]
+    },
+    {
+      "id": 5402,
+      "verse_number": 27,
+      "verse_key": "70:27",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلَّذِينَ هُم مِّنْ عَذَابِ رَبِّهِم مُّشْفِقُونَ",
+      "text_imlaei": "وَالَّذِينَ هُم مِّنْ عَذَابِ رَبِّهِم مُّشْفِقُونَ",
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 101237,
+          "resource_id": 20,
+          "text": "And those who are fearful of the punishment of their Lord -"
+        },
+        {
+          "id": 1171998,
+          "resource_id": 213,
+          "text": "আর যারা তাদের রবের শাস্তি সম্পর্কে ভীত-সন্ত্রস্ত---"
+        }
+      ]
+    },
+    {
+      "id": 5403,
+      "verse_number": 28,
+      "verse_key": "70:28",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ عَذَابَ رَبِّهِمْ غَيْرُ مَأْمُونٍ",
+      "text_imlaei": "إِنَّ عَذَابَ رَبِّهِمْ غَيْرُ مَأْمُونٍ",
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 101238,
+          "resource_id": 20,
+          "text": "Indeed, the punishment of their Lord is not that from which one is safe -"
+        },
+        {
+          "id": 1171999,
+          "resource_id": 213,
+          "text": "নিশ্চয় তাদের রবের শাস্তি হতে নিঃশঙ্ক থাকা যায় না;"
+        }
+      ]
+    },
+    {
+      "id": 5404,
+      "verse_number": 29,
+      "verse_key": "70:29",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلَّذِينَ هُمْ لِفُرُوجِهِمْ حَـٰفِظُونَ",
+      "text_imlaei": "وَالَّذِينَ هُمْ لِفُرُوجِهِمْ حَافِظُونَ",
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 101239,
+          "resource_id": 20,
+          "text": "And those who guard their private parts"
+        },
+        {
+          "id": 1172000,
+          "resource_id": 213,
+          "text": "আর যারা নিজেদের যৌনাঙ্গসমূহের হিফাযতকারী [১],"
+        }
+      ]
+    },
+    {
+      "id": 5405,
+      "verse_number": 30,
+      "verse_key": "70:30",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِلَّا عَلَىٰٓ أَزْوَٰجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَـٰنُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ",
+      "text_imlaei": "إِلَّا عَلَىٰ أَزْوَاجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَانُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ",
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 101241,
+          "resource_id": 20,
+          "text": "Except from their wives or those their right hands possess,<sup foot_note=197614>1</sup> for indeed, they are not to be blamed -"
+        },
+        {
+          "id": 1172001,
+          "resource_id": 213,
+          "text": "তাদের পত্নী অথবা অধিকারভুক্ত দাসী ছাড়া, এতে তারা নিন্দনীয় হবে না—"
+        }
+      ]
+    },
+    {
+      "id": 5406,
+      "verse_number": 31,
+      "verse_key": "70:31",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَمَنِ ٱبْتَغَىٰ وَرَآءَ ذَٰلِكَ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْعَادُونَ",
+      "text_imlaei": "فَمَنِ ابْتَغَىٰ وَرَاءَ ذَٰلِكَ فَأُولَٰئِكَ هُمُ الْعَادُونَ",
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 101242,
+          "resource_id": 20,
+          "text": "But whoever seeks beyond that, then they are the transgressors -"
+        },
+        {
+          "id": 1172002,
+          "resource_id": 213,
+          "text": "তবে কেউ এদেরকে ছাড়া অন্যকে কামনা করলে তারা হবে সীমালঙ্ঘনকারী---"
+        }
+      ]
+    },
+    {
+      "id": 5407,
+      "verse_number": 32,
+      "verse_key": "70:32",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلَّذِينَ هُمْ لِأَمَـٰنَـٰتِهِمْ وَعَهْدِهِمْ رَٰعُونَ",
+      "text_imlaei": "وَالَّذِينَ هُمْ لِأَمَانَاتِهِمْ وَعَهْدِهِمْ رَاعُونَ",
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 101243,
+          "resource_id": 20,
+          "text": "And those who are to their trusts and promises attentive."
+        },
+        {
+          "id": 1172003,
+          "resource_id": 213,
+          "text": "আর যারা তাদের আমানতও প্রতিশ্রুতি রক্ষাকারী [১],"
+        }
+      ]
+    },
+    {
+      "id": 5408,
+      "verse_number": 33,
+      "verse_key": "70:33",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلَّذِينَ هُم بِشَهَـٰدَٰتِهِمْ قَآئِمُونَ",
+      "text_imlaei": "وَالَّذِينَ هُم بِشَهَادَاتِهِمْ قَائِمُونَ",
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 101244,
+          "resource_id": 20,
+          "text": "And those who are in their testimonies upright"
+        },
+        {
+          "id": 1172004,
+          "resource_id": 213,
+          "text": "আর যারা তাদের সাক্ষ্যসমূহে অটল [১],"
+        }
+      ]
+    },
+    {
+      "id": 5409,
+      "verse_number": 34,
+      "verse_key": "70:34",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ",
+      "text_imlaei": "وَالَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ",
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 101245,
+          "resource_id": 20,
+          "text": "And those who [carefully] maintain their prayer:"
+        },
+        {
+          "id": 1172005,
+          "resource_id": 213,
+          "text": "আর যারা তাদের সালাতের হিফাযত করে ---[১]"
+        }
+      ]
+    },
+    {
+      "id": 5410,
+      "verse_number": 35,
+      "verse_key": "70:35",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أُو۟لَـٰٓئِكَ فِى جَنَّـٰتٍ مُّكْرَمُونَ",
+      "text_imlaei": "أُولَٰئِكَ فِي جَنَّاتٍ مُّكْرَمُونَ",
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 101246,
+          "resource_id": 20,
+          "text": "They will be in gardens,<sup foot_note=197615>1</sup> honored."
+        },
+        {
+          "id": 1172006,
+          "resource_id": 213,
+          "text": "তারাই সম্মানিত হবে জান্নাতসমূহে।"
+        }
+      ]
+    },
+    {
+      "id": 5411,
+      "verse_number": 36,
+      "verse_key": "70:36",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 505,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَمَالِ ٱلَّذِينَ كَفَرُوا۟ قِبَلَكَ مُهْطِعِينَ",
+      "text_imlaei": "فَمَالِ الَّذِينَ كَفَرُوا قِبَلَكَ مُهْطِعِينَ",
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 101247,
+          "resource_id": 20,
+          "text": "So what is [the matter] with those who disbelieve, hastening [from] before you, [O Muḥammad],"
+        },
+        {
+          "id": 1172007,
+          "resource_id": 213,
+          "text": "কাফিরদের হল কি যে, তারা আপনার দিকে ছুটে আসছে,"
+        }
+      ]
+    },
+    {
+      "id": 5412,
+      "verse_number": 37,
+      "verse_key": "70:37",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 505,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "عَنِ ٱلْيَمِينِ وَعَنِ ٱلشِّمَالِ عِزِينَ",
+      "text_imlaei": "عَنِ الْيَمِينِ وَعَنِ الشِّمَالِ عِزِينَ",
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 101248,
+          "resource_id": 20,
+          "text": "[To sit] on [your] right and [your] left in separate groups?<sup foot_note=197616>1</sup>"
+        },
+        {
+          "id": 1172008,
+          "resource_id": 213,
+          "text": "ডান ও বাম দিক থেকে, দলে দলে।"
+        }
+      ]
+    },
+    {
+      "id": 5413,
+      "verse_number": 38,
+      "verse_key": "70:38",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 505,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَيَطْمَعُ كُلُّ ٱمْرِئٍ مِّنْهُمْ أَن يُدْخَلَ جَنَّةَ نَعِيمٍ",
+      "text_imlaei": "أَيَطْمَعُ كُلُّ امْرِئٍ مِّنْهُمْ أَن يُدْخَلَ جَنَّةَ نَعِيمٍ",
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 101249,
+          "resource_id": 20,
+          "text": "Does every person among them aspire to enter a garden of pleasure?"
+        },
+        {
+          "id": 1172009,
+          "resource_id": 213,
+          "text": "তাদের প্রত্যেকে কি এ প্রত্যাশা করে যে, তাকে প্রবেশ করানো হবে প্রাচুর্যময় জান্নাতে ?"
+        }
+      ]
+    },
+    {
+      "id": 5414,
+      "verse_number": 39,
+      "verse_key": "70:39",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 505,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "كَلَّآ ۖ إِنَّا خَلَقْنَـٰهُم مِّمَّا يَعْلَمُونَ",
+      "text_imlaei": "كَلَّا ۖ إِنَّا خَلَقْنَاهُم مِّمَّا يَعْلَمُونَ",
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 101250,
+          "resource_id": 20,
+          "text": "No! Indeed, We have created them from that which they know.<sup foot_note=197617>1</sup>"
+        },
+        {
+          "id": 1172010,
+          "resource_id": 213,
+          "text": "কখনো নয় [১] , আমরা তাদেরকে যা থেকে সৃষ্টি করেছি তা তারা জানে [২]।"
+        }
+      ]
+    },
+    {
+      "id": 5415,
+      "verse_number": 40,
+      "verse_key": "70:40",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 505,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَلَآ أُقْسِمُ بِرَبِّ ٱلْمَشَـٰرِقِ وَٱلْمَغَـٰرِبِ إِنَّا لَقَـٰدِرُونَ",
+      "text_imlaei": "فَلَا أُقْسِمُ بِرَبِّ الْمَشَارِقِ وَالْمَغَارِبِ إِنَّا لَقَادِرُونَ",
+      "page_number": 570,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 101252,
+          "resource_id": 20,
+          "text": "So I swear by the Lord of [all] risings and settings<sup foot_note=197618>1</sup> that indeed We are able"
+        },
+        {
+          "id": 1172011,
+          "resource_id": 213,
+          "text": "অতএব, আমি শপথ করছি উদয়াচলসমূহ এবং অস্তাচলসমূহের রবের – অবশ্যই আমরা সক্ষম [১]"
+        }
+      ]
+    },
+    {
+      "id": 5416,
+      "verse_number": 41,
+      "verse_key": "70:41",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 505,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "عَلَىٰٓ أَن نُّبَدِّلَ خَيْرًا مِّنْهُمْ وَمَا نَحْنُ بِمَسْبُوقِينَ",
+      "text_imlaei": "عَلَىٰ أَن نُّبَدِّلَ خَيْرًا مِّنْهُمْ وَمَا نَحْنُ بِمَسْبُوقِينَ",
+      "page_number": 570,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 101253,
+          "resource_id": 20,
+          "text": "To replace them with better than them; and We are not to be outdone."
+        },
+        {
+          "id": 1172012,
+          "resource_id": 213,
+          "text": "তাদের চেয়ে উৎকৃষ্টদেরকে তাদের স্থলবর্তী করতে এবং এতে আমরা অক্ষম নই।"
+        }
+      ]
+    },
+    {
+      "id": 5417,
+      "verse_number": 42,
+      "verse_key": "70:42",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 505,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَذَرْهُمْ يَخُوضُوا۟ وَيَلْعَبُوا۟ حَتَّىٰ يُلَـٰقُوا۟ يَوْمَهُمُ ٱلَّذِى يُوعَدُونَ",
+      "text_imlaei": "فَذَرْهُمْ يَخُوضُوا وَيَلْعَبُوا حَتَّىٰ يُلَاقُوا يَوْمَهُمُ الَّذِي يُوعَدُونَ",
+      "page_number": 570,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 101255,
+          "resource_id": 20,
+          "text": "So leave them to converse vainly and amuse themselves until they meet their Day which they are promised -"
+        },
+        {
+          "id": 1172013,
+          "resource_id": 213,
+          "text": "অতএব তাদেরকে বাক-বিতণ্ডা ও খেল-তামাশায় মত্ত থাকতে দিন– যে দিনের প্রতিশ্রুতি তাদেরকে দেয়া হয় তার সম্মুখীন হওয়ার আগ পর্যন্ত।"
+        }
+      ]
+    },
+    {
+      "id": 5418,
+      "verse_number": 43,
+      "verse_key": "70:43",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 505,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَوْمَ يَخْرُجُونَ مِنَ ٱلْأَجْدَاثِ سِرَاعًا كَأَنَّهُمْ إِلَىٰ نُصُبٍ يُوفِضُونَ",
+      "text_imlaei": "يَوْمَ يَخْرُجُونَ مِنَ الْأَجْدَاثِ سِرَاعًا كَأَنَّهُمْ إِلَىٰ نُصُبٍ يُوفِضُونَ",
+      "page_number": 570,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 101256,
+          "resource_id": 20,
+          "text": "The Day they will emerge from the graves rapidly as if they were, toward an erected idol, hastening.<sup foot_note=197619>1</sup>"
+        },
+        {
+          "id": 1172014,
+          "resource_id": 213,
+          "text": "সেদিন তারা কবর থেকে বের হবে দ্রুতবেগে, মনে হবে তারা কোনো লক্ষ্যস্থলের দিকে ধাবিত হচ্ছে"
+        }
+      ]
+    },
+    {
+      "id": 5419,
+      "verse_number": 44,
+      "verse_key": "70:44",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 505,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "خَـٰشِعَةً أَبْصَـٰرُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ۚ ذَٰلِكَ ٱلْيَوْمُ ٱلَّذِى كَانُوا۟ يُوعَدُونَ",
+      "text_imlaei": "خَاشِعَةً أَبْصَارُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ۚ ذَٰلِكَ الْيَوْمُ الَّذِي كَانُوا يُوعَدُونَ",
+      "page_number": 570,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 101257,
+          "resource_id": 20,
+          "text": "Their eyes humbled, humiliation will cover them. That is the Day which they had been promised."
+        },
+        {
+          "id": 1172015,
+          "resource_id": 213,
+          "text": "অবনত নেত্রে; হীনতা তাদেরকে আচ্ছন্ন করবে; এটাই সে দিন, যার বিষয়ে সতর্ক করা হয়েছিল তাদেরকে।"
+        }
+      ]
+    }
+  ],
+  "audio_metadata": {
+    "audio_file": {
+      "id": 1049,
+      "chapter_id": 70,
+      "file_size": 5095552.0,
+      "format": "mp3",
+      "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/70.mp3"
+    }
+  }
+}

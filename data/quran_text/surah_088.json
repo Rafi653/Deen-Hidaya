@@ -1,0 +1,759 @@
+{
+  "metadata": {
+    "surah_number": 88,
+    "scraped_at": "2025-10-30T05:15:27.752179",
+    "source": "api.quran.com",
+    "version": "1.0",
+    "translation_ids": [
+      213,
+      20
+    ]
+  },
+  "license": {
+    "text": {
+      "source": "api.quran.com",
+      "license": "Public Domain",
+      "attribution": "The Quran text is in the public domain",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:15:27.752179"
+    },
+    "translations": {
+      "source": "api.quran.com",
+      "license": "Various - See individual translation licenses",
+      "attribution": "Translation copyrights belong to respective translators",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:15:27.752179"
+    },
+    "audio": {
+      "source": "everyayah.com via api.quran.com",
+      "license": "Free for non-commercial use",
+      "attribution": "Audio recitations courtesy of everyayah.com",
+      "terms_url": "https://everyayah.com/",
+      "note": "Audio URLs provided - not downloaded locally due to size",
+      "fetched_at": "2025-10-30T05:15:27.752179"
+    }
+  },
+  "translation_metadata": {
+    "213": {
+      "name": "Abdul Hafeez & Mohammed Abdul Haq",
+      "author": "Abdul Hafeez, Mohammed Abdul Haq",
+      "language": "te",
+      "language_name": "Telugu",
+      "license": "Various",
+      "source": "api.quran.com"
+    },
+    "20": {
+      "name": "Saheeh International",
+      "author": "Saheeh International",
+      "language": "en",
+      "language_name": "English",
+      "license": "Public Domain",
+      "source": "api.quran.com"
+    }
+  },
+  "surah_info": {
+    "id": 88,
+    "revelation_place": "makkah",
+    "revelation_order": 68,
+    "bismillah_pre": true,
+    "name_simple": "Al-Ghashiyah",
+    "name_complex": "Al-Ghāshiyah",
+    "name_arabic": "الغاشية",
+    "verses_count": 26,
+    "pages": [
+      592,
+      592
+    ],
+    "translated_name": {
+      "language_name": "english",
+      "name": "The Overwhelming"
+    }
+  },
+  "verses": [
+    {
+      "id": 5968,
+      "verse_number": 1,
+      "verse_key": "88:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 532,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " هَلْ أَتَىٰكَ حَدِيثُ ٱلْغَـٰشِيَةِ",
+      "text_imlaei": "هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ",
+      "page_number": 592,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102091,
+          "resource_id": 20,
+          "text": "Has there reached you the report of the Overwhelming [event]?"
+        },
+        {
+          "id": 1172564,
+          "resource_id": 213,
+          "text": "আপনার কাছে কি আচ্ছন্নকারীর (কিয়ামতের) সংবাদ এসেছে?"
+        }
+      ]
+    },
+    {
+      "id": 5969,
+      "verse_number": 2,
+      "verse_key": "88:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 532,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وُجُوهٌ يَوْمَئِذٍ خَـٰشِعَةٌ",
+      "text_imlaei": "وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ",
+      "page_number": 592,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102102,
+          "resource_id": 20,
+          "text": "[Some] faces, that Day, will be humbled,"
+        },
+        {
+          "id": 1172565,
+          "resource_id": 213,
+          "text": "সেদিন অনেক চেহারা হবে অবনত [১] ,"
+        }
+      ]
+    },
+    {
+      "id": 5970,
+      "verse_number": 3,
+      "verse_key": "88:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 532,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "عَامِلَةٌ نَّاصِبَةٌ",
+      "text_imlaei": "عَامِلَةٌ نَّاصِبَةٌ",
+      "page_number": 592,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102110,
+          "resource_id": 20,
+          "text": "Working [hard] and exhausted.<sup foot_note=197752>1</sup>"
+        },
+        {
+          "id": 1172566,
+          "resource_id": 213,
+          "text": "ক্লিষ্ট, ক্লান্ত [১],"
+        }
+      ]
+    },
+    {
+      "id": 5971,
+      "verse_number": 4,
+      "verse_key": "88:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 532,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "تَصْلَىٰ نَارًا حَامِيَةً",
+      "text_imlaei": "تَصْلَىٰ نَارًا حَامِيَةً",
+      "page_number": 592,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102111,
+          "resource_id": 20,
+          "text": "They will [enter to] burn in an intensely hot Fire."
+        },
+        {
+          "id": 1172567,
+          "resource_id": 213,
+          "text": "তারা প্রবেশ করবে জ্বলন্ত আগুনে [১];"
+        }
+      ]
+    },
+    {
+      "id": 5972,
+      "verse_number": 5,
+      "verse_key": "88:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 532,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "تُسْقَىٰ مِنْ عَيْنٍ ءَانِيَةٍ",
+      "text_imlaei": "تُسْقَىٰ مِنْ عَيْنٍ آنِيَةٍ",
+      "page_number": 592,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102112,
+          "resource_id": 20,
+          "text": "They will be given drink from a boiling spring."
+        },
+        {
+          "id": 1172568,
+          "resource_id": 213,
+          "text": "তাদেরকে অত্যন্ত উষ্ণ প্রস্রবণ থেকে পান করানো হবে;"
+        }
+      ]
+    },
+    {
+      "id": 5973,
+      "verse_number": 6,
+      "verse_key": "88:6",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 532,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ",
+      "text_imlaei": "لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ",
+      "page_number": 592,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102113,
+          "resource_id": 20,
+          "text": "For them there will be no food except from a poisonous, thorny plant"
+        },
+        {
+          "id": 1172569,
+          "resource_id": 213,
+          "text": "তাদের জন্য খাদ্য থাকবে না কাঁটাযুক্ত গুল্ম ছাড়া [১] ,"
+        }
+      ]
+    },
+    {
+      "id": 5974,
+      "verse_number": 7,
+      "verse_key": "88:7",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 532,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لَّا يُسْمِنُ وَلَا يُغْنِى مِن جُوعٍ",
+      "text_imlaei": "لَّا يُسْمِنُ وَلَا يُغْنِي مِن جُوعٍ",
+      "page_number": 592,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102114,
+          "resource_id": 20,
+          "text": "Which neither nourishes nor avails against hunger."
+        },
+        {
+          "id": 1172570,
+          "resource_id": 213,
+          "text": "যা তাদেরকে পুষ্ট করবে না এবং তাদের ক্ষুধা নিবৃত্ত করবে না।"
+        }
+      ]
+    },
+    {
+      "id": 5975,
+      "verse_number": 8,
+      "verse_key": "88:8",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 532,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وُجُوهٌ يَوْمَئِذٍ نَّاعِمَةٌ",
+      "text_imlaei": "وُجُوهٌ يَوْمَئِذٍ نَّاعِمَةٌ",
+      "page_number": 592,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102115,
+          "resource_id": 20,
+          "text": "[Other] faces, that Day, will show pleasure."
+        },
+        {
+          "id": 1172571,
+          "resource_id": 213,
+          "text": "অনেক মুখমণ্ডল সেদিন হবে আনন্দোজ্জ্বল,"
+        }
+      ]
+    },
+    {
+      "id": 5976,
+      "verse_number": 9,
+      "verse_key": "88:9",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 532,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لِّسَعْيِهَا رَاضِيَةٌ",
+      "text_imlaei": "لِّسَعْيِهَا رَاضِيَةٌ",
+      "page_number": 592,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102116,
+          "resource_id": 20,
+          "text": "With their effort [they are] satisfied"
+        },
+        {
+          "id": 1172572,
+          "resource_id": 213,
+          "text": "নিজেদের কাজের সাফল্যে পরিতৃপ্ত [১],"
+        }
+      ]
+    },
+    {
+      "id": 5977,
+      "verse_number": 10,
+      "verse_key": "88:10",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 532,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فِى جَنَّةٍ عَالِيَةٍ",
+      "text_imlaei": "فِي جَنَّةٍ عَالِيَةٍ",
+      "page_number": 592,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102092,
+          "resource_id": 20,
+          "text": "In an elevated garden,"
+        },
+        {
+          "id": 1172573,
+          "resource_id": 213,
+          "text": "সুউচ্চ জান্নাতে---"
+        }
+      ]
+    },
+    {
+      "id": 5978,
+      "verse_number": 11,
+      "verse_key": "88:11",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 532,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لَّا تَسْمَعُ فِيهَا لَـٰغِيَةً",
+      "text_imlaei": "لَّا تَسْمَعُ فِيهَا لَاغِيَةً",
+      "page_number": 592,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102093,
+          "resource_id": 20,
+          "text": "Wherein they will hear no unsuitable speech.<sup foot_note=197753>1</sup>"
+        },
+        {
+          "id": 1172574,
+          "resource_id": 213,
+          "text": "সেখানে তারা অসার বাক্য শুনবে না [১] ,"
+        }
+      ]
+    },
+    {
+      "id": 5979,
+      "verse_number": 12,
+      "verse_key": "88:12",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 532,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فِيهَا عَيْنٌ جَارِيَةٌ",
+      "text_imlaei": "فِيهَا عَيْنٌ جَارِيَةٌ",
+      "page_number": 592,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102094,
+          "resource_id": 20,
+          "text": "Within it is a flowing spring."
+        },
+        {
+          "id": 1172575,
+          "resource_id": 213,
+          "text": "সেখানে থাকবে বহমান প্রস্রবণ,"
+        }
+      ]
+    },
+    {
+      "id": 5980,
+      "verse_number": 13,
+      "verse_key": "88:13",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 532,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فِيهَا سُرُرٌ مَّرْفُوعَةٌ",
+      "text_imlaei": "فِيهَا سُرُرٌ مَّرْفُوعَةٌ",
+      "page_number": 592,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102095,
+          "resource_id": 20,
+          "text": "Within it are couches raised high"
+        },
+        {
+          "id": 1172576,
+          "resource_id": 213,
+          "text": "সেখানে থাকবে উন্নত [১] শয্যাসমূহ,"
+        }
+      ]
+    },
+    {
+      "id": 5981,
+      "verse_number": 14,
+      "verse_key": "88:14",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 532,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَكْوَابٌ مَّوْضُوعَةٌ",
+      "text_imlaei": "وَأَكْوَابٌ مَّوْضُوعَةٌ",
+      "page_number": 592,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102096,
+          "resource_id": 20,
+          "text": "And cups put in place"
+        },
+        {
+          "id": 1172577,
+          "resource_id": 213,
+          "text": "আর প্রস্তুত থাকবে পানপাত্ৰ,"
+        }
+      ]
+    },
+    {
+      "id": 5982,
+      "verse_number": 15,
+      "verse_key": "88:15",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 532,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَنَمَارِقُ مَصْفُوفَةٌ",
+      "text_imlaei": "وَنَمَارِقُ مَصْفُوفَةٌ",
+      "page_number": 592,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102097,
+          "resource_id": 20,
+          "text": "And cushions lined up"
+        },
+        {
+          "id": 1172578,
+          "resource_id": 213,
+          "text": "সারি সারি উপাধান"
+        }
+      ]
+    },
+    {
+      "id": 5983,
+      "verse_number": 16,
+      "verse_key": "88:16",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 532,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَزَرَابِىُّ مَبْثُوثَةٌ",
+      "text_imlaei": "وَزَرَابِيُّ مَبْثُوثَةٌ",
+      "page_number": 592,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102098,
+          "resource_id": 20,
+          "text": "And carpets spread around."
+        },
+        {
+          "id": 1172579,
+          "resource_id": 213,
+          "text": "এবং বিছানা গালিচা;"
+        }
+      ]
+    },
+    {
+      "id": 5984,
+      "verse_number": 17,
+      "verse_key": "88:17",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 532,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ خُلِقَتْ",
+      "text_imlaei": "أَفَلَا يَنظُرُونَ إِلَى الْإِبِلِ كَيْفَ خُلِقَتْ",
+      "page_number": 592,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102099,
+          "resource_id": 20,
+          "text": "Then do they not look at the camels - how they are created?"
+        },
+        {
+          "id": 1172580,
+          "resource_id": 213,
+          "text": "তবে কি তারা তাকিয়ে দেখে না উটের দিকে, কিভাবে তা সৃষ্টি করা হয়েছে?"
+        }
+      ]
+    },
+    {
+      "id": 5985,
+      "verse_number": 18,
+      "verse_key": "88:18",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 532,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِلَى ٱلسَّمَآءِ كَيْفَ رُفِعَتْ",
+      "text_imlaei": "وَإِلَى السَّمَاءِ كَيْفَ رُفِعَتْ",
+      "page_number": 592,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102100,
+          "resource_id": 20,
+          "text": "And at the sky - how it is raised?"
+        },
+        {
+          "id": 1172581,
+          "resource_id": 213,
+          "text": "এবং আসমানের দিকে, কিভাবে তা উর্ধ্বে স্থাপন করা হয়েছে?"
+        }
+      ]
+    },
+    {
+      "id": 5986,
+      "verse_number": 19,
+      "verse_key": "88:19",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 532,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِلَى ٱلْجِبَالِ كَيْفَ نُصِبَتْ",
+      "text_imlaei": "وَإِلَى الْجِبَالِ كَيْفَ نُصِبَتْ",
+      "page_number": 592,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102101,
+          "resource_id": 20,
+          "text": "And at the mountains - how they are erected?"
+        },
+        {
+          "id": 1172582,
+          "resource_id": 213,
+          "text": "এবং পর্বতমালার দিকে, কিভাবে তা প্রতিষ্ঠিত করা হয়েছে?"
+        }
+      ]
+    },
+    {
+      "id": 5987,
+      "verse_number": 20,
+      "verse_key": "88:20",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 532,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِلَى ٱلْأَرْضِ كَيْفَ سُطِحَتْ",
+      "text_imlaei": "وَإِلَى الْأَرْضِ كَيْفَ سُطِحَتْ",
+      "page_number": 592,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102103,
+          "resource_id": 20,
+          "text": "And at the earth - how it is spread out?"
+        },
+        {
+          "id": 1172583,
+          "resource_id": 213,
+          "text": "এবং ভূতলের দিকে, কিভাবে তা বিস্তৃত করা হয়েছে [১]?"
+        }
+      ]
+    },
+    {
+      "id": 5988,
+      "verse_number": 21,
+      "verse_key": "88:21",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 532,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَذَكِّرْ إِنَّمَآ أَنتَ مُذَكِّرٌ",
+      "text_imlaei": "فَذَكِّرْ إِنَّمَا أَنتَ مُذَكِّرٌ",
+      "page_number": 592,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102104,
+          "resource_id": 20,
+          "text": "So remind, [O Muḥammad]; you are only a reminder."
+        },
+        {
+          "id": 1172584,
+          "resource_id": 213,
+          "text": "অতএব আপনি উপদেশ দিন; আপনি তো কেবল একজন উপদেশ দাতা [১] ,"
+        }
+      ]
+    },
+    {
+      "id": 5989,
+      "verse_number": 22,
+      "verse_key": "88:22",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 532,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ",
+      "text_imlaei": "لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ",
+      "page_number": 592,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102105,
+          "resource_id": 20,
+          "text": "You are not over them a controller."
+        },
+        {
+          "id": 1172585,
+          "resource_id": 213,
+          "text": "আপনি তাদের উপর শক্তি প্রয়োগকারী নন।"
+        }
+      ]
+    },
+    {
+      "id": 5990,
+      "verse_number": 23,
+      "verse_key": "88:23",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 532,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِلَّا مَن تَوَلَّىٰ وَكَفَرَ",
+      "text_imlaei": "إِلَّا مَن تَوَلَّىٰ وَكَفَرَ",
+      "page_number": 592,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102106,
+          "resource_id": 20,
+          "text": "However, he who turns away and disbelieves"
+        },
+        {
+          "id": 1172586,
+          "resource_id": 213,
+          "text": "তবে কেউ মুখ ফিরিয়ে নিলে ও কুফরী করলে"
+        }
+      ]
+    },
+    {
+      "id": 5991,
+      "verse_number": 24,
+      "verse_key": "88:24",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 532,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَيُعَذِّبُهُ ٱللَّهُ ٱلْعَذَابَ ٱلْأَكْبَرَ",
+      "text_imlaei": "فَيُعَذِّبُهُ اللَّهُ الْعَذَابَ الْأَكْبَرَ",
+      "page_number": 592,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102107,
+          "resource_id": 20,
+          "text": "Then Allāh will punish him with the greatest punishment."
+        },
+        {
+          "id": 1172587,
+          "resource_id": 213,
+          "text": "আল্লাহ্ তাদেরকে দেবেন মহাশাস্তি [১]।"
+        }
+      ]
+    },
+    {
+      "id": 5992,
+      "verse_number": 25,
+      "verse_key": "88:25",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 532,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ إِلَيْنَآ إِيَابَهُمْ",
+      "text_imlaei": "إِنَّ إِلَيْنَا إِيَابَهُمْ",
+      "page_number": 592,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102108,
+          "resource_id": 20,
+          "text": "Indeed, to Us is their return."
+        },
+        {
+          "id": 1172588,
+          "resource_id": 213,
+          "text": "নিশ্চয় তাদের ফিরে আসা আমাদেরই কাছে;"
+        }
+      ]
+    },
+    {
+      "id": 5993,
+      "verse_number": 26,
+      "verse_key": "88:26",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 532,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُم",
+      "text_imlaei": "ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُم",
+      "page_number": 592,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102109,
+          "resource_id": 20,
+          "text": "Then indeed, upon Us is their account."
+        },
+        {
+          "id": 1172589,
+          "resource_id": 213,
+          "text": "তারপর তাদের হিসেব-নিকেশ আমাদেরই কাজ।"
+        }
+      ]
+    }
+  ],
+  "audio_metadata": {
+    "audio_file": {
+      "id": 1085,
+      "chapter_id": 88,
+      "file_size": 2156672.0,
+      "format": "mp3",
+      "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/88.mp3"
+    }
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "metadata": {
+    "surah_number": 113,
+    "scraped_at": "2025-10-30T05:16:14.345415",
+    "source": "api.quran.com",
+    "version": "1.0",
+    "translation_ids": [
+      213,
+      20
+    ]
+  },
+  "license": {
+    "text": {
+      "source": "api.quran.com",
+      "license": "Public Domain",
+      "attribution": "The Quran text is in the public domain",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:16:14.345415"
+    },
+    "translations": {
+      "source": "api.quran.com",
+      "license": "Various - See individual translation licenses",
+      "attribution": "Translation copyrights belong to respective translators",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:16:14.345415"
+    },
+    "audio": {
+      "source": "everyayah.com via api.quran.com",
+      "license": "Free for non-commercial use",
+      "attribution": "Audio recitations courtesy of everyayah.com",
+      "terms_url": "https://everyayah.com/",
+      "note": "Audio URLs provided - not downloaded locally due to size",
+      "fetched_at": "2025-10-30T05:16:14.345415"
+    }
+  },
+  "translation_metadata": {
+    "213": {
+      "name": "Abdul Hafeez & Mohammed Abdul Haq",
+      "author": "Abdul Hafeez, Mohammed Abdul Haq",
+      "language": "te",
+      "language_name": "Telugu",
+      "license": "Various",
+      "source": "api.quran.com"
+    },
+    "20": {
+      "name": "Saheeh International",
+      "author": "Saheeh International",
+      "language": "en",
+      "language_name": "English",
+      "license": "Public Domain",
+      "source": "api.quran.com"
+    }
+  },
+  "surah_info": {
+    "id": 113,
+    "revelation_place": "makkah",
+    "revelation_order": 20,
+    "bismillah_pre": true,
+    "name_simple": "Al-Falaq",
+    "name_complex": "Al-Falaq",
+    "name_arabic": "الفلق",
+    "verses_count": 5,
+    "pages": [
+      604,
+      604
+    ],
+    "translated_name": {
+      "language_name": "english",
+      "name": "The Daybreak"
+    }
+  },
+  "verses": [
+    {
+      "id": 6226,
+      "verse_number": 1,
+      "verse_key": "113:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 557,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+      "text_imlaei": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ",
+      "page_number": 604,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96406,
+          "resource_id": 20,
+          "text": "Say, \"I seek refuge in the Lord of daybreak"
+        },
+        {
+          "id": 1172822,
+          "resource_id": 213,
+          "text": "বলুন [১], ‘আমি আশ্রয় প্রার্থনা করছি [২] ঊষার রবের [৩]"
+        }
+      ]
+    },
+    {
+      "id": 6227,
+      "verse_number": 2,
+      "verse_key": "113:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 557,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "مِن شَرِّ مَا خَلَقَ",
+      "text_imlaei": "مِن شَرِّ مَا خَلَقَ",
+      "page_number": 604,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96408,
+          "resource_id": 20,
+          "text": "From the evil of that which He created"
+        },
+        {
+          "id": 1172823,
+          "resource_id": 213,
+          "text": "তিনি যা সৃষ্টি করেছেন তার অনিষ্ট হতে [১],"
+        }
+      ]
+    },
+    {
+      "id": 6228,
+      "verse_number": 3,
+      "verse_key": "113:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 557,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "text_imlaei": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "page_number": 604,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96410,
+          "resource_id": 20,
+          "text": "And from the evil of darkness when it settles"
+        },
+        {
+          "id": 1172824,
+          "resource_id": 213,
+          "text": "আর অনিষ্ট হতে রাতের অন্ধকারের, যখন তা গভীর হয় [১]"
+        }
+      ]
+    },
+    {
+      "id": 6229,
+      "verse_number": 4,
+      "verse_key": "113:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 557,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِى ٱلْعُقَدِ",
+      "text_imlaei": "وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ",
+      "page_number": 604,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96412,
+          "resource_id": 20,
+          "text": "And from the evil of the blowers in knots<sup foot_note=197831>1</sup>"
+        },
+        {
+          "id": 1172825,
+          "resource_id": 213,
+          "text": "আর অনিষ্ট হতে সমস্ত নারীদের, যারা গিরায় ফুঁক দেয় [১],"
+        }
+      ]
+    },
+    {
+      "id": 6230,
+      "verse_number": 5,
+      "verse_key": "113:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 557,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+      "text_imlaei": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+      "page_number": 604,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96414,
+          "resource_id": 20,
+          "text": "And from the evil of an envier when he envies.\""
+        },
+        {
+          "id": 1172826,
+          "resource_id": 213,
+          "text": "আর অনিষ্ট হতে হিংসুকের [১], যখন সে হিংসা করে [২]।’"
+        }
+      ]
+    }
+  ],
+  "audio_metadata": {
+    "audio_file": {
+      "id": 1135,
+      "chapter_id": 113,
+      "file_size": 538752.0,
+      "format": "mp3",
+      "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/113.mp3"
+    }
+  }
+}

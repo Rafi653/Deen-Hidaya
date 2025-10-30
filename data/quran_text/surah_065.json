@@ -1,0 +1,395 @@
+{
+  "metadata": {
+    "surah_number": 65,
+    "scraped_at": "2025-10-30T05:14:41.726428",
+    "source": "api.quran.com",
+    "version": "1.0",
+    "translation_ids": [
+      213,
+      20
+    ]
+  },
+  "license": {
+    "text": {
+      "source": "api.quran.com",
+      "license": "Public Domain",
+      "attribution": "The Quran text is in the public domain",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:14:41.726428"
+    },
+    "translations": {
+      "source": "api.quran.com",
+      "license": "Various - See individual translation licenses",
+      "attribution": "Translation copyrights belong to respective translators",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:14:41.726428"
+    },
+    "audio": {
+      "source": "everyayah.com via api.quran.com",
+      "license": "Free for non-commercial use",
+      "attribution": "Audio recitations courtesy of everyayah.com",
+      "terms_url": "https://everyayah.com/",
+      "note": "Audio URLs provided - not downloaded locally due to size",
+      "fetched_at": "2025-10-30T05:14:41.726428"
+    }
+  },
+  "translation_metadata": {
+    "213": {
+      "name": "Abdul Hafeez & Mohammed Abdul Haq",
+      "author": "Abdul Hafeez, Mohammed Abdul Haq",
+      "language": "te",
+      "language_name": "Telugu",
+      "license": "Various",
+      "source": "api.quran.com"
+    },
+    "20": {
+      "name": "Saheeh International",
+      "author": "Saheeh International",
+      "language": "en",
+      "language_name": "English",
+      "license": "Public Domain",
+      "source": "api.quran.com"
+    }
+  },
+  "surah_info": {
+    "id": 65,
+    "revelation_place": "madinah",
+    "revelation_order": 99,
+    "bismillah_pre": true,
+    "name_simple": "At-Talaq",
+    "name_complex": "Aţ-Ţalāq",
+    "name_arabic": "الطلاق",
+    "verses_count": 12,
+    "pages": [
+      558,
+      559
+    ],
+    "translated_name": {
+      "language_name": "english",
+      "name": "The Divorce"
+    }
+  },
+  "verses": [
+    {
+      "id": 5218,
+      "verse_number": 1,
+      "verse_key": "65:1",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 223,
+      "ruku_number": 494,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " يَـٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ وَأَحْصُوا۟ ٱلْعِدَّةَ ۖ وَٱتَّقُوا۟ ٱللَّهَ رَبَّكُمْ ۖ لَا تُخْرِجُوهُنَّ مِنۢ بُيُوتِهِنَّ وَلَا يَخْرُجْنَ إِلَّآ أَن يَأْتِينَ بِفَـٰحِشَةٍ مُّبَيِّنَةٍ ۚ وَتِلْكَ حُدُودُ ٱللَّهِ ۚ وَمَن يَتَعَدَّ حُدُودَ ٱللَّهِ فَقَدْ ظَلَمَ نَفْسَهُۥ ۚ لَا تَدْرِى لَعَلَّ ٱللَّهَ يُحْدِثُ بَعْدَ ذَٰلِكَ أَمْرًا",
+      "text_imlaei": "يَا أَيُّهَا النَّبِيُّ إِذَا طَلَّقْتُمُ النِّسَاءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ وَأَحْصُوا الْعِدَّةَ ۖ وَاتَّقُوا اللَّهَ رَبَّكُمْ ۖ لَا تُخْرِجُوهُنَّ مِن بُيُوتِهِنَّ وَلَا يَخْرُجْنَ إِلَّا أَن يَأْتِينَ بِفَاحِشَةٍ مُّبَيِّنَةٍ ۚ وَتِلْكَ حُدُودُ اللَّهِ ۚ وَمَن يَتَعَدَّ حُدُودَ اللَّهِ فَقَدْ ظَلَمَ نَفْسَهُ ۚ لَا تَدْرِي لَعَلَّ اللَّهَ يُحْدِثُ بَعْدَ ذَٰلِكَ أَمْرًا",
+      "page_number": 558,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 101013,
+          "resource_id": 20,
+          "text": "O Prophet, when you [Muslims] divorce women, divorce them for [the commencement of] their waiting period and keep count of the waiting period,<sup foot_note=197563>1</sup> and fear Allāh, your Lord. Do not turn them out of their [husbands'] houses, nor should they [themselves] leave [during that period] unless they are committing a clear immorality. And those are the limits [set by] Allāh. And whoever transgresses the limits of Allāh has certainly wronged himself. You know not; perhaps Allāh will bring about after that a [different] matter.<sup foot_note=197562>2</sup>"
+        },
+        {
+          "id": 1171814,
+          "resource_id": 213,
+          "text": "হে নবী! তোমরা যখন তোমাদের  স্ত্রীগণকে তালাক দিতে ইচ্ছে কর তাদেরকে তালাক দিও ইদ্দতের প্রতি লক্ষ রেখে [১] এবং তোমরা ইদ্দতের  হিসেব রেখো। আর তোমাদের রব আল্লাহর তাকওয়া অবলম্বন করো। তোমারা তাদেরকে তাদের ঘড়বাড়ি থেকে বহিস্কার করো না [২] এবং তারাও বের হবে না, যদি না তারা লিপ্ত হয় স্পষ্ট অশ্লীলতায় [৩]। আর এগুলো আল্লাহর নির্ধারিত সীমা; যে আল্লাহর সীমা লঙ্ঘন করে সে নিজেরই উপর অত্যাচার করে। আপনি জানেন না, হয়ত আল্লাহ্‌ এর পর কোনো উপায় করে দেবেন।"
+        }
+      ]
+    },
+    {
+      "id": 5219,
+      "verse_number": 2,
+      "verse_key": "65:2",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 223,
+      "ruku_number": 494,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَإِذَا بَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ فَارِقُوهُنَّ بِمَعْرُوفٍ وَأَشْهِدُوا۟ ذَوَىْ عَدْلٍ مِّنكُمْ وَأَقِيمُوا۟ ٱلشَّهَـٰدَةَ لِلَّهِ ۚ ذَٰلِكُمْ يُوعَظُ بِهِۦ مَن كَانَ يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ ۚ وَمَن يَتَّقِ ٱللَّهَ يَجْعَل لَّهُۥ مَخْرَجًا",
+      "text_imlaei": "فَإِذَا بَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ فَارِقُوهُنَّ بِمَعْرُوفٍ وَأَشْهِدُوا ذَوَيْ عَدْلٍ مِّنكُمْ وَأَقِيمُوا الشَّهَادَةَ لِلَّهِ ۚ ذَٰلِكُمْ يُوعَظُ بِهِ مَن كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ ۚ وَمَن يَتَّقِ اللَّهَ يَجْعَل لَّهُ مَخْرَجًا",
+      "page_number": 558,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 101018,
+          "resource_id": 20,
+          "text": "And when they have [nearly] fulfilled their term, either retain them according to acceptable terms or part with them according to acceptable terms. And bring to witness two just men from among you and establish the testimony for [the acceptance of] Allāh. That is instructed to whoever should believe in Allāh and the Last Day. And whoever fears Allāh - He will make for him a way out<sup foot_note=197564>1</sup>"
+        },
+        {
+          "id": 1171815,
+          "resource_id": 213,
+          "text": "অতঃপর তাদের ইদ্দত পূরণের কাল আসন্ন হলে তোমরা হয় যথাবিধি তাদেরকে রেখে দেবে, না হয় তাদেরকে পরিত্যাগ করবে এবং তোমাদের মধ্য থেকে দুজন ন্যায়পরায়ণ লোককে সাক্ষী রাখবে; আর তোমার আল্লাহর জন্য সঠিক সাক্ষ্য দেবে। এ দ্বারা তোমাদের মধ্যে যে কেউ আল্লাহ ও শেষ দিবসের উপর ঈমান রাখে তাকে উপদেশ দেয়া হচ্ছে। আর যে কেউ আল্লাহর তাকওয়া অবলম্বন করে আল্লাহ তার জন্য (উত্তরণের) পথ করে দেবেন"
+        }
+      ]
+    },
+    {
+      "id": 5220,
+      "verse_number": 3,
+      "verse_key": "65:3",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 223,
+      "ruku_number": 494,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ ۚ وَمَن يَتَوَكَّلْ عَلَى ٱللَّهِ فَهُوَ حَسْبُهُۥٓ ۚ إِنَّ ٱللَّهَ بَـٰلِغُ أَمْرِهِۦ ۚ قَدْ جَعَلَ ٱللَّهُ لِكُلِّ شَىْءٍ قَدْرًا",
+      "text_imlaei": "وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ ۚ وَمَن يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ حَسْبُهُ ۚ إِنَّ اللَّهَ بَالِغُ أَمْرِهِ ۚ قَدْ جَعَلَ اللَّهُ لِكُلِّ شَيْءٍ قَدْرًا",
+      "page_number": 558,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 101020,
+          "resource_id": 20,
+          "text": "And will provide for him from where he does not expect. And whoever relies upon Allāh - then He is sufficient for him. Indeed, Allāh will accomplish His purpose. Allāh has already set for everything a [decreed] extent."
+        },
+        {
+          "id": 1171816,
+          "resource_id": 213,
+          "text": "এবং তিনি তাকে তার ধারণাতীত উৎস হতে দান করবেন রিযিক। আর যে ব্যক্তি আল্লাহর উপর তাওয়াক্কুল করে তার জন্য আল্লাহ্‌ই যথেষ্ট [১]। আল্লাহ তাঁর ইচ্ছে পূরণ করবেনই; অবশ্যই আল্লাহ সবকিছুর জন্য স্থির করেছেন সুনির্দিষ্ট মাত্ৰা।"
+        }
+      ]
+    },
+    {
+      "id": 5221,
+      "verse_number": 4,
+      "verse_key": "65:4",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 223,
+      "ruku_number": 494,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلَّـٰٓـِٔى يَئِسْنَ مِنَ ٱلْمَحِيضِ مِن نِّسَآئِكُمْ إِنِ ٱرْتَبْتُمْ فَعِدَّتُهُنَّ ثَلَـٰثَةُ أَشْهُرٍ وَٱلَّـٰٓـِٔى لَمْ يَحِضْنَ ۚ وَأُو۟لَـٰتُ ٱلْأَحْمَالِ أَجَلُهُنَّ أَن يَضَعْنَ حَمْلَهُنَّ ۚ وَمَن يَتَّقِ ٱللَّهَ يَجْعَل لَّهُۥ مِنْ أَمْرِهِۦ يُسْرًا",
+      "text_imlaei": "وَاللَّائِي يَئِسْنَ مِنَ الْمَحِيضِ مِن نِّسَائِكُمْ إِنِ ارْتَبْتُمْ فَعِدَّتُهُنَّ ثَلَاثَةُ أَشْهُرٍ وَاللَّائِي لَمْ يَحِضْنَ ۚ وَأُولَاتُ الْأَحْمَالِ أَجَلُهُنَّ أَن يَضَعْنَ حَمْلَهُنَّ ۚ وَمَن يَتَّقِ اللَّهَ يَجْعَل لَّهُ مِنْ أَمْرِهِ يُسْرًا",
+      "page_number": 558,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 101022,
+          "resource_id": 20,
+          "text": "And those who no longer expect menstruation among your women - if you doubt, then their period is three months, and [also for] those who have not menstruated. And for those who are pregnant, their term is until they give birth.<sup foot_note=197565>1</sup> And whoever fears Allāh - He will make for him of his matter ease."
+        },
+        {
+          "id": 1171817,
+          "resource_id": 213,
+          "text": "তোমাদের যে সব স্ত্রী আর ঋতুবর্তী হওয়ার আশা নেই [১]  তাদের ইদ্দত সম্পর্কে তোমরা সন্দেহ করলে তাদের ইদ্দতকাল হবে তিন মাস এবং যারা এখনো ঋতুর বয়সে পৌঁছেনি তাদেরও; আর গর্ভবতী নারীদের ইদ্দতকাল সন্তান প্রসব পর্যন্ত। আর যে আল্লাহর তাকওয়া অবলম্বন করে আল্লাহ্‌ তার জন্য তার কাজকে সহজ করে দেন।"
+        }
+      ]
+    },
+    {
+      "id": 5222,
+      "verse_number": 5,
+      "verse_key": "65:5",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 223,
+      "ruku_number": 494,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ذَٰلِكَ أَمْرُ ٱللَّهِ أَنزَلَهُۥٓ إِلَيْكُمْ ۚ وَمَن يَتَّقِ ٱللَّهَ يُكَفِّرْ عَنْهُ سَيِّـَٔاتِهِۦ وَيُعْظِمْ لَهُۥٓ أَجْرًا",
+      "text_imlaei": "ذَٰلِكَ أَمْرُ اللَّهِ أَنزَلَهُ إِلَيْكُمْ ۚ وَمَن يَتَّقِ اللَّهَ يُكَفِّرْ عَنْهُ سَيِّئَاتِهِ وَيُعْظِمْ لَهُ أَجْرًا",
+      "page_number": 558,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 101024,
+          "resource_id": 20,
+          "text": "That is the command of Allāh, which He has sent down to you; and whoever fears Allāh - He will remove for him his misdeeds and make great for him his reward."
+        },
+        {
+          "id": 1171818,
+          "resource_id": 213,
+          "text": "এটা আল্লাহর বিধান যা তিনি তোমাদের প্রতি নাযিল করেছেন। আর যে আল্লাহর তাকওয়া অবলম্বন করে তিনি তার পাপসমূহ মোচন করে দেন এবং তাকে দেবেন মহাপুরস্কার।"
+        }
+      ]
+    },
+    {
+      "id": 5223,
+      "verse_number": 6,
+      "verse_key": "65:6",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 223,
+      "ruku_number": 494,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَسْكِنُوهُنَّ مِنْ حَيْثُ سَكَنتُم مِّن وُجْدِكُمْ وَلَا تُضَآرُّوهُنَّ لِتُضَيِّقُوا۟ عَلَيْهِنَّ ۚ وَإِن كُنَّ أُو۟لَـٰتِ حَمْلٍ فَأَنفِقُوا۟ عَلَيْهِنَّ حَتَّىٰ يَضَعْنَ حَمْلَهُنَّ ۚ فَإِنْ أَرْضَعْنَ لَكُمْ فَـَٔاتُوهُنَّ أُجُورَهُنَّ ۖ وَأْتَمِرُوا۟ بَيْنَكُم بِمَعْرُوفٍ ۖ وَإِن تَعَاسَرْتُمْ فَسَتُرْضِعُ لَهُۥٓ أُخْرَىٰ",
+      "text_imlaei": "أَسْكِنُوهُنَّ مِنْ حَيْثُ سَكَنتُم مِّن وُجْدِكُمْ وَلَا تُضَارُّوهُنَّ لِتُضَيِّقُوا عَلَيْهِنَّ ۚ وَإِن كُنَّ أُولَاتِ حَمْلٍ فَأَنفِقُوا عَلَيْهِنَّ حَتَّىٰ يَضَعْنَ حَمْلَهُنَّ ۚ فَإِنْ أَرْضَعْنَ لَكُمْ فَآتُوهُنَّ أُجُورَهُنَّ ۖ وَأْتَمِرُوا بَيْنَكُم بِمَعْرُوفٍ ۖ وَإِن تَعَاسَرْتُمْ فَسَتُرْضِعُ لَهُ أُخْرَىٰ",
+      "page_number": 559,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 101026,
+          "resource_id": 20,
+          "text": "Lodge them<sup foot_note=197568>1</sup> [in a section] of where you dwell out of your means and do not harm them in order to oppress them.<sup foot_note=197567>2</sup> And if they should be pregnant, then spend on them until they give birth. And if they breastfeed for you, then give them their payment and confer among yourselves in the acceptable way; but if you are in discord, then there may breastfeed for him [i.e., the father] another woman.<sup foot_note=197566>3</sup>"
+        },
+        {
+          "id": 1171819,
+          "resource_id": 213,
+          "text": "তোমরা তোমাদের সামর্থ্য অনুযায়ী যেরূপ ঘরে তোমরা বাস কর তাদেরকেও সেরূপ ঘরে বাস করতে দেবে; তাদেরকে উত্ত্যক্ত করবে না সংকটে ফেলার জন্য; আর তারা গর্ভবতী হয়ে থাকলে সন্তান প্রসব পর্যন্ত তাদের জন্য ব্যয় করবে। অতঃপর যদি তারা তোমাদের সন্তানদেরকে স্তন্য দান করেন তবে তাদেরকে পারিশ্রমিক দেবে এবং (সন্তানের কল্যাণ সম্পর্কে) তোমরা সংগতভাবে নিজেদের মধ্যে পরামর্শ কর। আর তোমরা যদি নিজ নিজ দাবীতে অনমনীয় হও তাহলে অন্য নারী পিতার পক্ষে স্তন্য দান করবে।"
+        }
+      ]
+    },
+    {
+      "id": 5224,
+      "verse_number": 7,
+      "verse_key": "65:7",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 223,
+      "ruku_number": 494,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لِيُنفِقْ ذُو سَعَةٍ مِّن سَعَتِهِۦ ۖ وَمَن قُدِرَ عَلَيْهِ رِزْقُهُۥ فَلْيُنفِقْ مِمَّآ ءَاتَىٰهُ ٱللَّهُ ۚ لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا مَآ ءَاتَىٰهَا ۚ سَيَجْعَلُ ٱللَّهُ بَعْدَ عُسْرٍ يُسْرًا",
+      "text_imlaei": "لِيُنفِقْ ذُو سَعَةٍ مِّن سَعَتِهِ ۖ وَمَن قُدِرَ عَلَيْهِ رِزْقُهُ فَلْيُنفِقْ مِمَّا آتَاهُ اللَّهُ ۚ لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا مَا آتَاهَا ۚ سَيَجْعَلُ اللَّهُ بَعْدَ عُسْرٍ يُسْرًا",
+      "page_number": 559,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 101028,
+          "resource_id": 20,
+          "text": "Let a man of wealth spend from his wealth, and he whose provision is restricted - let him spend from what Allāh has given him. Allāh does not charge a soul except [according to] what He has given it. Allāh will bring about, after hardship, ease [i.e., relief]."
+        },
+        {
+          "id": 1171820,
+          "resource_id": 213,
+          "text": "বিত্তবান নিজ সমৰ্থ্য অনুযায়ী ব্যয় করবে এবং যার জীবনোপকরণ সীমিত সে আল্লাহ যা দান করেছেন তা থেকে ব্যয় করবে। আল্লাহ যাকে যে সামর্থ্য দিয়েছেন তার চেয়ে গুরুতর বোঝা তিনি তার উপর চাপান না। অবশ্যই আল্লাহ কষ্টের পর দেবেন স্বস্তি।"
+        }
+      ]
+    },
+    {
+      "id": 5225,
+      "verse_number": 8,
+      "verse_key": "65:8",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 223,
+      "ruku_number": 495,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَكَأَيِّن مِّن قَرْيَةٍ عَتَتْ عَنْ أَمْرِ رَبِّهَا وَرُسُلِهِۦ فَحَاسَبْنَـٰهَا حِسَابًا شَدِيدًا وَعَذَّبْنَـٰهَا عَذَابًا نُّكْرًا",
+      "text_imlaei": "وَكَأَيِّن مِّن قَرْيَةٍ عَتَتْ عَنْ أَمْرِ رَبِّهَا وَرُسُلِهِ فَحَاسَبْنَاهَا حِسَابًا شَدِيدًا وَعَذَّبْنَاهَا عَذَابًا نُّكْرًا",
+      "page_number": 559,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 101030,
+          "resource_id": 20,
+          "text": "And how many a city was insolent toward the command of its Lord and His messengers, so We took it to severe account and punished it with a terrible punishment."
+        },
+        {
+          "id": 1171821,
+          "resource_id": 213,
+          "text": "আর বহু জনপদ তাদের রব ও তাঁর রাসূলগণের নির্দেশের বিরুদ্ধাচরণ করেছিল। ফলে আমরা তাদের কাছ থেকে কঠোর হিসেব নিয়েছিলাম এবং তাদেরকে দিয়েছিলাম কঠিন শাস্তি।"
+        }
+      ]
+    },
+    {
+      "id": 5226,
+      "verse_number": 9,
+      "verse_key": "65:9",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 223,
+      "ruku_number": 495,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَذَاقَتْ وَبَالَ أَمْرِهَا وَكَانَ عَـٰقِبَةُ أَمْرِهَا خُسْرًا",
+      "text_imlaei": "فَذَاقَتْ وَبَالَ أَمْرِهَا وَكَانَ عَاقِبَةُ أَمْرِهَا خُسْرًا",
+      "page_number": 559,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 101032,
+          "resource_id": 20,
+          "text": "And it tasted the bad consequence of its affair [i.e., rebellion], and the outcome of its affair was loss."
+        },
+        {
+          "id": 1171822,
+          "resource_id": 213,
+          "text": "ফলে তারা তাদের কৃতকর্মের শাস্তি আস্বাদন করল; আর ক্ষতিই ছিল তাদের কাজের পরিণাম।"
+        }
+      ]
+    },
+    {
+      "id": 5227,
+      "verse_number": 10,
+      "verse_key": "65:10",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 223,
+      "ruku_number": 495,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَعَدَّ ٱللَّهُ لَهُمْ عَذَابًا شَدِيدًا ۖ فَٱتَّقُوا۟ ٱللَّهَ يَـٰٓأُو۟لِى ٱلْأَلْبَـٰبِ ٱلَّذِينَ ءَامَنُوا۟ ۚ قَدْ أَنزَلَ ٱللَّهُ إِلَيْكُمْ ذِكْرًا",
+      "text_imlaei": "أَعَدَّ اللَّهُ لَهُمْ عَذَابًا شَدِيدًا ۖ فَاتَّقُوا اللَّهَ يَا أُولِي الْأَلْبَابِ الَّذِينَ آمَنُوا ۚ قَدْ أَنزَلَ اللَّهُ إِلَيْكُمْ ذِكْرًا",
+      "page_number": 559,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 101014,
+          "resource_id": 20,
+          "text": "Allāh has prepared for them a severe punishment; so fear Allāh, O you of understanding who have believed. Allāh has sent down to you a message [i.e., the Qur’ān].<sup foot_note=197569>1</sup>"
+        },
+        {
+          "id": 1171823,
+          "resource_id": 213,
+          "text": "আল্লাহ্‌ তাদের জন্য কঠোর শাস্তি প্রস্তুত রেখেছেন। অতএব, তোমরা আল্লাহর তাকওয়া অবলম্বন কর, হে বোধসম্পন্ন ব্যক্তিগণ! যারা ঈমান এনেছ। অবশ্যই আল্লাহ্‌ তোমাদের প্রতি নাযিল করেছেন এক উপদশ ---"
+        }
+      ]
+    },
+    {
+      "id": 5228,
+      "verse_number": 11,
+      "verse_key": "65:11",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 223,
+      "ruku_number": 495,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "رَّسُولًا يَتْلُوا۟ عَلَيْكُمْ ءَايَـٰتِ ٱللَّهِ مُبَيِّنَـٰتٍ لِّيُخْرِجَ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ مِنَ ٱلظُّلُمَـٰتِ إِلَى ٱلنُّورِ ۚ وَمَن يُؤْمِنۢ بِٱللَّهِ وَيَعْمَلْ صَـٰلِحًا يُدْخِلْهُ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَآ أَبَدًا ۖ قَدْ أَحْسَنَ ٱللَّهُ لَهُۥ رِزْقًا",
+      "text_imlaei": "رَّسُولًا يَتْلُو عَلَيْكُمْ آيَاتِ اللَّهِ مُبَيِّنَاتٍ لِّيُخْرِجَ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ مِنَ الظُّلُمَاتِ إِلَى النُّورِ ۚ وَمَن يُؤْمِن بِاللَّهِ وَيَعْمَلْ صَالِحًا يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ۖ قَدْ أَحْسَنَ اللَّهُ لَهُ رِزْقًا",
+      "page_number": 559,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 101015,
+          "resource_id": 20,
+          "text": "[He sent] a Messenger [i.e., Muḥammad (ﷺ)] reciting to you the distinct verses of Allāh that He may bring out those who believe and do righteous deeds from darknesses into the light. And whoever believes in Allāh and does righteousness - He will admit him into gardens beneath which rivers flow to abide therein forever. Allāh will have perfected for him a provision."
+        },
+        {
+          "id": 1171824,
+          "resource_id": 213,
+          "text": "এক রাসূল, যে তোমাদের কাছে আল্লাহর সুস্পষ্ট আয়াতসমূহ তেলাওয়াত করে, যারা ঈমান এনেছে এবং সৎকর্ম করে তাদেরকে অন্ধকার থেকে আলোতে বের করে আনার জন্য। আর যে কেউ আল্লাহর উপর ঈমান আনবে এবং সৎকাজ করবে তিনি তাকে প্রবেশ করাবেন জান্নাতে, যার পাদদেশে নদী প্রবাহিত, সেখানে তারা চিরস্থায়ী হবে; আল্লাহ্‌ তো তাকে উত্তম রিযিক দেবেন।"
+        }
+      ]
+    },
+    {
+      "id": 5229,
+      "verse_number": 12,
+      "verse_key": "65:12",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 223,
+      "ruku_number": 495,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱللَّهُ ٱلَّذِى خَلَقَ سَبْعَ سَمَـٰوَٰتٍ وَمِنَ ٱلْأَرْضِ مِثْلَهُنَّ يَتَنَزَّلُ ٱلْأَمْرُ بَيْنَهُنَّ لِتَعْلَمُوٓا۟ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ وَأَنَّ ٱللَّهَ قَدْ أَحَاطَ بِكُلِّ شَىْءٍ عِلْمًۢا",
+      "text_imlaei": "اللَّهُ الَّذِي خَلَقَ سَبْعَ سَمَاوَاتٍ وَمِنَ الْأَرْضِ مِثْلَهُنَّ يَتَنَزَّلُ الْأَمْرُ بَيْنَهُنَّ لِتَعْلَمُوا أَنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ وَأَنَّ اللَّهَ قَدْ أَحَاطَ بِكُلِّ شَيْءٍ عِلْمًا",
+      "page_number": 559,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 101016,
+          "resource_id": 20,
+          "text": "It is Allāh who has created seven heavens and of the earth, the like of them.<sup foot_note=197570>1</sup> [His] command descends among them so you may know that Allāh is over all things competent and that Allāh has encompassed all things in knowledge."
+        },
+        {
+          "id": 1171825,
+          "resource_id": 213,
+          "text": "তিনি আল্লাহ্‌, যিনি সৃষ্টি করেছেন সাত আসমান এবং অনুরূপ যমীন, তাদের মধ্যে নেমে আসে তাঁর নির্দেশ; যাতে তোমরা জানতে পার যে, আল্লাহ সবকিছুর উপর ক্ষমতাবান এবং জ্ঞানে আল্লাহ্‌ সবকিছুকে পরিবেষ্টন করে আছেন।"
+        }
+      ]
+    }
+  ],
+  "audio_metadata": {
+    "audio_file": {
+      "id": 1039,
+      "chapter_id": 65,
+      "file_size": 5787776.0,
+      "format": "mp3",
+      "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/65.mp3"
+    }
+  }
+}

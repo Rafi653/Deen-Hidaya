@@ -1,0 +1,369 @@
+{
+  "metadata": {
+    "surah_number": 100,
+    "scraped_at": "2025-10-30T05:15:49.971477",
+    "source": "api.quran.com",
+    "version": "1.0",
+    "translation_ids": [
+      213,
+      20
+    ]
+  },
+  "license": {
+    "text": {
+      "source": "api.quran.com",
+      "license": "Public Domain",
+      "attribution": "The Quran text is in the public domain",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:15:49.971477"
+    },
+    "translations": {
+      "source": "api.quran.com",
+      "license": "Various - See individual translation licenses",
+      "attribution": "Translation copyrights belong to respective translators",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:15:49.971477"
+    },
+    "audio": {
+      "source": "everyayah.com via api.quran.com",
+      "license": "Free for non-commercial use",
+      "attribution": "Audio recitations courtesy of everyayah.com",
+      "terms_url": "https://everyayah.com/",
+      "note": "Audio URLs provided - not downloaded locally due to size",
+      "fetched_at": "2025-10-30T05:15:49.971477"
+    }
+  },
+  "translation_metadata": {
+    "213": {
+      "name": "Abdul Hafeez & Mohammed Abdul Haq",
+      "author": "Abdul Hafeez, Mohammed Abdul Haq",
+      "language": "te",
+      "language_name": "Telugu",
+      "license": "Various",
+      "source": "api.quran.com"
+    },
+    "20": {
+      "name": "Saheeh International",
+      "author": "Saheeh International",
+      "language": "en",
+      "language_name": "English",
+      "license": "Public Domain",
+      "source": "api.quran.com"
+    }
+  },
+  "surah_info": {
+    "id": 100,
+    "revelation_place": "makkah",
+    "revelation_order": 14,
+    "bismillah_pre": true,
+    "name_simple": "Al-'Adiyat",
+    "name_complex": "Al-`Ādiyāt",
+    "name_arabic": "العاديات",
+    "verses_count": 11,
+    "pages": [
+      599,
+      600
+    ],
+    "translated_name": {
+      "language_name": "english",
+      "name": "The Courser"
+    }
+  },
+  "verses": [
+    {
+      "id": 6147,
+      "verse_number": 1,
+      "verse_key": "100:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 544,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " وَٱلْعَـٰدِيَـٰتِ ضَبْحًا",
+      "text_imlaei": "وَالْعَادِيَاتِ ضَبْحًا",
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96164,
+          "resource_id": 20,
+          "text": "By the racers, panting,<sup foot_note=197797>1</sup>"
+        },
+        {
+          "id": 1172743,
+          "resource_id": 213,
+          "text": "শপথ ঊর্ধ্বশ্বাসে ধাবমান অশ্বরাজির [১],"
+        }
+      ]
+    },
+    {
+      "id": 6148,
+      "verse_number": 2,
+      "verse_key": "100:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 544,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَٱلْمُورِيَـٰتِ قَدْحًا",
+      "text_imlaei": "فَالْمُورِيَاتِ قَدْحًا",
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96167,
+          "resource_id": 20,
+          "text": "And the producers of sparks [when] striking<sup foot_note=197798>1</sup>"
+        },
+        {
+          "id": 1172744,
+          "resource_id": 213,
+          "text": "অতঃপর যারা ক্ষুরের আঘাতে অগ্নি-স্ফুলিঙ্গ বিচ্ছুরিত করে [১],"
+        }
+      ]
+    },
+    {
+      "id": 6149,
+      "verse_number": 3,
+      "verse_key": "100:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 544,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَٱلْمُغِيرَٰتِ صُبْحًا",
+      "text_imlaei": "فَالْمُغِيرَاتِ صُبْحًا",
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96168,
+          "resource_id": 20,
+          "text": "And the chargers at dawn,<sup foot_note=197799>1</sup>"
+        },
+        {
+          "id": 1172745,
+          "resource_id": 213,
+          "text": "অতঃপর যারা অভিযান করে প্রভাতকালে [১],"
+        }
+      ]
+    },
+    {
+      "id": 6150,
+      "verse_number": 4,
+      "verse_key": "100:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 544,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَأَثَرْنَ بِهِۦ نَقْعًا",
+      "text_imlaei": "فَأَثَرْنَ بِهِ نَقْعًا",
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96169,
+          "resource_id": 20,
+          "text": "Stirring up thereby [clouds of] dust,"
+        },
+        {
+          "id": 1172746,
+          "resource_id": 213,
+          "text": "ফলে তারা তা দ্বারা ধূলি উৎক্ষিপ্ত করে [১];"
+        }
+      ]
+    },
+    {
+      "id": 6151,
+      "verse_number": 5,
+      "verse_key": "100:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 544,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَوَسَطْنَ بِهِۦ جَمْعًا",
+      "text_imlaei": "فَوَسَطْنَ بِهِ جَمْعًا",
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96170,
+          "resource_id": 20,
+          "text": "Arriving thereby in the center<sup foot_note=197800>1</sup> collectively,"
+        },
+        {
+          "id": 1172747,
+          "resource_id": 213,
+          "text": "অতঃপর তা দ্বারা শত্রু দলের অভ্যন্তরে ঢুকে পরে [১]।"
+        }
+      ]
+    },
+    {
+      "id": 6152,
+      "verse_number": 6,
+      "verse_key": "100:6",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 544,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ ٱلْإِنسَـٰنَ لِرَبِّهِۦ لَكَنُودٌ",
+      "text_imlaei": "إِنَّ الْإِنسَانَ لِرَبِّهِ لَكَنُودٌ",
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96171,
+          "resource_id": 20,
+          "text": "Indeed mankind, to his Lord, is ungrateful."
+        },
+        {
+          "id": 1172748,
+          "resource_id": 213,
+          "text": "নিশ্চয় মানুষ তার রবের প্রতি বড়ই অকৃতজ্ঞ [১]"
+        }
+      ]
+    },
+    {
+      "id": 6153,
+      "verse_number": 7,
+      "verse_key": "100:7",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 544,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ",
+      "text_imlaei": "وَإِنَّهُ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ",
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96172,
+          "resource_id": 20,
+          "text": "And indeed, he is to that a witness.<sup foot_note=197801>1</sup>"
+        },
+        {
+          "id": 1172749,
+          "resource_id": 213,
+          "text": "আর নিশ্চয় সে এ বিষয়ে সাক্ষী [১],"
+        }
+      ]
+    },
+    {
+      "id": 6154,
+      "verse_number": 8,
+      "verse_key": "100:8",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 544,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِنَّهُۥ لِحُبِّ ٱلْخَيْرِ لَشَدِيدٌ",
+      "text_imlaei": "وَإِنَّهُ لِحُبِّ الْخَيْرِ لَشَدِيدٌ",
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96173,
+          "resource_id": 20,
+          "text": "And indeed he is, in love of wealth, intense."
+        },
+        {
+          "id": 1172750,
+          "resource_id": 213,
+          "text": "আর নিশ্চয় সে ধন-সম্পদের আসক্তিতে প্রবল [১]।"
+        }
+      ]
+    },
+    {
+      "id": 6155,
+      "verse_number": 9,
+      "verse_key": "100:9",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 544,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "۞ أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِى ٱلْقُبُورِ",
+      "text_imlaei": "أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِي الْقُبُورِ",
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96174,
+          "resource_id": 20,
+          "text": "But does he not know that when the contents of the graves are scattered"
+        },
+        {
+          "id": 1172751,
+          "resource_id": 213,
+          "text": "তবে কি সে জানে না যখন কবরে যা আছে তা উত্থিত হবে,"
+        }
+      ]
+    },
+    {
+      "id": 6156,
+      "verse_number": 10,
+      "verse_key": "100:10",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 544,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَحُصِّلَ مَا فِى ٱلصُّدُورِ",
+      "text_imlaei": "وَحُصِّلَ مَا فِي الصُّدُورِ",
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96165,
+          "resource_id": 20,
+          "text": "And that within the breasts is obtained,<sup foot_note=197802>1</sup>"
+        },
+        {
+          "id": 1172752,
+          "resource_id": 213,
+          "text": "আর অন্তরে যা আছে তা প্ৰকাশ করা হবে [১]?"
+        }
+      ]
+    },
+    {
+      "id": 6157,
+      "verse_number": 11,
+      "verse_key": "100:11",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 544,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌۢ",
+      "text_imlaei": "إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌ",
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96166,
+          "resource_id": 20,
+          "text": "Indeed, their Lord with them, that Day, is [fully] Aware.<sup foot_note=197803>1</sup>"
+        },
+        {
+          "id": 1172753,
+          "resource_id": 213,
+          "text": "নিশ্চয় তাদের রব সেদিন তাদের ব্যাপারে সবিশেষ অবহিত [১]।"
+        }
+      ]
+    }
+  ],
+  "audio_metadata": {
+    "audio_file": {
+      "id": 1109,
+      "chapter_id": 100,
+      "file_size": 1130624.0,
+      "format": "mp3",
+      "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/100.mp3"
+    }
+  }
+}

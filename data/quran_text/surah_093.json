@@ -1,0 +1,369 @@
+{
+  "metadata": {
+    "surah_number": 93,
+    "scraped_at": "2025-10-30T05:15:37.908715",
+    "source": "api.quran.com",
+    "version": "1.0",
+    "translation_ids": [
+      213,
+      20
+    ]
+  },
+  "license": {
+    "text": {
+      "source": "api.quran.com",
+      "license": "Public Domain",
+      "attribution": "The Quran text is in the public domain",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:15:37.908715"
+    },
+    "translations": {
+      "source": "api.quran.com",
+      "license": "Various - See individual translation licenses",
+      "attribution": "Translation copyrights belong to respective translators",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:15:37.908715"
+    },
+    "audio": {
+      "source": "everyayah.com via api.quran.com",
+      "license": "Free for non-commercial use",
+      "attribution": "Audio recitations courtesy of everyayah.com",
+      "terms_url": "https://everyayah.com/",
+      "note": "Audio URLs provided - not downloaded locally due to size",
+      "fetched_at": "2025-10-30T05:15:37.908715"
+    }
+  },
+  "translation_metadata": {
+    "213": {
+      "name": "Abdul Hafeez & Mohammed Abdul Haq",
+      "author": "Abdul Hafeez, Mohammed Abdul Haq",
+      "language": "te",
+      "language_name": "Telugu",
+      "license": "Various",
+      "source": "api.quran.com"
+    },
+    "20": {
+      "name": "Saheeh International",
+      "author": "Saheeh International",
+      "language": "en",
+      "language_name": "English",
+      "license": "Public Domain",
+      "source": "api.quran.com"
+    }
+  },
+  "surah_info": {
+    "id": 93,
+    "revelation_place": "makkah",
+    "revelation_order": 11,
+    "bismillah_pre": true,
+    "name_simple": "Ad-Duhaa",
+    "name_complex": "Ađ-Đuĥaá",
+    "name_arabic": "الضحى",
+    "verses_count": 11,
+    "pages": [
+      596,
+      596
+    ],
+    "translated_name": {
+      "language_name": "english",
+      "name": "The Morning Hours"
+    }
+  },
+  "verses": [
+    {
+      "id": 6080,
+      "verse_number": 1,
+      "verse_key": "93:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 537,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " وَٱلضُّحَىٰ",
+      "text_imlaei": "وَالضُّحَىٰ",
+      "page_number": 596,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102254,
+          "resource_id": 20,
+          "text": "By the morning brightness"
+        },
+        {
+          "id": 1172676,
+          "resource_id": 213,
+          "text": "শপথ পূর্বাহ্নের,"
+        }
+      ]
+    },
+    {
+      "id": 6081,
+      "verse_number": 2,
+      "verse_key": "93:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 537,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلَّيْلِ إِذَا سَجَىٰ",
+      "text_imlaei": "وَاللَّيْلِ إِذَا سَجَىٰ",
+      "page_number": 596,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102258,
+          "resource_id": 20,
+          "text": "And [by] the night when it covers with darkness,<sup foot_note=197778>1</sup>"
+        },
+        {
+          "id": 1172677,
+          "resource_id": 213,
+          "text": "শপথ রাতের যখন তা হয় নিঝুম [১] –"
+        }
+      ]
+    },
+    {
+      "id": 6082,
+      "verse_number": 3,
+      "verse_key": "93:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 537,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+      "text_imlaei": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+      "page_number": 596,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102260,
+          "resource_id": 20,
+          "text": "Your Lord has not taken leave of you, [O Muḥammad], nor has He detested [you]."
+        },
+        {
+          "id": 1172678,
+          "resource_id": 213,
+          "text": "আপনার রব আপনাকে পরিত্যাগ করেন নি [১] এবং শক্ৰতাও করেন নি।"
+        }
+      ]
+    },
+    {
+      "id": 6083,
+      "verse_number": 4,
+      "verse_key": "93:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 537,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَلْـَٔاخِرَةُ خَيْرٌ لَّكَ مِنَ ٱلْأُولَىٰ",
+      "text_imlaei": "وَلَلْآخِرَةُ خَيْرٌ لَّكَ مِنَ الْأُولَىٰ",
+      "page_number": 596,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102262,
+          "resource_id": 20,
+          "text": "And the Hereafter is better for you than the first [life]."
+        },
+        {
+          "id": 1172679,
+          "resource_id": 213,
+          "text": "আর অবশ্যই আপনার জন্য পরবর্তী সময় পূর্ববতী সময়ের চেয়ে শ্রেয় [১]।"
+        }
+      ]
+    },
+    {
+      "id": 6084,
+      "verse_number": 5,
+      "verse_key": "93:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 537,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ",
+      "text_imlaei": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ",
+      "page_number": 596,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102264,
+          "resource_id": 20,
+          "text": "And your Lord is going to give you, and you will be satisfied."
+        },
+        {
+          "id": 1172680,
+          "resource_id": 213,
+          "text": "আর অচিরেই আপনার রব আপনাকে অনুগ্রহ দান করবেন, ফলে আপনি সন্তুষ্ট হবেন [১]।"
+        }
+      ]
+    },
+    {
+      "id": 6085,
+      "verse_number": 6,
+      "verse_key": "93:6",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 537,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ",
+      "text_imlaei": "أَلَمْ يَجِدْكَ يَتِيمًا فَآوَىٰ",
+      "page_number": 596,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102266,
+          "resource_id": 20,
+          "text": "Did He not find you an orphan and give [you] refuge?"
+        },
+        {
+          "id": 1172681,
+          "resource_id": 213,
+          "text": "তিনি কি আপনাকে ইয়াতীম অবস্থায় পান নি? অতঃপর তিনি আশ্রয় দিয়েছেন [১] ;"
+        }
+      ]
+    },
+    {
+      "id": 6086,
+      "verse_number": 7,
+      "verse_key": "93:7",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 537,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَوَجَدَكَ ضَآلًّا فَهَدَىٰ",
+      "text_imlaei": "وَوَجَدَكَ ضَالًّا فَهَدَىٰ",
+      "page_number": 596,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102268,
+          "resource_id": 20,
+          "text": "And He found you lost and guided [you],"
+        },
+        {
+          "id": 1172682,
+          "resource_id": 213,
+          "text": "আর তিনি আপনাকে পেলেন পথ সম্পর্কে অনবহিত, অতঃপর তিনি পথের নির্দেশ দিলেন [১]।"
+        }
+      ]
+    },
+    {
+      "id": 6087,
+      "verse_number": 8,
+      "verse_key": "93:8",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 537,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَوَجَدَكَ عَآئِلًا فَأَغْنَىٰ",
+      "text_imlaei": "وَوَجَدَكَ عَائِلًا فَأَغْنَىٰ",
+      "page_number": 596,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102270,
+          "resource_id": 20,
+          "text": "And He found you poor and made [you] self-sufficient."
+        },
+        {
+          "id": 1172683,
+          "resource_id": 213,
+          "text": "আর তিনি আপনাকে পেলেন নিঃস্ব অবস্থায়, অতঃপর অভাব মুক্ত করলেন [১]।"
+        }
+      ]
+    },
+    {
+      "id": 6088,
+      "verse_number": 9,
+      "verse_key": "93:9",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 537,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ",
+      "text_imlaei": "فَأَمَّا الْيَتِيمَ فَلَا تَقْهَرْ",
+      "page_number": 596,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102272,
+          "resource_id": 20,
+          "text": "So as for the orphan, do not oppress [him]."
+        },
+        {
+          "id": 1172684,
+          "resource_id": 213,
+          "text": "কাজেই আপনি ইয়াতীমের প্রতি কঠোর হবেন না [১]।"
+        }
+      ]
+    },
+    {
+      "id": 6089,
+      "verse_number": 10,
+      "verse_key": "93:10",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 537,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ",
+      "text_imlaei": "وَأَمَّا السَّائِلَ فَلَا تَنْهَرْ",
+      "page_number": 596,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102255,
+          "resource_id": 20,
+          "text": "And as for the petitioner,<sup foot_note=197779>1</sup> do not repel [him]."
+        },
+        {
+          "id": 1172685,
+          "resource_id": 213,
+          "text": "আর প্রার্থীকে ভর্ৎসনা করবেন না [১]।"
+        }
+      ]
+    },
+    {
+      "id": 6090,
+      "verse_number": 11,
+      "verse_key": "93:11",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 537,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+      "text_imlaei": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+      "page_number": 596,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102256,
+          "resource_id": 20,
+          "text": "But as for the favor of your Lord, report [it]."
+        },
+        {
+          "id": 1172686,
+          "resource_id": 213,
+          "text": "আর আপনি আপনার রবের অনুগ্রহের কথা জানিয়ে দিন [১]।"
+        }
+      ]
+    }
+  ],
+  "audio_metadata": {
+    "audio_file": {
+      "id": 1095,
+      "chapter_id": 93,
+      "file_size": 1050752.0,
+      "format": "mp3",
+      "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/93.mp3"
+    }
+  }
+}

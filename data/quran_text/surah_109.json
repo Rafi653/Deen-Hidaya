@@ -1,0 +1,239 @@
+{
+  "metadata": {
+    "surah_number": 109,
+    "scraped_at": "2025-10-30T05:16:06.476717",
+    "source": "api.quran.com",
+    "version": "1.0",
+    "translation_ids": [
+      213,
+      20
+    ]
+  },
+  "license": {
+    "text": {
+      "source": "api.quran.com",
+      "license": "Public Domain",
+      "attribution": "The Quran text is in the public domain",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:16:06.476717"
+    },
+    "translations": {
+      "source": "api.quran.com",
+      "license": "Various - See individual translation licenses",
+      "attribution": "Translation copyrights belong to respective translators",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:16:06.476717"
+    },
+    "audio": {
+      "source": "everyayah.com via api.quran.com",
+      "license": "Free for non-commercial use",
+      "attribution": "Audio recitations courtesy of everyayah.com",
+      "terms_url": "https://everyayah.com/",
+      "note": "Audio URLs provided - not downloaded locally due to size",
+      "fetched_at": "2025-10-30T05:16:06.476717"
+    }
+  },
+  "translation_metadata": {
+    "213": {
+      "name": "Abdul Hafeez & Mohammed Abdul Haq",
+      "author": "Abdul Hafeez, Mohammed Abdul Haq",
+      "language": "te",
+      "language_name": "Telugu",
+      "license": "Various",
+      "source": "api.quran.com"
+    },
+    "20": {
+      "name": "Saheeh International",
+      "author": "Saheeh International",
+      "language": "en",
+      "language_name": "English",
+      "license": "Public Domain",
+      "source": "api.quran.com"
+    }
+  },
+  "surah_info": {
+    "id": 109,
+    "revelation_place": "makkah",
+    "revelation_order": 18,
+    "bismillah_pre": true,
+    "name_simple": "Al-Kafirun",
+    "name_complex": "Al-Kāfirūn",
+    "name_arabic": "الكافرون",
+    "verses_count": 6,
+    "pages": [
+      603,
+      603
+    ],
+    "translated_name": {
+      "language_name": "english",
+      "name": "The Disbelievers"
+    }
+  },
+  "verses": [
+    {
+      "id": 6208,
+      "verse_number": 1,
+      "verse_key": "109:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 553,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " قُلْ يَـٰٓأَيُّهَا ٱلْكَـٰفِرُونَ",
+      "text_imlaei": "قُلْ يَا أَيُّهَا الْكَافِرُونَ",
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96327,
+          "resource_id": 20,
+          "text": "Say, \"O disbelievers,"
+        },
+        {
+          "id": 1172804,
+          "resource_id": 213,
+          "text": "বলুন, ‘হে কাফিররা!"
+        }
+      ]
+    },
+    {
+      "id": 6209,
+      "verse_number": 2,
+      "verse_key": "109:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 553,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لَآ أَعْبُدُ مَا تَعْبُدُونَ",
+      "text_imlaei": "لَا أَعْبُدُ مَا تَعْبُدُونَ",
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96329,
+          "resource_id": 20,
+          "text": "I do not worship what you worship."
+        },
+        {
+          "id": 1172805,
+          "resource_id": 213,
+          "text": "‘আমি তার ‘ইবাদাত করি না যার ‘ইবাদাত তোমরা কর [১]"
+        }
+      ]
+    },
+    {
+      "id": 6210,
+      "verse_number": 3,
+      "verse_key": "109:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 553,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
+      "text_imlaei": "وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ",
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96333,
+          "resource_id": 20,
+          "text": "Nor are you worshippers of what I worship."
+        },
+        {
+          "id": 1172806,
+          "resource_id": 213,
+          "text": "এবং তোমরাও তাঁর ‘ইবাদাতকারী নও যাঁর ‘ইবাদাত আমি করি [১],"
+        }
+      ]
+    },
+    {
+      "id": 6211,
+      "verse_number": 4,
+      "verse_key": "109:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 553,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَآ أَنَا۠ عَابِدٌ مَّا عَبَدتُّمْ",
+      "text_imlaei": "وَلَا أَنَا عَابِدٌ مَّا عَبَدتُّمْ",
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96335,
+          "resource_id": 20,
+          "text": "Nor will I be a worshipper of what you worship."
+        },
+        {
+          "id": 1172807,
+          "resource_id": 213,
+          "text": "এবং আমি ‘ইবাদাতকারী নই তার যার ‘ইবাদাত তোমরা করে আসছ।"
+        }
+      ]
+    },
+    {
+      "id": 6212,
+      "verse_number": 5,
+      "verse_key": "109:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 553,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
+      "text_imlaei": "وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ",
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96337,
+          "resource_id": 20,
+          "text": "Nor will you be worshippers of what I worship."
+        },
+        {
+          "id": 1172808,
+          "resource_id": 213,
+          "text": "এবং তোমরাও তাঁর ‘ইবাদাতকারী হবে না যাঁর ‘ইবাদাত আমি করি,"
+        }
+      ]
+    },
+    {
+      "id": 6213,
+      "verse_number": 6,
+      "verse_key": "109:6",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 553,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لَكُمْ دِينُكُمْ وَلِىَ دِينِ",
+      "text_imlaei": "لَكُمْ دِينُكُمْ وَلِيَ دِينِ",
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96339,
+          "resource_id": 20,
+          "text": "For you is your religion, and for me is my religion.\""
+        },
+        {
+          "id": 1172809,
+          "resource_id": 213,
+          "text": "তোমাদের দীন তোমাদের, আর আমার দ্বীন আমার [১]।’"
+        }
+      ]
+    }
+  ],
+  "audio_metadata": {
+    "audio_file": {
+      "id": 1127,
+      "chapter_id": 109,
+      "file_size": 878720.0,
+      "format": "mp3",
+      "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/109.mp3"
+    }
+  }
+}

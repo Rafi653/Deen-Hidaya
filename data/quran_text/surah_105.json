@@ -1,0 +1,213 @@
+{
+  "metadata": {
+    "surah_number": 105,
+    "scraped_at": "2025-10-30T05:15:59.019668",
+    "source": "api.quran.com",
+    "version": "1.0",
+    "translation_ids": [
+      213,
+      20
+    ]
+  },
+  "license": {
+    "text": {
+      "source": "api.quran.com",
+      "license": "Public Domain",
+      "attribution": "The Quran text is in the public domain",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:15:59.019668"
+    },
+    "translations": {
+      "source": "api.quran.com",
+      "license": "Various - See individual translation licenses",
+      "attribution": "Translation copyrights belong to respective translators",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:15:59.019668"
+    },
+    "audio": {
+      "source": "everyayah.com via api.quran.com",
+      "license": "Free for non-commercial use",
+      "attribution": "Audio recitations courtesy of everyayah.com",
+      "terms_url": "https://everyayah.com/",
+      "note": "Audio URLs provided - not downloaded locally due to size",
+      "fetched_at": "2025-10-30T05:15:59.019668"
+    }
+  },
+  "translation_metadata": {
+    "213": {
+      "name": "Abdul Hafeez & Mohammed Abdul Haq",
+      "author": "Abdul Hafeez, Mohammed Abdul Haq",
+      "language": "te",
+      "language_name": "Telugu",
+      "license": "Various",
+      "source": "api.quran.com"
+    },
+    "20": {
+      "name": "Saheeh International",
+      "author": "Saheeh International",
+      "language": "en",
+      "language_name": "English",
+      "license": "Public Domain",
+      "source": "api.quran.com"
+    }
+  },
+  "surah_info": {
+    "id": 105,
+    "revelation_place": "makkah",
+    "revelation_order": 19,
+    "bismillah_pre": true,
+    "name_simple": "Al-Fil",
+    "name_complex": "Al-Fīl",
+    "name_arabic": "الفيل",
+    "verses_count": 5,
+    "pages": [
+      601,
+      601
+    ],
+    "translated_name": {
+      "language_name": "english",
+      "name": "The Elephant"
+    }
+  },
+  "verses": [
+    {
+      "id": 6189,
+      "verse_number": 1,
+      "verse_key": "105:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 549,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+      "text_imlaei": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ",
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96263,
+          "resource_id": 20,
+          "text": "Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant?<sup foot_note=197817>1</sup>"
+        },
+        {
+          "id": 1172785,
+          "resource_id": 213,
+          "text": "আপনি কি দেখেন নি [১] আপনার রব হাতির অধিপতিদের প্রতি কী করেছিলেন?"
+        }
+      ]
+    },
+    {
+      "id": 6190,
+      "verse_number": 2,
+      "verse_key": "105:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 549,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍ",
+      "text_imlaei": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ",
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96265,
+          "resource_id": 20,
+          "text": "Did He not make their plan into misguidance?<sup foot_note=197818>1</sup>"
+        },
+        {
+          "id": 1172786,
+          "resource_id": 213,
+          "text": "তিনি কি তাদের কৌশল ব্যর্থতায় পর্যবসিত করে দেননি?"
+        }
+      ]
+    },
+    {
+      "id": 6191,
+      "verse_number": 3,
+      "verse_key": "105:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 549,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+      "text_imlaei": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96267,
+          "resource_id": 20,
+          "text": "And He sent against them birds in flocks,"
+        },
+        {
+          "id": 1172787,
+          "resource_id": 213,
+          "text": "আর [১] তাদের বিরুদ্ধে তিনি ঝাঁকে ঝাঁকে পাখি পাঠান [২]"
+        }
+      ]
+    },
+    {
+      "id": 6192,
+      "verse_number": 4,
+      "verse_key": "105:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 549,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ",
+      "text_imlaei": "تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ",
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96269,
+          "resource_id": 20,
+          "text": "Striking them with stones of hard clay,"
+        },
+        {
+          "id": 1172788,
+          "resource_id": 213,
+          "text": "যারা তাদের উপর শক্ত পোড়ামাটির কঙ্কর নিক্ষেপ করে [১]।"
+        }
+      ]
+    },
+    {
+      "id": 6193,
+      "verse_number": 5,
+      "verse_key": "105:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 549,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ",
+      "text_imlaei": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍ",
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96271,
+          "resource_id": 20,
+          "text": "And He made them like eaten straw.<sup foot_note=197819>1</sup>"
+        },
+        {
+          "id": 1172789,
+          "resource_id": 213,
+          "text": "অতঃপর তিনি তাদেরকে ভক্ষিত তৃণ-সদৃশ করেন [১]।"
+        }
+      ]
+    }
+  ],
+  "audio_metadata": {
+    "audio_file": {
+      "id": 1119,
+      "chapter_id": 105,
+      "file_size": 788608.0,
+      "format": "mp3",
+      "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/105.mp3"
+    }
+  }
+}

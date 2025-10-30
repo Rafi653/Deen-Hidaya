@@ -1,0 +1,603 @@
+{
+  "metadata": {
+    "surah_number": 90,
+    "scraped_at": "2025-10-30T05:15:32.208213",
+    "source": "api.quran.com",
+    "version": "1.0",
+    "translation_ids": [
+      213,
+      20
+    ]
+  },
+  "license": {
+    "text": {
+      "source": "api.quran.com",
+      "license": "Public Domain",
+      "attribution": "The Quran text is in the public domain",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:15:32.208213"
+    },
+    "translations": {
+      "source": "api.quran.com",
+      "license": "Various - See individual translation licenses",
+      "attribution": "Translation copyrights belong to respective translators",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:15:32.208213"
+    },
+    "audio": {
+      "source": "everyayah.com via api.quran.com",
+      "license": "Free for non-commercial use",
+      "attribution": "Audio recitations courtesy of everyayah.com",
+      "terms_url": "https://everyayah.com/",
+      "note": "Audio URLs provided - not downloaded locally due to size",
+      "fetched_at": "2025-10-30T05:15:32.208213"
+    }
+  },
+  "translation_metadata": {
+    "213": {
+      "name": "Abdul Hafeez & Mohammed Abdul Haq",
+      "author": "Abdul Hafeez, Mohammed Abdul Haq",
+      "language": "te",
+      "language_name": "Telugu",
+      "license": "Various",
+      "source": "api.quran.com"
+    },
+    "20": {
+      "name": "Saheeh International",
+      "author": "Saheeh International",
+      "language": "en",
+      "language_name": "English",
+      "license": "Public Domain",
+      "source": "api.quran.com"
+    }
+  },
+  "surah_info": {
+    "id": 90,
+    "revelation_place": "makkah",
+    "revelation_order": 35,
+    "bismillah_pre": true,
+    "name_simple": "Al-Balad",
+    "name_complex": "Al-Balad",
+    "name_arabic": "البلد",
+    "verses_count": 20,
+    "pages": [
+      594,
+      594
+    ],
+    "translated_name": {
+      "language_name": "english",
+      "name": "The City"
+    }
+  },
+  "verses": [
+    {
+      "id": 6024,
+      "verse_number": 1,
+      "verse_key": "90:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " لَآ أُقْسِمُ بِهَـٰذَا ٱلْبَلَدِ",
+      "text_imlaei": "لَا أُقْسِمُ بِهَٰذَا الْبَلَدِ",
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102142,
+          "resource_id": 20,
+          "text": "I swear by this city [i.e., Makkah]"
+        },
+        {
+          "id": 1172620,
+          "resource_id": 213,
+          "text": "আমি [১] শপথ করছি এ নগরের [২]"
+        }
+      ]
+    },
+    {
+      "id": 6025,
+      "verse_number": 2,
+      "verse_key": "90:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَنتَ حِلٌّۢ بِهَـٰذَا ٱلْبَلَدِ",
+      "text_imlaei": "وَأَنتَ حِلٌّ بِهَٰذَا الْبَلَدِ",
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102153,
+          "resource_id": 20,
+          "text": "And you, [O Muḥammad], are free of restriction in this city"
+        },
+        {
+          "id": 1172621,
+          "resource_id": 213,
+          "text": "আর আপনি এ নগরের অধিবাসী [১],"
+        }
+      ]
+    },
+    {
+      "id": 6026,
+      "verse_number": 3,
+      "verse_key": "90:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَوَالِدٍ وَمَا وَلَدَ",
+      "text_imlaei": "وَوَالِدٍ وَمَا وَلَدَ",
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102155,
+          "resource_id": 20,
+          "text": "And [by] the father<sup foot_note=197764>1</sup> and that which was born [of him],"
+        },
+        {
+          "id": 1172622,
+          "resource_id": 213,
+          "text": "শপথ জন্মদাতার ও যা সে জন্ম দিয়েছে [১]।"
+        }
+      ]
+    },
+    {
+      "id": 6027,
+      "verse_number": 4,
+      "verse_key": "90:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِى كَبَدٍ",
+      "text_imlaei": "لَقَدْ خَلَقْنَا الْإِنسَانَ فِي كَبَدٍ",
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102156,
+          "resource_id": 20,
+          "text": "We have certainly created man into hardship."
+        },
+        {
+          "id": 1172623,
+          "resource_id": 213,
+          "text": "নিঃসন্দেহে আমরা মানুষকে সৃষ্টি করেছি কষ্ট-ক্লেশের মধ্যে [১]।"
+        }
+      ]
+    },
+    {
+      "id": 6028,
+      "verse_number": 5,
+      "verse_key": "90:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ",
+      "text_imlaei": "أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ",
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102157,
+          "resource_id": 20,
+          "text": "Does he think that never will anyone overcome him?"
+        },
+        {
+          "id": 1172624,
+          "resource_id": 213,
+          "text": "সে কি মনে করে যে, কখনো তার উপর কেউ ক্ষমতাবান হবে না?"
+        }
+      ]
+    },
+    {
+      "id": 6029,
+      "verse_number": 6,
+      "verse_key": "90:6",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَقُولُ أَهْلَكْتُ مَالًا لُّبَدًا",
+      "text_imlaei": "يَقُولُ أَهْلَكْتُ مَالًا لُّبَدًا",
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102158,
+          "resource_id": 20,
+          "text": "He says, \"I have spent wealth in abundance.\""
+        },
+        {
+          "id": 1172625,
+          "resource_id": 213,
+          "text": "সে বলে, ‘আমি প্রচুর অর্থ নিঃশেষ করেছি [১]।’"
+        }
+      ]
+    },
+    {
+      "id": 6030,
+      "verse_number": 7,
+      "verse_key": "90:7",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَيَحْسَبُ أَن لَّمْ يَرَهُۥٓ أَحَدٌ",
+      "text_imlaei": "أَيَحْسَبُ أَن لَّمْ يَرَهُ أَحَدٌ",
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102159,
+          "resource_id": 20,
+          "text": "Does he think that no one has seen him?"
+        },
+        {
+          "id": 1172626,
+          "resource_id": 213,
+          "text": "সে কি মনে করে যে, তাকে কেউ দেখেনি?"
+        }
+      ]
+    },
+    {
+      "id": 6031,
+      "verse_number": 8,
+      "verse_key": "90:8",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَلَمْ نَجْعَل لَّهُۥ عَيْنَيْنِ",
+      "text_imlaei": "أَلَمْ نَجْعَل لَّهُ عَيْنَيْنِ",
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102160,
+          "resource_id": 20,
+          "text": "Have We not made for him two eyes?"
+        },
+        {
+          "id": 1172627,
+          "resource_id": 213,
+          "text": "আমরা কি তার জন্য সৃষ্টি করিনি দুচোখ ?"
+        }
+      ]
+    },
+    {
+      "id": 6032,
+      "verse_number": 9,
+      "verse_key": "90:9",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَلِسَانًا وَشَفَتَيْنِ",
+      "text_imlaei": "وَلِسَانًا وَشَفَتَيْنِ",
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102161,
+          "resource_id": 20,
+          "text": "And a tongue and two lips?"
+        },
+        {
+          "id": 1172628,
+          "resource_id": 213,
+          "text": "আর জিহ্বা ও দুই ঠোঁট ?"
+        }
+      ]
+    },
+    {
+      "id": 6033,
+      "verse_number": 10,
+      "verse_key": "90:10",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَهَدَيْنَـٰهُ ٱلنَّجْدَيْنِ",
+      "text_imlaei": "وَهَدَيْنَاهُ النَّجْدَيْنِ",
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102143,
+          "resource_id": 20,
+          "text": "And have shown him the two ways?<sup foot_note=197765>1</sup>"
+        },
+        {
+          "id": 1172629,
+          "resource_id": 213,
+          "text": "আর আমরা তাকে দেখিয়েছি [১] দু’টি পথ [২]।"
+        }
+      ]
+    },
+    {
+      "id": 6034,
+      "verse_number": 11,
+      "verse_key": "90:11",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَلَا ٱقْتَحَمَ ٱلْعَقَبَةَ",
+      "text_imlaei": "فَلَا اقْتَحَمَ الْعَقَبَةَ",
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102144,
+          "resource_id": 20,
+          "text": "But he has not broken through the difficult pass.<sup foot_note=197766>1</sup>"
+        },
+        {
+          "id": 1172630,
+          "resource_id": 213,
+          "text": "তবে সে তো বন্ধুর গিরিপথে [১] প্রবেশ করেনি।"
+        }
+      ]
+    },
+    {
+      "id": 6035,
+      "verse_number": 12,
+      "verse_key": "90:12",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا ٱلْعَقَبَةُ",
+      "text_imlaei": "وَمَا أَدْرَاكَ مَا الْعَقَبَةُ",
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102145,
+          "resource_id": 20,
+          "text": "And what can make you know what is [breaking through] the difficult pass?"
+        },
+        {
+          "id": 1172631,
+          "resource_id": 213,
+          "text": "আর কিসে আপনাকে জানাবে--- বন্ধুর গিরিপথ কী?"
+        }
+      ]
+    },
+    {
+      "id": 6036,
+      "verse_number": 13,
+      "verse_key": "90:13",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَكُّ رَقَبَةٍ",
+      "text_imlaei": "فَكُّ رَقَبَةٍ",
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102146,
+          "resource_id": 20,
+          "text": "It is the freeing of a slave"
+        },
+        {
+          "id": 1172632,
+          "resource_id": 213,
+          "text": "এটা হচ্ছে: দাসমুক্তি [১]"
+        }
+      ]
+    },
+    {
+      "id": 6037,
+      "verse_number": 14,
+      "verse_key": "90:14",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَوْ إِطْعَـٰمٌ فِى يَوْمٍ ذِى مَسْغَبَةٍ",
+      "text_imlaei": "أَوْ إِطْعَامٌ فِي يَوْمٍ ذِي مَسْغَبَةٍ",
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102147,
+          "resource_id": 20,
+          "text": "Or feeding on a day of severe hunger"
+        },
+        {
+          "id": 1172633,
+          "resource_id": 213,
+          "text": "অথবা দুর্ভিক্ষের দিনে খাদ্যদান [১]—"
+        }
+      ]
+    },
+    {
+      "id": 6038,
+      "verse_number": 15,
+      "verse_key": "90:15",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَتِيمًا ذَا مَقْرَبَةٍ",
+      "text_imlaei": "يَتِيمًا ذَا مَقْرَبَةٍ",
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102148,
+          "resource_id": 20,
+          "text": "An orphan of near relationship"
+        },
+        {
+          "id": 1172634,
+          "resource_id": 213,
+          "text": "ইয়াতীম আত্মীয়কে [১],"
+        }
+      ]
+    },
+    {
+      "id": 6039,
+      "verse_number": 16,
+      "verse_key": "90:16",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ",
+      "text_imlaei": "أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ",
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102149,
+          "resource_id": 20,
+          "text": "Or a needy person in misery"
+        },
+        {
+          "id": 1172635,
+          "resource_id": 213,
+          "text": "অথবা দারিদ্র-নিষ্পেষিত নিঃস্বকে,"
+        }
+      ]
+    },
+    {
+      "id": 6040,
+      "verse_number": 17,
+      "verse_key": "90:17",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ وَتَوَاصَوْا۟ بِٱلصَّبْرِ وَتَوَاصَوْا۟ بِٱلْمَرْحَمَةِ",
+      "text_imlaei": "ثُمَّ كَانَ مِنَ الَّذِينَ آمَنُوا وَتَوَاصَوْا بِالصَّبْرِ وَتَوَاصَوْا بِالْمَرْحَمَةِ",
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102150,
+          "resource_id": 20,
+          "text": "And then being among those who believed and advised one another to patience and advised one another to compassion."
+        },
+        {
+          "id": 1172636,
+          "resource_id": 213,
+          "text": "তদুপরি সে তাদের অন্তর্ভুক্ত হয়ে যায় যারা ঈমান এনেছে এবং পরস্পরকে উপদেশ দিয়েছে ধৈর্য ধারণের, আর পরস্পর উপদেশ দিয়েছে দয়া অনুগ্রহের [১] ;"
+        }
+      ]
+    },
+    {
+      "id": 6041,
+      "verse_number": 18,
+      "verse_key": "90:18",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْمَيْمَنَةِ",
+      "text_imlaei": "أُولَٰئِكَ أَصْحَابُ الْمَيْمَنَةِ",
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102151,
+          "resource_id": 20,
+          "text": "Those are the companions of the right.<sup foot_note=197767>1</sup>"
+        },
+        {
+          "id": 1172637,
+          "resource_id": 213,
+          "text": "তারাই সৌভাগ্যশালী।"
+        }
+      ]
+    },
+    {
+      "id": 6042,
+      "verse_number": 19,
+      "verse_key": "90:19",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِنَا هُمْ أَصْحَـٰبُ ٱلْمَشْـَٔمَةِ",
+      "text_imlaei": "وَالَّذِينَ كَفَرُوا بِآيَاتِنَا هُمْ أَصْحَابُ الْمَشْأَمَةِ",
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102152,
+          "resource_id": 20,
+          "text": "But they who disbelieved in Our signs - those are the companions of the left.<sup foot_note=197768>1</sup>"
+        },
+        {
+          "id": 1172638,
+          "resource_id": 213,
+          "text": "আর যারা আমাদের আয়াতসমূহে কুফরী করেছে, তারাই হতভাগ্য।"
+        }
+      ]
+    },
+    {
+      "id": 6043,
+      "verse_number": 20,
+      "verse_key": "90:20",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "عَلَيْهِمْ نَارٌ مُّؤْصَدَةٌۢ",
+      "text_imlaei": "عَلَيْهِمْ نَارٌ مُّؤْصَدَةٌ",
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102154,
+          "resource_id": 20,
+          "text": "Over them will be fire closed in.<sup foot_note=197769>1</sup>"
+        },
+        {
+          "id": 1172639,
+          "resource_id": 213,
+          "text": "তারা পরিবেষ্টিত হবে অবরুদ্ধ আগুনে।"
+        }
+      ]
+    }
+  ],
+  "audio_metadata": {
+    "audio_file": {
+      "id": 1089,
+      "chapter_id": 90,
+      "file_size": 1929344.0,
+      "format": "mp3",
+      "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/90.mp3"
+    }
+  }
+}

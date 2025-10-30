@@ -1,0 +1,837 @@
+{
+  "metadata": {
+    "surah_number": 48,
+    "scraped_at": "2025-10-30T05:14:14.508126",
+    "source": "api.quran.com",
+    "version": "1.0",
+    "translation_ids": [
+      213,
+      20
+    ]
+  },
+  "license": {
+    "text": {
+      "source": "api.quran.com",
+      "license": "Public Domain",
+      "attribution": "The Quran text is in the public domain",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:14:14.508126"
+    },
+    "translations": {
+      "source": "api.quran.com",
+      "license": "Various - See individual translation licenses",
+      "attribution": "Translation copyrights belong to respective translators",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:14:14.508126"
+    },
+    "audio": {
+      "source": "everyayah.com via api.quran.com",
+      "license": "Free for non-commercial use",
+      "attribution": "Audio recitations courtesy of everyayah.com",
+      "terms_url": "https://everyayah.com/",
+      "note": "Audio URLs provided - not downloaded locally due to size",
+      "fetched_at": "2025-10-30T05:14:14.508126"
+    }
+  },
+  "translation_metadata": {
+    "213": {
+      "name": "Abdul Hafeez & Mohammed Abdul Haq",
+      "author": "Abdul Hafeez, Mohammed Abdul Haq",
+      "language": "te",
+      "language_name": "Telugu",
+      "license": "Various",
+      "source": "api.quran.com"
+    },
+    "20": {
+      "name": "Saheeh International",
+      "author": "Saheeh International",
+      "language": "en",
+      "language_name": "English",
+      "license": "Public Domain",
+      "source": "api.quran.com"
+    }
+  },
+  "surah_info": {
+    "id": 48,
+    "revelation_place": "madinah",
+    "revelation_order": 111,
+    "bismillah_pre": true,
+    "name_simple": "Al-Fath",
+    "name_complex": "Al-Fatĥ",
+    "name_arabic": "الفتح",
+    "verses_count": 29,
+    "pages": [
+      511,
+      515
+    ],
+    "translated_name": {
+      "language_name": "english",
+      "name": "The Victory"
+    }
+  },
+  "verses": [
+    {
+      "id": 4584,
+      "verse_number": 1,
+      "verse_key": "48:1",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 204,
+      "ruku_number": 448,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": " إِنَّا فَتَحْنَا لَكَ فَتْحًا مُّبِينًا",
+      "text_imlaei": "إِنَّا فَتَحْنَا لَكَ فَتْحًا مُّبِينًا",
+      "page_number": 511,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 100134,
+          "resource_id": 20,
+          "text": "Indeed, We have given you, [O Muḥammad], a clear conquest<sup foot_note=197389>1</sup>"
+        },
+        {
+          "id": 1171180,
+          "resource_id": 213,
+          "text": "নিশ্চয় আমরা আপনাকে দিয়েছি সুস্পষ্ট বিজয় [১],"
+        }
+      ]
+    },
+    {
+      "id": 4585,
+      "verse_number": 2,
+      "verse_key": "48:2",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 204,
+      "ruku_number": 448,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "لِّيَغْفِرَ لَكَ ٱللَّهُ مَا تَقَدَّمَ مِن ذَنۢبِكَ وَمَا تَأَخَّرَ وَيُتِمَّ نِعْمَتَهُۥ عَلَيْكَ وَيَهْدِيَكَ صِرَٰطًا مُّسْتَقِيمًا",
+      "text_imlaei": "لِّيَغْفِرَ لَكَ اللَّهُ مَا تَقَدَّمَ مِن ذَنبِكَ وَمَا تَأَخَّرَ وَيُتِمَّ نِعْمَتَهُ عَلَيْكَ وَيَهْدِيَكَ صِرَاطًا مُّسْتَقِيمًا",
+      "page_number": 511,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 100148,
+          "resource_id": 20,
+          "text": "That Allāh may forgive for you what preceded of your sin [i.e., errors] and what will follow and complete His favor upon you and guide you to a straight path"
+        },
+        {
+          "id": 1171181,
+          "resource_id": 213,
+          "text": "যেন আল্লাহ আপনার অতীত ও ভবিষ্যত ত্রুটিসমূহ মার্জনা করেন এবং আপনার প্রতি তাঁর অনুগ্রহ পূর্ণ করেন। আর আপনাকে সরল পথের হেদায়াত দেন"
+        }
+      ]
+    },
+    {
+      "id": 4586,
+      "verse_number": 3,
+      "verse_key": "48:3",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 204,
+      "ruku_number": 448,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَيَنصُرَكَ ٱللَّهُ نَصْرًا عَزِيزًا",
+      "text_imlaei": "وَيَنصُرَكَ اللَّهُ نَصْرًا عَزِيزًا",
+      "page_number": 511,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 100160,
+          "resource_id": 20,
+          "text": "And [that] Allāh may aid you with a mighty victory."
+        },
+        {
+          "id": 1171182,
+          "resource_id": 213,
+          "text": "এবং আল্লাহ আপনাকে বলিষ্ঠ সাহায্য দান করেন।"
+        }
+      ]
+    },
+    {
+      "id": 4587,
+      "verse_number": 4,
+      "verse_key": "48:4",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 204,
+      "ruku_number": 448,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "هُوَ ٱلَّذِىٓ أَنزَلَ ٱلسَّكِينَةَ فِى قُلُوبِ ٱلْمُؤْمِنِينَ لِيَزْدَادُوٓا۟ إِيمَـٰنًا مَّعَ إِيمَـٰنِهِمْ ۗ وَلِلَّهِ جُنُودُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا",
+      "text_imlaei": "هُوَ الَّذِي أَنزَلَ السَّكِينَةَ فِي قُلُوبِ الْمُؤْمِنِينَ لِيَزْدَادُوا إِيمَانًا مَّعَ إِيمَانِهِمْ ۗ وَلِلَّهِ جُنُودُ السَّمَاوَاتِ وَالْأَرْضِ ۚ وَكَانَ اللَّهُ عَلِيمًا حَكِيمًا",
+      "page_number": 511,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 100162,
+          "resource_id": 20,
+          "text": "It is He who sent down tranquility into the hearts of the believers that they would increase in faith along with their [present] faith. And to Allāh belong the soldiers of the heavens and the earth, and ever is Allāh Knowing and Wise."
+        },
+        {
+          "id": 1171183,
+          "resource_id": 213,
+          "text": "তিনিই মুমিনদের অন্তরে প্রশান্তি নাযিল করেছেন [১] যেন তারা তাদের ঈমানের সাথে ঈমান বৃদ্ধি করে নেয় [২]। আর আসমানসমূহ ও যমীনের বাহিনীসমূহ আল্লাহরই এবং আল্লাহ্‌ হলেন সর্বজ্ঞ, হিকমতওয়ালা।"
+        }
+      ]
+    },
+    {
+      "id": 4588,
+      "verse_number": 5,
+      "verse_key": "48:5",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 204,
+      "ruku_number": 448,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "لِّيُدْخِلَ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا وَيُكَفِّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ ۚ وَكَانَ ذَٰلِكَ عِندَ ٱللَّهِ فَوْزًا عَظِيمًا",
+      "text_imlaei": "لِّيُدْخِلَ الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَيُكَفِّرَ عَنْهُمْ سَيِّئَاتِهِمْ ۚ وَكَانَ ذَٰلِكَ عِندَ اللَّهِ فَوْزًا عَظِيمًا",
+      "page_number": 511,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 100164,
+          "resource_id": 20,
+          "text": "[And] that He may admit the believing men and the believing women to gardens beneath which rivers flow to abide therein eternally and remove from them their misdeeds - and ever is that, in the sight of Allāh, a great attainment"
+        },
+        {
+          "id": 1171184,
+          "resource_id": 213,
+          "text": "যাতে তিনি মুমিন পুরুষ ও মুমিন নারীদেরকে প্রবেশ করান জান্নাতে, যার নিচ দিয়ে নহরসমূহ প্রবাহিত, যেখানে তারা স্থায়ী হবে এবং তিনি তাদের পাপসমূহ মোচন করবেন; আর এটাই হলো আল্লাহর নিকট মহাসাফল্য।"
+        }
+      ]
+    },
+    {
+      "id": 4589,
+      "verse_number": 6,
+      "verse_key": "48:6",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 204,
+      "ruku_number": 448,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَيُعَذِّبَ ٱلْمُنَـٰفِقِينَ وَٱلْمُنَـٰفِقَـٰتِ وَٱلْمُشْرِكِينَ وَٱلْمُشْرِكَـٰتِ ٱلظَّآنِّينَ بِٱللَّهِ ظَنَّ ٱلسَّوْءِ ۚ عَلَيْهِمْ دَآئِرَةُ ٱلسَّوْءِ ۖ وَغَضِبَ ٱللَّهُ عَلَيْهِمْ وَلَعَنَهُمْ وَأَعَدَّ لَهُمْ جَهَنَّمَ ۖ وَسَآءَتْ مَصِيرًا",
+      "text_imlaei": "وَيُعَذِّبَ الْمُنَافِقِينَ وَالْمُنَافِقَاتِ وَالْمُشْرِكِينَ وَالْمُشْرِكَاتِ الظَّانِّينَ بِاللَّهِ ظَنَّ السَّوْءِ ۚ عَلَيْهِمْ دَائِرَةُ السَّوْءِ ۖ وَغَضِبَ اللَّهُ عَلَيْهِمْ وَلَعَنَهُمْ وَأَعَدَّ لَهُمْ جَهَنَّمَ ۖ وَسَاءَتْ مَصِيرًا",
+      "page_number": 511,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 100166,
+          "resource_id": 20,
+          "text": "And [that] He may punish the hypocrite men and hypocrite women, and the polytheist men and polytheist women - those who assume about Allāh an assumption of evil nature. Upon them is a misfortune of evil nature; and Allāh has become angry with them and has cursed them and prepared for them Hell, and evil it is as a destination."
+        },
+        {
+          "id": 1171185,
+          "resource_id": 213,
+          "text": "আর যাতে তিনি মুনাফিক পুরুষ ও মুনাফিক নারী, মুশরিক পুরুষ ও মুশরিক নারী যারা আল্লাহ সম্বন্ধে মন্দ ধারণা পোষণ করে তাদেরকে শাস্তি দেন। অমঙ্গল চক্ৰ তাদের উপরই [১] আপতিত হয়। আর আল্লাহ তাদের প্রতি রুষ্ট হয়েছেন এবং তাদেরকে লা’নত করেছেন; আর তাদের জন্য জাহান্নাম প্ৰস্তুত রেখেছেন। আর সেটা কত নিকৃষ্ট প্রত্যাবর্তনস্থল !"
+        }
+      ]
+    },
+    {
+      "id": 4590,
+      "verse_number": 7,
+      "verse_key": "48:7",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 204,
+      "ruku_number": 448,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَلِلَّهِ جُنُودُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًا",
+      "text_imlaei": "وَلِلَّهِ جُنُودُ السَّمَاوَاتِ وَالْأَرْضِ ۚ وَكَانَ اللَّهُ عَزِيزًا حَكِيمًا",
+      "page_number": 511,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 100170,
+          "resource_id": 20,
+          "text": "And to Allāh belong the soldiers of the heavens and the earth. And ever is Allāh Exalted in Might and Wise."
+        },
+        {
+          "id": 1171186,
+          "resource_id": 213,
+          "text": "আর আসমানসমূহ ও যমীনের বাহিনীসমূহ আল্লাহরই এবং আল্লাহ্ হচ্ছেন পরাক্রমশালী, হিকমতওয়ালা।"
+        }
+      ]
+    },
+    {
+      "id": 4591,
+      "verse_number": 8,
+      "verse_key": "48:8",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 204,
+      "ruku_number": 448,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّآ أَرْسَلْنَـٰكَ شَـٰهِدًا وَمُبَشِّرًا وَنَذِيرًا",
+      "text_imlaei": "إِنَّا أَرْسَلْنَاكَ شَاهِدًا وَمُبَشِّرًا وَنَذِيرًا",
+      "page_number": 511,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 100172,
+          "resource_id": 20,
+          "text": "Indeed, We have sent you as a witness and a bringer of good tidings and a warner"
+        },
+        {
+          "id": 1171187,
+          "resource_id": 213,
+          "text": "নিশ্চয় আমরা আপনাকে প্রেরণ করেছি সাক্ষীরূপে, সুসংবাদদাতা ও সতর্ককারীরূপে [১],"
+        }
+      ]
+    },
+    {
+      "id": 4592,
+      "verse_number": 9,
+      "verse_key": "48:9",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 204,
+      "ruku_number": 448,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "لِّتُؤْمِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَتُعَزِّرُوهُ وَتُوَقِّرُوهُ وَتُسَبِّحُوهُ بُكْرَةً وَأَصِيلًا",
+      "text_imlaei": "لِّتُؤْمِنُوا بِاللَّهِ وَرَسُولِهِ وَتُعَزِّرُوهُ وَتُوَقِّرُوهُ وَتُسَبِّحُوهُ بُكْرَةً وَأَصِيلًا",
+      "page_number": 511,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 100174,
+          "resource_id": 20,
+          "text": "That you [people] may believe in Allāh and His Messenger and honor him and respect him [i.e., the Prophet (ﷺ)] and exalt Him [i.e., Allāh] morning and afternoon."
+        },
+        {
+          "id": 1171188,
+          "resource_id": 213,
+          "text": "যাতে তোমরা আল্লাহ ও তাঁর রাসূলের প্রতি ঈমান আন এবং তাঁর শক্তি যোগাও ও তাঁকে সম্মান কর; আর সকাল-সন্ধ্যায় তাঁর পবিত্রতা ও মহিমা ঘোষণা কর [১]।"
+        }
+      ]
+    },
+    {
+      "id": 4593,
+      "verse_number": 10,
+      "verse_key": "48:10",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 204,
+      "ruku_number": 448,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ ٱلَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ ٱللَّهَ يَدُ ٱللَّهِ فَوْقَ أَيْدِيهِمْ ۚ فَمَن نَّكَثَ فَإِنَّمَا يَنكُثُ عَلَىٰ نَفْسِهِۦ ۖ وَمَنْ أَوْفَىٰ بِمَا عَـٰهَدَ عَلَيْهُ ٱللَّهَ فَسَيُؤْتِيهِ أَجْرًا عَظِيمًا",
+      "text_imlaei": "إِنَّ الَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ اللَّهَ يَدُ اللَّهِ فَوْقَ أَيْدِيهِمْ ۚ فَمَن نَّكَثَ فَإِنَّمَا يَنكُثُ عَلَىٰ نَفْسِهِ ۖ وَمَنْ أَوْفَىٰ بِمَا عَاهَدَ عَلَيْهُ اللَّهَ فَسَيُؤْتِيهِ أَجْرًا عَظِيمًا",
+      "page_number": 512,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 100135,
+          "resource_id": 20,
+          "text": "Indeed, those who pledge allegiance to you, [O Muḥammad] - they are actually pledging allegiance to Allāh. The hand<sup foot_note=197391>1</sup> of Allāh is over their hands.<sup foot_note=197390>2</sup> So he who breaks his word only breaks it to the detriment of himself. And he who fulfills that which he has promised Allāh - He will give him a great reward."
+        },
+        {
+          "id": 1171189,
+          "resource_id": 213,
+          "text": "নিশ্চয় যারা আপনার কাছে বাই’আত করে [১] তারা তো আল্লাহরই হাতে বাই’আত করে। আল্লাহর হাত [২] তাদের হাতের উপর [৩]। তারপর যে তা ভঙ্গ করে, তা ভঙ্গ করার পরিণাম বর্তাবে তারই উপর এবং যে আল্লাহর সাথে কৃত অঙ্গীকার পূর্ণ করে, তবে তিনি অবশ্যই তাকে মহাপুরস্কার দেন।"
+        }
+      ]
+    },
+    {
+      "id": 4594,
+      "verse_number": 11,
+      "verse_key": "48:11",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 204,
+      "ruku_number": 449,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "سَيَقُولُ لَكَ ٱلْمُخَلَّفُونَ مِنَ ٱلْأَعْرَابِ شَغَلَتْنَآ أَمْوَٰلُنَا وَأَهْلُونَا فَٱسْتَغْفِرْ لَنَا ۚ يَقُولُونَ بِأَلْسِنَتِهِم مَّا لَيْسَ فِى قُلُوبِهِمْ ۚ قُلْ فَمَن يَمْلِكُ لَكُم مِّنَ ٱللَّهِ شَيْـًٔا إِنْ أَرَادَ بِكُمْ ضَرًّا أَوْ أَرَادَ بِكُمْ نَفْعًۢا ۚ بَلْ كَانَ ٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرًۢا",
+      "text_imlaei": "سَيَقُولُ لَكَ الْمُخَلَّفُونَ مِنَ الْأَعْرَابِ شَغَلَتْنَا أَمْوَالُنَا وَأَهْلُونَا فَاسْتَغْفِرْ لَنَا ۚ يَقُولُونَ بِأَلْسِنَتِهِم مَّا لَيْسَ فِي قُلُوبِهِمْ ۚ قُلْ فَمَن يَمْلِكُ لَكُم مِّنَ اللَّهِ شَيْئًا إِنْ أَرَادَ بِكُمْ ضَرًّا أَوْ أَرَادَ بِكُمْ نَفْعًا ۚ بَلْ كَانَ اللَّهُ بِمَا تَعْمَلُونَ خَبِيرًا",
+      "page_number": 512,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 100136,
+          "resource_id": 20,
+          "text": "Those who remained behind<sup foot_note=197392>1</sup> of the bedouins will say to you, \"Our properties and our families occupied us, so ask forgiveness for us.\" They say with their tongues what is not within their hearts. Say, \"Then who could prevent Allāh at all if He intended for you harm or intended for you benefit? Rather, ever is Allāh, of what you do, Aware."
+        },
+        {
+          "id": 1171190,
+          "resource_id": 213,
+          "text": "যে সকল মরুবাসী পিছনে রয়ে গেছে [১] তারা তো আপনাকে বলবে, ‘আমাদের ধন-সম্পদ ও পরিবার-পরিজন আমাদেরকে ব্যস্ত রেখেছে, অতএব, আমাদের জন্য ক্ষমাপ্রার্থনা করুন। তারা মুখে তা বলে যা তাদের অন্তরে নেই। তাদেরকে বলুন, ‘আল্লাহ্‌ কারো কোনো ক্ষতি কিংবা মঙ্গল সাধনের ইচ্ছে করলে কে আল্লাহর মোকাবিলায় তোমাদের জন্য কোনো কিছুর মালিক হবে? বস্তুত তোমরা যা কর সে বিষয়ে আল্লাহ্‌ সম্যক অবহিত।’"
+        }
+      ]
+    },
+    {
+      "id": 4595,
+      "verse_number": 12,
+      "verse_key": "48:12",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 204,
+      "ruku_number": 449,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "بَلْ ظَنَنتُمْ أَن لَّن يَنقَلِبَ ٱلرَّسُولُ وَٱلْمُؤْمِنُونَ إِلَىٰٓ أَهْلِيهِمْ أَبَدًا وَزُيِّنَ ذَٰلِكَ فِى قُلُوبِكُمْ وَظَنَنتُمْ ظَنَّ ٱلسَّوْءِ وَكُنتُمْ قَوْمًۢا بُورًا",
+      "text_imlaei": "بَلْ ظَنَنتُمْ أَن لَّن يَنقَلِبَ الرَّسُولُ وَالْمُؤْمِنُونَ إِلَىٰ أَهْلِيهِمْ أَبَدًا وَزُيِّنَ ذَٰلِكَ فِي قُلُوبِكُمْ وَظَنَنتُمْ ظَنَّ السَّوْءِ وَكُنتُمْ قَوْمًا بُورًا",
+      "page_number": 512,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 100139,
+          "resource_id": 20,
+          "text": "But you thought that the Messenger and the believers would never return to their families, ever, and that was made pleasing in your hearts. And you assumed an assumption of evil and became a people ruined.\""
+        },
+        {
+          "id": 1171191,
+          "resource_id": 213,
+          "text": "বরং তোমরা ধারণা করেছিলে যে, রাসূল ও মুমিনগণ তাদের পরিবার পরিজনের কাছে কখনই ফিরে আসবে না এবং এ ধারণা তোমাদের অন্তরে প্রীতিকর মনে হয়েছিল; আর তোমরা খুব মন্দ ধারণা করেছিলে এবং তোমরা ছিলে ধ্বংসমুখী এক সম্প্রদায় [১] !"
+        }
+      ]
+    },
+    {
+      "id": 4596,
+      "verse_number": 13,
+      "verse_key": "48:13",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 204,
+      "ruku_number": 449,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَن لَّمْ يُؤْمِنۢ بِٱللَّهِ وَرَسُولِهِۦ فَإِنَّآ أَعْتَدْنَا لِلْكَـٰفِرِينَ سَعِيرًا",
+      "text_imlaei": "وَمَن لَّمْ يُؤْمِن بِاللَّهِ وَرَسُولِهِ فَإِنَّا أَعْتَدْنَا لِلْكَافِرِينَ سَعِيرًا",
+      "page_number": 512,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 100140,
+          "resource_id": 20,
+          "text": "And whoever has not believed in Allāh and His Messenger - then indeed, We have prepared for the disbelievers a Blaze."
+        },
+        {
+          "id": 1171192,
+          "resource_id": 213,
+          "text": "আর যে কেউ আল্লাহ্ ও তাঁর রাসূলের প্রতি ঈমান আনে না তবে নিশ্চয় আমি কাফিরদের জন্য জ্বলন্ত আগুন প্রস্তুত রেখেছি।"
+        }
+      ]
+    },
+    {
+      "id": 4597,
+      "verse_number": 14,
+      "verse_key": "48:14",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 204,
+      "ruku_number": 449,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَلِلَّهِ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ ۚ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا",
+      "text_imlaei": "وَلِلَّهِ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۚ يَغْفِرُ لِمَن يَشَاءُ وَيُعَذِّبُ مَن يَشَاءُ ۚ وَكَانَ اللَّهُ غَفُورًا رَّحِيمًا",
+      "page_number": 512,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 100141,
+          "resource_id": 20,
+          "text": "And to Allāh belongs the dominion of the heavens and the earth. He forgives whom He wills and punishes whom He wills. And ever is Allāh Forgiving and Merciful."
+        },
+        {
+          "id": 1171193,
+          "resource_id": 213,
+          "text": "আসমানসমূহ ও যমীনের সর্বময় কর্তৃত্ব আল্লাহ্‌রই, তিনি যাকে ইচ্ছে ক্ষমা করেন এবং যাকে ইচ্ছে শাস্তি দেন। আর আল্লাহ্‌ অতি ক্ষমাশীল, পরম দয়ালু।"
+        }
+      ]
+    },
+    {
+      "id": 4598,
+      "verse_number": 15,
+      "verse_key": "48:15",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 204,
+      "ruku_number": 449,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "سَيَقُولُ ٱلْمُخَلَّفُونَ إِذَا ٱنطَلَقْتُمْ إِلَىٰ مَغَانِمَ لِتَأْخُذُوهَا ذَرُونَا نَتَّبِعْكُمْ ۖ يُرِيدُونَ أَن يُبَدِّلُوا۟ كَلَـٰمَ ٱللَّهِ ۚ قُل لَّن تَتَّبِعُونَا كَذَٰلِكُمْ قَالَ ٱللَّهُ مِن قَبْلُ ۖ فَسَيَقُولُونَ بَلْ تَحْسُدُونَنَا ۚ بَلْ كَانُوا۟ لَا يَفْقَهُونَ إِلَّا قَلِيلًا",
+      "text_imlaei": "سَيَقُولُ الْمُخَلَّفُونَ إِذَا انطَلَقْتُمْ إِلَىٰ مَغَانِمَ لِتَأْخُذُوهَا ذَرُونَا نَتَّبِعْكُمْ ۖ يُرِيدُونَ أَن يُبَدِّلُوا كَلَامَ اللَّهِ ۚ قُل لَّن تَتَّبِعُونَا كَذَٰلِكُمْ قَالَ اللَّهُ مِن قَبْلُ ۖ فَسَيَقُولُونَ بَلْ تَحْسُدُونَنَا ۚ بَلْ كَانُوا لَا يَفْقَهُونَ إِلَّا قَلِيلًا",
+      "page_number": 512,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 100142,
+          "resource_id": 20,
+          "text": "Those who remained<sup foot_note=197394>1</sup> behind will say when you set out toward the war booty to take it, \"Let us follow you.\" They wish to change the words of Allāh. Say, \"Never will you follow us. Thus did Allāh say before.\" So they will say, \"Rather, you envy us.\" But [in fact] they were not understanding except a little.<sup foot_note=197393>2</sup>"
+        },
+        {
+          "id": 1171194,
+          "resource_id": 213,
+          "text": "তোমরা যখন যুদ্ধলব্ধ সম্পদ সংগ্রহের জন্য যাবে তখন যারা পিছনে রয়ে গিয়েছিল, তারা অবশ্যই বলবে, ‘আমাদেরকে তোমাদের অনুসরণ করতে দাও।’ তারা আল্লাহর বাণী পরিবর্তন করতে চায়। বলুন, ‘তোমরা কিছুতেই আমাদের অনুসরণ করবে না। আল্লাহ আগেই এরূপ ঘোষণা করেছেন।’ তারা অবশ্যই বলবে, ‘তোমরা তো আমাদের প্রতি বিদ্বেষ পোষণ করছ।’ বরং তারা তো কেবল সামান্যই বোঝে।"
+        }
+      ]
+    },
+    {
+      "id": 4599,
+      "verse_number": 16,
+      "verse_key": "48:16",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 204,
+      "ruku_number": 449,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "قُل لِّلْمُخَلَّفِينَ مِنَ ٱلْأَعْرَابِ سَتُدْعَوْنَ إِلَىٰ قَوْمٍ أُو۟لِى بَأْسٍ شَدِيدٍ تُقَـٰتِلُونَهُمْ أَوْ يُسْلِمُونَ ۖ فَإِن تُطِيعُوا۟ يُؤْتِكُمُ ٱللَّهُ أَجْرًا حَسَنًا ۖ وَإِن تَتَوَلَّوْا۟ كَمَا تَوَلَّيْتُم مِّن قَبْلُ يُعَذِّبْكُمْ عَذَابًا أَلِيمًا",
+      "text_imlaei": "قُل لِّلْمُخَلَّفِينَ مِنَ الْأَعْرَابِ سَتُدْعَوْنَ إِلَىٰ قَوْمٍ أُولِي بَأْسٍ شَدِيدٍ تُقَاتِلُونَهُمْ أَوْ يُسْلِمُونَ ۖ فَإِن تُطِيعُوا يُؤْتِكُمُ اللَّهُ أَجْرًا حَسَنًا ۖ وَإِن تَتَوَلَّوْا كَمَا تَوَلَّيْتُم مِّن قَبْلُ يُعَذِّبْكُمْ عَذَابًا أَلِيمًا",
+      "page_number": 513,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 100143,
+          "resource_id": 20,
+          "text": "Say to those who remained behind of the bedouins, \"You will be called to [face] a people of great military might; you may fight them, or they will submit.<sup foot_note=197395>1</sup> So if you obey, Allāh will give you a good reward; but if you turn away as you turned away before, He will punish you with a painful punishment.\""
+        },
+        {
+          "id": 1171195,
+          "resource_id": 213,
+          "text": "যেসব মরুবাসী পিছনে রয়ে গিয়েছিল তাদেরকে বলুন, ‘অবশ্যই তোমরা আহূত হবে এক কঠোর যোদ্ধা জাতির বিরুদ্ধে যুদ্ধ করতে; তোমরা তাদের সাথে যুদ্ধ করবে অথবা তারা আত্মসমৰ্পণ করে। অতঃপর তোমরা এ নির্দেশ পালন করলে আল্লাহ্‌ তোমাদের উত্তম পুরস্কার  দান করবেন। আর তোমরা যদি আগের মত পৃষ্ঠ প্রদর্শন কর, তবে তিনি তোমাদেরকে যন্ত্রণাদায়ক শাস্তি দেবেন।"
+        }
+      ]
+    },
+    {
+      "id": 4600,
+      "verse_number": 17,
+      "verse_key": "48:17",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 204,
+      "ruku_number": 449,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "لَّيْسَ عَلَى ٱلْأَعْمَىٰ حَرَجٌ وَلَا عَلَى ٱلْأَعْرَجِ حَرَجٌ وَلَا عَلَى ٱلْمَرِيضِ حَرَجٌ ۗ وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ يُدْخِلْهُ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۖ وَمَن يَتَوَلَّ يُعَذِّبْهُ عَذَابًا أَلِيمًا",
+      "text_imlaei": "لَّيْسَ عَلَى الْأَعْمَىٰ حَرَجٌ وَلَا عَلَى الْأَعْرَجِ حَرَجٌ وَلَا عَلَى الْمَرِيضِ حَرَجٌ ۗ وَمَن يُطِعِ اللَّهَ وَرَسُولَهُ يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ ۖ وَمَن يَتَوَلَّ يُعَذِّبْهُ عَذَابًا أَلِيمًا",
+      "page_number": 513,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 100144,
+          "resource_id": 20,
+          "text": "There is not upon the blind any guilt or upon the lame any guilt or upon the ill any guilt [for remaining behind]. And whoever obeys Allāh and His Messenger - He will admit him to gardens beneath which rivers flow; but whoever turns away - He will punish him with a painful punishment."
+        },
+        {
+          "id": 1171196,
+          "resource_id": 213,
+          "text": "অন্ধের কোনো অপরাধ নেই, খঞ্জের কোনো অপরাধ নেই এবং পীড়িতেরও কোনো অপরাধ নেই এবং যে কেউ আল্লাহ ও তাঁর রাসূলের আনুগত্য করবে, তিনি তাকে প্রবেশ করাবেন এমন জান্নাতে, যার নিচে নহরসমূহ প্রবাহিত; কিন্তু যে ব্যক্তি পৃষ্ঠপ্রদর্শন করবে তিনি তাকে যন্ত্রণাদায়ক শাস্তি দেবেন।"
+        }
+      ]
+    },
+    {
+      "id": 4601,
+      "verse_number": 18,
+      "verse_key": "48:18",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 205,
+      "ruku_number": 450,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "۞ لَّقَدْ رَضِىَ ٱللَّهُ عَنِ ٱلْمُؤْمِنِينَ إِذْ يُبَايِعُونَكَ تَحْتَ ٱلشَّجَرَةِ فَعَلِمَ مَا فِى قُلُوبِهِمْ فَأَنزَلَ ٱلسَّكِينَةَ عَلَيْهِمْ وَأَثَـٰبَهُمْ فَتْحًا قَرِيبًا",
+      "text_imlaei": "لَّقَدْ رَضِيَ اللَّهُ عَنِ الْمُؤْمِنِينَ إِذْ يُبَايِعُونَكَ تَحْتَ الشَّجَرَةِ فَعَلِمَ مَا فِي قُلُوبِهِمْ فَأَنزَلَ السَّكِينَةَ عَلَيْهِمْ وَأَثَابَهُمْ فَتْحًا قَرِيبًا",
+      "page_number": 513,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 100145,
+          "resource_id": 20,
+          "text": "Certainly was Allāh pleased with the believers when they pledged allegiance to you, [O Muḥammad], under the tree, and He knew what was in their hearts, so He sent down tranquility upon them and rewarded them with an imminent conquest<sup foot_note=197396>1</sup>"
+        },
+        {
+          "id": 1171197,
+          "resource_id": 213,
+          "text": "অবশ্যই আল্লাহ মুমিনগণের উপর সন্তুষ্ট হয়েছেন, যখন তারা গাছের নীচে আপনার কাছে বাই’আত গ্ৰহণ করেছিল [১], অতঃপর তাদের অন্তরে যা ছিল তা তিনি জেনে নিয়েছেন; ফলে তিনি তাদের উপর প্রশান্তি নাযিল করলেন এবং তাদেরকে আসন্ন বিজয়ে পুরস্কৃত করলেন [২];"
+        }
+      ]
+    },
+    {
+      "id": 4602,
+      "verse_number": 19,
+      "verse_key": "48:19",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 205,
+      "ruku_number": 450,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَغَانِمَ كَثِيرَةً يَأْخُذُونَهَا ۗ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًا",
+      "text_imlaei": "وَمَغَانِمَ كَثِيرَةً يَأْخُذُونَهَا ۗ وَكَانَ اللَّهُ عَزِيزًا حَكِيمًا",
+      "page_number": 513,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 100146,
+          "resource_id": 20,
+          "text": "And much war booty which they will take. And ever is Allāh Exalted in Might and Wise."
+        },
+        {
+          "id": 1171198,
+          "resource_id": 213,
+          "text": "আর বিপুল পরিমান গণীমতে [১], যা তারা হস্তগত করবে এবং আল্লাহ প্রবল পরাক্রমশালী, হিকমতওয়ালা।"
+        }
+      ]
+    },
+    {
+      "id": 4603,
+      "verse_number": 20,
+      "verse_key": "48:20",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 205,
+      "ruku_number": 450,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَعَدَكُمُ ٱللَّهُ مَغَانِمَ كَثِيرَةً تَأْخُذُونَهَا فَعَجَّلَ لَكُمْ هَـٰذِهِۦ وَكَفَّ أَيْدِىَ ٱلنَّاسِ عَنكُمْ وَلِتَكُونَ ءَايَةً لِّلْمُؤْمِنِينَ وَيَهْدِيَكُمْ صِرَٰطًا مُّسْتَقِيمًا",
+      "text_imlaei": "وَعَدَكُمُ اللَّهُ مَغَانِمَ كَثِيرَةً تَأْخُذُونَهَا فَعَجَّلَ لَكُمْ هَٰذِهِ وَكَفَّ أَيْدِيَ النَّاسِ عَنكُمْ وَلِتَكُونَ آيَةً لِّلْمُؤْمِنِينَ وَيَهْدِيَكُمْ صِرَاطًا مُّسْتَقِيمًا",
+      "page_number": 513,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 100149,
+          "resource_id": 20,
+          "text": "Allāh has promised you much booty that you will take [in the future] and has hastened for you this [victory] and withheld the hands of people from you - that it may be a sign for the believers and [that] He may guide you to a straight path."
+        },
+        {
+          "id": 1171199,
+          "resource_id": 213,
+          "text": "আল্লাহ্‌ তোমাদের ওয়াদা দিয়েছেন যুদ্ধে লভ্য বিপুল সম্পদের, যার অধিকারী হবে তোমরা [১]। অতঃপর তিনি এটা তোমাদের জন্য ত্বরান্বিত করেছেন। আর তিনি তোমাদের থেকে মানুষের হাত নিবারিত করেছেন [২] যেন এটা হয় মুমিনদের জন্য এক নিদর্শন। আর তিনি তোমাদেরকে পরিচালিত করেন সরল পথে;"
+        }
+      ]
+    },
+    {
+      "id": 4604,
+      "verse_number": 21,
+      "verse_key": "48:21",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 205,
+      "ruku_number": 450,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَأُخْرَىٰ لَمْ تَقْدِرُوا۟ عَلَيْهَا قَدْ أَحَاطَ ٱللَّهُ بِهَا ۚ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرًا",
+      "text_imlaei": "وَأُخْرَىٰ لَمْ تَقْدِرُوا عَلَيْهَا قَدْ أَحَاطَ اللَّهُ بِهَا ۚ وَكَانَ اللَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرًا",
+      "page_number": 513,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 100150,
+          "resource_id": 20,
+          "text": "And [He promises] other [victories] that you were [so far] unable to [realize] which Allāh has already encompassed.<sup foot_note=197397>1</sup> And ever is Allāh, over all things, competent."
+        },
+        {
+          "id": 1171200,
+          "resource_id": 213,
+          "text": "আর আরেকটি, এখনো যা তোমাদের অধিকারে আসেনি, তা তো আল্লাহ বেষ্টন করে রেখেছেন [১]। আর আল্লাহ সবকিছুর উপর ক্ষমতাবান।"
+        }
+      ]
+    },
+    {
+      "id": 4605,
+      "verse_number": 22,
+      "verse_key": "48:22",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 205,
+      "ruku_number": 450,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَوْ قَـٰتَلَكُمُ ٱلَّذِينَ كَفَرُوا۟ لَوَلَّوُا۟ ٱلْأَدْبَـٰرَ ثُمَّ لَا يَجِدُونَ وَلِيًّا وَلَا نَصِيرًا",
+      "text_imlaei": "وَلَوْ قَاتَلَكُمُ الَّذِينَ كَفَرُوا لَوَلَّوُا الْأَدْبَارَ ثُمَّ لَا يَجِدُونَ وَلِيًّا وَلَا نَصِيرًا",
+      "page_number": 513,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 100151,
+          "resource_id": 20,
+          "text": "And if those [Makkans] who disbelieve had fought you, they would have turned their backs [in flight]. Then they would not find a protector or a helper."
+        },
+        {
+          "id": 1171201,
+          "resource_id": 213,
+          "text": "আর যারা কুফরী করেছে তারা যদি তোমাদের সাথে যুদ্ধ করে তবে তারা অবশ্যই পৃষ্ঠপ্রদর্শন করবে, তারপর তারা কোনো অভিভাবক ও সাহায্যকারী পাবে না।"
+        }
+      ]
+    },
+    {
+      "id": 4606,
+      "verse_number": 23,
+      "verse_key": "48:23",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 205,
+      "ruku_number": 450,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "سُنَّةَ ٱللَّهِ ٱلَّتِى قَدْ خَلَتْ مِن قَبْلُ ۖ وَلَن تَجِدَ لِسُنَّةِ ٱللَّهِ تَبْدِيلًا",
+      "text_imlaei": "سُنَّةَ اللَّهِ الَّتِي قَدْ خَلَتْ مِن قَبْلُ ۖ وَلَن تَجِدَ لِسُنَّةِ اللَّهِ تَبْدِيلًا",
+      "page_number": 513,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 100152,
+          "resource_id": 20,
+          "text": "[This is] the established way of Allāh which has occurred before. And never will you find in the way of Allāh any change."
+        },
+        {
+          "id": 1171202,
+          "resource_id": 213,
+          "text": "এটাই আল্লাহ্‌র বিধান---পূর্ব থেকেই যা চলে আসছে, আপনি আল্লাহর বিধানে কোনো পরিবর্তন পাবেন না।"
+        }
+      ]
+    },
+    {
+      "id": 4607,
+      "verse_number": 24,
+      "verse_key": "48:24",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 205,
+      "ruku_number": 450,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَهُوَ ٱلَّذِى كَفَّ أَيْدِيَهُمْ عَنكُمْ وَأَيْدِيَكُمْ عَنْهُم بِبَطْنِ مَكَّةَ مِنۢ بَعْدِ أَنْ أَظْفَرَكُمْ عَلَيْهِمْ ۚ وَكَانَ ٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرًا",
+      "text_imlaei": "وَهُوَ الَّذِي كَفَّ أَيْدِيَهُمْ عَنكُمْ وَأَيْدِيَكُمْ عَنْهُم بِبَطْنِ مَكَّةَ مِن بَعْدِ أَنْ أَظْفَرَكُمْ عَلَيْهِمْ ۚ وَكَانَ اللَّهُ بِمَا تَعْمَلُونَ بَصِيرًا",
+      "page_number": 514,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 100153,
+          "resource_id": 20,
+          "text": "And it is He who withheld their hands from you and your hands from them within [the area of] Makkah after He caused you to overcome them. And ever is Allāh, of what you do, Seeing."
+        },
+        {
+          "id": 1171203,
+          "resource_id": 213,
+          "text": "আর তিনি মক্কা উপত্যকায় তাদের হাত তোমাদের থেকে এবং তোমাদের হাত তাদের থেকে নিবারিত করেছেন। তাদের উপর তোমাদেরকে বিজয়ী করার পর [১], আর তোমরা যা কিছু কর আল্লাহ্‌ তার সম্যক দ্রষ্টা।"
+        }
+      ]
+    },
+    {
+      "id": 4608,
+      "verse_number": 25,
+      "verse_key": "48:25",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 205,
+      "ruku_number": 450,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "هُمُ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ وَٱلْهَدْىَ مَعْكُوفًا أَن يَبْلُغَ مَحِلَّهُۥ ۚ وَلَوْلَا رِجَالٌ مُّؤْمِنُونَ وَنِسَآءٌ مُّؤْمِنَـٰتٌ لَّمْ تَعْلَمُوهُمْ أَن تَطَـُٔوهُمْ فَتُصِيبَكُم مِّنْهُم مَّعَرَّةٌۢ بِغَيْرِ عِلْمٍ ۖ لِّيُدْخِلَ ٱللَّهُ فِى رَحْمَتِهِۦ مَن يَشَآءُ ۚ لَوْ تَزَيَّلُوا۟ لَعَذَّبْنَا ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ عَذَابًا أَلِيمًا",
+      "text_imlaei": "هُمُ الَّذِينَ كَفَرُوا وَصَدُّوكُمْ عَنِ الْمَسْجِدِ الْحَرَامِ وَالْهَدْيَ مَعْكُوفًا أَن يَبْلُغَ مَحِلَّهُ ۚ وَلَوْلَا رِجَالٌ مُّؤْمِنُونَ وَنِسَاءٌ مُّؤْمِنَاتٌ لَّمْ تَعْلَمُوهُمْ أَن تَطَئُوهُمْ فَتُصِيبَكُم مِّنْهُم مَّعَرَّةٌ بِغَيْرِ عِلْمٍ ۖ لِّيُدْخِلَ اللَّهُ فِي رَحْمَتِهِ مَن يَشَاءُ ۚ لَوْ تَزَيَّلُوا لَعَذَّبْنَا الَّذِينَ كَفَرُوا مِنْهُمْ عَذَابًا أَلِيمًا",
+      "page_number": 514,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 100154,
+          "resource_id": 20,
+          "text": "They are the ones who disbelieved and obstructed you from al-Masjid al-Ḥarām while the offering<sup foot_note=197398>1</sup> was prevented from reaching its place of sacrifice. And if not for believing men and believing women whom you did not know - that you might trample [i.e., kill] them and there would befall you because of them dishonor without [your] knowledge - [you would have been permitted to enter Makkah]. [This was so] that Allāh might admit to His mercy whom He willed. If they had been apart [from them], We would have punished those who disbelieved among them with painful punishment"
+        },
+        {
+          "id": 1171204,
+          "resource_id": 213,
+          "text": "তারাই তো কুফরী করেছিল এবং বাধা দিয়েছিল তোমাদেরকে মসজিদুল- হারাম হতে ও বাধা দিয়েছিল কুরবানীর জন্য আবদ্ধ পশুগুলোকে যথাস্থানে পৌঁছতে [১]। আর যদি মুমিন পুরুষরা ও মুমিন নারীরা না থাকত, যাদের সম্পর্কে তোমরা জান না যে, তোমরা অজ্ঞাতসারে তাদেরকে পদদলিত করবে, ফলে তাদের কারণে তোমরা অপরাধী ও দোষী সাব্যস্ত হতে, (তবে অবশ্যই তিনি যুদ্ধের অনুমতি দিতেন। কিন্তু আল্লাহ তোমাদেরকে তখন এর অনুমতি দেন নি) [২] যাতে তিনি যাকে ইচ্ছে নিজ অনুগ্রহে প্রবেশ করাবেন [৩]। যদি তারা [৪] পৃথক হয়ে থাকত, তবে অবশ্যই আমরা তাদের মধ্যে কাফিরদেরকে যন্ত্রণাদায়ক শাস্তি দিতাম [৫]।"
+        }
+      ]
+    },
+    {
+      "id": 4609,
+      "verse_number": 26,
+      "verse_key": "48:26",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 205,
+      "ruku_number": 450,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "إِذْ جَعَلَ ٱلَّذِينَ كَفَرُوا۟ فِى قُلُوبِهِمُ ٱلْحَمِيَّةَ حَمِيَّةَ ٱلْجَـٰهِلِيَّةِ فَأَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَىٰ رَسُولِهِۦ وَعَلَى ٱلْمُؤْمِنِينَ وَأَلْزَمَهُمْ كَلِمَةَ ٱلتَّقْوَىٰ وَكَانُوٓا۟ أَحَقَّ بِهَا وَأَهْلَهَا ۚ وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمًا",
+      "text_imlaei": "إِذْ جَعَلَ الَّذِينَ كَفَرُوا فِي قُلُوبِهِمُ الْحَمِيَّةَ حَمِيَّةَ الْجَاهِلِيَّةِ فَأَنزَلَ اللَّهُ سَكِينَتَهُ عَلَىٰ رَسُولِهِ وَعَلَى الْمُؤْمِنِينَ وَأَلْزَمَهُمْ كَلِمَةَ التَّقْوَىٰ وَكَانُوا أَحَقَّ بِهَا وَأَهْلَهَا ۚ وَكَانَ اللَّهُ بِكُلِّ شَيْءٍ عَلِيمًا",
+      "page_number": 514,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 100155,
+          "resource_id": 20,
+          "text": "When those who disbelieved had put into their hearts chauvinism - the chauvinism of the time of ignorance. But Allāh sent down His tranquility upon His Messenger and upon the believers and imposed upon them the word of righteousness, and they were more deserving of it and worthy of it. And ever is Allāh, of all things, Knowing."
+        },
+        {
+          "id": 1171205,
+          "resource_id": 213,
+          "text": "যখন কাফিররা তাদের অন্তরে পোষন করেছিল গোত্রীয় অহমিকা --- অজ্ঞতার যুগের অহমিকা [১], তখন আল্লাহ্‌ তাঁর রাসূল ও মুমিনদের উপর স্বীয় প্রশান্তি নাযিল করলেন; আর তাদেরকে তাকওয়ার কালেমায় [২] সুদৃঢ় করলেন, আর তারাই ছিল এর অধিকতর যোগ্য ও উপযুক্ত। আর আল্লাহ্‌ সবকিছু সম্পর্কে সর্বজ্ঞ।"
+        }
+      ]
+    },
+    {
+      "id": 4610,
+      "verse_number": 27,
+      "verse_key": "48:27",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 205,
+      "ruku_number": 451,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "لَّقَدْ صَدَقَ ٱللَّهُ رَسُولَهُ ٱلرُّءْيَا بِٱلْحَقِّ ۖ لَتَدْخُلُنَّ ٱلْمَسْجِدَ ٱلْحَرَامَ إِن شَآءَ ٱللَّهُ ءَامِنِينَ مُحَلِّقِينَ رُءُوسَكُمْ وَمُقَصِّرِينَ لَا تَخَافُونَ ۖ فَعَلِمَ مَا لَمْ تَعْلَمُوا۟ فَجَعَلَ مِن دُونِ ذَٰلِكَ فَتْحًا قَرِيبًا",
+      "text_imlaei": "لَّقَدْ صَدَقَ اللَّهُ رَسُولَهُ الرُّؤْيَا بِالْحَقِّ ۖ لَتَدْخُلُنَّ الْمَسْجِدَ الْحَرَامَ إِن شَاءَ اللَّهُ آمِنِينَ مُحَلِّقِينَ رُءُوسَكُمْ وَمُقَصِّرِينَ لَا تَخَافُونَ ۖ فَعَلِمَ مَا لَمْ تَعْلَمُوا فَجَعَلَ مِن دُونِ ذَٰلِكَ فَتْحًا قَرِيبًا",
+      "page_number": 514,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 100156,
+          "resource_id": 20,
+          "text": "Certainly has Allāh showed to His Messenger the vision [i.e., dream] in truth. You will surely enter al-Masjid al-Ḥarām, if Allāh wills, in safety, with your heads shaved and [hair] shortened,<sup foot_note=197399>1</sup> not fearing [anyone]. He knew what you did not know and has arranged before that a conquest near [at hand]."
+        },
+        {
+          "id": 1171206,
+          "resource_id": 213,
+          "text": "অবশ্যই আল্লাহ তাঁর রাসূলকে স্বপ্নটি যথাযথভাবে সত্যে পরিণত করে দিয়েছেন [১], আল্লাহর ইচ্ছায় তোমরা অবশ্যই মসজিদুল-হারামে প্রবেশ করবে নিরাপদে --- মাথা মুণ্ডন করে এবং চুল ছেঁটে, নিৰ্ভয়ে। অতঃপর তিনি (আল্লাহ) জেনেছেন যা তোমরা জান নি। সুতরাং এ ছাড়াও তিনি তোমাদেরকে দিয়েছেন এক সদ্য বিজয়।"
+        }
+      ]
+    },
+    {
+      "id": 4611,
+      "verse_number": 28,
+      "verse_key": "48:28",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 205,
+      "ruku_number": 451,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "هُوَ ٱلَّذِىٓ أَرْسَلَ رَسُولَهُۥ بِٱلْهُدَىٰ وَدِينِ ٱلْحَقِّ لِيُظْهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ ۚ وَكَفَىٰ بِٱللَّهِ شَهِيدًا",
+      "text_imlaei": "هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَىٰ وَدِينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ ۚ وَكَفَىٰ بِاللَّهِ شَهِيدًا",
+      "page_number": 514,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 100157,
+          "resource_id": 20,
+          "text": "It is He who sent His Messenger with guidance and the religion of truth to manifest it over all religion. And sufficient is Allāh as Witness."
+        },
+        {
+          "id": 1171207,
+          "resource_id": 213,
+          "text": "তিনিই তাঁর রাসূলকে পথনির্দেশ ও সত্য দীনসহ প্রেরণ করেছেন, অন্য সমস্ত দীনের উপর একে জয়যুক্ত করার জন্য। আর সাক্ষী হিসেবে আল্লাহই যথেষ্ট।"
+        }
+      ]
+    },
+    {
+      "id": 4612,
+      "verse_number": 29,
+      "verse_key": "48:29",
+      "hizb_number": 52,
+      "rub_el_hizb_number": 205,
+      "ruku_number": 451,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "مُّحَمَّدٌ رَّسُولُ ٱللَّهِ ۚ وَٱلَّذِينَ مَعَهُۥٓ أَشِدَّآءُ عَلَى ٱلْكُفَّارِ رُحَمَآءُ بَيْنَهُمْ ۖ تَرَىٰهُمْ رُكَّعًا سُجَّدًا يَبْتَغُونَ فَضْلًا مِّنَ ٱللَّهِ وَرِضْوَٰنًا ۖ سِيمَاهُمْ فِى وُجُوهِهِم مِّنْ أَثَرِ ٱلسُّجُودِ ۚ ذَٰلِكَ مَثَلُهُمْ فِى ٱلتَّوْرَىٰةِ ۚ وَمَثَلُهُمْ فِى ٱلْإِنجِيلِ كَزَرْعٍ أَخْرَجَ شَطْـَٔهُۥ فَـَٔازَرَهُۥ فَٱسْتَغْلَظَ فَٱسْتَوَىٰ عَلَىٰ سُوقِهِۦ يُعْجِبُ ٱلزُّرَّاعَ لِيَغِيظَ بِهِمُ ٱلْكُفَّارَ ۗ وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ مِنْهُم مَّغْفِرَةً وَأَجْرًا عَظِيمًۢا",
+      "text_imlaei": "مُّحَمَّدٌ رَّسُولُ اللَّهِ ۚ وَالَّذِينَ مَعَهُ أَشِدَّاءُ عَلَى الْكُفَّارِ رُحَمَاءُ بَيْنَهُمْ ۖ تَرَاهُمْ رُكَّعًا سُجَّدًا يَبْتَغُونَ فَضْلًا مِّنَ اللَّهِ وَرِضْوَانًا ۖ سِيمَاهُمْ فِي وُجُوهِهِم مِّنْ أَثَرِ السُّجُودِ ۚ ذَٰلِكَ مَثَلُهُمْ فِي التَّوْرَاةِ ۚ وَمَثَلُهُمْ فِي الْإِنجِيلِ كَزَرْعٍ أَخْرَجَ شَطْأَهُ فَآزَرَهُ فَاسْتَغْلَظَ فَاسْتَوَىٰ عَلَىٰ سُوقِهِ يُعْجِبُ الزُّرَّاعَ لِيَغِيظَ بِهِمُ الْكُفَّارَ ۗ وَعَدَ اللَّهُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ مِنْهُم مَّغْفِرَةً وَأَجْرًا عَظِيمًا",
+      "page_number": 515,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 100158,
+          "resource_id": 20,
+          "text": "Muḥammad is the Messenger of Allāh; and those with him are forceful against the disbelievers, merciful among themselves. You see them bowing and prostrating [in prayer], seeking bounty from Allāh and [His] pleasure. Their sign is in their faces from the effect of prostration [i.e., prayer]. That is their description in the Torah. And their description in the Gospel is as a plant which produces its offshoots and strengthens them so they grow firm and stand upon their stalks, delighting the sowers - so that He [i.e., Allāh] may enrage by them<sup foot_note=197400>1</sup> the disbelievers. Allāh has promised those who believe and do righteous deeds among them forgiveness and a great reward."
+        },
+        {
+          "id": 1171208,
+          "resource_id": 213,
+          "text": "মুহাম্মাদ আল্লাহর রাসূল; আর তার সহচরগণ কাফেরদের প্রতি কঠোর, তাদের পরস্পরের প্রতি সহানুভূতিশীল; আল্লাহর অনুগ্রহ ও সন্তুষ্টি কামনায় আপনি তাদেরকে রুকু ও সাজদায় অবনত দেখবেন। তাদের লক্ষণ তাদের মুখমণ্ডলে সাজদার প্রভাবে পরিস্ফুট; এটাই তাওরাতে তাদের দৃষ্টান্ত। আর ইঞ্জীলে তাদের দৃষ্টান্ত হচ্ছে এমন একটি চারাগাছ, যা থেকে নিৰ্গত হয় কচিপাতা, তারপর তা শক্ত ও পুষ্ট হয় এবং পরে কাণ্ডের উপর দাঁড়ায় দৃঢ়ভাবে যা চাষীর জন্য আনন্দদায়ক। এভাবে আল্লাহ মুমিনদের সমৃদ্ধি দ্বারা কাফিরদের অন্তর্জ্বালা সৃষ্টি করেন। যারা ঈমান আনে এবং সৎকাজ করে আল্লাহ তাদেরকে প্রতিশ্রুতি দিয়েছেন ক্ষমা ও মহাপ্রতিদানের [১]।"
+        }
+      ]
+    }
+  ],
+  "audio_metadata": {
+    "audio_file": {
+      "id": 1005,
+      "chapter_id": 48,
+      "file_size": 11554944.0,
+      "format": "mp3",
+      "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/48.mp3"
+    }
+  }
+}
