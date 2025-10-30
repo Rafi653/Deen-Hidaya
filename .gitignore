@@ -84,3 +84,9 @@ htmlcov/
 # OS
 Thumbs.db
 .DS_Store
+
+# Cloudflare Tunnel
+.cloudflared/
+*.json
+cloudflared-config.yml
+/tmp/deen-hidaya-tunnels/
