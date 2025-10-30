@@ -47,7 +47,7 @@ echo "Choose tunnel mode:"
 echo "1) Quick/Temporary tunnel (recommended for first time)"
 echo "2) Named/Persistent tunnel (requires Cloudflare account)"
 echo ""
-read -p "Enter choice (1 or 2): " choice
+read -r -p "Enter choice (1 or 2): " choice
 
 case $choice in
     1)
@@ -110,8 +110,8 @@ case $choice in
         cleanup() {
             echo ""
             echo "Stopping tunnels..."
-            kill $FRONTEND_PID 2>/dev/null || true
-            kill $BACKEND_PID 2>/dev/null || true
+            kill "$FRONTEND_PID" 2>/dev/null || true
+            kill "$BACKEND_PID" 2>/dev/null || true
             rm -f "$TUNNEL_LOG_DIR/frontend.pid" "$TUNNEL_LOG_DIR/backend.pid"
             echo "✅ Tunnels stopped"
         }
@@ -131,7 +131,7 @@ case $choice in
         if [ ! -f ~/.cloudflared/cert.pem ]; then
             echo "⚠️  You need to authenticate with Cloudflare first."
             echo ""
-            read -p "Authenticate now? (y/n): " auth_choice
+            read -r -p "Authenticate now? (y/n): " auth_choice
             if [ "$auth_choice" = "y" ]; then
                 cloudflared tunnel login
             else
@@ -147,7 +147,7 @@ case $choice in
         TUNNEL_NAME="deen-hidaya"
         if cloudflared tunnel list | grep -q "$TUNNEL_NAME"; then
             echo "📝 Tunnel '$TUNNEL_NAME' already exists"
-            read -p "Use existing tunnel? (y/n): " use_existing
+            read -r -p "Use existing tunnel? (y/n): " use_existing
             if [ "$use_existing" != "y" ]; then
                 echo "Please use a different tunnel name or delete the existing one."
                 exit 1
