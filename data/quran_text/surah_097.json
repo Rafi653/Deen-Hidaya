@@ -1,0 +1,213 @@
+{
+  "metadata": {
+    "surah_number": 97,
+    "scraped_at": "2025-10-30T05:15:45.217492",
+    "source": "api.quran.com",
+    "version": "1.0",
+    "translation_ids": [
+      213,
+      20
+    ]
+  },
+  "license": {
+    "text": {
+      "source": "api.quran.com",
+      "license": "Public Domain",
+      "attribution": "The Quran text is in the public domain",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:15:45.217492"
+    },
+    "translations": {
+      "source": "api.quran.com",
+      "license": "Various - See individual translation licenses",
+      "attribution": "Translation copyrights belong to respective translators",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:15:45.217492"
+    },
+    "audio": {
+      "source": "everyayah.com via api.quran.com",
+      "license": "Free for non-commercial use",
+      "attribution": "Audio recitations courtesy of everyayah.com",
+      "terms_url": "https://everyayah.com/",
+      "note": "Audio URLs provided - not downloaded locally due to size",
+      "fetched_at": "2025-10-30T05:15:45.217492"
+    }
+  },
+  "translation_metadata": {
+    "213": {
+      "name": "Abdul Hafeez & Mohammed Abdul Haq",
+      "author": "Abdul Hafeez, Mohammed Abdul Haq",
+      "language": "te",
+      "language_name": "Telugu",
+      "license": "Various",
+      "source": "api.quran.com"
+    },
+    "20": {
+      "name": "Saheeh International",
+      "author": "Saheeh International",
+      "language": "en",
+      "language_name": "English",
+      "license": "Public Domain",
+      "source": "api.quran.com"
+    }
+  },
+  "surah_info": {
+    "id": 97,
+    "revelation_place": "makkah",
+    "revelation_order": 25,
+    "bismillah_pre": true,
+    "name_simple": "Al-Qadr",
+    "name_complex": "Al-Qadr",
+    "name_arabic": "القدر",
+    "verses_count": 5,
+    "pages": [
+      598,
+      598
+    ],
+    "translated_name": {
+      "language_name": "english",
+      "name": "The Power"
+    }
+  },
+  "verses": [
+    {
+      "id": 6126,
+      "verse_number": 1,
+      "verse_key": "97:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 541,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةِ ٱلْقَدْرِ",
+      "text_imlaei": "إِنَّا أَنزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ",
+      "page_number": 598,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102345,
+          "resource_id": 20,
+          "text": "Indeed, We sent it [i.e., the Qur’ān] down during the Night of Decree."
+        },
+        {
+          "id": 1172722,
+          "resource_id": 213,
+          "text": "নিশ্চয় আমরা কুরআন নাযিল করেছি [১] ‘লাইলাতুল কদরে’ [২];"
+        }
+      ]
+    },
+    {
+      "id": 6127,
+      "verse_number": 2,
+      "verse_key": "97:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 541,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ",
+      "text_imlaei": "وَمَا أَدْرَاكَ مَا لَيْلَةُ الْقَدْرِ",
+      "page_number": 598,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102347,
+          "resource_id": 20,
+          "text": "And what can make you know what is the Night of Decree?"
+        },
+        {
+          "id": 1172723,
+          "resource_id": 213,
+          "text": "আর আপনাকে কিসে জানাবে ‘লাইলাতুল-কদর’ কী ?"
+        }
+      ]
+    },
+    {
+      "id": 6128,
+      "verse_number": 3,
+      "verse_key": "97:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 541,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لَيْلَةُ ٱلْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ",
+      "text_imlaei": "لَيْلَةُ الْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ",
+      "page_number": 598,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102349,
+          "resource_id": 20,
+          "text": "The Night of Decree is better than a thousand months."
+        },
+        {
+          "id": 1172724,
+          "resource_id": 213,
+          "text": "‘লাইলাতুল-কদর’ হাজার মাসের চেয়ে শ্রেষ্ঠ [১]।"
+        }
+      ]
+    },
+    {
+      "id": 6129,
+      "verse_number": 4,
+      "verse_key": "97:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 541,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "تَنَزَّلُ ٱلْمَلَـٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ",
+      "text_imlaei": "تَنَزَّلُ الْمَلَائِكَةُ وَالرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ",
+      "page_number": 598,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102351,
+          "resource_id": 20,
+          "text": "The angels and the Spirit [i.e., Gabriel] descend therein by permission of their Lord for every matter.<sup foot_note=197788>1</sup>"
+        },
+        {
+          "id": 1172725,
+          "resource_id": 213,
+          "text": "সে রাতে ফিরিশ্তাগণ ও রূহ্ নাযিল হয় [১] তাদের রবের অনুমতিক্রমে সকল সিদ্ধান্ত [২] নিয়ে।"
+        }
+      ]
+    },
+    {
+      "id": 6130,
+      "verse_number": 5,
+      "verse_key": "97:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 541,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "سَلَـٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ",
+      "text_imlaei": "سَلَامٌ هِيَ حَتَّىٰ مَطْلَعِ الْفَجْرِ",
+      "page_number": 598,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102353,
+          "resource_id": 20,
+          "text": "Peace it is<sup foot_note=197789>1</sup> until the emergence of dawn."
+        },
+        {
+          "id": 1172726,
+          "resource_id": 213,
+          "text": "শান্তিময় [১] সে রাত, ফজরের আবির্ভাব পর্যন্ত [২]।"
+        }
+      ]
+    }
+  ],
+  "audio_metadata": {
+    "audio_file": {
+      "id": 1103,
+      "chapter_id": 97,
+      "file_size": 731264.0,
+      "format": "mp3",
+      "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/97.mp3"
+    }
+  }
+}

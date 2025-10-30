@@ -1,0 +1,291 @@
+{
+  "metadata": {
+    "surah_number": 95,
+    "scraped_at": "2025-10-30T05:15:41.427083",
+    "source": "api.quran.com",
+    "version": "1.0",
+    "translation_ids": [
+      213,
+      20
+    ]
+  },
+  "license": {
+    "text": {
+      "source": "api.quran.com",
+      "license": "Public Domain",
+      "attribution": "The Quran text is in the public domain",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:15:41.427083"
+    },
+    "translations": {
+      "source": "api.quran.com",
+      "license": "Various - See individual translation licenses",
+      "attribution": "Translation copyrights belong to respective translators",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:15:41.427083"
+    },
+    "audio": {
+      "source": "everyayah.com via api.quran.com",
+      "license": "Free for non-commercial use",
+      "attribution": "Audio recitations courtesy of everyayah.com",
+      "terms_url": "https://everyayah.com/",
+      "note": "Audio URLs provided - not downloaded locally due to size",
+      "fetched_at": "2025-10-30T05:15:41.427083"
+    }
+  },
+  "translation_metadata": {
+    "213": {
+      "name": "Abdul Hafeez & Mohammed Abdul Haq",
+      "author": "Abdul Hafeez, Mohammed Abdul Haq",
+      "language": "te",
+      "language_name": "Telugu",
+      "license": "Various",
+      "source": "api.quran.com"
+    },
+    "20": {
+      "name": "Saheeh International",
+      "author": "Saheeh International",
+      "language": "en",
+      "language_name": "English",
+      "license": "Public Domain",
+      "source": "api.quran.com"
+    }
+  },
+  "surah_info": {
+    "id": 95,
+    "revelation_place": "makkah",
+    "revelation_order": 28,
+    "bismillah_pre": true,
+    "name_simple": "At-Tin",
+    "name_complex": "At-Tīn",
+    "name_arabic": "التين",
+    "verses_count": 8,
+    "pages": [
+      597,
+      597
+    ],
+    "translated_name": {
+      "language_name": "english",
+      "name": "The Fig"
+    }
+  },
+  "verses": [
+    {
+      "id": 6099,
+      "verse_number": 1,
+      "verse_key": "95:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 539,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلتِّينِ وَٱلزَّيْتُونِ",
+      "text_imlaei": "وَالتِّينِ وَالزَّيْتُونِ",
+      "page_number": 597,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102295,
+          "resource_id": 20,
+          "text": "By the fig and the olive<sup foot_note=197782>1</sup>"
+        },
+        {
+          "id": 1172695,
+          "resource_id": 213,
+          "text": "শপথ ‘তীন’ ও ‘যায়তুন” [১] – এর,"
+        }
+      ]
+    },
+    {
+      "id": 6100,
+      "verse_number": 2,
+      "verse_key": "95:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 539,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَطُورِ سِينِينَ",
+      "text_imlaei": "وَطُورِ سِينِينَ",
+      "page_number": 597,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102297,
+          "resource_id": 20,
+          "text": "And [by] Mount Sinai"
+        },
+        {
+          "id": 1172696,
+          "resource_id": 213,
+          "text": "শপথ ‘তুরে সীনীন’ [১]-এর ,"
+        }
+      ]
+    },
+    {
+      "id": 6101,
+      "verse_number": 3,
+      "verse_key": "95:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 539,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَهَـٰذَا ٱلْبَلَدِ ٱلْأَمِينِ",
+      "text_imlaei": "وَهَٰذَا الْبَلَدِ الْأَمِينِ",
+      "page_number": 597,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102299,
+          "resource_id": 20,
+          "text": "And [by] this secure city [i.e., Makkah],"
+        },
+        {
+          "id": 1172697,
+          "resource_id": 213,
+          "text": "শপথ এই নিরাপদ নগরীর [১]-"
+        }
+      ]
+    },
+    {
+      "id": 6102,
+      "verse_number": 4,
+      "verse_key": "95:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 539,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِىٓ أَحْسَنِ تَقْوِيمٍ",
+      "text_imlaei": "لَقَدْ خَلَقْنَا الْإِنسَانَ فِي أَحْسَنِ تَقْوِيمٍ",
+      "page_number": 597,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102301,
+          "resource_id": 20,
+          "text": "We have certainly created man in the best of stature;<sup foot_note=197783>1</sup>"
+        },
+        {
+          "id": 1172698,
+          "resource_id": 213,
+          "text": "অবশ্যই আমরা সৃষ্টি করেছি মানুষকে সুন্দরতম গঠনে [১],"
+        }
+      ]
+    },
+    {
+      "id": 6103,
+      "verse_number": 5,
+      "verse_key": "95:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 539,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ثُمَّ رَدَدْنَـٰهُ أَسْفَلَ سَـٰفِلِينَ",
+      "text_imlaei": "ثُمَّ رَدَدْنَاهُ أَسْفَلَ سَافِلِينَ",
+      "page_number": 597,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102303,
+          "resource_id": 20,
+          "text": "Then We return him to the lowest of the low,<sup foot_note=197784>1</sup>"
+        },
+        {
+          "id": 1172699,
+          "resource_id": 213,
+          "text": "তারপর আমরা তাকে হীনতাগ্রস্তদের হীনতমে পরিণত করি – [১]"
+        }
+      ]
+    },
+    {
+      "id": 6104,
+      "verse_number": 6,
+      "verse_key": "95:6",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 539,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ",
+      "text_imlaei": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ",
+      "page_number": 597,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102305,
+          "resource_id": 20,
+          "text": "Except for those who believe and do righteous deeds, for they will have a reward uninterrupted."
+        },
+        {
+          "id": 1172700,
+          "resource_id": 213,
+          "text": "কিন্তু তাদেরকে নয় যারা ঈমান এনেছে এবং সৎকর্ম করেছে; এদের জন্য তো আছে নিরবচ্ছিন্ন পুরস্কার [১]।"
+        }
+      ]
+    },
+    {
+      "id": 6105,
+      "verse_number": 7,
+      "verse_key": "95:7",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 539,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَمَا يُكَذِّبُكَ بَعْدُ بِٱلدِّينِ",
+      "text_imlaei": "فَمَا يُكَذِّبُكَ بَعْدُ بِالدِّينِ",
+      "page_number": 597,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102307,
+          "resource_id": 20,
+          "text": "So what yet causes you to deny the Recompense?<sup foot_note=197785>1</sup>"
+        },
+        {
+          "id": 1172701,
+          "resource_id": 213,
+          "text": "কাজেই (হে মানুষ!) এরপর কিসে তোমাকে কৰ্মফল দিন সম্পর্কে অবিশ্বাসী করে [১]?"
+        }
+      ]
+    },
+    {
+      "id": 6106,
+      "verse_number": 8,
+      "verse_key": "95:8",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 539,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَلَيْسَ ٱللَّهُ بِأَحْكَمِ ٱلْحَـٰكِمِينَ",
+      "text_imlaei": "أَلَيْسَ اللَّهُ بِأَحْكَمِ الْحَاكِمِينَ",
+      "page_number": 597,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102309,
+          "resource_id": 20,
+          "text": "Is not Allāh the most just of judges?"
+        },
+        {
+          "id": 1172702,
+          "resource_id": 213,
+          "text": "আল্লাহ্ কি বিচারকদের মধ্যে সর্বশ্রেষ্ঠ বিচারক নন [১] ?"
+        }
+      ]
+    }
+  ],
+  "audio_metadata": {
+    "audio_file": {
+      "id": 1099,
+      "chapter_id": 95,
+      "file_size": 1048704.0,
+      "format": "mp3",
+      "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/95.mp3"
+    }
+  }
+}

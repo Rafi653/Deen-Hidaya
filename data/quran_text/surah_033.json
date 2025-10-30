@@ -1,0 +1,1981 @@
+{
+  "metadata": {
+    "surah_number": 33,
+    "scraped_at": "2025-10-30T05:13:49.649560",
+    "source": "api.quran.com",
+    "version": "1.0",
+    "translation_ids": [
+      213,
+      20
+    ]
+  },
+  "license": {
+    "text": {
+      "source": "api.quran.com",
+      "license": "Public Domain",
+      "attribution": "The Quran text is in the public domain",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:13:49.649560"
+    },
+    "translations": {
+      "source": "api.quran.com",
+      "license": "Various - See individual translation licenses",
+      "attribution": "Translation copyrights belong to respective translators",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:13:49.649560"
+    },
+    "audio": {
+      "source": "everyayah.com via api.quran.com",
+      "license": "Free for non-commercial use",
+      "attribution": "Audio recitations courtesy of everyayah.com",
+      "terms_url": "https://everyayah.com/",
+      "note": "Audio URLs provided - not downloaded locally due to size",
+      "fetched_at": "2025-10-30T05:13:49.649560"
+    }
+  },
+  "translation_metadata": {
+    "213": {
+      "name": "Abdul Hafeez & Mohammed Abdul Haq",
+      "author": "Abdul Hafeez, Mohammed Abdul Haq",
+      "language": "te",
+      "language_name": "Telugu",
+      "license": "Various",
+      "source": "api.quran.com"
+    },
+    "20": {
+      "name": "Saheeh International",
+      "author": "Saheeh International",
+      "language": "en",
+      "language_name": "English",
+      "license": "Public Domain",
+      "source": "api.quran.com"
+    }
+  },
+  "surah_info": {
+    "id": 33,
+    "revelation_place": "madinah",
+    "revelation_order": 90,
+    "bismillah_pre": true,
+    "name_simple": "Al-Ahzab",
+    "name_complex": "Al-'Aĥzāb",
+    "name_arabic": "الأحزاب",
+    "verses_count": 73,
+    "pages": [
+      418,
+      427
+    ],
+    "translated_name": {
+      "language_name": "english",
+      "name": "The Combined Forces"
+    }
+  },
+  "verses": [
+    {
+      "id": 3534,
+      "verse_number": 1,
+      "verse_key": "33:1",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 167,
+      "ruku_number": 363,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": " يَـٰٓأَيُّهَا ٱلنَّبِىُّ ٱتَّقِ ٱللَّهَ وَلَا تُطِعِ ٱلْكَـٰفِرِينَ وَٱلْمُنَـٰفِقِينَ ۗ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًا",
+      "text_imlaei": "يَا أَيُّهَا النَّبِيُّ اتَّقِ اللَّهَ وَلَا تُطِعِ الْكَافِرِينَ وَالْمُنَافِقِينَ ۗ إِنَّ اللَّهَ كَانَ عَلِيمًا حَكِيمًا",
+      "page_number": 418,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 98858,
+          "resource_id": 20,
+          "text": "O Prophet, fear Allāh and do not obey the disbelievers and the hypocrites. Indeed, Allāh is ever Knowing and Wise."
+        },
+        {
+          "id": 1170130,
+          "resource_id": 213,
+          "text": "হে নবী! আল্লাহর তাকওয়া অবলম্বন করুন এবং কাফিরদের ও মুনাফিকদের আনুগত্য করবেন না। আল্লাহ্‌ তো সর্বজ্ঞ হিকমতওয়ালা [১]।"
+        }
+      ]
+    },
+    {
+      "id": 3535,
+      "verse_number": 2,
+      "verse_key": "33:2",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 167,
+      "ruku_number": 363,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱتَّبِعْ مَا يُوحَىٰٓ إِلَيْكَ مِن رَّبِّكَ ۚ إِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا",
+      "text_imlaei": "وَاتَّبِعْ مَا يُوحَىٰ إِلَيْكَ مِن رَّبِّكَ ۚ إِنَّ اللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا",
+      "page_number": 418,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 98870,
+          "resource_id": 20,
+          "text": "And follow that which is revealed to you from your Lord. Indeed Allāh is ever, of what you do, Aware."
+        },
+        {
+          "id": 1170131,
+          "resource_id": 213,
+          "text": "আর আপনার রবের কাছ থেকে আপনার প্রতি যা ওহী হয় তার অনুসরন করুন [১]; নিশ্চয় তোমরা যা কর আল্লাহ্ তা সম্বন্ধে সম্যক অবহিত।"
+        }
+      ]
+    },
+    {
+      "id": 3536,
+      "verse_number": 3,
+      "verse_key": "33:3",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 167,
+      "ruku_number": 363,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَتَوَكَّلْ عَلَى ٱللَّهِ ۚ وَكَفَىٰ بِٱللَّهِ وَكِيلًا",
+      "text_imlaei": "وَتَوَكَّلْ عَلَى اللَّهِ ۚ وَكَفَىٰ بِاللَّهِ وَكِيلًا",
+      "page_number": 418,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 98882,
+          "resource_id": 20,
+          "text": "And rely upon Allāh; and sufficient is Allāh as Disposer of affairs.<sup foot_note=197076>1</sup>"
+        },
+        {
+          "id": 1170132,
+          "resource_id": 213,
+          "text": "এবং আপনি নির্ভর করুন আল্লাহ্‌র উপর। আর কর্ম বিধায়ক হিসেবে আল্লাহ্‌ই যথেষ্ট।"
+        }
+      ]
+    },
+    {
+      "id": 3537,
+      "verse_number": 4,
+      "verse_key": "33:4",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 167,
+      "ruku_number": 363,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "مَّا جَعَلَ ٱللَّهُ لِرَجُلٍ مِّن قَلْبَيْنِ فِى جَوْفِهِۦ ۚ وَمَا جَعَلَ أَزْوَٰجَكُمُ ٱلَّـٰٓـِٔى تُظَـٰهِرُونَ مِنْهُنَّ أُمَّهَـٰتِكُمْ ۚ وَمَا جَعَلَ أَدْعِيَآءَكُمْ أَبْنَآءَكُمْ ۚ ذَٰلِكُمْ قَوْلُكُم بِأَفْوَٰهِكُمْ ۖ وَٱللَّهُ يَقُولُ ٱلْحَقَّ وَهُوَ يَهْدِى ٱلسَّبِيلَ",
+      "text_imlaei": "مَّا جَعَلَ اللَّهُ لِرَجُلٍ مِّن قَلْبَيْنِ فِي جَوْفِهِ ۚ وَمَا جَعَلَ أَزْوَاجَكُمُ اللَّائِي تُظَاهِرُونَ مِنْهُنَّ أُمَّهَاتِكُمْ ۚ وَمَا جَعَلَ أَدْعِيَاءَكُمْ أَبْنَاءَكُمْ ۚ ذَٰلِكُمْ قَوْلُكُم بِأَفْوَاهِكُمْ ۖ وَاللَّهُ يَقُولُ الْحَقَّ وَهُوَ يَهْدِي السَّبِيلَ",
+      "page_number": 418,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 98894,
+          "resource_id": 20,
+          "text": "Allāh has not made for a man two hearts in his interior. And He has not made your wives whom you declare unlawful<sup foot_note=197077>1</sup> your mothers. And He has not made your claimed [i.e., adopted] sons your [true] sons. That is [merely] your saying by your mouths, but Allāh says the truth, and He guides to the [right] way."
+        },
+        {
+          "id": 1170133,
+          "resource_id": 213,
+          "text": "আল্লাহ্‌ কোনো মানুষের জন্য তার অভ্যন্তরে দুটি হৃদয় সৃষ্টি করেননি। আর তোমাদের স্ত্রীগণ, যাদের সাথে তোমরা যিহার করে থাক, তিনি তাদেরকে তোমাদের জননী করেননি [১] এবং তোমাদের পোষ্য পুত্রদেরকে তিনি তোমাদের পুত্র করেননি [২]; এগুলো তোমাদের মুখের কথা। আর আল্লাহ্‌ সত্য কথাই বলেন এবং তিনিই সরল পথ নির্দেশ করেন।"
+        }
+      ]
+    },
+    {
+      "id": 3538,
+      "verse_number": 5,
+      "verse_key": "33:5",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 167,
+      "ruku_number": 363,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "ٱدْعُوهُمْ لِـَٔابَآئِهِمْ هُوَ أَقْسَطُ عِندَ ٱللَّهِ ۚ فَإِن لَّمْ تَعْلَمُوٓا۟ ءَابَآءَهُمْ فَإِخْوَٰنُكُمْ فِى ٱلدِّينِ وَمَوَٰلِيكُمْ ۚ وَلَيْسَ عَلَيْكُمْ جُنَاحٌ فِيمَآ أَخْطَأْتُم بِهِۦ وَلَـٰكِن مَّا تَعَمَّدَتْ قُلُوبُكُمْ ۚ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا",
+      "text_imlaei": "ادْعُوهُمْ لِآبَائِهِمْ هُوَ أَقْسَطُ عِندَ اللَّهِ ۚ فَإِن لَّمْ تَعْلَمُوا آبَاءَهُمْ فَإِخْوَانُكُمْ فِي الدِّينِ وَمَوَالِيكُمْ ۚ وَلَيْسَ عَلَيْكُمْ جُنَاحٌ فِيمَا أَخْطَأْتُم بِهِ وَلَٰكِن مَّا تَعَمَّدَتْ قُلُوبُكُمْ ۚ وَكَانَ اللَّهُ غَفُورًا رَّحِيمًا",
+      "page_number": 418,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 98906,
+          "resource_id": 20,
+          "text": "Call them<sup foot_note=197078>1</sup> by [the names of] their fathers; it is more just in the sight of Allāh. But if you do not know their fathers - then they are [still] your brothers in religion and those entrusted to you. And there is no blame upon you for that in which you have erred but [only for] what your hearts intended. And ever is Allāh Forgiving and Merciful."
+        },
+        {
+          "id": 1170134,
+          "resource_id": 213,
+          "text": "ডাকো তোমরা তাদেরকে তাদের পিতৃ পরিচয়ে; আল্লাহর নিকট এটাই বেশী ন্যায়সংগত। অতঃপর যদি তোমরা তাদের পিতৃ পরিচয় না জান, তবে তারা তোমাদের দীনি ভাই এবং বন্ধু। আর এ ব্যাপারে তোমরা কোনো অনিচ্ছাকৃত ভুল করলে তোমাদের কোনো অপরাধ নেই; কিন্তু তোমাদের অন্তর যা স্বেচ্ছায় করেছে (তা অপরাধ), আর আল্লাহ্ ক্ষমাশীল, পরম দয়ালু।"
+        }
+      ]
+    },
+    {
+      "id": 3539,
+      "verse_number": 6,
+      "verse_key": "33:6",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 167,
+      "ruku_number": 363,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلنَّبِىُّ أَوْلَىٰ بِٱلْمُؤْمِنِينَ مِنْ أَنفُسِهِمْ ۖ وَأَزْوَٰجُهُۥٓ أُمَّهَـٰتُهُمْ ۗ وَأُو۟لُوا۟ ٱلْأَرْحَامِ بَعْضُهُمْ أَوْلَىٰ بِبَعْضٍ فِى كِتَـٰبِ ٱللَّهِ مِنَ ٱلْمُؤْمِنِينَ وَٱلْمُهَـٰجِرِينَ إِلَّآ أَن تَفْعَلُوٓا۟ إِلَىٰٓ أَوْلِيَآئِكُم مَّعْرُوفًا ۚ كَانَ ذَٰلِكَ فِى ٱلْكِتَـٰبِ مَسْطُورًا",
+      "text_imlaei": "النَّبِيُّ أَوْلَىٰ بِالْمُؤْمِنِينَ مِنْ أَنفُسِهِمْ ۖ وَأَزْوَاجُهُ أُمَّهَاتُهُمْ ۗ وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَىٰ بِبَعْضٍ فِي كِتَابِ اللَّهِ مِنَ الْمُؤْمِنِينَ وَالْمُهَاجِرِينَ إِلَّا أَن تَفْعَلُوا إِلَىٰ أَوْلِيَائِكُم مَّعْرُوفًا ۚ كَانَ ذَٰلِكَ فِي الْكِتَابِ مَسْطُورًا",
+      "page_number": 418,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 98918,
+          "resource_id": 20,
+          "text": "The Prophet is more worthy of the believers than themselves,<sup foot_note=197080>1</sup> and his wives are [in the position of] their mothers. And those of [blood] relationship are more entitled [to inheritance] in the decree of Allāh than the [other] believers and the emigrants, except that you may do to your close associates a kindness [through bequest]. That was in the Book<sup foot_note=197079>2</sup> inscribed."
+        },
+        {
+          "id": 1170135,
+          "resource_id": 213,
+          "text": "নবী মুমিনদের কাছে তাদের নিজেদের চেয়েও ঘনিষ্টতর [১] এবং তাঁর স্ত্রীগণ তাদের মা [২]। আর আল্লাহর বিধান অনুসারে মুমিন ও মুহাজিরগণের চেয়ে---যারা আত্মীয় তারা পরস্পর কাছাকাছি [৩]। তবে তোমরা তোমাদের বন্ধু-বান্ধবের প্রতি কল্যাণকর কিছু করার কথা আলাদা [৪]। এটা কিভাবে লিপিবদ্ধ রয়েছে।"
+        }
+      ]
+    },
+    {
+      "id": 3540,
+      "verse_number": 7,
+      "verse_key": "33:7",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 167,
+      "ruku_number": 363,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذْ أَخَذْنَا مِنَ ٱلنَّبِيِّـۧنَ مِيثَـٰقَهُمْ وَمِنكَ وَمِن نُّوحٍ وَإِبْرَٰهِيمَ وَمُوسَىٰ وَعِيسَى ٱبْنِ مَرْيَمَ ۖ وَأَخَذْنَا مِنْهُم مِّيثَـٰقًا غَلِيظًا",
+      "text_imlaei": "وَإِذْ أَخَذْنَا مِنَ النَّبِيِّينَ مِيثَاقَهُمْ وَمِنكَ وَمِن نُّوحٍ وَإِبْرَاهِيمَ وَمُوسَىٰ وَعِيسَى ابْنِ مَرْيَمَ ۖ وَأَخَذْنَا مِنْهُم مِّيثَاقًا غَلِيظًا",
+      "page_number": 419,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 98930,
+          "resource_id": 20,
+          "text": "And [mention, O Muḥammad], when We took from the prophets their covenant and from you and from Noah and Abraham and Moses and Jesus, the son of Mary; and We took from them a solemn covenant"
+        },
+        {
+          "id": 1170136,
+          "resource_id": 213,
+          "text": "আর স্মরণ করুন, যখন আমরা নবীগণের কাছ থেকে অঙ্গীকার গ্রহণ করেছিলাম [১] এবং আপনার কাছ থেকেও, আর নূহ, ইব্‌রাহিম, মূসা ও মারইয়াম পুত্র ঈসার কাছ থেকেও। আর আমরা তাদের কাছ থেকে গ্রহণ করেছিলাম দৃঢ় অঙ্গীকার--"
+        }
+      ]
+    },
+    {
+      "id": 3541,
+      "verse_number": 8,
+      "verse_key": "33:8",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 167,
+      "ruku_number": 363,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "لِّيَسْـَٔلَ ٱلصَّـٰدِقِينَ عَن صِدْقِهِمْ ۚ وَأَعَدَّ لِلْكَـٰفِرِينَ عَذَابًا أَلِيمًا",
+      "text_imlaei": "لِّيَسْأَلَ الصَّادِقِينَ عَن صِدْقِهِمْ ۚ وَأَعَدَّ لِلْكَافِرِينَ عَذَابًا أَلِيمًا",
+      "page_number": 419,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 98936,
+          "resource_id": 20,
+          "text": "That He may question the truthful about their truth.<sup foot_note=197081>1</sup> And He has prepared for the disbelievers a painful punishment."
+        },
+        {
+          "id": 1170137,
+          "resource_id": 213,
+          "text": "সত্যবাদীদেরকে তাদের সত্যবাদিতা সম্মন্ধে জিজ্ঞেস করার জন্য। আর তিনি কাফিরদের জন্য প্রস্তুত রেখেছেন যন্ত্রণাদায়ক শাস্তি [১]।"
+        }
+      ]
+    },
+    {
+      "id": 3542,
+      "verse_number": 9,
+      "verse_key": "33:9",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 167,
+      "ruku_number": 364,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ جَآءَتْكُمْ جُنُودٌ فَأَرْسَلْنَا عَلَيْهِمْ رِيحًا وَجُنُودًا لَّمْ تَرَوْهَا ۚ وَكَانَ ٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرًا",
+      "text_imlaei": "يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا نِعْمَةَ اللَّهِ عَلَيْكُمْ إِذْ جَاءَتْكُمْ جُنُودٌ فَأَرْسَلْنَا عَلَيْهِمْ رِيحًا وَجُنُودًا لَّمْ تَرَوْهَا ۚ وَكَانَ اللَّهُ بِمَا تَعْمَلُونَ بَصِيرًا",
+      "page_number": 419,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 98938,
+          "resource_id": 20,
+          "text": "O you who have believed, remember the favor of Allāh upon you when armies came to [attack] you and We sent upon them a wind and armies [of angels] you did not see. And ever is Allāh, of what you do, Seeing."
+        },
+        {
+          "id": 1170138,
+          "resource_id": 213,
+          "text": "হে ঈমানদারগণ! তোমরা তোমাদের প্রতি আল্লাহর অনুগ্রহের কথা স্মরণ কর, যখন শত্রু বাহিনী তোমাদের বিরুদ্ধে সমাগত হয়েছিল অতঃপর আমরা তাদের বিরুদ্ধে পাঠিয়েছিলাম ঘূর্ণিবায়ু [১] এবং এমন বাহিনী যা তোমরা দেখনি [২]। আর তোমরা যা কর আল্লাহ্ তার সম্যক দ্রষ্টা।"
+        }
+      ]
+    },
+    {
+      "id": 3543,
+      "verse_number": 10,
+      "verse_key": "33:10",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 167,
+      "ruku_number": 364,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "إِذْ جَآءُوكُم مِّن فَوْقِكُمْ وَمِنْ أَسْفَلَ مِنكُمْ وَإِذْ زَاغَتِ ٱلْأَبْصَـٰرُ وَبَلَغَتِ ٱلْقُلُوبُ ٱلْحَنَاجِرَ وَتَظُنُّونَ بِٱللَّهِ ٱلظُّنُونَا۠",
+      "text_imlaei": "إِذْ جَاءُوكُم مِّن فَوْقِكُمْ وَمِنْ أَسْفَلَ مِنكُمْ وَإِذْ زَاغَتِ الْأَبْصَارُ وَبَلَغَتِ الْقُلُوبُ الْحَنَاجِرَ وَتَظُنُّونَ بِاللَّهِ الظُّنُونَا",
+      "page_number": 419,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 98859,
+          "resource_id": 20,
+          "text": "[Remember] when they came at you from above you and from below you, and when eyes shifted [in fear], and hearts reached the throats, and you assumed about Allāh [various] assumptions."
+        },
+        {
+          "id": 1170139,
+          "resource_id": 213,
+          "text": "যখন তারা তোমাদের বিরুদ্ধে সমাগত হয়েছিল তোমাদের উপরের দিক ও নিচের দিক হতে [১], তোমাদের চোখ বিস্ফোরিত হয়েছিল এবং তোমাদের প্রাণ হয়ে পরেছিল কণ্ঠাগত [২], আর তোমরা আল্লাহ্ সম্মন্ধে নানাবিধ ধারনা পোষণ করছিলে;"
+        }
+      ]
+    },
+    {
+      "id": 3544,
+      "verse_number": 11,
+      "verse_key": "33:11",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 167,
+      "ruku_number": 364,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "هُنَالِكَ ٱبْتُلِىَ ٱلْمُؤْمِنُونَ وَزُلْزِلُوا۟ زِلْزَالًا شَدِيدًا",
+      "text_imlaei": "هُنَالِكَ ابْتُلِيَ الْمُؤْمِنُونَ وَزُلْزِلُوا زِلْزَالًا شَدِيدًا",
+      "page_number": 419,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 98860,
+          "resource_id": 20,
+          "text": "There the believers were tested and shaken with a severe shaking."
+        },
+        {
+          "id": 1170140,
+          "resource_id": 213,
+          "text": "তখন মুমিনগণ পরীক্ষিত হয়েছিল এবং তারা ভীষণভাবে প্রকম্পিত হয়েছিল।"
+        }
+      ]
+    },
+    {
+      "id": 3545,
+      "verse_number": 12,
+      "verse_key": "33:12",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 167,
+      "ruku_number": 364,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذْ يَقُولُ ٱلْمُنَـٰفِقُونَ وَٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ مَّا وَعَدَنَا ٱللَّهُ وَرَسُولُهُۥٓ إِلَّا غُرُورًا",
+      "text_imlaei": "وَإِذْ يَقُولُ الْمُنَافِقُونَ وَالَّذِينَ فِي قُلُوبِهِم مَّرَضٌ مَّا وَعَدَنَا اللَّهُ وَرَسُولُهُ إِلَّا غُرُورًا",
+      "page_number": 419,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 98861,
+          "resource_id": 20,
+          "text": "And [remember] when the hypocrites and those in whose hearts is disease said, \"Allāh and His Messenger did not promise us except delusion,\""
+        },
+        {
+          "id": 1170141,
+          "resource_id": 213,
+          "text": "আর স্মরণ কর, যখন মুনাফিকরা ও যাদের অন্তরে ছিল ব্যাধি তারা বলছিল, 'আল্লাহ্ এবং তাঁর রাসূল আমাদেরকে যে প্রতিশ্রুতি দিয়েছিলেন তা প্রতারণা ছাড়া কিছু নয়।’"
+        }
+      ]
+    },
+    {
+      "id": 3546,
+      "verse_number": 13,
+      "verse_key": "33:13",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 167,
+      "ruku_number": 364,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذْ قَالَت طَّآئِفَةٌ مِّنْهُمْ يَـٰٓأَهْلَ يَثْرِبَ لَا مُقَامَ لَكُمْ فَٱرْجِعُوا۟ ۚ وَيَسْتَـْٔذِنُ فَرِيقٌ مِّنْهُمُ ٱلنَّبِىَّ يَقُولُونَ إِنَّ بُيُوتَنَا عَوْرَةٌ وَمَا هِىَ بِعَوْرَةٍ ۖ إِن يُرِيدُونَ إِلَّا فِرَارًا",
+      "text_imlaei": "وَإِذْ قَالَت طَّائِفَةٌ مِّنْهُمْ يَا أَهْلَ يَثْرِبَ لَا مُقَامَ لَكُمْ فَارْجِعُوا ۚ وَيَسْتَأْذِنُ فَرِيقٌ مِّنْهُمُ النَّبِيَّ يَقُولُونَ إِنَّ بُيُوتَنَا عَوْرَةٌ وَمَا هِيَ بِعَوْرَةٍ ۖ إِن يُرِيدُونَ إِلَّا فِرَارًا",
+      "page_number": 419,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 98862,
+          "resource_id": 20,
+          "text": "And when a faction of them said, \"O people of Yathrib,<sup foot_note=197082>1</sup> there is no stability for you [here], so return [home].\" And a party of them asked permission of the Prophet, saying, \"Indeed, our houses are exposed [i.e., unprotected],\" while they were not exposed. They did not intend except to flee."
+        },
+        {
+          "id": 1170142,
+          "resource_id": 213,
+          "text": "আর যখন তাদের একদল বলেছিল, ‘হে ইয়াসরিববাসী [১]! (এখানে রাসূলের কাছে প্রতিরোধ করার) তোমাদের কোনো স্থান নেই সুতরাং তোমরা (ঘরে) ফিরে যাও' এবং তাদের মধ্যে একদল নবীর কাছে অব্যাহতি প্রার্থনা করে বলছিল, 'আমাদের বাড়িঘর অরক্ষিত'; অথচ সেগুলো অরক্ষিত ছিল না, আসলে পালিয়ে যাওয়াই ছিল তাদের উদ্দেশ্য।"
+        }
+      ]
+    },
+    {
+      "id": 3547,
+      "verse_number": 14,
+      "verse_key": "33:14",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 167,
+      "ruku_number": 364,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَوْ دُخِلَتْ عَلَيْهِم مِّنْ أَقْطَارِهَا ثُمَّ سُئِلُوا۟ ٱلْفِتْنَةَ لَـَٔاتَوْهَا وَمَا تَلَبَّثُوا۟ بِهَآ إِلَّا يَسِيرًا",
+      "text_imlaei": "وَلَوْ دُخِلَتْ عَلَيْهِم مِّنْ أَقْطَارِهَا ثُمَّ سُئِلُوا الْفِتْنَةَ لَآتَوْهَا وَمَا تَلَبَّثُوا بِهَا إِلَّا يَسِيرًا",
+      "page_number": 419,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 98863,
+          "resource_id": 20,
+          "text": "And if they had been entered upon from all its [surrounding] regions and fitnah [i.e., disbelief] had been demanded of them, they would have done it and not hesitated over it except briefly."
+        },
+        {
+          "id": 1170143,
+          "resource_id": 213,
+          "text": "আর যদি বিভিন্ন দিক হতে তাদের বিরুদ্ধে শত্রুদের প্রবেশ ঘটত, তারপর তাদেরকে শির্ক করার জন্য প্ররোচিত করা হত, তবে অবশ্যই তারা সেটা করে বসত, তারা সেটা করতে সামান্যই বিলম্ব করত [১]।"
+        }
+      ]
+    },
+    {
+      "id": 3548,
+      "verse_number": 15,
+      "verse_key": "33:15",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 167,
+      "ruku_number": 364,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَقَدْ كَانُوا۟ عَـٰهَدُوا۟ ٱللَّهَ مِن قَبْلُ لَا يُوَلُّونَ ٱلْأَدْبَـٰرَ ۚ وَكَانَ عَهْدُ ٱللَّهِ مَسْـُٔولًا",
+      "text_imlaei": "وَلَقَدْ كَانُوا عَاهَدُوا اللَّهَ مِن قَبْلُ لَا يُوَلُّونَ الْأَدْبَارَ ۚ وَكَانَ عَهْدُ اللَّهِ مَسْئُولًا",
+      "page_number": 419,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 98864,
+          "resource_id": 20,
+          "text": "And they had already promised Allāh before not to turn their backs [i.e., flee]. And ever is the promise to Allāh [that about which one will be] questioned."
+        },
+        {
+          "id": 1170144,
+          "resource_id": 213,
+          "text": "অবশ্যই তারা পূর্বে আল্লাহর সাথে অঙ্গিকার করেছিল যে, তারা পৃষ্ঠ প্রদর্শন করবে না। আর আল্লাহর সাথে করা অঙ্গিকার সম্বন্ধে অবশ্যই জিজ্ঞেস করা হবে [১]।"
+        }
+      ]
+    },
+    {
+      "id": 3549,
+      "verse_number": 16,
+      "verse_key": "33:16",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 167,
+      "ruku_number": 364,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "قُل لَّن يَنفَعَكُمُ ٱلْفِرَارُ إِن فَرَرْتُم مِّنَ ٱلْمَوْتِ أَوِ ٱلْقَتْلِ وَإِذًا لَّا تُمَتَّعُونَ إِلَّا قَلِيلًا",
+      "text_imlaei": "قُل لَّن يَنفَعَكُمُ الْفِرَارُ إِن فَرَرْتُم مِّنَ الْمَوْتِ أَوِ الْقَتْلِ وَإِذًا لَّا تُمَتَّعُونَ إِلَّا قَلِيلًا",
+      "page_number": 420,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 98865,
+          "resource_id": 20,
+          "text": "Say, [O Muḥammad], \"Never will fleeing benefit you if you should flee from death or killing; and then [if you did], you would not be given enjoyment [of life] except for a little.\""
+        },
+        {
+          "id": 1170145,
+          "resource_id": 213,
+          "text": "বলুন, 'তোমাদের কোনো লাভই হবে না পালিয়ে বেড়ানো, যদি তোমরা মৃত্যু অথবা হত্যার ভয়ে পালিয়ে যাও, তবে সে ক্ষেত্রে তোমাদেরকে সামান্যই ভোগ করতে দেয়া হবে।'"
+        }
+      ]
+    },
+    {
+      "id": 3550,
+      "verse_number": 17,
+      "verse_key": "33:17",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 167,
+      "ruku_number": 364,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "قُلْ مَن ذَا ٱلَّذِى يَعْصِمُكُم مِّنَ ٱللَّهِ إِنْ أَرَادَ بِكُمْ سُوٓءًا أَوْ أَرَادَ بِكُمْ رَحْمَةً ۚ وَلَا يَجِدُونَ لَهُم مِّن دُونِ ٱللَّهِ وَلِيًّا وَلَا نَصِيرًا",
+      "text_imlaei": "قُلْ مَن ذَا الَّذِي يَعْصِمُكُم مِّنَ اللَّهِ إِنْ أَرَادَ بِكُمْ سُوءًا أَوْ أَرَادَ بِكُمْ رَحْمَةً ۚ وَلَا يَجِدُونَ لَهُم مِّن دُونِ اللَّهِ وَلِيًّا وَلَا نَصِيرًا",
+      "page_number": 420,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 98866,
+          "resource_id": 20,
+          "text": "Say, \"Who is it that can protect you from Allāh<sup foot_note=197083>1</sup> if He intends for you an ill or intends for you a mercy?\" And they will not find for themselves besides Allāh any protector or any helper."
+        },
+        {
+          "id": 1170146,
+          "resource_id": 213,
+          "text": "বলুন, 'কে তোমাদেকে আল্লাহ্ থেকে বাধা দান করবে, যদি তিনি তোমাদের অমঙ্গল ইচ্ছে করেন অথবা তিনি তোমাদেরকে অনুগ্রহ করতে ইচ্ছে করেন?' আর তারা আল্লাহ্ ছাড়া নিজেদের জন্য কোনো অভিভাবক ও সাহায্যকারী পাবে না।"
+        }
+      ]
+    },
+    {
+      "id": 3551,
+      "verse_number": 18,
+      "verse_key": "33:18",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 168,
+      "ruku_number": 364,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "۞ قَدْ يَعْلَمُ ٱللَّهُ ٱلْمُعَوِّقِينَ مِنكُمْ وَٱلْقَآئِلِينَ لِإِخْوَٰنِهِمْ هَلُمَّ إِلَيْنَا ۖ وَلَا يَأْتُونَ ٱلْبَأْسَ إِلَّا قَلِيلًا",
+      "text_imlaei": "قَدْ يَعْلَمُ اللَّهُ الْمُعَوِّقِينَ مِنكُمْ وَالْقَائِلِينَ لِإِخْوَانِهِمْ هَلُمَّ إِلَيْنَا ۖ وَلَا يَأْتُونَ الْبَأْسَ إِلَّا قَلِيلًا",
+      "page_number": 420,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 98867,
+          "resource_id": 20,
+          "text": "Already Allāh knows the hinderers<sup foot_note=197086>1</sup> among you and those [hypocrites] who say to their brothers, \"Come to us,\"<sup foot_note=197085>2</sup> and do not go to battle, except for a few,<sup foot_note=197084>3</sup>"
+        },
+        {
+          "id": 1170147,
+          "resource_id": 213,
+          "text": "আল্লাহ্ অবশ্যই জানেন তোমাদের মধ্যে কারা বাধাদানকারী এবং কারা তাদের ভাইদেরকে বলে, ‘আমাদের দিকে চলে এসো।' তারা অল্পই যুদ্ধে যোগদান করে ----"
+        }
+      ]
+    },
+    {
+      "id": 3552,
+      "verse_number": 19,
+      "verse_key": "33:19",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 168,
+      "ruku_number": 364,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "أَشِحَّةً عَلَيْكُمْ ۖ فَإِذَا جَآءَ ٱلْخَوْفُ رَأَيْتَهُمْ يَنظُرُونَ إِلَيْكَ تَدُورُ أَعْيُنُهُمْ كَٱلَّذِى يُغْشَىٰ عَلَيْهِ مِنَ ٱلْمَوْتِ ۖ فَإِذَا ذَهَبَ ٱلْخَوْفُ سَلَقُوكُم بِأَلْسِنَةٍ حِدَادٍ أَشِحَّةً عَلَى ٱلْخَيْرِ ۚ أُو۟لَـٰٓئِكَ لَمْ يُؤْمِنُوا۟ فَأَحْبَطَ ٱللَّهُ أَعْمَـٰلَهُمْ ۚ وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرًا",
+      "text_imlaei": "أَشِحَّةً عَلَيْكُمْ ۖ فَإِذَا جَاءَ الْخَوْفُ رَأَيْتَهُمْ يَنظُرُونَ إِلَيْكَ تَدُورُ أَعْيُنُهُمْ كَالَّذِي يُغْشَىٰ عَلَيْهِ مِنَ الْمَوْتِ ۖ فَإِذَا ذَهَبَ الْخَوْفُ سَلَقُوكُم بِأَلْسِنَةٍ حِدَادٍ أَشِحَّةً عَلَى الْخَيْرِ ۚ أُولَٰئِكَ لَمْ يُؤْمِنُوا فَأَحْبَطَ اللَّهُ أَعْمَالَهُمْ ۚ وَكَانَ ذَٰلِكَ عَلَى اللَّهِ يَسِيرًا",
+      "page_number": 420,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 98868,
+          "resource_id": 20,
+          "text": "Indisposed<sup foot_note=197087>1</sup> toward you. And when fear comes, you see them looking at you, their eyes revolving like one being overcome by death. But when fear departs, they lash you with sharp tongues, indisposed toward [any] good. Those have not believed, so Allāh has rendered their deeds worthless, and ever is that, for Allāh, easy."
+        },
+        {
+          "id": 1170148,
+          "resource_id": 213,
+          "text": "তোমাদের ব্যাপারে কৃপণতাবশত [১]। অতঃপর যখন ভীতি আসে তখন আপনি দেখবেন, মৃত্যুভয়ে মূর্চ্ছাতুর ব্যক্তির মত চোখ উল্টিয়ে তারা আপনার দিকে তাকায়। কিন্তু যখন ভয় চলে যায় তখন তারা ধনের লালসায় তোমাদেরকে তীক্ষ্ণ ভাষায় বিদ্ধ করে [২]। তারা ঈমান আনেনি ফলে আল্লাহ্ তাদের কাজ-কর্ম নিষ্ফল করেছেন এবং এটা আল্লাহর পক্ষে সহজ।"
+        }
+      ]
+    },
+    {
+      "id": 3553,
+      "verse_number": 20,
+      "verse_key": "33:20",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 168,
+      "ruku_number": 364,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "يَحْسَبُونَ ٱلْأَحْزَابَ لَمْ يَذْهَبُوا۟ ۖ وَإِن يَأْتِ ٱلْأَحْزَابُ يَوَدُّوا۟ لَوْ أَنَّهُم بَادُونَ فِى ٱلْأَعْرَابِ يَسْـَٔلُونَ عَنْ أَنۢبَآئِكُمْ ۖ وَلَوْ كَانُوا۟ فِيكُم مَّا قَـٰتَلُوٓا۟ إِلَّا قَلِيلًا",
+      "text_imlaei": "يَحْسَبُونَ الْأَحْزَابَ لَمْ يَذْهَبُوا ۖ وَإِن يَأْتِ الْأَحْزَابُ يَوَدُّوا لَوْ أَنَّهُم بَادُونَ فِي الْأَعْرَابِ يَسْأَلُونَ عَنْ أَنبَائِكُمْ ۖ وَلَوْ كَانُوا فِيكُم مَّا قَاتَلُوا إِلَّا قَلِيلًا",
+      "page_number": 420,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 98871,
+          "resource_id": 20,
+          "text": "They think the companies have not [yet] withdrawn.<sup foot_note=197088>1</sup> And if the companies should come [again], they would wish they were in the desert among the bedouins, inquiring [from afar] about your news. And if they should be among you, they would not fight except for a little."
+        },
+        {
+          "id": 1170149,
+          "resource_id": 213,
+          "text": "তারা মনে করে, সম্মিলিত বাহিনী চলে যাইনি। যদি সম্মিলিত বাহিনী আবার এসে পড়ে, তখন তারা কামনা করবে যে, ভাল হত যদি ওরা যাযাবর মরুবাসীদের সাথে থেকে তোমাদের সংবাদ নিত! আর যদি তারা তোমাদের সঙ্গে অবস্থান করত তবে তারা খুব অল্পই যুদ্ধ করত।"
+        }
+      ]
+    },
+    {
+      "id": 3554,
+      "verse_number": 21,
+      "verse_key": "33:21",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 168,
+      "ruku_number": 365,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "لَّقَدْ كَانَ لَكُمْ فِى رَسُولِ ٱللَّهِ أُسْوَةٌ حَسَنَةٌ لِّمَن كَانَ يَرْجُوا۟ ٱللَّهَ وَٱلْيَوْمَ ٱلْـَٔاخِرَ وَذَكَرَ ٱللَّهَ كَثِيرًا",
+      "text_imlaei": "لَّقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ لِّمَن كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ وَذَكَرَ اللَّهَ كَثِيرًا",
+      "page_number": 420,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 98872,
+          "resource_id": 20,
+          "text": "There has certainly been for you in the Messenger of Allāh an excellent pattern<sup foot_note=197089>1</sup> for anyone whose hope is in Allāh and the Last Day and [who] remembers Allāh often."
+        },
+        {
+          "id": 1170150,
+          "resource_id": 213,
+          "text": "অবশ্যই তোমাদের জন্য রয়েছে রাসূলুল্লাহর মধ্যে উত্তম আর্দশ [১], তার জন্য যে আসা রাখে আল্লাহ্ ও শেষ দিনের এবং আল্লাহ্‌কে বেশী স্মরণ করে।"
+        }
+      ]
+    },
+    {
+      "id": 3555,
+      "verse_number": 22,
+      "verse_key": "33:22",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 168,
+      "ruku_number": 365,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَمَّا رَءَا ٱلْمُؤْمِنُونَ ٱلْأَحْزَابَ قَالُوا۟ هَـٰذَا مَا وَعَدَنَا ٱللَّهُ وَرَسُولُهُۥ وَصَدَقَ ٱللَّهُ وَرَسُولُهُۥ ۚ وَمَا زَادَهُمْ إِلَّآ إِيمَـٰنًا وَتَسْلِيمًا",
+      "text_imlaei": "وَلَمَّا رَأَى الْمُؤْمِنُونَ الْأَحْزَابَ قَالُوا هَٰذَا مَا وَعَدَنَا اللَّهُ وَرَسُولُهُ وَصَدَقَ اللَّهُ وَرَسُولُهُ ۚ وَمَا زَادَهُمْ إِلَّا إِيمَانًا وَتَسْلِيمًا",
+      "page_number": 420,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 98873,
+          "resource_id": 20,
+          "text": "And when the believers saw the companies, they said, \"This is what Allāh and His Messenger had promised us, and Allāh and His Messenger spoke the truth.\" And it increased them only in faith and acceptance."
+        },
+        {
+          "id": 1170151,
+          "resource_id": 213,
+          "text": "আর মুমিনগণ যখন সম্মিলিত বাহিনীকে দেখল, তারা বলে উঠল, ’এটা তো তাই, আল্লাহ্ ও তাঁর রাসূল যার প্রতিশ্রুতি আমাদেরকে দিয়েছিলেন এবং আল্লাহ্ ও তাঁর রাসূল সত্যই বলেছেন।' আর এতে তাদের ঈমান ও আনুগত্যই বৃদ্ধি পেল।"
+        }
+      ]
+    },
+    {
+      "id": 3556,
+      "verse_number": 23,
+      "verse_key": "33:23",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 168,
+      "ruku_number": 365,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "مِّنَ ٱلْمُؤْمِنِينَ رِجَالٌ صَدَقُوا۟ مَا عَـٰهَدُوا۟ ٱللَّهَ عَلَيْهِ ۖ فَمِنْهُم مَّن قَضَىٰ نَحْبَهُۥ وَمِنْهُم مَّن يَنتَظِرُ ۖ وَمَا بَدَّلُوا۟ تَبْدِيلًا",
+      "text_imlaei": "مِّنَ الْمُؤْمِنِينَ رِجَالٌ صَدَقُوا مَا عَاهَدُوا اللَّهَ عَلَيْهِ ۖ فَمِنْهُم مَّن قَضَىٰ نَحْبَهُ وَمِنْهُم مَّن يَنتَظِرُ ۖ وَمَا بَدَّلُوا تَبْدِيلًا",
+      "page_number": 421,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 98874,
+          "resource_id": 20,
+          "text": "Among the believers are men true to what they promised Allāh. Among them is he who has fulfilled his vow [to the death], and among them is he who awaits [his chance]. And they did not alter [the terms of their commitment] by any alteration -"
+        },
+        {
+          "id": 1170152,
+          "resource_id": 213,
+          "text": "মুমিনদের মধ্যে কেউ কেউ আল্লাহ্‌র সাথে তাদের করা অঙ্গীকার পূর্ণ করেছে, তাদের কেউ কেউ (অঙ্গীকার পূর্ণ করে) মারা গেছে [১] এবং কেউ কেউ প্রতীক্ষায় রয়েছে। তারা তাদের অঙ্গীকার কোনো পরিবর্তন করেনি;"
+        }
+      ]
+    },
+    {
+      "id": 3557,
+      "verse_number": 24,
+      "verse_key": "33:24",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 168,
+      "ruku_number": 365,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "لِّيَجْزِىَ ٱللَّهُ ٱلصَّـٰدِقِينَ بِصِدْقِهِمْ وَيُعَذِّبَ ٱلْمُنَـٰفِقِينَ إِن شَآءَ أَوْ يَتُوبَ عَلَيْهِمْ ۚ إِنَّ ٱللَّهَ كَانَ غَفُورًا رَّحِيمًا",
+      "text_imlaei": "لِّيَجْزِيَ اللَّهُ الصَّادِقِينَ بِصِدْقِهِمْ وَيُعَذِّبَ الْمُنَافِقِينَ إِن شَاءَ أَوْ يَتُوبَ عَلَيْهِمْ ۚ إِنَّ اللَّهَ كَانَ غَفُورًا رَّحِيمًا",
+      "page_number": 421,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 98875,
+          "resource_id": 20,
+          "text": "That Allāh may reward the truthful for their truth and punish the hypocrites if He wills or accept their repentance. Indeed, Allāh is ever Forgiving and Merciful."
+        },
+        {
+          "id": 1170153,
+          "resource_id": 213,
+          "text": "যাতে আল্লাহ্ পুরস্কৃত করেন সত্যবাদীদেরকে তাদের সত্যবাদীতার জন্য এবং শাস্তি দেন মুনাফিকদেরকে যদি তিনি চান অথবা তাদের ক্ষমা করেন। নিশ্চয় আল্লাহ্ ক্ষমাশীল, পরম দয়ালু।"
+        }
+      ]
+    },
+    {
+      "id": 3558,
+      "verse_number": 25,
+      "verse_key": "33:25",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 168,
+      "ruku_number": 365,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَرَدَّ ٱللَّهُ ٱلَّذِينَ كَفَرُوا۟ بِغَيْظِهِمْ لَمْ يَنَالُوا۟ خَيْرًا ۚ وَكَفَى ٱللَّهُ ٱلْمُؤْمِنِينَ ٱلْقِتَالَ ۚ وَكَانَ ٱللَّهُ قَوِيًّا عَزِيزًا",
+      "text_imlaei": "وَرَدَّ اللَّهُ الَّذِينَ كَفَرُوا بِغَيْظِهِمْ لَمْ يَنَالُوا خَيْرًا ۚ وَكَفَى اللَّهُ الْمُؤْمِنِينَ الْقِتَالَ ۚ وَكَانَ اللَّهُ قَوِيًّا عَزِيزًا",
+      "page_number": 421,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 98876,
+          "resource_id": 20,
+          "text": "And Allāh repelled those who disbelieved, in their rage, not having obtained any good. And sufficient was Allāh for the believers in battle, and ever is Allāh Powerful and Exalted in Might."
+        },
+        {
+          "id": 1170154,
+          "resource_id": 213,
+          "text": "আর আল্লাহ্ কাফিরদেরকে ত্রুদ্ধাবস্থায় ফিরিয়ে দিলেন, তারা কোনো কল্যাণ লাভ করেনি। আর যুদ্ধে মুমিনদের জন্য আল্লাহ্ই যথেষ্ট এবং আল্লাহ্ সর্বশক্তিমান, প্রবল পরাক্রমশালী।"
+        }
+      ]
+    },
+    {
+      "id": 3559,
+      "verse_number": 26,
+      "verse_key": "33:26",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 168,
+      "ruku_number": 365,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَنزَلَ ٱلَّذِينَ ظَـٰهَرُوهُم مِّنْ أَهْلِ ٱلْكِتَـٰبِ مِن صَيَاصِيهِمْ وَقَذَفَ فِى قُلُوبِهِمُ ٱلرُّعْبَ فَرِيقًا تَقْتُلُونَ وَتَأْسِرُونَ فَرِيقًا",
+      "text_imlaei": "وَأَنزَلَ الَّذِينَ ظَاهَرُوهُم مِّنْ أَهْلِ الْكِتَابِ مِن صَيَاصِيهِمْ وَقَذَفَ فِي قُلُوبِهِمُ الرُّعْبَ فَرِيقًا تَقْتُلُونَ وَتَأْسِرُونَ فَرِيقًا",
+      "page_number": 421,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 98877,
+          "resource_id": 20,
+          "text": "And He brought down those who supported them among the People of the Scripture<sup foot_note=197090>1</sup> from their fortresses and cast terror into their hearts [so that] a party [i.e., their men] you killed, and you took captive a party [i.e., the women and children]."
+        },
+        {
+          "id": 1170155,
+          "resource_id": 213,
+          "text": "আর কিতাবীদের [১] মধ্যে যারা তাদেরকে সাহায্য করেছিল, তাদেরকে তিনি তাদের দূর্গ হতে অবতরণ করালেন এবং তাদের অন্তরে ভীতি সঞ্চার করলেন; তোমরা তাদের কিছু সংখ্যককে হত্যা করছ এবং কিছু সংখ্যককে করছ বন্দী [২]।"
+        }
+      ]
+    },
+    {
+      "id": 3560,
+      "verse_number": 27,
+      "verse_key": "33:27",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 168,
+      "ruku_number": 365,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَوْرَثَكُمْ أَرْضَهُمْ وَدِيَـٰرَهُمْ وَأَمْوَٰلَهُمْ وَأَرْضًا لَّمْ تَطَـُٔوهَا ۚ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرًا",
+      "text_imlaei": "وَأَوْرَثَكُمْ أَرْضَهُمْ وَدِيَارَهُمْ وَأَمْوَالَهُمْ وَأَرْضًا لَّمْ تَطَئُوهَا ۚ وَكَانَ اللَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرًا",
+      "page_number": 421,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 98878,
+          "resource_id": 20,
+          "text": "And He caused you to inherit their land and their homes and their properties and a land which you have not trodden.<sup foot_note=197091>1</sup> And ever is Allāh, over all things, competent."
+        },
+        {
+          "id": 1170156,
+          "resource_id": 213,
+          "text": "আর তিনি তোমাদেরকে অধিকারী করলেন তাদের ভূমি, ঘড়বাড়ী ও ধন - সম্পদের এবং এমন ভূমির যাতে তোমরা এখনো পদার্পণ করনি [১]। আর আল্লাহ্ সবকিছুর উপর পূর্ন ক্ষমতাবান।"
+        }
+      ]
+    },
+    {
+      "id": 3561,
+      "verse_number": 28,
+      "verse_key": "33:28",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 168,
+      "ruku_number": 366,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ قُل لِّأَزْوَٰجِكَ إِن كُنتُنَّ تُرِدْنَ ٱلْحَيَوٰةَ ٱلدُّنْيَا وَزِينَتَهَا فَتَعَالَيْنَ أُمَتِّعْكُنَّ وَأُسَرِّحْكُنَّ سَرَاحًا جَمِيلًا",
+      "text_imlaei": "يَا أَيُّهَا النَّبِيُّ قُل لِّأَزْوَاجِكَ إِن كُنتُنَّ تُرِدْنَ الْحَيَاةَ الدُّنْيَا وَزِينَتَهَا فَتَعَالَيْنَ أُمَتِّعْكُنَّ وَأُسَرِّحْكُنَّ سَرَاحًا جَمِيلًا",
+      "page_number": 421,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 98879,
+          "resource_id": 20,
+          "text": "O Prophet, say to your wives, \"If you should desire the worldly life and its adornment, then come, I will provide for you and give you a gracious release."
+        },
+        {
+          "id": 1170157,
+          "resource_id": 213,
+          "text": "হে নবী! আপনি আপানার স্ত্রীদেরকে বলুন, 'তোমারা যদি দুনিয়ার জীবন ও এর চাকচিক্য কামনা কর তবে আস, আমি তোমাদের ভোগ - সমগ্রীর ব্যবস্থা করে দেই এবং সৌজন্যের সাথে তোমাদেরকে বিদায় দেই [১]।"
+        }
+      ]
+    },
+    {
+      "id": 3562,
+      "verse_number": 29,
+      "verse_key": "33:29",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 168,
+      "ruku_number": 366,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِن كُنتُنَّ تُرِدْنَ ٱللَّهَ وَرَسُولَهُۥ وَٱلدَّارَ ٱلْـَٔاخِرَةَ فَإِنَّ ٱللَّهَ أَعَدَّ لِلْمُحْسِنَـٰتِ مِنكُنَّ أَجْرًا عَظِيمًا",
+      "text_imlaei": "وَإِن كُنتُنَّ تُرِدْنَ اللَّهَ وَرَسُولَهُ وَالدَّارَ الْآخِرَةَ فَإِنَّ اللَّهَ أَعَدَّ لِلْمُحْسِنَاتِ مِنكُنَّ أَجْرًا عَظِيمًا",
+      "page_number": 421,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 98880,
+          "resource_id": 20,
+          "text": "But if you should desire Allāh and His Messenger and the home of the Hereafter - then indeed, Allāh has prepared for the doers of good among you a great reward.\""
+        },
+        {
+          "id": 1170158,
+          "resource_id": 213,
+          "text": "‘আর যদি তোমরা কামনা কর আল্লাহ্, তাঁর রাসূল ও আখিরাতের আবাস, তবে তোমাদের মধ্যে যারা সৎকর্মশীলা আল্লাহ্ তাদের জন্য মহাপ্রতিদান প্রস্তুত রেখেছেন [১]।"
+        }
+      ]
+    },
+    {
+      "id": 3563,
+      "verse_number": 30,
+      "verse_key": "33:30",
+      "hizb_number": 42,
+      "rub_el_hizb_number": 168,
+      "ruku_number": 366,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰنِسَآءَ ٱلنَّبِىِّ مَن يَأْتِ مِنكُنَّ بِفَـٰحِشَةٍ مُّبَيِّنَةٍ يُضَـٰعَفْ لَهَا ٱلْعَذَابُ ضِعْفَيْنِ ۚ وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرًا",
+      "text_imlaei": "يَا نِسَاءَ النَّبِيِّ مَن يَأْتِ مِنكُنَّ بِفَاحِشَةٍ مُّبَيِّنَةٍ يُضَاعَفْ لَهَا الْعَذَابُ ضِعْفَيْنِ ۚ وَكَانَ ذَٰلِكَ عَلَى اللَّهِ يَسِيرًا",
+      "page_number": 421,
+      "juz_number": 21,
+      "translations": [
+        {
+          "id": 98883,
+          "resource_id": 20,
+          "text": "O wives of the Prophet, whoever of you should commit a clear immorality - for her the punishment would be doubled two fold, and ever is that, for Allāh, easy."
+        },
+        {
+          "id": 1170159,
+          "resource_id": 213,
+          "text": "হে নবী - পত্নিগণ! যে কাজ স্পষ্টত 'ফাহেশা', তোমাদের মধ্যে কেউ তা করলে তার জন্য বাড়িয়ে দেয়া হবে শাস্তি ----দ্বিগুণ এবং এটা আল্লাহর  জন্য সহজ।"
+        }
+      ]
+    },
+    {
+      "id": 3564,
+      "verse_number": 31,
+      "verse_key": "33:31",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 169,
+      "ruku_number": 366,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "۞ وَمَن يَقْنُتْ مِنكُنَّ لِلَّهِ وَرَسُولِهِۦ وَتَعْمَلْ صَـٰلِحًا نُّؤْتِهَآ أَجْرَهَا مَرَّتَيْنِ وَأَعْتَدْنَا لَهَا رِزْقًا كَرِيمًا",
+      "text_imlaei": "وَمَن يَقْنُتْ مِنكُنَّ لِلَّهِ وَرَسُولِهِ وَتَعْمَلْ صَالِحًا نُّؤْتِهَا أَجْرَهَا مَرَّتَيْنِ وَأَعْتَدْنَا لَهَا رِزْقًا كَرِيمًا",
+      "page_number": 422,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 98884,
+          "resource_id": 20,
+          "text": "And whoever of you devoutly obeys Allāh and His Messenger and does righteousness - We will give her her reward twice; and We have prepared for her a noble provision."
+        },
+        {
+          "id": 1170160,
+          "resource_id": 213,
+          "text": "আর তোমাদের মধ্যে যে কেউ আল্লাহ্ ও তাঁর রাসূলের প্রতি অনুগত হবে এবং সৎকাজ করবে তাকে আমরা পুরস্কার দেব দু'বার। আর তার জন্য আমরা প্রস্তুত রেখেছি সম্মানজনক রিযিক।"
+        }
+      ]
+    },
+    {
+      "id": 3565,
+      "verse_number": 32,
+      "verse_key": "33:32",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 169,
+      "ruku_number": 366,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰنِسَآءَ ٱلنَّبِىِّ لَسْتُنَّ كَأَحَدٍ مِّنَ ٱلنِّسَآءِ ۚ إِنِ ٱتَّقَيْتُنَّ فَلَا تَخْضَعْنَ بِٱلْقَوْلِ فَيَطْمَعَ ٱلَّذِى فِى قَلْبِهِۦ مَرَضٌ وَقُلْنَ قَوْلًا مَّعْرُوفًا",
+      "text_imlaei": "يَا نِسَاءَ النَّبِيِّ لَسْتُنَّ كَأَحَدٍ مِّنَ النِّسَاءِ ۚ إِنِ اتَّقَيْتُنَّ فَلَا تَخْضَعْنَ بِالْقَوْلِ فَيَطْمَعَ الَّذِي فِي قَلْبِهِ مَرَضٌ وَقُلْنَ قَوْلًا مَّعْرُوفًا",
+      "page_number": 422,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 98885,
+          "resource_id": 20,
+          "text": "O wives of the Prophet, you are not like anyone among women. If you fear Allāh, then do not be soft in speech [to men],<sup foot_note=197092>1</sup> lest he in whose heart is disease should covet, but speak with appropriate speech."
+        },
+        {
+          "id": 1170161,
+          "resource_id": 213,
+          "text": "হে নবী -পত্নিগণ! তোমরা অন্য নারীদের মত নও; যদি তোমরা আল্লাহর তাকওয়া অবলম্বন কর সুতরাং পর-পুরুষের সাথে কমল কন্ঠে এমন ভাবে কথা বলো না, কারণ এতে যার অন্তরে ব্যাধি আছে, সে প্রলুব্ধ হয় এবং তোমরা ন্যায়সংগত কথা বলবে।"
+        }
+      ]
+    },
+    {
+      "id": 3566,
+      "verse_number": 33,
+      "verse_key": "33:33",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 169,
+      "ruku_number": 366,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَقَرْنَ فِى بُيُوتِكُنَّ وَلَا تَبَرَّجْنَ تَبَرُّجَ ٱلْجَـٰهِلِيَّةِ ٱلْأُولَىٰ ۖ وَأَقِمْنَ ٱلصَّلَوٰةَ وَءَاتِينَ ٱلزَّكَوٰةَ وَأَطِعْنَ ٱللَّهَ وَرَسُولَهُۥٓ ۚ إِنَّمَا يُرِيدُ ٱللَّهُ لِيُذْهِبَ عَنكُمُ ٱلرِّجْسَ أَهْلَ ٱلْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا",
+      "text_imlaei": "وَقَرْنَ فِي بُيُوتِكُنَّ وَلَا تَبَرَّجْنَ تَبَرُّجَ الْجَاهِلِيَّةِ الْأُولَىٰ ۖ وَأَقِمْنَ الصَّلَاةَ وَآتِينَ الزَّكَاةَ وَأَطِعْنَ اللَّهَ وَرَسُولَهُ ۚ إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا",
+      "page_number": 422,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 98886,
+          "resource_id": 20,
+          "text": "And abide in your houses and do not display yourselves as [was] the display of the former times of ignorance. And establish prayer and give zakāh and obey Allāh and His Messenger. Allāh intends only to remove from you the impurity [of sin], O people of the [Prophet's] household, and to purify you with [extensive] purification."
+        },
+        {
+          "id": 1170162,
+          "resource_id": 213,
+          "text": "আর তোমরা নিজ ঘরে অবস্থান করবে [১] এবং প্রাচীন জাহেলী যুগের প্রদর্শনীর মত নিজেদেরকে প্রদর্শন করে বেড়াবে না। আর তোমরা সালাত কায়েম কর, যাকাত প্রদান কর এবং আল্লাহ্ ও তাঁর রাসূলের অনুগত থাক [২] হে নবী -পরিবার [৩]! আল্লাহ্ তো শুধু চান তোমাদের থেকে অপবিত্রতা দূর করতে এবং তোমাদেরকে সম্পূর্ণরূপে পবিত্র করতে।"
+        }
+      ]
+    },
+    {
+      "id": 3567,
+      "verse_number": 34,
+      "verse_key": "33:34",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 169,
+      "ruku_number": 366,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱذْكُرْنَ مَا يُتْلَىٰ فِى بُيُوتِكُنَّ مِنْ ءَايَـٰتِ ٱللَّهِ وَٱلْحِكْمَةِ ۚ إِنَّ ٱللَّهَ كَانَ لَطِيفًا خَبِيرًا",
+      "text_imlaei": "وَاذْكُرْنَ مَا يُتْلَىٰ فِي بُيُوتِكُنَّ مِنْ آيَاتِ اللَّهِ وَالْحِكْمَةِ ۚ إِنَّ اللَّهَ كَانَ لَطِيفًا خَبِيرًا",
+      "page_number": 422,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 98887,
+          "resource_id": 20,
+          "text": "And remember what is recited in your houses of the verses of Allāh and wisdom.<sup foot_note=197094>1</sup> Indeed, Allāh is ever Subtle<sup foot_note=197093>2</sup> and Aware."
+        },
+        {
+          "id": 1170163,
+          "resource_id": 213,
+          "text": "আর আল্লাহর আয়াত ও হিকমত থেকে যা তোমাদের ঘরে পাঠ করা হয়, তা তোমরা স্মরণ রাখবে [১] নিশ্চয় আল্লাহ্ অতি সূক্ষ্মদর্শী, সম্যক অবহিত।"
+        }
+      ]
+    },
+    {
+      "id": 3568,
+      "verse_number": 35,
+      "verse_key": "33:35",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 169,
+      "ruku_number": 367,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ ٱلْمُسْلِمِينَ وَٱلْمُسْلِمَـٰتِ وَٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ وَٱلْقَـٰنِتِينَ وَٱلْقَـٰنِتَـٰتِ وَٱلصَّـٰدِقِينَ وَٱلصَّـٰدِقَـٰتِ وَٱلصَّـٰبِرِينَ وَٱلصَّـٰبِرَٰتِ وَٱلْخَـٰشِعِينَ وَٱلْخَـٰشِعَـٰتِ وَٱلْمُتَصَدِّقِينَ وَٱلْمُتَصَدِّقَـٰتِ وَٱلصَّـٰٓئِمِينَ وَٱلصَّـٰٓئِمَـٰتِ وَٱلْحَـٰفِظِينَ فُرُوجَهُمْ وَٱلْحَـٰفِظَـٰتِ وَٱلذَّٰكِرِينَ ٱللَّهَ كَثِيرًا وَٱلذَّٰكِرَٰتِ أَعَدَّ ٱللَّهُ لَهُم مَّغْفِرَةً وَأَجْرًا عَظِيمًا",
+      "text_imlaei": "إِنَّ الْمُسْلِمِينَ وَالْمُسْلِمَاتِ وَالْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ وَالْقَانِتِينَ وَالْقَانِتَاتِ وَالصَّادِقِينَ وَالصَّادِقَاتِ وَالصَّابِرِينَ وَالصَّابِرَاتِ وَالْخَاشِعِينَ وَالْخَاشِعَاتِ وَالْمُتَصَدِّقِينَ وَالْمُتَصَدِّقَاتِ وَالصَّائِمِينَ وَالصَّائِمَاتِ وَالْحَافِظِينَ فُرُوجَهُمْ وَالْحَافِظَاتِ وَالذَّاكِرِينَ اللَّهَ كَثِيرًا وَالذَّاكِرَاتِ أَعَدَّ اللَّهُ لَهُم مَّغْفِرَةً وَأَجْرًا عَظِيمًا",
+      "page_number": 422,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 98888,
+          "resource_id": 20,
+          "text": "Indeed, the Muslim men and Muslim women, the believing men and believing women, the obedient men and obedient women, the truthful men and truthful women, the patient men and patient women, the humble men and humble women, the charitable men and charitable women, the fasting men and fasting women, the men who guard their private parts and the women who do so, and the men who remember Allāh often and the women who do so - for them Allāh has prepared forgiveness and a great reward."
+        },
+        {
+          "id": 1170164,
+          "resource_id": 213,
+          "text": "নিশ্চয় মুসলিম পুরুষ ও মুসলিম নারী, মুমিন পুরুষ ও মুমিন নারী, অনুগত পুরুষ ও অনুগত নারী, সত্যবাদী পুরুষ ও সত্যবাদী নারী, ধৈর্যশীল পুরুষ ও ধৈর্যশীল নারী, বিনীত পুরুষ ও বিনীত নারী, দানশীল পুরুষ ও দানশীল নারী, সওম পালনকারী পুরুষ ও সওম পালনকারী নারী, যৌনাঙ্গ হিফাজতকারী পুরুষ ও যৌনাঙ্গ হিফাজতকারী নারী, আল্লাহ্কে অধিক স্মরণকারী পুরুষ ও আল্লাহ্‌কে অধিক স্মরণকারী নারী ------ তাদের জন্য আল্লাহ্ রেখেছেন ক্ষমা ও মহাপ্রতিদান।"
+        }
+      ]
+    },
+    {
+      "id": 3569,
+      "verse_number": 36,
+      "verse_key": "33:36",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 169,
+      "ruku_number": 367,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَا كَانَ لِمُؤْمِنٍ وَلَا مُؤْمِنَةٍ إِذَا قَضَى ٱللَّهُ وَرَسُولُهُۥٓ أَمْرًا أَن يَكُونَ لَهُمُ ٱلْخِيَرَةُ مِنْ أَمْرِهِمْ ۗ وَمَن يَعْصِ ٱللَّهَ وَرَسُولَهُۥ فَقَدْ ضَلَّ ضَلَـٰلًا مُّبِينًا",
+      "text_imlaei": "وَمَا كَانَ لِمُؤْمِنٍ وَلَا مُؤْمِنَةٍ إِذَا قَضَى اللَّهُ وَرَسُولُهُ أَمْرًا أَن يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ أَمْرِهِمْ ۗ وَمَن يَعْصِ اللَّهَ وَرَسُولَهُ فَقَدْ ضَلَّ ضَلَالًا مُّبِينًا",
+      "page_number": 423,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 98889,
+          "resource_id": 20,
+          "text": "It is not for a believing man or a believing woman, when Allāh and His Messenger have decided a matter, that they should [thereafter] have any choice about their affair. And whoever disobeys Allāh and His Messenger has certainly strayed into clear error."
+        },
+        {
+          "id": 1170165,
+          "resource_id": 213,
+          "text": "আর আল্লাহ্ ও তাঁর রাসূল কোনো বিষয়ের ফায়সালা দিলে কোনো মুমিন পুরুষ কিংবা মুমিন নারীর জন্য সে বিষয়ে তাদের কোনো (ভিন্ন সিদ্ধান্তের) ইখতিয়ার সংগত নয়। আর যে আল্লাহ্ ও তাঁর রাসূলকে অমান্য করল সে স্পষ্টভাবে পথভ্রষ্ট হলো [১]।"
+        }
+      ]
+    },
+    {
+      "id": 3570,
+      "verse_number": 37,
+      "verse_key": "33:37",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 169,
+      "ruku_number": 367,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذْ تَقُولُ لِلَّذِىٓ أَنْعَمَ ٱللَّهُ عَلَيْهِ وَأَنْعَمْتَ عَلَيْهِ أَمْسِكْ عَلَيْكَ زَوْجَكَ وَٱتَّقِ ٱللَّهَ وَتُخْفِى فِى نَفْسِكَ مَا ٱللَّهُ مُبْدِيهِ وَتَخْشَى ٱلنَّاسَ وَٱللَّهُ أَحَقُّ أَن تَخْشَىٰهُ ۖ فَلَمَّا قَضَىٰ زَيْدٌ مِّنْهَا وَطَرًا زَوَّجْنَـٰكَهَا لِكَىْ لَا يَكُونَ عَلَى ٱلْمُؤْمِنِينَ حَرَجٌ فِىٓ أَزْوَٰجِ أَدْعِيَآئِهِمْ إِذَا قَضَوْا۟ مِنْهُنَّ وَطَرًا ۚ وَكَانَ أَمْرُ ٱللَّهِ مَفْعُولًا",
+      "text_imlaei": "وَإِذْ تَقُولُ لِلَّذِي أَنْعَمَ اللَّهُ عَلَيْهِ وَأَنْعَمْتَ عَلَيْهِ أَمْسِكْ عَلَيْكَ زَوْجَكَ وَاتَّقِ اللَّهَ وَتُخْفِي فِي نَفْسِكَ مَا اللَّهُ مُبْدِيهِ وَتَخْشَى النَّاسَ وَاللَّهُ أَحَقُّ أَن تَخْشَاهُ ۖ فَلَمَّا قَضَىٰ زَيْدٌ مِّنْهَا وَطَرًا زَوَّجْنَاكَهَا لِكَيْ لَا يَكُونَ عَلَى الْمُؤْمِنِينَ حَرَجٌ فِي أَزْوَاجِ أَدْعِيَائِهِمْ إِذَا قَضَوْا مِنْهُنَّ وَطَرًا ۚ وَكَانَ أَمْرُ اللَّهِ مَفْعُولًا",
+      "page_number": 423,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 98890,
+          "resource_id": 20,
+          "text": "And [remember, O Muḥammad], when you said to the one on whom Allāh bestowed favor and you bestowed favor,<sup foot_note=197098>1</sup> \"Keep your wife and fear Allāh,\" while you concealed within yourself that which Allāh is to disclose.<sup foot_note=197097>2</sup> And you feared the people,<sup foot_note=197096>3</sup> while Allāh has more right that you fear Him.<sup foot_note=197095>4</sup> So when Zayd had no longer any need for her, We married her to you in order that there not be upon the believers any discomfort [i.e., guilt] concerning the wives of their claimed [i.e., adopted] sons when they no longer have need of them. And ever is the command [i.e., decree] of Allāh accomplished."
+        },
+        {
+          "id": 1170166,
+          "resource_id": 213,
+          "text": "আর স্মরন করুন, আল্লাহ্ যাকে অনুগ্রহ করেছেন এবং আপনিও যার প্রতি অনুগ্রহ করেছেন, আপনি তাকে বলেছিলেন, 'তুমি তোমার স্ত্রীর সাথে সম্পর্ক বজায় রাখ এবং আল্লাহর তাকওয়া অবলম্বন কর [১]।' আর আপনি আপনার অন্তরে গোপন করছিলেন এমন কিছু যা আল্লাহ্ প্রকাশ করে দিচ্ছেন [২] এবং আপনি লোকদেরকে ভয় করছিলেন, অথচ আল্লাহ্কেই ভয় করা আপনার পক্ষে অধিকতর সংগত। তারপর যখন যায়েদ তার (স্ত্রীর) সাথে প্রয়োজন শেষ করল [৩], তখন আমরা তাকে আপনার নিকট বিয়ে দিলাম [৪], যাতে মুমিনদের পোষ্য পুত্রদের স্ত্রীদেরকে (স্ত্রী হিসাবে গ্রহণ করতে) কোনো সমস্যা না হয় যখন তারা (পোষ্য পুত্ররা) নিজ স্ত্রীর সাথে প্রয়োজন শেষ করবে (এবং তালাক দিবে)। আর আল্লাহর আদেশ কার্যকর হয়েই থাকে।"
+        }
+      ]
+    },
+    {
+      "id": 3571,
+      "verse_number": 38,
+      "verse_key": "33:38",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 169,
+      "ruku_number": 367,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "مَّا كَانَ عَلَى ٱلنَّبِىِّ مِنْ حَرَجٍ فِيمَا فَرَضَ ٱللَّهُ لَهُۥ ۖ سُنَّةَ ٱللَّهِ فِى ٱلَّذِينَ خَلَوْا۟ مِن قَبْلُ ۚ وَكَانَ أَمْرُ ٱللَّهِ قَدَرًا مَّقْدُورًا",
+      "text_imlaei": "مَّا كَانَ عَلَى النَّبِيِّ مِنْ حَرَجٍ فِيمَا فَرَضَ اللَّهُ لَهُ ۖ سُنَّةَ اللَّهِ فِي الَّذِينَ خَلَوْا مِن قَبْلُ ۚ وَكَانَ أَمْرُ اللَّهِ قَدَرًا مَّقْدُورًا",
+      "page_number": 423,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 98891,
+          "resource_id": 20,
+          "text": "There is not to be upon the Prophet any discomfort concerning that which Allāh has imposed upon him.<sup foot_note=197099>1</sup> [This is] the established way of Allāh with those [prophets] who have passed on before. And ever is the command of Allāh a destiny decreed."
+        },
+        {
+          "id": 1170167,
+          "resource_id": 213,
+          "text": "নবীর জন্য সেটা (করতে) কোনো সমস্যা নেই যা আল্লাহ্ বিধিসম্মত করেছেন তার জন্য। আগে যারা চলে গেছে তাদের ক্ষেত্রেও এটাই ছিল আল্লাহর বিধান [১]। আর আল্লাহ্‌র ফয়াসালা সুনির্ধারিত, অবশ্যম্ভাবী।"
+        }
+      ]
+    },
+    {
+      "id": 3572,
+      "verse_number": 39,
+      "verse_key": "33:39",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 169,
+      "ruku_number": 367,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِينَ يُبَلِّغُونَ رِسَـٰلَـٰتِ ٱللَّهِ وَيَخْشَوْنَهُۥ وَلَا يَخْشَوْنَ أَحَدًا إِلَّا ٱللَّهَ ۗ وَكَفَىٰ بِٱللَّهِ حَسِيبًا",
+      "text_imlaei": "الَّذِينَ يُبَلِّغُونَ رِسَالَاتِ اللَّهِ وَيَخْشَوْنَهُ وَلَا يَخْشَوْنَ أَحَدًا إِلَّا اللَّهَ ۗ وَكَفَىٰ بِاللَّهِ حَسِيبًا",
+      "page_number": 423,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 98892,
+          "resource_id": 20,
+          "text": "[Allāh praises] those who convey the messages of Allāh<sup foot_note=197100>1</sup> and fear Him and do not fear anyone but Allāh. And sufficient is Allāh as Accountant."
+        },
+        {
+          "id": 1170168,
+          "resource_id": 213,
+          "text": "তারা আল্লাহ্‌র বাণী প্রচার করত, আর তাঁকে ভয় করত এবং আল্লাহ্‌কে ছাড়া অন্য কাউকেও ভয় করত না [১]। আর হিসাব গ্রহণকারীরুপে আল্লাহ্ই যথেষ্ট।"
+        }
+      ]
+    },
+    {
+      "id": 3573,
+      "verse_number": 40,
+      "verse_key": "33:40",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 169,
+      "ruku_number": 367,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "مَّا كَانَ مُحَمَّدٌ أَبَآ أَحَدٍ مِّن رِّجَالِكُمْ وَلَـٰكِن رَّسُولَ ٱللَّهِ وَخَاتَمَ ٱلنَّبِيِّـۧنَ ۗ وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمًا",
+      "text_imlaei": "مَّا كَانَ مُحَمَّدٌ أَبَا أَحَدٍ مِّن رِّجَالِكُمْ وَلَٰكِن رَّسُولَ اللَّهِ وَخَاتَمَ النَّبِيِّينَ ۗ وَكَانَ اللَّهُ بِكُلِّ شَيْءٍ عَلِيمًا",
+      "page_number": 423,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 98895,
+          "resource_id": 20,
+          "text": "Muḥammad is not the father of [any] one of your men, but [he is] the Messenger of Allāh and seal [i.e., last] of the prophets. And ever is Allāh, of all things, Knowing."
+        },
+        {
+          "id": 1170169,
+          "resource_id": 213,
+          "text": "মুহাম্মদ তোমাদের মধ্যে কোনো পুরুষের পিতা নন [১]; ববং তিনি আল্লাহর রাসূল এবং শেষ নবী। আর আল্লাহ্ সর্বকিছু সম্পর্কে সর্বজ্ঞ।"
+        }
+      ]
+    },
+    {
+      "id": 3574,
+      "verse_number": 41,
+      "verse_key": "33:41",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 169,
+      "ruku_number": 368,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱذْكُرُوا۟ ٱللَّهَ ذِكْرًا كَثِيرًا",
+      "text_imlaei": "يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا اللَّهَ ذِكْرًا كَثِيرًا",
+      "page_number": 423,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 98896,
+          "resource_id": 20,
+          "text": "O you who have believed, remember Allāh with much remembrance"
+        },
+        {
+          "id": 1170170,
+          "resource_id": 213,
+          "text": "হে ঈমানদারগণ! তোমরা আল্লাহ্কে  অধিক স্মরণ কর,"
+        }
+      ]
+    },
+    {
+      "id": 3575,
+      "verse_number": 42,
+      "verse_key": "33:42",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 169,
+      "ruku_number": 368,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَسَبِّحُوهُ بُكْرَةً وَأَصِيلًا",
+      "text_imlaei": "وَسَبِّحُوهُ بُكْرَةً وَأَصِيلًا",
+      "page_number": 423,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 98897,
+          "resource_id": 20,
+          "text": "And exalt Him morning and afternoon."
+        },
+        {
+          "id": 1170171,
+          "resource_id": 213,
+          "text": "এবং সকাল-সন্ধ্যায় আল্লাহর পবিত্ৰতা ও মহিমা ঘোষণা কর।"
+        }
+      ]
+    },
+    {
+      "id": 3576,
+      "verse_number": 43,
+      "verse_key": "33:43",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 169,
+      "ruku_number": 368,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "هُوَ ٱلَّذِى يُصَلِّى عَلَيْكُمْ وَمَلَـٰٓئِكَتُهُۥ لِيُخْرِجَكُم مِّنَ ٱلظُّلُمَـٰتِ إِلَى ٱلنُّورِ ۚ وَكَانَ بِٱلْمُؤْمِنِينَ رَحِيمًا",
+      "text_imlaei": "هُوَ الَّذِي يُصَلِّي عَلَيْكُمْ وَمَلَائِكَتُهُ لِيُخْرِجَكُم مِّنَ الظُّلُمَاتِ إِلَى النُّورِ ۚ وَكَانَ بِالْمُؤْمِنِينَ رَحِيمًا",
+      "page_number": 423,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 98898,
+          "resource_id": 20,
+          "text": "It is He who confers blessing upon you,<sup foot_note=197101>1</sup> and His angels [ask Him to do so] that He may bring you out from darknesses into the light. And ever is He, to the believers, Merciful."
+        },
+        {
+          "id": 1170172,
+          "resource_id": 213,
+          "text": "তিনিই, যিনি তোমাদের প্রশংসা করেন [১] এবং দো'আ ও ক্ষমা চান তোমাদের জন্য তাঁর ফিরিশতাগণ; যেন তিনি তোমাদেরকে অন্ধকার থেকে বের করে আনেন আলোর দিকে। আর তিনি মুমিনদের প্রতি পরম দয়ালু।"
+        }
+      ]
+    },
+    {
+      "id": 3577,
+      "verse_number": 44,
+      "verse_key": "33:44",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 169,
+      "ruku_number": 368,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "تَحِيَّتُهُمْ يَوْمَ يَلْقَوْنَهُۥ سَلَـٰمٌ ۚ وَأَعَدَّ لَهُمْ أَجْرًا كَرِيمًا",
+      "text_imlaei": "تَحِيَّتُهُمْ يَوْمَ يَلْقَوْنَهُ سَلَامٌ ۚ وَأَعَدَّ لَهُمْ أَجْرًا كَرِيمًا",
+      "page_number": 424,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 98899,
+          "resource_id": 20,
+          "text": "Their greeting the Day they meet Him will be, \"Peace.\" And He has prepared for them a noble reward."
+        },
+        {
+          "id": 1170173,
+          "resource_id": 213,
+          "text": "যেদিন তারা আল্লাহর সাথে সাক্ষাত করবে, সেদিন তাদের অভিবাদন হবে 'সালাম’ [১]। আর তিনি তাদের জন্য প্ৰস্তুত রেখেছেন সম্মানজনক প্রতিদান।"
+        }
+      ]
+    },
+    {
+      "id": 3578,
+      "verse_number": 45,
+      "verse_key": "33:45",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 169,
+      "ruku_number": 368,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ إِنَّآ أَرْسَلْنَـٰكَ شَـٰهِدًا وَمُبَشِّرًا وَنَذِيرًا",
+      "text_imlaei": "يَا أَيُّهَا النَّبِيُّ إِنَّا أَرْسَلْنَاكَ شَاهِدًا وَمُبَشِّرًا وَنَذِيرًا",
+      "page_number": 424,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 98900,
+          "resource_id": 20,
+          "text": "O Prophet, indeed We have sent you as a witness and a bringer of good tidings and a warner"
+        },
+        {
+          "id": 1170174,
+          "resource_id": 213,
+          "text": "হে নবী! অবশ্যই আমরা আপনাকে পাঠিয়েছি সাক্ষী, সুসংবাদদাতা ও  সতর্ককারীরূপে [১]"
+        }
+      ]
+    },
+    {
+      "id": 3579,
+      "verse_number": 46,
+      "verse_key": "33:46",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 169,
+      "ruku_number": 368,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَدَاعِيًا إِلَى ٱللَّهِ بِإِذْنِهِۦ وَسِرَاجًا مُّنِيرًا",
+      "text_imlaei": "وَدَاعِيًا إِلَى اللَّهِ بِإِذْنِهِ وَسِرَاجًا مُّنِيرًا",
+      "page_number": 424,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 98901,
+          "resource_id": 20,
+          "text": "And one who invites to Allāh, by His permission, and an illuminating lamp."
+        },
+        {
+          "id": 1170175,
+          "resource_id": 213,
+          "text": "এবং আল্লাহর অনুমতিক্রমে তাঁর দিকে আহবানকারী [১] ও উজ্জ্বল প্রদীপরূপে [২]।"
+        }
+      ]
+    },
+    {
+      "id": 3580,
+      "verse_number": 47,
+      "verse_key": "33:47",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 169,
+      "ruku_number": 368,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَبَشِّرِ ٱلْمُؤْمِنِينَ بِأَنَّ لَهُم مِّنَ ٱللَّهِ فَضْلًا كَبِيرًا",
+      "text_imlaei": "وَبَشِّرِ الْمُؤْمِنِينَ بِأَنَّ لَهُم مِّنَ اللَّهِ فَضْلًا كَبِيرًا",
+      "page_number": 424,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 98902,
+          "resource_id": 20,
+          "text": "And give good tidings to the believers that they will have from Allāh great bounty."
+        },
+        {
+          "id": 1170176,
+          "resource_id": 213,
+          "text": "আর আপনি মুমিনদেরকে সুসংবাদ দিন যে, তাদের জন্য আল্লাহর কাছে রয়েছে মহাঅনুগ্রহ।"
+        }
+      ]
+    },
+    {
+      "id": 3581,
+      "verse_number": 48,
+      "verse_key": "33:48",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 169,
+      "ruku_number": 368,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَا تُطِعِ ٱلْكَـٰفِرِينَ وَٱلْمُنَـٰفِقِينَ وَدَعْ أَذَىٰهُمْ وَتَوَكَّلْ عَلَى ٱللَّهِ ۚ وَكَفَىٰ بِٱللَّهِ وَكِيلًا",
+      "text_imlaei": "وَلَا تُطِعِ الْكَافِرِينَ وَالْمُنَافِقِينَ وَدَعْ أَذَاهُمْ وَتَوَكَّلْ عَلَى اللَّهِ ۚ وَكَفَىٰ بِاللَّهِ وَكِيلًا",
+      "page_number": 424,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 98903,
+          "resource_id": 20,
+          "text": "And do not obey the disbelievers and the hypocrites and disregard their annoyance, and rely upon Allāh. And sufficient is Allāh as Disposer of affairs."
+        },
+        {
+          "id": 1170177,
+          "resource_id": 213,
+          "text": "আর আপনি কাফির ও মুনাফিকদের আনুগত্য করবেন না, তাদের নির্যাতন উপেক্ষা করুন এবং নির্ভর করুন আল্লাহর উপর এবং কর্মবিধায়করূপে আল্লাহ্ই যথেষ্ট।"
+        }
+      ]
+    },
+    {
+      "id": 3582,
+      "verse_number": 49,
+      "verse_key": "33:49",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 169,
+      "ruku_number": 368,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا نَكَحْتُمُ ٱلْمُؤْمِنَـٰتِ ثُمَّ طَلَّقْتُمُوهُنَّ مِن قَبْلِ أَن تَمَسُّوهُنَّ فَمَا لَكُمْ عَلَيْهِنَّ مِنْ عِدَّةٍ تَعْتَدُّونَهَا ۖ فَمَتِّعُوهُنَّ وَسَرِّحُوهُنَّ سَرَاحًا جَمِيلًا",
+      "text_imlaei": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا نَكَحْتُمُ الْمُؤْمِنَاتِ ثُمَّ طَلَّقْتُمُوهُنَّ مِن قَبْلِ أَن تَمَسُّوهُنَّ فَمَا لَكُمْ عَلَيْهِنَّ مِنْ عِدَّةٍ تَعْتَدُّونَهَا ۖ فَمَتِّعُوهُنَّ وَسَرِّحُوهُنَّ سَرَاحًا جَمِيلًا",
+      "page_number": 424,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 98904,
+          "resource_id": 20,
+          "text": "O you who have believed, when you marry believing women and then divorce them before you have touched them [i.e., consummated the marriage], then there is not for you any waiting period to count concerning them. So provide for them and give them a gracious release."
+        },
+        {
+          "id": 1170178,
+          "resource_id": 213,
+          "text": "হে ঈমানদারগণ! যখন তোমরা মুমিন নারীদেরকে বিয়ে করবে, তারপর তাদেরকে স্পর্শ করার আগে তালাক দিবে, তখন তোমাদের জন্য তাদের পালনীয় কোন 'ইদ্দত নেই যা তোমরা গুণবে। সুতরাং তোমরা তাদেরকে কিছু সামগ্ৰী দেবে এবং সৌজন্যের সাথে তাদেরকে বিদায় করবে।"
+        }
+      ]
+    },
+    {
+      "id": 3583,
+      "verse_number": 50,
+      "verse_key": "33:50",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 169,
+      "ruku_number": 368,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ إِنَّآ أَحْلَلْنَا لَكَ أَزْوَٰجَكَ ٱلَّـٰتِىٓ ءَاتَيْتَ أُجُورَهُنَّ وَمَا مَلَكَتْ يَمِينُكَ مِمَّآ أَفَآءَ ٱللَّهُ عَلَيْكَ وَبَنَاتِ عَمِّكَ وَبَنَاتِ عَمَّـٰتِكَ وَبَنَاتِ خَالِكَ وَبَنَاتِ خَـٰلَـٰتِكَ ٱلَّـٰتِى هَاجَرْنَ مَعَكَ وَٱمْرَأَةً مُّؤْمِنَةً إِن وَهَبَتْ نَفْسَهَا لِلنَّبِىِّ إِنْ أَرَادَ ٱلنَّبِىُّ أَن يَسْتَنكِحَهَا خَالِصَةً لَّكَ مِن دُونِ ٱلْمُؤْمِنِينَ ۗ قَدْ عَلِمْنَا مَا فَرَضْنَا عَلَيْهِمْ فِىٓ أَزْوَٰجِهِمْ وَمَا مَلَكَتْ أَيْمَـٰنُهُمْ لِكَيْلَا يَكُونَ عَلَيْكَ حَرَجٌ ۗ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا",
+      "text_imlaei": "يَا أَيُّهَا النَّبِيُّ إِنَّا أَحْلَلْنَا لَكَ أَزْوَاجَكَ اللَّاتِي آتَيْتَ أُجُورَهُنَّ وَمَا مَلَكَتْ يَمِينُكَ مِمَّا أَفَاءَ اللَّهُ عَلَيْكَ وَبَنَاتِ عَمِّكَ وَبَنَاتِ عَمَّاتِكَ وَبَنَاتِ خَالِكَ وَبَنَاتِ خَالَاتِكَ اللَّاتِي هَاجَرْنَ مَعَكَ وَامْرَأَةً مُّؤْمِنَةً إِن وَهَبَتْ نَفْسَهَا لِلنَّبِيِّ إِنْ أَرَادَ النَّبِيُّ أَن يَسْتَنكِحَهَا خَالِصَةً لَّكَ مِن دُونِ الْمُؤْمِنِينَ ۗ قَدْ عَلِمْنَا مَا فَرَضْنَا عَلَيْهِمْ فِي أَزْوَاجِهِمْ وَمَا مَلَكَتْ أَيْمَانُهُمْ لِكَيْلَا يَكُونَ عَلَيْكَ حَرَجٌ ۗ وَكَانَ اللَّهُ غَفُورًا رَّحِيمًا",
+      "page_number": 424,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 98907,
+          "resource_id": 20,
+          "text": "O Prophet, indeed We have made lawful to you your wives to whom you have given their due compensation<sup foot_note=197102>1</sup> and those your right hand possesses from what Allāh has returned to you [of captives] and the daughters of your paternal uncles and the daughters of your paternal aunts and the daughters of your maternal uncles and the daughters of your maternal aunts who emigrated with you and a believing woman if she gives herself to the Prophet [and] if the Prophet wishes to marry her; [this is] only for you, excluding the [other] believers. We certainly know what We have made obligatory upon them concerning their wives and those their right hands possess, [but this is for you] in order that there will be upon you no discomfort [i.e., difficulty]. And ever is Allāh Forgiving and Merciful."
+        },
+        {
+          "id": 1170179,
+          "resource_id": 213,
+          "text": "হে নবী! আমরা আপনার জন্য বৈধ করেছি আপনার স্ত্রীগণকে, যাদের মাহর আপনি দিয়েছেন এবং বৈধ করেছি ফায় হিসেবে আল্লাহ আপনাকে যা দান করেছেন তাদের মধ্য থেকে যারা আপনার মালিকানাধীন হয়েছে তাদেরকে। আর বিয়ের জন্য বৈধ করেছি আপনার চাচার কন্যা ও ফুফুর কন্যাকে, মামার কন্যা ও খালার কন্যাকে, যারা আপনার সঙ্গে হিজরত করেছে এবং এমন মুমিন নারীকে (বৈধ করেছি) যে নবীর জন্যে নিজেকে সমৰ্পণ করে, যদি নবী তাকে বিয়ে করতে চায়--- এটা বিশেষ করে আপনার জন্য, অন্য মুমিনদের জন্য নয়; যাতে আপনার কোনো অসুবিধা না হয়। আমরা অবশ্যই জানি মুমিনদের স্ত্রী এবং তাদের মালিকানাধীন দাসীগণ সম্বন্ধে তাদের উপর যা নির্ধারিত করেছি [১]।  আর আল্লাহ ক্ষমাশীল, পরম দয়ালু।"
+        }
+      ]
+    },
+    {
+      "id": 3584,
+      "verse_number": 51,
+      "verse_key": "33:51",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 170,
+      "ruku_number": 368,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "۞ تُرْجِى مَن تَشَآءُ مِنْهُنَّ وَتُـْٔوِىٓ إِلَيْكَ مَن تَشَآءُ ۖ وَمَنِ ٱبْتَغَيْتَ مِمَّنْ عَزَلْتَ فَلَا جُنَاحَ عَلَيْكَ ۚ ذَٰلِكَ أَدْنَىٰٓ أَن تَقَرَّ أَعْيُنُهُنَّ وَلَا يَحْزَنَّ وَيَرْضَيْنَ بِمَآ ءَاتَيْتَهُنَّ كُلُّهُنَّ ۚ وَٱللَّهُ يَعْلَمُ مَا فِى قُلُوبِكُمْ ۚ وَكَانَ ٱللَّهُ عَلِيمًا حَلِيمًا",
+      "text_imlaei": "تُرْجِي مَن تَشَاءُ مِنْهُنَّ وَتُؤْوِي إِلَيْكَ مَن تَشَاءُ ۖ وَمَنِ ابْتَغَيْتَ مِمَّنْ عَزَلْتَ فَلَا جُنَاحَ عَلَيْكَ ۚ ذَٰلِكَ أَدْنَىٰ أَن تَقَرَّ أَعْيُنُهُنَّ وَلَا يَحْزَنَّ وَيَرْضَيْنَ بِمَا آتَيْتَهُنَّ كُلُّهُنَّ ۚ وَاللَّهُ يَعْلَمُ مَا فِي قُلُوبِكُمْ ۚ وَكَانَ اللَّهُ عَلِيمًا حَلِيمًا",
+      "page_number": 425,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 98908,
+          "resource_id": 20,
+          "text": "You, [O Muḥammad], may put aside whom you will of them<sup foot_note=197103>1</sup> or take to yourself whom you will. And any that you desire of those [wives] from whom you had [temporarily] separated - there is no blame upon you [in returning her]. That is more suitable that they should be content and not grieve and that they should be satisfied with what you have given them - all of them. And Allāh knows what is in your hearts. And ever is Allāh Knowing and Forbearing."
+        },
+        {
+          "id": 1170180,
+          "resource_id": 213,
+          "text": "আপনি তাদের মধ্যে যাকে ইচ্ছে আপনার  কাছ থেকে দূরে রাখতে পারেন এবং যাকে ইচ্ছে আপনার কাছে স্থান দিতে  পারেন [১]। আর আপনি যাকে দূরে রেখেছেন তাকে কামনা করলে আপনার কোনো অপরাধ নেই [২]। এ বিধান এ জন্যে যে, এটা তাদের চোখ জুড়ানোর অধিক নিকটবর্তী এবং তারা দুঃখ পাবে না আর তাদেরকে আপনি যা দেবেন তাতে তাদের প্রত্যেকেই খুশী থাকবে [৩]।  আর তোমাদের অন্তরে যা আছে আল্লাহ তা জানেন এবং আল্লাহ সর্বজ্ঞ, সহনশীল।"
+        }
+      ]
+    },
+    {
+      "id": 3585,
+      "verse_number": 52,
+      "verse_key": "33:52",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 170,
+      "ruku_number": 368,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "لَّا يَحِلُّ لَكَ ٱلنِّسَآءُ مِنۢ بَعْدُ وَلَآ أَن تَبَدَّلَ بِهِنَّ مِنْ أَزْوَٰجٍ وَلَوْ أَعْجَبَكَ حُسْنُهُنَّ إِلَّا مَا مَلَكَتْ يَمِينُكَ ۗ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ رَّقِيبًا",
+      "text_imlaei": "لَّا يَحِلُّ لَكَ النِّسَاءُ مِن بَعْدُ وَلَا أَن تَبَدَّلَ بِهِنَّ مِنْ أَزْوَاجٍ وَلَوْ أَعْجَبَكَ حُسْنُهُنَّ إِلَّا مَا مَلَكَتْ يَمِينُكَ ۗ وَكَانَ اللَّهُ عَلَىٰ كُلِّ شَيْءٍ رَّقِيبًا",
+      "page_number": 425,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 98909,
+          "resource_id": 20,
+          "text": "Not lawful to you, [O Muḥammad], are [any additional] women after [this], nor [is it] for you to exchange them for [other] wives, even if their beauty were to please you, except what your right hand possesses. And ever is Allāh, over all things, an Observer.<sup foot_note=197104>1</sup>"
+        },
+        {
+          "id": 1170181,
+          "resource_id": 213,
+          "text": "এরপর আপনার জন্য কোনো নারী বৈধ  নয় এবং আপনার স্ত্রীদের পরিবর্তে অন্য স্ত্রী গ্রহণও বৈধ নয়, যদিও  তাদের সৌন্দর্য আপনাকে মুগ্ধ করে [১];  তবে আপনার অধিকারভুক্ত দাসীদের ব্যাপার ভিন্ন। আর আল্লাহ্ সবকিছুর উপর তীক্ষ পর্যবেক্ষণকারী।"
+        }
+      ]
+    },
+    {
+      "id": 3586,
+      "verse_number": 53,
+      "verse_key": "33:53",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 170,
+      "ruku_number": 369,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَدْخُلُوا۟ بُيُوتَ ٱلنَّبِىِّ إِلَّآ أَن يُؤْذَنَ لَكُمْ إِلَىٰ طَعَامٍ غَيْرَ نَـٰظِرِينَ إِنَىٰهُ وَلَـٰكِنْ إِذَا دُعِيتُمْ فَٱدْخُلُوا۟ فَإِذَا طَعِمْتُمْ فَٱنتَشِرُوا۟ وَلَا مُسْتَـْٔنِسِينَ لِحَدِيثٍ ۚ إِنَّ ذَٰلِكُمْ كَانَ يُؤْذِى ٱلنَّبِىَّ فَيَسْتَحْىِۦ مِنكُمْ ۖ وَٱللَّهُ لَا يَسْتَحْىِۦ مِنَ ٱلْحَقِّ ۚ وَإِذَا سَأَلْتُمُوهُنَّ مَتَـٰعًا فَسْـَٔلُوهُنَّ مِن وَرَآءِ حِجَابٍ ۚ ذَٰلِكُمْ أَطْهَرُ لِقُلُوبِكُمْ وَقُلُوبِهِنَّ ۚ وَمَا كَانَ لَكُمْ أَن تُؤْذُوا۟ رَسُولَ ٱللَّهِ وَلَآ أَن تَنكِحُوٓا۟ أَزْوَٰجَهُۥ مِنۢ بَعْدِهِۦٓ أَبَدًا ۚ إِنَّ ذَٰلِكُمْ كَانَ عِندَ ٱللَّهِ عَظِيمًا",
+      "text_imlaei": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَدْخُلُوا بُيُوتَ النَّبِيِّ إِلَّا أَن يُؤْذَنَ لَكُمْ إِلَىٰ طَعَامٍ غَيْرَ نَاظِرِينَ إِنَاهُ وَلَٰكِنْ إِذَا دُعِيتُمْ فَادْخُلُوا فَإِذَا طَعِمْتُمْ فَانتَشِرُوا وَلَا مُسْتَأْنِسِينَ لِحَدِيثٍ ۚ إِنَّ ذَٰلِكُمْ كَانَ يُؤْذِي النَّبِيَّ فَيَسْتَحْيِي مِنكُمْ ۖ وَاللَّهُ لَا يَسْتَحْيِي مِنَ الْحَقِّ ۚ وَإِذَا سَأَلْتُمُوهُنَّ مَتَاعًا فَاسْأَلُوهُنَّ مِن وَرَاءِ حِجَابٍ ۚ ذَٰلِكُمْ أَطْهَرُ لِقُلُوبِكُمْ وَقُلُوبِهِنَّ ۚ وَمَا كَانَ لَكُمْ أَن تُؤْذُوا رَسُولَ اللَّهِ وَلَا أَن تَنكِحُوا أَزْوَاجَهُ مِن بَعْدِهِ أَبَدًا ۚ إِنَّ ذَٰلِكُمْ كَانَ عِندَ اللَّهِ عَظِيمًا",
+      "page_number": 425,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 98910,
+          "resource_id": 20,
+          "text": "O you who have believed, do not enter the houses of the Prophet except when you are permitted for a meal, without awaiting its readiness. But when you are invited, then enter; and when you have eaten, disperse without seeking to remain for conversation. Indeed, that [behavior] was troubling the Prophet, and he is shy of [dismissing] you. But Allāh is not shy of the truth. And when you ask [his wives] for something, ask them from behind a partition. That is purer for your hearts and their hearts. And it is not [conceivable or lawful] for you to harm the Messenger of Allāh or to marry his wives after him, ever. Indeed, that would be in the sight of Allāh an enormity."
+        },
+        {
+          "id": 1170182,
+          "resource_id": 213,
+          "text": "হে ঈমানদারগণ! তোমাদেরকে অনুমতি দেয়া না হলে তোমরা খাবার- দাবার তৈরীর জন্য অপেক্ষা না করে খাওয়ার জন্য নবীর ঘরে প্রবেশ করো না। তবে তোমাদেরকে ডাকা হলে তোমরা প্ৰবেশ করো, তারপর খাওয়া শেষে তোমরা চলে যেও; তোমরা কথাবার্তায় মশগুল হয়ে পড়ো না। নিশ্চয় তোমাদের এ আচরণ নবীকে কষ্ট দেয়, কারণ তিনি তোমাদের ব্যাপারে (উঠিয়ে দিতে) সংকোচ বোধ করেন। কিন্তু আল্লাহ সত্য বলতে সংকোচ বোধ করেন না [১]। তোমরা তার পত্নীদের কাছ থেকে কিছু চাইলে পর্দার আড়াল থেকে চাইবে। এ বিধান তোমাদের ও তাদের হৃদয়ের জন্য বেশী পবিত্ৰ [২]। আর তোমাদের কারো পক্ষে আল্লাহর রাসূলকে কষ্ট দেয়া সংগত নয় এবং তার মৃত্যুর পর তার স্ত্রীদেরকে বিয়ে করাও তোমাদের জন্য কখনো বৈধ নয়। নিশ্চয় আল্লাহর কাছে এটা গুরুতর অপরাধ।"
+        }
+      ]
+    },
+    {
+      "id": 3587,
+      "verse_number": 54,
+      "verse_key": "33:54",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 170,
+      "ruku_number": 369,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "إِن تُبْدُوا۟ شَيْـًٔا أَوْ تُخْفُوهُ فَإِنَّ ٱللَّهَ كَانَ بِكُلِّ شَىْءٍ عَلِيمًا",
+      "text_imlaei": "إِن تُبْدُوا شَيْئًا أَوْ تُخْفُوهُ فَإِنَّ اللَّهَ كَانَ بِكُلِّ شَيْءٍ عَلِيمًا",
+      "page_number": 425,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 98911,
+          "resource_id": 20,
+          "text": "Whether you reveal a thing or conceal it, indeed Allāh is ever, of all things, Knowing."
+        },
+        {
+          "id": 1170183,
+          "resource_id": 213,
+          "text": "যদি তোমরা কোনো কিছু প্রকাশ কর অথবা তা গোপন রাখ (তবে জেনে রাখ) নিশ্চয় আল্লাহ্  সবকিছু সম্পর্কে সর্বজ্ঞ।"
+        }
+      ]
+    },
+    {
+      "id": 3588,
+      "verse_number": 55,
+      "verse_key": "33:55",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 170,
+      "ruku_number": 369,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "لَّا جُنَاحَ عَلَيْهِنَّ فِىٓ ءَابَآئِهِنَّ وَلَآ أَبْنَآئِهِنَّ وَلَآ إِخْوَٰنِهِنَّ وَلَآ أَبْنَآءِ إِخْوَٰنِهِنَّ وَلَآ أَبْنَآءِ أَخَوَٰتِهِنَّ وَلَا نِسَآئِهِنَّ وَلَا مَا مَلَكَتْ أَيْمَـٰنُهُنَّ ۗ وَٱتَّقِينَ ٱللَّهَ ۚ إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَىْءٍ شَهِيدًا",
+      "text_imlaei": "لَّا جُنَاحَ عَلَيْهِنَّ فِي آبَائِهِنَّ وَلَا أَبْنَائِهِنَّ وَلَا إِخْوَانِهِنَّ وَلَا أَبْنَاءِ إِخْوَانِهِنَّ وَلَا أَبْنَاءِ أَخَوَاتِهِنَّ وَلَا نِسَائِهِنَّ وَلَا مَا مَلَكَتْ أَيْمَانُهُنَّ ۗ وَاتَّقِينَ اللَّهَ ۚ إِنَّ اللَّهَ كَانَ عَلَىٰ كُلِّ شَيْءٍ شَهِيدًا",
+      "page_number": 426,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 98912,
+          "resource_id": 20,
+          "text": "There is no blame upon them [i.e., women] concerning their fathers or their sons or their brothers or their brothers' sons or their sisters' sons or their women or those their right hands possess [i.e., slaves].<sup foot_note=197105>1</sup> And fear Allāh. Indeed Allāh is ever, over all things, Witness."
+        },
+        {
+          "id": 1170184,
+          "resource_id": 213,
+          "text": "নবী-স্ত্রীদের জন্য তাদের পিতাগণ, পুত্ৰগণ, ভাইগণ, ভাইয়ের ছেলেরা,  বোনের ছেলেরা, আপন নারীগণ এবং তাদের অধিকারভুক্ত দাস-দাসীগণের ব্যাপারে তা [১] পালন না করা অপরাধ নয়। আর হে নবী-স্ত্রীগণ! তোমরা আল্লাহর তাকওয়া অবলম্বন কর। নিশ্চয় আল্লাহ্ সবকিছুর উপর সম্যক প্রত্যক্ষদর্শী।"
+        }
+      ]
+    },
+    {
+      "id": 3589,
+      "verse_number": 56,
+      "verse_key": "33:56",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 170,
+      "ruku_number": 369,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ ٱللَّهَ وَمَلَـٰٓئِكَتَهُۥ يُصَلُّونَ عَلَى ٱلنَّبِىِّ ۚ يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ صَلُّوا۟ عَلَيْهِ وَسَلِّمُوا۟ تَسْلِيمًا",
+      "text_imlaei": "إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ ۚ يَا أَيُّهَا الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلِيمًا",
+      "page_number": 426,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 98913,
+          "resource_id": 20,
+          "text": "Indeed, Allāh confers blessing upon the Prophet, and His angels [ask Him to do so]. O you who have believed, ask [Allāh to confer] blessing upon him and ask [Allāh to grant him] peace."
+        },
+        {
+          "id": 1170185,
+          "resource_id": 213,
+          "text": "নিশ্চয় আল্লাহ নবীর প্রশংসা করেন  এবং তাঁর ফেরেশতাগণ নবীর জন্য  দোআ-ইসতেগফার করেন [১]। হে ঈমানদারগণ! তোমরাও নবীর উপর সালাত [২] পাঠ কর এবং তাকে যথাযথভাবে সালাম [৩] জানাও।"
+        }
+      ]
+    },
+    {
+      "id": 3590,
+      "verse_number": 57,
+      "verse_key": "33:57",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 170,
+      "ruku_number": 369,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ ٱلَّذِينَ يُؤْذُونَ ٱللَّهَ وَرَسُولَهُۥ لَعَنَهُمُ ٱللَّهُ فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ وَأَعَدَّ لَهُمْ عَذَابًا مُّهِينًا",
+      "text_imlaei": "إِنَّ الَّذِينَ يُؤْذُونَ اللَّهَ وَرَسُولَهُ لَعَنَهُمُ اللَّهُ فِي الدُّنْيَا وَالْآخِرَةِ وَأَعَدَّ لَهُمْ عَذَابًا مُّهِينًا",
+      "page_number": 426,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 98914,
+          "resource_id": 20,
+          "text": "Indeed, those who abuse Allāh and His Messenger - Allāh has cursed them in this world and the Hereafter and prepared for them a humiliating punishment."
+        },
+        {
+          "id": 1170186,
+          "resource_id": 213,
+          "text": "নিশ্চয় যারা আল্লাহ্ ও তাঁর রাসূলকে কষ্ট দেয়, আল্লাহ্ তাদেরকে দুনিয়া ও আখিরাতে লা'নত করেন এবং তিনি তাদের জন্য প্রস্তুত রেখেছেন লাঞ্চনাদায়ক শাস্তি [১]।"
+        }
+      ]
+    },
+    {
+      "id": 3591,
+      "verse_number": 58,
+      "verse_key": "33:58",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 170,
+      "ruku_number": 369,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلَّذِينَ يُؤْذُونَ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ بِغَيْرِ مَا ٱكْتَسَبُوا۟ فَقَدِ ٱحْتَمَلُوا۟ بُهْتَـٰنًا وَإِثْمًا مُّبِينًا",
+      "text_imlaei": "وَالَّذِينَ يُؤْذُونَ الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ بِغَيْرِ مَا اكْتَسَبُوا فَقَدِ احْتَمَلُوا بُهْتَانًا وَإِثْمًا مُّبِينًا",
+      "page_number": 426,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 98915,
+          "resource_id": 20,
+          "text": "And those who harm believing men and believing women for [something] other than what they have earned [i.e., deserved] have certainly borne upon themselves a slander and manifest sin."
+        },
+        {
+          "id": 1170187,
+          "resource_id": 213,
+          "text": "আর যারা মুমিন পুরুষ ও মুমিন নারীদেরকে কষ্ট দেয় যা তারা করেনি তার জন্য; নিশ্চয় তারা অপবাদ ও স্পষ্ট পাপের বোঝা বহন করলো [১]।"
+        }
+      ]
+    },
+    {
+      "id": 3592,
+      "verse_number": 59,
+      "verse_key": "33:59",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 170,
+      "ruku_number": 370,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ قُل لِّأَزْوَٰجِكَ وَبَنَاتِكَ وَنِسَآءِ ٱلْمُؤْمِنِينَ يُدْنِينَ عَلَيْهِنَّ مِن جَلَـٰبِيبِهِنَّ ۚ ذَٰلِكَ أَدْنَىٰٓ أَن يُعْرَفْنَ فَلَا يُؤْذَيْنَ ۗ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا",
+      "text_imlaei": "يَا أَيُّهَا النَّبِيُّ قُل لِّأَزْوَاجِكَ وَبَنَاتِكَ وَنِسَاءِ الْمُؤْمِنِينَ يُدْنِينَ عَلَيْهِنَّ مِن جَلَابِيبِهِنَّ ۚ ذَٰلِكَ أَدْنَىٰ أَن يُعْرَفْنَ فَلَا يُؤْذَيْنَ ۗ وَكَانَ اللَّهُ غَفُورًا رَّحِيمًا",
+      "page_number": 426,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 98916,
+          "resource_id": 20,
+          "text": "O Prophet, tell your wives and your daughters and the women of the believers to bring down over themselves [part] of their outer garments.<sup foot_note=197108>1</sup> That is more suitable that they will be known<sup foot_note=197107>2</sup> and not be abused. And ever is Allāh Forgiving and Merciful.<sup foot_note=197106>3</sup>"
+        },
+        {
+          "id": 1170188,
+          "resource_id": 213,
+          "text": "হে নবী! আপনি আপনার স্ত্রীদেরকে, কন্যাদেরকে ও মুমিনদের নারীদেরকে বলুন, তারা যেন তাদের চাদরের কিছু অংশ নিজেদের উপর টেনে দেয় [১]।  এতে তাদেরকে চেনা সহজতর হবে  ফলে তাদেরকে উত্যক্ত করা হবে না [২]। আর আল্লাহ ক্ষমাশীল, পরম দয়ালু।"
+        }
+      ]
+    },
+    {
+      "id": 3593,
+      "verse_number": 60,
+      "verse_key": "33:60",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 171,
+      "ruku_number": 370,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "۞ لَّئِن لَّمْ يَنتَهِ ٱلْمُنَـٰفِقُونَ وَٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ وَٱلْمُرْجِفُونَ فِى ٱلْمَدِينَةِ لَنُغْرِيَنَّكَ بِهِمْ ثُمَّ لَا يُجَاوِرُونَكَ فِيهَآ إِلَّا قَلِيلًا",
+      "text_imlaei": "لَّئِن لَّمْ يَنتَهِ الْمُنَافِقُونَ وَالَّذِينَ فِي قُلُوبِهِم مَّرَضٌ وَالْمُرْجِفُونَ فِي الْمَدِينَةِ لَنُغْرِيَنَّكَ بِهِمْ ثُمَّ لَا يُجَاوِرُونَكَ فِيهَا إِلَّا قَلِيلًا",
+      "page_number": 426,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 98919,
+          "resource_id": 20,
+          "text": "If the hypocrites and those in whose hearts is disease<sup foot_note=197109>1</sup> and those who spread rumors in al-Madīnah do not cease, We will surely incite you against them; then they will not remain your neighbors therein except for a little,"
+        },
+        {
+          "id": 1170189,
+          "resource_id": 213,
+          "text": "মুনাফিকরা এবং যাদের অন্তরে ব্যাধি আছে আর যারা নগরে গুজব রটনা করে, তারা বিরত না হলে আমরা অবশ্যই তাদের বিরুদ্ধে আপনাকে প্ৰবল করব; এরপর এ নগরীতে আপনার প্রতিবেশীরূপে তারা স্বল্প সময়ই থাকবে---"
+        }
+      ]
+    },
+    {
+      "id": 3594,
+      "verse_number": 61,
+      "verse_key": "33:61",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 171,
+      "ruku_number": 370,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "مَّلْعُونِينَ ۖ أَيْنَمَا ثُقِفُوٓا۟ أُخِذُوا۟ وَقُتِّلُوا۟ تَقْتِيلًا",
+      "text_imlaei": "مَّلْعُونِينَ ۖ أَيْنَمَا ثُقِفُوا أُخِذُوا وَقُتِّلُوا تَقْتِيلًا",
+      "page_number": 426,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 98920,
+          "resource_id": 20,
+          "text": "Accursed wherever they are found, [being] seized and massacred completely."
+        },
+        {
+          "id": 1170190,
+          "resource_id": 213,
+          "text": "অভিশপ্ত হয়ে; তাদেরকে যেখানেই পাওয়া যাবে সেখানেই ধরা হবে এবং নির্দয়ভাবে হত্যা করা হবে [১]।"
+        }
+      ]
+    },
+    {
+      "id": 3595,
+      "verse_number": 62,
+      "verse_key": "33:62",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 171,
+      "ruku_number": 370,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "سُنَّةَ ٱللَّهِ فِى ٱلَّذِينَ خَلَوْا۟ مِن قَبْلُ ۖ وَلَن تَجِدَ لِسُنَّةِ ٱللَّهِ تَبْدِيلًا",
+      "text_imlaei": "سُنَّةَ اللَّهِ فِي الَّذِينَ خَلَوْا مِن قَبْلُ ۖ وَلَن تَجِدَ لِسُنَّةِ اللَّهِ تَبْدِيلًا",
+      "page_number": 426,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 98921,
+          "resource_id": 20,
+          "text": "[This is] the established way of Allāh with those who passed on before; and you will not find in the way of Allāh any change."
+        },
+        {
+          "id": 1170191,
+          "resource_id": 213,
+          "text": "আগে যারা অতীত হয়ে গেছে তাদের ব্যাপারে এটাই ছিল আল্লাহর রীতি। আর আপনি কখনো আল্লাহর রীতিতে কোনো পরিবর্তন পাবেন না।"
+        }
+      ]
+    },
+    {
+      "id": 3596,
+      "verse_number": 63,
+      "verse_key": "33:63",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 171,
+      "ruku_number": 370,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "يَسْـَٔلُكَ ٱلنَّاسُ عَنِ ٱلسَّاعَةِ ۖ قُلْ إِنَّمَا عِلْمُهَا عِندَ ٱللَّهِ ۚ وَمَا يُدْرِيكَ لَعَلَّ ٱلسَّاعَةَ تَكُونُ قَرِيبًا",
+      "text_imlaei": "يَسْأَلُكَ النَّاسُ عَنِ السَّاعَةِ ۖ قُلْ إِنَّمَا عِلْمُهَا عِندَ اللَّهِ ۚ وَمَا يُدْرِيكَ لَعَلَّ السَّاعَةَ تَكُونُ قَرِيبًا",
+      "page_number": 427,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 98922,
+          "resource_id": 20,
+          "text": "People ask you concerning the Hour. Say, \"Knowledge of it is only with Allāh. And what may make you perceive? Perhaps the Hour is near.\""
+        },
+        {
+          "id": 1170192,
+          "resource_id": 213,
+          "text": "লোকেরা আপনাকে কিয়ামত সম্পর্কে জিজ্ঞেস করে। বলুন, 'এর জ্ঞান শুধু আল্লাহর নিকটই আছে।' আর কিসে আপনাকে জানাবে, সম্ভবত কিয়ামত শীঘ্রই হয়ে যেতে পারে?"
+        }
+      ]
+    },
+    {
+      "id": 3597,
+      "verse_number": 64,
+      "verse_key": "33:64",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 171,
+      "ruku_number": 370,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ ٱللَّهَ لَعَنَ ٱلْكَـٰفِرِينَ وَأَعَدَّ لَهُمْ سَعِيرًا",
+      "text_imlaei": "إِنَّ اللَّهَ لَعَنَ الْكَافِرِينَ وَأَعَدَّ لَهُمْ سَعِيرًا",
+      "page_number": 427,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 98923,
+          "resource_id": 20,
+          "text": "Indeed, Allāh has cursed the disbelievers and prepared for them a Blaze."
+        },
+        {
+          "id": 1170193,
+          "resource_id": 213,
+          "text": "নিশ্চয় আল্লাহ্ কাফিরদেরকে করেছেন অভিশপ্ত এবং তাদের জন্য প্ৰস্তুত রেখেছেন জ্বলন্ত আগুন;"
+        }
+      ]
+    },
+    {
+      "id": 3598,
+      "verse_number": 65,
+      "verse_key": "33:65",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 171,
+      "ruku_number": 370,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "خَـٰلِدِينَ فِيهَآ أَبَدًا ۖ لَّا يَجِدُونَ وَلِيًّا وَلَا نَصِيرًا",
+      "text_imlaei": "خَالِدِينَ فِيهَا أَبَدًا ۖ لَّا يَجِدُونَ وَلِيًّا وَلَا نَصِيرًا",
+      "page_number": 427,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 98924,
+          "resource_id": 20,
+          "text": "Abiding therein forever, they will not find a protector or a helper."
+        },
+        {
+          "id": 1170194,
+          "resource_id": 213,
+          "text": "সেখানে তারা চিরস্থায়ী হবে এবং তারা কোনো অভিভাবক পাবে না, কোনো সাহায্যকারীও নয়।"
+        }
+      ]
+    },
+    {
+      "id": 3599,
+      "verse_number": 66,
+      "verse_key": "33:66",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 171,
+      "ruku_number": 370,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "يَوْمَ تُقَلَّبُ وُجُوهُهُمْ فِى ٱلنَّارِ يَقُولُونَ يَـٰلَيْتَنَآ أَطَعْنَا ٱللَّهَ وَأَطَعْنَا ٱلرَّسُولَا۠",
+      "text_imlaei": "يَوْمَ تُقَلَّبُ وُجُوهُهُمْ فِي النَّارِ يَقُولُونَ يَا لَيْتَنَا أَطَعْنَا اللَّهَ وَأَطَعْنَا الرَّسُولَا",
+      "page_number": 427,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 98925,
+          "resource_id": 20,
+          "text": "The Day their faces will be turned about in the Fire, they will say, \"How we wish we had obeyed Allāh and obeyed the Messenger.\""
+        },
+        {
+          "id": 1170195,
+          "resource_id": 213,
+          "text": "যেদিন তাদের মুখমণ্ডল আগুনে উলট-পালট করা হবে, সেদিন তারা বলবে, 'হায়! আমরা যদি আল্লাহ্‌কে মানতাম আর রাসূলকে মানতাম!'"
+        }
+      ]
+    },
+    {
+      "id": 3600,
+      "verse_number": 67,
+      "verse_key": "33:67",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 171,
+      "ruku_number": 370,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "وَقَالُوا۟ رَبَّنَآ إِنَّآ أَطَعْنَا سَادَتَنَا وَكُبَرَآءَنَا فَأَضَلُّونَا ٱلسَّبِيلَا۠",
+      "text_imlaei": "وَقَالُوا رَبَّنَا إِنَّا أَطَعْنَا سَادَتَنَا وَكُبَرَاءَنَا فَأَضَلُّونَا السَّبِيلَا",
+      "page_number": 427,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 98926,
+          "resource_id": 20,
+          "text": "And they will say, \"Our Lord, indeed we obeyed our masters and our dignitaries,<sup foot_note=197110>1</sup> and they led us astray from the [right] way."
+        },
+        {
+          "id": 1170196,
+          "resource_id": 213,
+          "text": "তারা আরো বলবে, 'হে আমাদের রব! আমরা আমাদের নেতা ও বড় লোকদের আনুগত্য করেছিলাম এবং তারা আমাদেরকে পথভ্রষ্ট করেছিল;"
+        }
+      ]
+    },
+    {
+      "id": 3601,
+      "verse_number": 68,
+      "verse_key": "33:68",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 171,
+      "ruku_number": 370,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "رَبَّنَآ ءَاتِهِمْ ضِعْفَيْنِ مِنَ ٱلْعَذَابِ وَٱلْعَنْهُمْ لَعْنًا كَبِيرًا",
+      "text_imlaei": "رَبَّنَا آتِهِمْ ضِعْفَيْنِ مِنَ الْعَذَابِ وَالْعَنْهُمْ لَعْنًا كَبِيرًا",
+      "page_number": 427,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 98927,
+          "resource_id": 20,
+          "text": "Our Lord, give them double the punishment and curse them with a great curse.\""
+        },
+        {
+          "id": 1170197,
+          "resource_id": 213,
+          "text": "'হে আমাদের রব! আপনি তাদেরকে দ্বিগুণ শাস্তি দিন এবং তাদেরকে দিন মহাঅভিসম্পাত।'"
+        }
+      ]
+    },
+    {
+      "id": 3602,
+      "verse_number": 69,
+      "verse_key": "33:69",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 171,
+      "ruku_number": 371,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَكُونُوا۟ كَٱلَّذِينَ ءَاذَوْا۟ مُوسَىٰ فَبَرَّأَهُ ٱللَّهُ مِمَّا قَالُوا۟ ۚ وَكَانَ عِندَ ٱللَّهِ وَجِيهًا",
+      "text_imlaei": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَكُونُوا كَالَّذِينَ آذَوْا مُوسَىٰ فَبَرَّأَهُ اللَّهُ مِمَّا قَالُوا ۚ وَكَانَ عِندَ اللَّهِ وَجِيهًا",
+      "page_number": 427,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 98928,
+          "resource_id": 20,
+          "text": "O you who have believed, be not like those who abused Moses; then Allāh cleared him of what they said. And he, in the sight of Allāh, was distinguished."
+        },
+        {
+          "id": 1170198,
+          "resource_id": 213,
+          "text": "হে ঈমানদারগণ! মূসাকে যারা কষ্ট দিয়েছে তোমরা তাদের মত হয়ো না; অতঃপর তারা যা রটনা করেছিল আল্লাহ তা থেকে তাকে নির্দোষ প্রমাণিত করেন [১]; আর তিনি ছিলেন  আল্লাহর নিকট মর্যাদাবান [২]।"
+        }
+      ]
+    },
+    {
+      "id": 3603,
+      "verse_number": 70,
+      "verse_key": "33:70",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 171,
+      "ruku_number": 371,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَقُولُوا۟ قَوْلًا سَدِيدًا",
+      "text_imlaei": "يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَقُولُوا قَوْلًا سَدِيدًا",
+      "page_number": 427,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 98931,
+          "resource_id": 20,
+          "text": "O you who have believed, fear Allāh and speak words of appropriate justice."
+        },
+        {
+          "id": 1170199,
+          "resource_id": 213,
+          "text": "হে ঈমানদারগণ! তোমরা আল্লাহর  তাকওয়া অবলম্বন কর এবং সঠিক কথা বল [১];"
+        }
+      ]
+    },
+    {
+      "id": 3604,
+      "verse_number": 71,
+      "verse_key": "33:71",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 171,
+      "ruku_number": 371,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "يُصْلِحْ لَكُمْ أَعْمَـٰلَكُمْ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ ۗ وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ فَقَدْ فَازَ فَوْزًا عَظِيمًا",
+      "text_imlaei": "يُصْلِحْ لَكُمْ أَعْمَالَكُمْ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ ۗ وَمَن يُطِعِ اللَّهَ وَرَسُولَهُ فَقَدْ فَازَ فَوْزًا عَظِيمًا",
+      "page_number": 427,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 98932,
+          "resource_id": 20,
+          "text": "He will [then] amend for you your deeds and forgive you your sins. And whoever obeys Allāh and His Messenger has certainly attained a great attainment."
+        },
+        {
+          "id": 1170200,
+          "resource_id": 213,
+          "text": "তাহলে তিনি তোমাদের জন্য তোমাদের কাজ সংশোধন করবেন এবং তোমাদের পাপ ক্ষমা করবেন [১]।  আর যে ব্যক্তি আল্লাহ্ ও তাঁর রাসূলের আনুগত্য করে, সে অবশ্যই মহাসাফল্য অর্জন করবে।"
+        }
+      ]
+    },
+    {
+      "id": 3605,
+      "verse_number": 72,
+      "verse_key": "33:72",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 171,
+      "ruku_number": 371,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّا عَرَضْنَا ٱلْأَمَانَةَ عَلَى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَٱلْجِبَالِ فَأَبَيْنَ أَن يَحْمِلْنَهَا وَأَشْفَقْنَ مِنْهَا وَحَمَلَهَا ٱلْإِنسَـٰنُ ۖ إِنَّهُۥ كَانَ ظَلُومًا جَهُولًا",
+      "text_imlaei": "إِنَّا عَرَضْنَا الْأَمَانَةَ عَلَى السَّمَاوَاتِ وَالْأَرْضِ وَالْجِبَالِ فَأَبَيْنَ أَن يَحْمِلْنَهَا وَأَشْفَقْنَ مِنْهَا وَحَمَلَهَا الْإِنسَانُ ۖ إِنَّهُ كَانَ ظَلُومًا جَهُولًا",
+      "page_number": 427,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 98933,
+          "resource_id": 20,
+          "text": "Indeed, We offered the Trust<sup foot_note=197112>1</sup> to the heavens and the earth and the mountains, and they declined to bear it and feared it; but man [undertook to] bear it. Indeed, he was unjust and ignorant.<sup foot_note=197111>2</sup>"
+        },
+        {
+          "id": 1170201,
+          "resource_id": 213,
+          "text": "আমরা তো আসমান, যমীন ও পর্বতমালার প্রতি এ আমানত [১] পেশ করেছিলাম, কিন্তু তারা এটা বহন করতে অস্বীকার করল এবং তাতে শংকিত হল, আর মানুষ তা বহন করল; সে অত্যন্ত যালিম, খুবই অজ্ঞ [২]।"
+        }
+      ]
+    },
+    {
+      "id": 3606,
+      "verse_number": 73,
+      "verse_key": "33:73",
+      "hizb_number": 43,
+      "rub_el_hizb_number": 171,
+      "ruku_number": 371,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "text_uthmani": "لِّيُعَذِّبَ ٱللَّهُ ٱلْمُنَـٰفِقِينَ وَٱلْمُنَـٰفِقَـٰتِ وَٱلْمُشْرِكِينَ وَٱلْمُشْرِكَـٰتِ وَيَتُوبَ ٱللَّهُ عَلَى ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ ۗ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًۢا",
+      "text_imlaei": "لِّيُعَذِّبَ اللَّهُ الْمُنَافِقِينَ وَالْمُنَافِقَاتِ وَالْمُشْرِكِينَ وَالْمُشْرِكَاتِ وَيَتُوبَ اللَّهُ عَلَى الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ ۗ وَكَانَ اللَّهُ غَفُورًا رَّحِيمًا",
+      "page_number": 427,
+      "juz_number": 22,
+      "translations": [
+        {
+          "id": 98934,
+          "resource_id": 20,
+          "text": "[It<sup foot_note=197113>1</sup> was] so that Allāh may punish the hypocrite men and hypocrite women and the men and women who associate others with Him and that Allāh may accept repentance from the believing men and believing women. And ever is Allāh Forgiving and Merciful."
+        },
+        {
+          "id": 1170202,
+          "resource_id": 213,
+          "text": "যাতে আল্লাহ্  মুনাফিক পুরুষ ও মুনাফিক নারী এবং মুশরিক পুরুষ ও মুশরিক নারীকে শাস্তি দেন এবং মুমিন পুরুষ ও মুমিন নারীকে ক্ষমা করেন। আর আল্লাহ্ অত্যন্ত ক্ষমাশীল, পরম দয়ালু।"
+        }
+      ]
+    }
+  ],
+  "audio_metadata": {
+    "audio_file": {
+      "id": 975,
+      "chapter_id": 33,
+      "file_size": 28123264.0,
+      "format": "mp3",
+      "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/33.mp3"
+    }
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "metadata": {
+    "surah_number": 107,
+    "scraped_at": "2025-10-30T05:16:02.723332",
+    "source": "api.quran.com",
+    "version": "1.0",
+    "translation_ids": [
+      213,
+      20
+    ]
+  },
+  "license": {
+    "text": {
+      "source": "api.quran.com",
+      "license": "Public Domain",
+      "attribution": "The Quran text is in the public domain",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:16:02.723332"
+    },
+    "translations": {
+      "source": "api.quran.com",
+      "license": "Various - See individual translation licenses",
+      "attribution": "Translation copyrights belong to respective translators",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:16:02.723332"
+    },
+    "audio": {
+      "source": "everyayah.com via api.quran.com",
+      "license": "Free for non-commercial use",
+      "attribution": "Audio recitations courtesy of everyayah.com",
+      "terms_url": "https://everyayah.com/",
+      "note": "Audio URLs provided - not downloaded locally due to size",
+      "fetched_at": "2025-10-30T05:16:02.723332"
+    }
+  },
+  "translation_metadata": {
+    "213": {
+      "name": "Abdul Hafeez & Mohammed Abdul Haq",
+      "author": "Abdul Hafeez, Mohammed Abdul Haq",
+      "language": "te",
+      "language_name": "Telugu",
+      "license": "Various",
+      "source": "api.quran.com"
+    },
+    "20": {
+      "name": "Saheeh International",
+      "author": "Saheeh International",
+      "language": "en",
+      "language_name": "English",
+      "license": "Public Domain",
+      "source": "api.quran.com"
+    }
+  },
+  "surah_info": {
+    "id": 107,
+    "revelation_place": "makkah",
+    "revelation_order": 17,
+    "bismillah_pre": true,
+    "name_simple": "Al-Ma'un",
+    "name_complex": "Al-Mā`ūn",
+    "name_arabic": "الماعون",
+    "verses_count": 7,
+    "pages": [
+      602,
+      602
+    ],
+    "translated_name": {
+      "language_name": "english",
+      "name": "The Small kindnesses"
+    }
+  },
+  "verses": [
+    {
+      "id": 6198,
+      "verse_number": 1,
+      "verse_key": "107:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 551,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ بِٱلدِّينِ",
+      "text_imlaei": "أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ",
+      "page_number": 602,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96295,
+          "resource_id": 20,
+          "text": "Have you seen the one who denies the Recompense?"
+        },
+        {
+          "id": 1172794,
+          "resource_id": 213,
+          "text": "আপনি কি দেখেছেন [১] তাকে, যে দীনকে [২] অস্বীকার করে?"
+        }
+      ]
+    },
+    {
+      "id": 6199,
+      "verse_number": 2,
+      "verse_key": "107:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 551,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَذَٰلِكَ ٱلَّذِى يَدُعُّ ٱلْيَتِيمَ",
+      "text_imlaei": "فَذَٰلِكَ الَّذِي يَدُعُّ الْيَتِيمَ",
+      "page_number": 602,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96297,
+          "resource_id": 20,
+          "text": "For that is the one who drives away the orphan"
+        },
+        {
+          "id": 1172795,
+          "resource_id": 213,
+          "text": "সে তো সে-ই, যে ইয়াতীমকে রূঢ়ভাবে তাড়িয়ে দেয় [১]"
+        }
+      ]
+    },
+    {
+      "id": 6200,
+      "verse_number": 3,
+      "verse_key": "107:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 551,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+      "text_imlaei": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ",
+      "page_number": 602,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96299,
+          "resource_id": 20,
+          "text": "And does not encourage the feeding of the poor."
+        },
+        {
+          "id": 1172796,
+          "resource_id": 213,
+          "text": "আর সে উদ্ধুদ্ধ করে না [১] মিসকীনদের খাদ্য দানে।"
+        }
+      ]
+    },
+    {
+      "id": 6201,
+      "verse_number": 4,
+      "verse_key": "107:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 551,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَوَيْلٌ لِّلْمُصَلِّينَ",
+      "text_imlaei": "فَوَيْلٌ لِّلْمُصَلِّينَ",
+      "page_number": 602,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96301,
+          "resource_id": 20,
+          "text": "So woe to those who pray"
+        },
+        {
+          "id": 1172797,
+          "resource_id": 213,
+          "text": "কাজেই দুর্ভোগ সে সালাত আদায়কারীদের,"
+        }
+      ]
+    },
+    {
+      "id": 6202,
+      "verse_number": 5,
+      "verse_key": "107:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 551,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ",
+      "text_imlaei": "الَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ",
+      "page_number": 602,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96303,
+          "resource_id": 20,
+          "text": "[But] who are heedless of their prayer<sup foot_note=197823>1</sup> -"
+        },
+        {
+          "id": 1172798,
+          "resource_id": 213,
+          "text": "যারা তাদের সালাত সম্বন্ধে উদাসীন,"
+        }
+      ]
+    },
+    {
+      "id": 6203,
+      "verse_number": 6,
+      "verse_key": "107:6",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 551,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِينَ هُمْ يُرَآءُونَ",
+      "text_imlaei": "الَّذِينَ هُمْ يُرَاءُونَ",
+      "page_number": 602,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96305,
+          "resource_id": 20,
+          "text": "Those who make show [of their deeds]"
+        },
+        {
+          "id": 1172799,
+          "resource_id": 213,
+          "text": "যারা লোক দেখানোর জন্য তা করে [১]"
+        }
+      ]
+    },
+    {
+      "id": 6204,
+      "verse_number": 7,
+      "verse_key": "107:7",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 551,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَيَمْنَعُونَ ٱلْمَاعُونَ",
+      "text_imlaei": "وَيَمْنَعُونَ الْمَاعُونَ",
+      "page_number": 602,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96307,
+          "resource_id": 20,
+          "text": "And withhold [simple] assistance."
+        },
+        {
+          "id": 1172800,
+          "resource_id": 213,
+          "text": "এবং মা‘উন [১] প্ৰদান করতে বিরত থাকে।"
+        }
+      ]
+    }
+  ],
+  "audio_metadata": {
+    "audio_file": {
+      "id": 1123,
+      "chapter_id": 107,
+      "file_size": 929920.0,
+      "format": "mp3",
+      "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/107.mp3"
+    }
+  }
+}

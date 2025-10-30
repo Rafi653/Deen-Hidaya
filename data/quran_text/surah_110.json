@@ -1,0 +1,161 @@
+{
+  "metadata": {
+    "surah_number": 110,
+    "scraped_at": "2025-10-30T05:16:08.563458",
+    "source": "api.quran.com",
+    "version": "1.0",
+    "translation_ids": [
+      213,
+      20
+    ]
+  },
+  "license": {
+    "text": {
+      "source": "api.quran.com",
+      "license": "Public Domain",
+      "attribution": "The Quran text is in the public domain",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:16:08.563458"
+    },
+    "translations": {
+      "source": "api.quran.com",
+      "license": "Various - See individual translation licenses",
+      "attribution": "Translation copyrights belong to respective translators",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:16:08.563458"
+    },
+    "audio": {
+      "source": "everyayah.com via api.quran.com",
+      "license": "Free for non-commercial use",
+      "attribution": "Audio recitations courtesy of everyayah.com",
+      "terms_url": "https://everyayah.com/",
+      "note": "Audio URLs provided - not downloaded locally due to size",
+      "fetched_at": "2025-10-30T05:16:08.563458"
+    }
+  },
+  "translation_metadata": {
+    "213": {
+      "name": "Abdul Hafeez & Mohammed Abdul Haq",
+      "author": "Abdul Hafeez, Mohammed Abdul Haq",
+      "language": "te",
+      "language_name": "Telugu",
+      "license": "Various",
+      "source": "api.quran.com"
+    },
+    "20": {
+      "name": "Saheeh International",
+      "author": "Saheeh International",
+      "language": "en",
+      "language_name": "English",
+      "license": "Public Domain",
+      "source": "api.quran.com"
+    }
+  },
+  "surah_info": {
+    "id": 110,
+    "revelation_place": "madinah",
+    "revelation_order": 114,
+    "bismillah_pre": true,
+    "name_simple": "An-Nasr",
+    "name_complex": "An-Naşr",
+    "name_arabic": "النصر",
+    "verses_count": 3,
+    "pages": [
+      603,
+      603
+    ],
+    "translated_name": {
+      "language_name": "english",
+      "name": "The Divine Support"
+    }
+  },
+  "verses": [
+    {
+      "id": 6214,
+      "verse_number": 1,
+      "verse_key": "110:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 554,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ",
+      "text_imlaei": "إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ",
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96344,
+          "resource_id": 20,
+          "text": "When the victory of Allāh has come and the conquest,<sup foot_note=197825>1</sup>"
+        },
+        {
+          "id": 1172810,
+          "resource_id": 213,
+          "text": "যখন আসবে আল্লাহর সাহায্য ও বিজয় [১]"
+        }
+      ]
+    },
+    {
+      "id": 6215,
+      "verse_number": 2,
+      "verse_key": "110:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 554,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَرَأَيْتَ ٱلنَّاسَ يَدْخُلُونَ فِى دِينِ ٱللَّهِ أَفْوَاجًا",
+      "text_imlaei": "وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا",
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96345,
+          "resource_id": 20,
+          "text": "And you see the people entering into the religion of Allāh in multitudes,"
+        },
+        {
+          "id": 1172811,
+          "resource_id": 213,
+          "text": "আর আপনি মানুষকে দলে দলে আল্লাহর দীনে প্রবেশ করতে দেখবেন [১]"
+        }
+      ]
+    },
+    {
+      "id": 6216,
+      "verse_number": 3,
+      "verse_key": "110:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 554,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ ۚ إِنَّهُۥ كَانَ تَوَّابًۢا",
+      "text_imlaei": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ ۚ إِنَّهُ كَانَ تَوَّابًا",
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96346,
+          "resource_id": 20,
+          "text": "Then exalt [Him] with praise of your Lord and ask forgiveness of Him. Indeed, He is ever Accepting of Repentance.<sup foot_note=197826>1</sup>"
+        },
+        {
+          "id": 1172812,
+          "resource_id": 213,
+          "text": "তখন আপনি আপনার রবের প্ৰশংসাসহ তাঁর পবিত্রতা ও মহিমা ঘোষণা করুন এবং তাঁর কাছে ক্ষমা প্রার্থনা করুন, নিশ্চয় তিনি তাওবা কবুলকারী [১]।"
+        }
+      ]
+    }
+  ],
+  "audio_metadata": {
+    "audio_file": {
+      "id": 1129,
+      "chapter_id": 110,
+      "file_size": 569472.0,
+      "format": "mp3",
+      "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/110.mp3"
+    }
+  }
+}

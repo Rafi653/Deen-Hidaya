@@ -1,0 +1,525 @@
+{
+  "metadata": {
+    "surah_number": 86,
+    "scraped_at": "2025-10-30T05:15:23.401549",
+    "source": "api.quran.com",
+    "version": "1.0",
+    "translation_ids": [
+      213,
+      20
+    ]
+  },
+  "license": {
+    "text": {
+      "source": "api.quran.com",
+      "license": "Public Domain",
+      "attribution": "The Quran text is in the public domain",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:15:23.401549"
+    },
+    "translations": {
+      "source": "api.quran.com",
+      "license": "Various - See individual translation licenses",
+      "attribution": "Translation copyrights belong to respective translators",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:15:23.401549"
+    },
+    "audio": {
+      "source": "everyayah.com via api.quran.com",
+      "license": "Free for non-commercial use",
+      "attribution": "Audio recitations courtesy of everyayah.com",
+      "terms_url": "https://everyayah.com/",
+      "note": "Audio URLs provided - not downloaded locally due to size",
+      "fetched_at": "2025-10-30T05:15:23.401549"
+    }
+  },
+  "translation_metadata": {
+    "213": {
+      "name": "Abdul Hafeez & Mohammed Abdul Haq",
+      "author": "Abdul Hafeez, Mohammed Abdul Haq",
+      "language": "te",
+      "language_name": "Telugu",
+      "license": "Various",
+      "source": "api.quran.com"
+    },
+    "20": {
+      "name": "Saheeh International",
+      "author": "Saheeh International",
+      "language": "en",
+      "language_name": "English",
+      "license": "Public Domain",
+      "source": "api.quran.com"
+    }
+  },
+  "surah_info": {
+    "id": 86,
+    "revelation_place": "makkah",
+    "revelation_order": 36,
+    "bismillah_pre": true,
+    "name_simple": "At-Tariq",
+    "name_complex": "Aţ-Ţāriq",
+    "name_arabic": "الطارق",
+    "verses_count": 17,
+    "pages": [
+      591,
+      591
+    ],
+    "translated_name": {
+      "language_name": "english",
+      "name": "The Nightcommer"
+    }
+  },
+  "verses": [
+    {
+      "id": 5932,
+      "verse_number": 1,
+      "verse_key": "86:1",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " وَٱلسَّمَآءِ وَٱلطَّارِقِ",
+      "text_imlaei": "وَالسَّمَاءِ وَالطَّارِقِ",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102036,
+          "resource_id": 20,
+          "text": "By the sky and the night comer"
+        },
+        {
+          "id": 1172528,
+          "resource_id": 213,
+          "text": "শপথ আসমানের এবং রাতে যা আবির্ভূত হয় তার;"
+        }
+      ]
+    },
+    {
+      "id": 5933,
+      "verse_number": 2,
+      "verse_key": "86:2",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا ٱلطَّارِقُ",
+      "text_imlaei": "وَمَا أَدْرَاكَ مَا الطَّارِقُ",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102046,
+          "resource_id": 20,
+          "text": "And what can make you know what is the night comer?"
+        },
+        {
+          "id": 1172529,
+          "resource_id": 213,
+          "text": "আর কিসে আপনাকে জানাবে ‘রাতে যা আবির্ভূত হয়’ তা কী?"
+        }
+      ]
+    },
+    {
+      "id": 5934,
+      "verse_number": 3,
+      "verse_key": "86:3",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلنَّجْمُ ٱلثَّاقِبُ",
+      "text_imlaei": "النَّجْمُ الثَّاقِبُ",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102048,
+          "resource_id": 20,
+          "text": "It is the piercing star<sup foot_note=197745>1</sup>"
+        },
+        {
+          "id": 1172530,
+          "resource_id": 213,
+          "text": "উজ্জ্বল নক্ষত্ৰ [১]।"
+        }
+      ]
+    },
+    {
+      "id": 5935,
+      "verse_number": 4,
+      "verse_key": "86:4",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِن كُلُّ نَفْسٍ لَّمَّا عَلَيْهَا حَافِظٌ",
+      "text_imlaei": "إِن كُلُّ نَفْسٍ لَّمَّا عَلَيْهَا حَافِظٌ",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102050,
+          "resource_id": 20,
+          "text": "There is no soul but that it has over it a protector."
+        },
+        {
+          "id": 1172531,
+          "resource_id": 213,
+          "text": "প্রত্যেক জীবের উপরই তত্ত্বাবধায়ক রয়েছে [১]।"
+        }
+      ]
+    },
+    {
+      "id": 5936,
+      "verse_number": 5,
+      "verse_key": "86:5",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَلْيَنظُرِ ٱلْإِنسَـٰنُ مِمَّ خُلِقَ",
+      "text_imlaei": "فَلْيَنظُرِ الْإِنسَانُ مِمَّ خُلِقَ",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102053,
+          "resource_id": 20,
+          "text": "So let man observe from what he was created."
+        },
+        {
+          "id": 1172532,
+          "resource_id": 213,
+          "text": "অতএব, মানুষ যেন চিন্তা করে দেখে তাকে কী থেকে সৃষ্টি করা হয়েছে [১]!"
+        }
+      ]
+    },
+    {
+      "id": 5937,
+      "verse_number": 6,
+      "verse_key": "86:6",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "خُلِقَ مِن مَّآءٍ دَافِقٍ",
+      "text_imlaei": "خُلِقَ مِن مَّاءٍ دَافِقٍ",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102057,
+          "resource_id": 20,
+          "text": "He was created from a fluid, ejected,"
+        },
+        {
+          "id": 1172533,
+          "resource_id": 213,
+          "text": "তাকে সৃষ্টি করা হয়েছে সবেগে স্থলিত পানি হতে [১],"
+        }
+      ]
+    },
+    {
+      "id": 5938,
+      "verse_number": 7,
+      "verse_key": "86:7",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَخْرُجُ مِنۢ بَيْنِ ٱلصُّلْبِ وَٱلتَّرَآئِبِ",
+      "text_imlaei": "يَخْرُجُ مِن بَيْنِ الصُّلْبِ وَالتَّرَائِبِ",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102059,
+          "resource_id": 20,
+          "text": "Emerging from between the backbone and the ribs."
+        },
+        {
+          "id": 1172534,
+          "resource_id": 213,
+          "text": "এটা নিৰ্গত হয় মেরুদণ্ড ও পঞ্জরাস্থির মধ্য থেকে [১]।"
+        }
+      ]
+    },
+    {
+      "id": 5939,
+      "verse_number": 8,
+      "verse_key": "86:8",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّهُۥ عَلَىٰ رَجْعِهِۦ لَقَادِرٌ",
+      "text_imlaei": "إِنَّهُ عَلَىٰ رَجْعِهِ لَقَادِرٌ",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102061,
+          "resource_id": 20,
+          "text": "Indeed, He [i.e., Allāh], to return him [to life], is Able."
+        },
+        {
+          "id": 1172535,
+          "resource_id": 213,
+          "text": "নিশ্চয় তিনি তাকে ফিরিয়ে আনতে সক্ষম [১]।"
+        }
+      ]
+    },
+    {
+      "id": 5940,
+      "verse_number": 9,
+      "verse_key": "86:9",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَوْمَ تُبْلَى ٱلسَّرَآئِرُ",
+      "text_imlaei": "يَوْمَ تُبْلَى السَّرَائِرُ",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102063,
+          "resource_id": 20,
+          "text": "The Day when secrets will be put on trial,<sup foot_note=197746>1</sup>"
+        },
+        {
+          "id": 1172536,
+          "resource_id": 213,
+          "text": "যেদিন গোপন বিষয় পরীক্ষিত হবে [১]"
+        }
+      ]
+    },
+    {
+      "id": 5941,
+      "verse_number": 10,
+      "verse_key": "86:10",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَمَا لَهُۥ مِن قُوَّةٍ وَلَا نَاصِرٍ",
+      "text_imlaei": "فَمَا لَهُ مِن قُوَّةٍ وَلَا نَاصِرٍ",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102037,
+          "resource_id": 20,
+          "text": "Then he [i.e., man] will have no power or any helper."
+        },
+        {
+          "id": 1172537,
+          "resource_id": 213,
+          "text": "সেদিন তার কোনো সামর্থ্য থাকবে না এবং সাহায্যকারীও নয়।"
+        }
+      ]
+    },
+    {
+      "id": 5942,
+      "verse_number": 11,
+      "verse_key": "86:11",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلسَّمَآءِ ذَاتِ ٱلرَّجْعِ",
+      "text_imlaei": "وَالسَّمَاءِ ذَاتِ الرَّجْعِ",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102038,
+          "resource_id": 20,
+          "text": "By the sky which sends back<sup foot_note=197747>1</sup>"
+        },
+        {
+          "id": 1172538,
+          "resource_id": 213,
+          "text": "শপথ আসমানের, যা ধারণ করে বৃষ্টি [১]"
+        }
+      ]
+    },
+    {
+      "id": 5943,
+      "verse_number": 12,
+      "verse_key": "86:12",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلْأَرْضِ ذَاتِ ٱلصَّدْعِ",
+      "text_imlaei": "وَالْأَرْضِ ذَاتِ الصَّدْعِ",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102039,
+          "resource_id": 20,
+          "text": "And [by] the earth which splits,<sup foot_note=197748>1</sup>"
+        },
+        {
+          "id": 1172539,
+          "resource_id": 213,
+          "text": "এবং শপথ যমীনের, যা বিদীর্ণ হয় [১],"
+        }
+      ]
+    },
+    {
+      "id": 5944,
+      "verse_number": 13,
+      "verse_key": "86:13",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّهُۥ لَقَوْلٌ فَصْلٌ",
+      "text_imlaei": "إِنَّهُ لَقَوْلٌ فَصْلٌ",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102040,
+          "resource_id": 20,
+          "text": "Indeed, it [i.e., the Qur’ān] is a decisive statement,"
+        },
+        {
+          "id": 1172540,
+          "resource_id": 213,
+          "text": "নিশ্চয় আল-কুরআন মীমাংসাকারী বাণী।"
+        }
+      ]
+    },
+    {
+      "id": 5945,
+      "verse_number": 14,
+      "verse_key": "86:14",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَا هُوَ بِٱلْهَزْلِ",
+      "text_imlaei": "وَمَا هُوَ بِالْهَزْلِ",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102041,
+          "resource_id": 20,
+          "text": "And it is not amusement."
+        },
+        {
+          "id": 1172541,
+          "resource_id": 213,
+          "text": "এবং এটা নিরর্থক নয় [১]।"
+        }
+      ]
+    },
+    {
+      "id": 5946,
+      "verse_number": 15,
+      "verse_key": "86:15",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّهُمْ يَكِيدُونَ كَيْدًا",
+      "text_imlaei": "إِنَّهُمْ يَكِيدُونَ كَيْدًا",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102042,
+          "resource_id": 20,
+          "text": "Indeed, they are planning a plan,"
+        },
+        {
+          "id": 1172542,
+          "resource_id": 213,
+          "text": "তারা ভীষণ ষড়যন্ত্র করে [১]"
+        }
+      ]
+    },
+    {
+      "id": 5947,
+      "verse_number": 16,
+      "verse_key": "86:16",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَكِيدُ كَيْدًا",
+      "text_imlaei": "وَأَكِيدُ كَيْدًا",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102043,
+          "resource_id": 20,
+          "text": "But I am planning a plan."
+        },
+        {
+          "id": 1172543,
+          "resource_id": 213,
+          "text": "এবং আমিও ভীষণ কৌশল করি [১]।"
+        }
+      ]
+    },
+    {
+      "id": 5948,
+      "verse_number": 17,
+      "verse_key": "86:17",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَمَهِّلِ ٱلْكَـٰفِرِينَ أَمْهِلْهُمْ رُوَيْدًۢا",
+      "text_imlaei": "فَمَهِّلِ الْكَافِرِينَ أَمْهِلْهُمْ رُوَيْدًا",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102044,
+          "resource_id": 20,
+          "text": "So allow time for the disbelievers. Leave them awhile.<sup foot_note=197749>1</sup>"
+        },
+        {
+          "id": 1172544,
+          "resource_id": 213,
+          "text": "অতএব, কাফিরদেরকে অবকাশ দিন; তাদেরকে অবকাশ দিন কিছু কালের জন্য [১]।"
+        }
+      ]
+    }
+  ],
+  "audio_metadata": {
+    "audio_file": {
+      "id": 1081,
+      "chapter_id": 86,
+      "file_size": 1613952.0,
+      "format": "mp3",
+      "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/86.mp3"
+    }
+  }
+}

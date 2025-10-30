@@ -1,0 +1,577 @@
+{
+  "metadata": {
+    "surah_number": 87,
+    "scraped_at": "2025-10-30T05:15:25.654474",
+    "source": "api.quran.com",
+    "version": "1.0",
+    "translation_ids": [
+      213,
+      20
+    ]
+  },
+  "license": {
+    "text": {
+      "source": "api.quran.com",
+      "license": "Public Domain",
+      "attribution": "The Quran text is in the public domain",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:15:25.654474"
+    },
+    "translations": {
+      "source": "api.quran.com",
+      "license": "Various - See individual translation licenses",
+      "attribution": "Translation copyrights belong to respective translators",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:15:25.654474"
+    },
+    "audio": {
+      "source": "everyayah.com via api.quran.com",
+      "license": "Free for non-commercial use",
+      "attribution": "Audio recitations courtesy of everyayah.com",
+      "terms_url": "https://everyayah.com/",
+      "note": "Audio URLs provided - not downloaded locally due to size",
+      "fetched_at": "2025-10-30T05:15:25.654474"
+    }
+  },
+  "translation_metadata": {
+    "213": {
+      "name": "Abdul Hafeez & Mohammed Abdul Haq",
+      "author": "Abdul Hafeez, Mohammed Abdul Haq",
+      "language": "te",
+      "language_name": "Telugu",
+      "license": "Various",
+      "source": "api.quran.com"
+    },
+    "20": {
+      "name": "Saheeh International",
+      "author": "Saheeh International",
+      "language": "en",
+      "language_name": "English",
+      "license": "Public Domain",
+      "source": "api.quran.com"
+    }
+  },
+  "surah_info": {
+    "id": 87,
+    "revelation_place": "makkah",
+    "revelation_order": 8,
+    "bismillah_pre": true,
+    "name_simple": "Al-A'la",
+    "name_complex": "Al-'A`lá",
+    "name_arabic": "الأعلى",
+    "verses_count": 19,
+    "pages": [
+      591,
+      592
+    ],
+    "translated_name": {
+      "language_name": "english",
+      "name": "The Most High"
+    }
+  },
+  "verses": [
+    {
+      "id": 5949,
+      "verse_number": 1,
+      "verse_key": "87:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 531,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " سَبِّحِ ٱسْمَ رَبِّكَ ٱلْأَعْلَى",
+      "text_imlaei": "سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102067,
+          "resource_id": 20,
+          "text": "Exalt the name of your Lord, the Most High,"
+        },
+        {
+          "id": 1172545,
+          "resource_id": 213,
+          "text": "আপনি আপনার সুমহান রবের নামের পবিত্রতা ও মহিমা ঘোষণা করুন [১],"
+        }
+      ]
+    },
+    {
+      "id": 5950,
+      "verse_number": 2,
+      "verse_key": "87:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 531,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِى خَلَقَ فَسَوَّىٰ",
+      "text_imlaei": "الَّذِي خَلَقَ فَسَوَّىٰ",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102079,
+          "resource_id": 20,
+          "text": "Who created and proportioned"
+        },
+        {
+          "id": 1172546,
+          "resource_id": 213,
+          "text": "যিনি [১] সৃষ্টি করেন [২] অতঃপর সুঠাম করেন [৩]।"
+        }
+      ]
+    },
+    {
+      "id": 5951,
+      "verse_number": 3,
+      "verse_key": "87:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 531,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلَّذِى قَدَّرَ فَهَدَىٰ",
+      "text_imlaei": "وَالَّذِي قَدَّرَ فَهَدَىٰ",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102081,
+          "resource_id": 20,
+          "text": "And who destined and [then] guided"
+        },
+        {
+          "id": 1172547,
+          "resource_id": 213,
+          "text": "আর যিনি নির্ধারণ করেন [১] অতঃপর পথনির্দেশ করেন [২],"
+        }
+      ]
+    },
+    {
+      "id": 5952,
+      "verse_number": 4,
+      "verse_key": "87:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 531,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلَّذِىٓ أَخْرَجَ ٱلْمَرْعَىٰ",
+      "text_imlaei": "وَالَّذِي أَخْرَجَ الْمَرْعَىٰ",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102083,
+          "resource_id": 20,
+          "text": "And who brings out the pasture"
+        },
+        {
+          "id": 1172548,
+          "resource_id": 213,
+          "text": "আর যিনি তৃণাদি উৎপন্ন করেন [১],"
+        }
+      ]
+    },
+    {
+      "id": 5953,
+      "verse_number": 5,
+      "verse_key": "87:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 531,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَجَعَلَهُۥ غُثَآءً أَحْوَىٰ",
+      "text_imlaei": "فَجَعَلَهُ غُثَاءً أَحْوَىٰ",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102085,
+          "resource_id": 20,
+          "text": "And [then] makes it black stubble."
+        },
+        {
+          "id": 1172549,
+          "resource_id": 213,
+          "text": "পরে তা ধূসর আবর্জনায় পরিণত করেন।"
+        }
+      ]
+    },
+    {
+      "id": 5954,
+      "verse_number": 6,
+      "verse_key": "87:6",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 531,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "سَنُقْرِئُكَ فَلَا تَنسَىٰٓ",
+      "text_imlaei": "سَنُقْرِئُكَ فَلَا تَنسَىٰ",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102086,
+          "resource_id": 20,
+          "text": "We will make you recite, [O Muḥammad], and you will not forget,"
+        },
+        {
+          "id": 1172550,
+          "resource_id": 213,
+          "text": "শীঘ্রই আমরা আপনাকে পাঠ করাব, ফলে আপনি ভুলবেন না [১] ,"
+        }
+      ]
+    },
+    {
+      "id": 5955,
+      "verse_number": 7,
+      "verse_key": "87:7",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 531,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِلَّا مَا شَآءَ ٱللَّهُ ۚ إِنَّهُۥ يَعْلَمُ ٱلْجَهْرَ وَمَا يَخْفَىٰ",
+      "text_imlaei": "إِلَّا مَا شَاءَ اللَّهُ ۚ إِنَّهُ يَعْلَمُ الْجَهْرَ وَمَا يَخْفَىٰ",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102087,
+          "resource_id": 20,
+          "text": "Except what Allāh should will. Indeed, He knows what is declared and what is hidden."
+        },
+        {
+          "id": 1172551,
+          "resource_id": 213,
+          "text": "আল্লাহ্ যা ইচ্ছে করেন তা ছাড়া [১]। নিশ্চয় তিনি জানেন যা প্ৰকাশ্য ও যা গোপনীয়।"
+        }
+      ]
+    },
+    {
+      "id": 5956,
+      "verse_number": 8,
+      "verse_key": "87:8",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 531,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَنُيَسِّرُكَ لِلْيُسْرَىٰ",
+      "text_imlaei": "وَنُيَسِّرُكَ لِلْيُسْرَىٰ",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102088,
+          "resource_id": 20,
+          "text": "And We will ease you toward ease.<sup foot_note=197750>1</sup>"
+        },
+        {
+          "id": 1172552,
+          "resource_id": 213,
+          "text": "আর আমরা আপনার জন্য সুগম করে দেব সহজ পথ [১]।"
+        }
+      ]
+    },
+    {
+      "id": 5957,
+      "verse_number": 9,
+      "verse_key": "87:9",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 531,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَذَكِّرْ إِن نَّفَعَتِ ٱلذِّكْرَىٰ",
+      "text_imlaei": "فَذَكِّرْ إِن نَّفَعَتِ الذِّكْرَىٰ",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102089,
+          "resource_id": 20,
+          "text": "So remind, if the reminder should benefit;<sup foot_note=197751>1</sup>"
+        },
+        {
+          "id": 1172553,
+          "resource_id": 213,
+          "text": "অতঃপর উপদেশ যদি ফলপ্রসূ হয় তবে উপদেশ দিন [১];"
+        }
+      ]
+    },
+    {
+      "id": 5958,
+      "verse_number": 10,
+      "verse_key": "87:10",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 531,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "سَيَذَّكَّرُ مَن يَخْشَىٰ",
+      "text_imlaei": "سَيَذَّكَّرُ مَن يَخْشَىٰ",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102068,
+          "resource_id": 20,
+          "text": "He who fears [Allāh] will be reminded."
+        },
+        {
+          "id": 1172554,
+          "resource_id": 213,
+          "text": "যে ভয় করে সেই উপদেশ গ্ৰহণ করবে [১]।"
+        }
+      ]
+    },
+    {
+      "id": 5959,
+      "verse_number": 11,
+      "verse_key": "87:11",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 531,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَيَتَجَنَّبُهَا ٱلْأَشْقَى",
+      "text_imlaei": "وَيَتَجَنَّبُهَا الْأَشْقَى",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102069,
+          "resource_id": 20,
+          "text": "But the wretched one will avoid it"
+        },
+        {
+          "id": 1172555,
+          "resource_id": 213,
+          "text": "আর তা উপেক্ষা করবে যে নিতান্ত হতভাগ্য,"
+        }
+      ]
+    },
+    {
+      "id": 5960,
+      "verse_number": 12,
+      "verse_key": "87:12",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 531,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِى يَصْلَى ٱلنَّارَ ٱلْكُبْرَىٰ",
+      "text_imlaei": "الَّذِي يَصْلَى النَّارَ الْكُبْرَىٰ",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102070,
+          "resource_id": 20,
+          "text": "[He] who will [enter and] burn in the greatest Fire,"
+        },
+        {
+          "id": 1172556,
+          "resource_id": 213,
+          "text": "যে ভয়াবহ আগুনে দগ্ধ হবে,"
+        }
+      ]
+    },
+    {
+      "id": 5961,
+      "verse_number": 13,
+      "verse_key": "87:13",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 531,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ",
+      "text_imlaei": "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102071,
+          "resource_id": 20,
+          "text": "Neither dying therein nor living."
+        },
+        {
+          "id": 1172557,
+          "resource_id": 213,
+          "text": "তারপর সেখানে সে মরবেও না বাঁচবেও না [১]।"
+        }
+      ]
+    },
+    {
+      "id": 5962,
+      "verse_number": 14,
+      "verse_key": "87:14",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 531,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "قَدْ أَفْلَحَ مَن تَزَكَّىٰ",
+      "text_imlaei": "قَدْ أَفْلَحَ مَن تَزَكَّىٰ",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102072,
+          "resource_id": 20,
+          "text": "He has certainly succeeded who purifies himself"
+        },
+        {
+          "id": 1172558,
+          "resource_id": 213,
+          "text": "অবশ্যই সাফল্য লাভ করবে যে পরিশুদ্ধ হয় [১]।"
+        }
+      ]
+    },
+    {
+      "id": 5963,
+      "verse_number": 15,
+      "verse_key": "87:15",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 531,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَذَكَرَ ٱسْمَ رَبِّهِۦ فَصَلَّىٰ",
+      "text_imlaei": "وَذَكَرَ اسْمَ رَبِّهِ فَصَلَّىٰ",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102073,
+          "resource_id": 20,
+          "text": "And mentions the name of his Lord and prays."
+        },
+        {
+          "id": 1172559,
+          "resource_id": 213,
+          "text": "এবং তার রবের নাম স্মরণ করে ও সালাত কায়েম করে [১]।"
+        }
+      ]
+    },
+    {
+      "id": 5964,
+      "verse_number": 16,
+      "verse_key": "87:16",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 531,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "بَلْ تُؤْثِرُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا",
+      "text_imlaei": "بَلْ تُؤْثِرُونَ الْحَيَاةَ الدُّنْيَا",
+      "page_number": 592,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102074,
+          "resource_id": 20,
+          "text": "But you prefer the worldly life,"
+        },
+        {
+          "id": 1172560,
+          "resource_id": 213,
+          "text": "কিন্তু তোমরা দুনিয়ার জীবনকে প্রাধান্য দাও,"
+        }
+      ]
+    },
+    {
+      "id": 5965,
+      "verse_number": 17,
+      "verse_key": "87:17",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 531,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلْـَٔاخِرَةُ خَيْرٌ وَأَبْقَىٰٓ",
+      "text_imlaei": "وَالْآخِرَةُ خَيْرٌ وَأَبْقَىٰ",
+      "page_number": 592,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102075,
+          "resource_id": 20,
+          "text": "While the Hereafter is better and more enduring."
+        },
+        {
+          "id": 1172561,
+          "resource_id": 213,
+          "text": "অথচ আখিরাতই উৎকৃষ্ট [১] ও স্থায়ী [২]।"
+        }
+      ]
+    },
+    {
+      "id": 5966,
+      "verse_number": 18,
+      "verse_key": "87:18",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 531,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ هَـٰذَا لَفِى ٱلصُّحُفِ ٱلْأُولَىٰ",
+      "text_imlaei": "إِنَّ هَٰذَا لَفِي الصُّحُفِ الْأُولَىٰ",
+      "page_number": 592,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102076,
+          "resource_id": 20,
+          "text": "Indeed, this is in the former scriptures,"
+        },
+        {
+          "id": 1172562,
+          "resource_id": 213,
+          "text": "নিশ্চয় এটা আছে পূর্ববর্তী সহীফাসমূহে---"
+        }
+      ]
+    },
+    {
+      "id": 5967,
+      "verse_number": 19,
+      "verse_key": "87:19",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 531,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "صُحُفِ إِبْرَٰهِيمَ وَمُوسَىٰ",
+      "text_imlaei": "صُحُفِ إِبْرَاهِيمَ وَمُوسَىٰ",
+      "page_number": 592,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102077,
+          "resource_id": 20,
+          "text": "The scriptures of Abraham and Moses."
+        },
+        {
+          "id": 1172563,
+          "resource_id": 213,
+          "text": "ইব্রাহীম ও মূসার সহীফাসমূহে [১]।"
+        }
+      ]
+    }
+  ],
+  "audio_metadata": {
+    "audio_file": {
+      "id": 1083,
+      "chapter_id": 87,
+      "file_size": 1734784.0,
+      "format": "mp3",
+      "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/87.mp3"
+    }
+  }
+}

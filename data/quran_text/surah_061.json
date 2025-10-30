@@ -1,0 +1,447 @@
+{
+  "metadata": {
+    "surah_number": 61,
+    "scraped_at": "2025-10-30T05:14:34.247435",
+    "source": "api.quran.com",
+    "version": "1.0",
+    "translation_ids": [
+      213,
+      20
+    ]
+  },
+  "license": {
+    "text": {
+      "source": "api.quran.com",
+      "license": "Public Domain",
+      "attribution": "The Quran text is in the public domain",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:14:34.247435"
+    },
+    "translations": {
+      "source": "api.quran.com",
+      "license": "Various - See individual translation licenses",
+      "attribution": "Translation copyrights belong to respective translators",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:14:34.247435"
+    },
+    "audio": {
+      "source": "everyayah.com via api.quran.com",
+      "license": "Free for non-commercial use",
+      "attribution": "Audio recitations courtesy of everyayah.com",
+      "terms_url": "https://everyayah.com/",
+      "note": "Audio URLs provided - not downloaded locally due to size",
+      "fetched_at": "2025-10-30T05:14:34.247435"
+    }
+  },
+  "translation_metadata": {
+    "213": {
+      "name": "Abdul Hafeez & Mohammed Abdul Haq",
+      "author": "Abdul Hafeez, Mohammed Abdul Haq",
+      "language": "te",
+      "language_name": "Telugu",
+      "license": "Various",
+      "source": "api.quran.com"
+    },
+    "20": {
+      "name": "Saheeh International",
+      "author": "Saheeh International",
+      "language": "en",
+      "language_name": "English",
+      "license": "Public Domain",
+      "source": "api.quran.com"
+    }
+  },
+  "surah_info": {
+    "id": 61,
+    "revelation_place": "madinah",
+    "revelation_order": 109,
+    "bismillah_pre": true,
+    "name_simple": "As-Saf",
+    "name_complex": "Aş-Şaf",
+    "name_arabic": "الصف",
+    "verses_count": 14,
+    "pages": [
+      551,
+      552
+    ],
+    "translated_name": {
+      "language_name": "english",
+      "name": "The Ranks"
+    }
+  },
+  "verses": [
+    {
+      "id": 5164,
+      "verse_number": 1,
+      "verse_key": "61:1",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 220,
+      "ruku_number": 486,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " سَبَّحَ لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۖ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+      "text_imlaei": "سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۖ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+      "page_number": 551,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 100858,
+          "resource_id": 20,
+          "text": "Whatever is in the heavens and whatever is on the earth exalts Allāh,<sup foot_note=197550>1</sup> and He is the Exalted in Might, the Wise."
+        },
+        {
+          "id": 1171760,
+          "resource_id": 213,
+          "text": "আসমানসমূহে যা কিছু আছে এবং যমীনে যা কিছু আছে সবই আল্লাহর পবিত্রতা ও মহিমা ঘোষণা করে। আর তিনি প্রবলপরাক্রমশালী, প্রজ্ঞাময়।"
+        }
+      ]
+    },
+    {
+      "id": 5165,
+      "verse_number": 2,
+      "verse_key": "61:2",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 220,
+      "ruku_number": 486,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ",
+      "text_imlaei": "يَا أَيُّهَا الَّذِينَ آمَنُوا لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ",
+      "page_number": 551,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 100877,
+          "resource_id": 20,
+          "text": "O you who have believed, why do you say what you do not do?"
+        },
+        {
+          "id": 1171761,
+          "resource_id": 213,
+          "text": "হে ঈমানদারগণ! তোমরা যা কর না তা তোমরা কেন বল?"
+        }
+      ]
+    },
+    {
+      "id": 5166,
+      "verse_number": 3,
+      "verse_key": "61:3",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 220,
+      "ruku_number": 486,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "كَبُرَ مَقْتًا عِندَ ٱللَّهِ أَن تَقُولُوا۟ مَا لَا تَفْعَلُونَ",
+      "text_imlaei": "كَبُرَ مَقْتًا عِندَ اللَّهِ أَن تَقُولُوا مَا لَا تَفْعَلُونَ",
+      "page_number": 551,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 100889,
+          "resource_id": 20,
+          "text": "Greatly hateful in the sight of Allāh is that you say what you do not do."
+        },
+        {
+          "id": 1171762,
+          "resource_id": 213,
+          "text": "তোমরা যা কর না তোমাদের তা বলা আল্লাহর দৃষ্টিতে খুবই অসন্তোষজনক।"
+        }
+      ]
+    },
+    {
+      "id": 5167,
+      "verse_number": 4,
+      "verse_key": "61:4",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 220,
+      "ruku_number": 486,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ ٱللَّهَ يُحِبُّ ٱلَّذِينَ يُقَـٰتِلُونَ فِى سَبِيلِهِۦ صَفًّا كَأَنَّهُم بُنْيَـٰنٌ مَّرْصُوصٌ",
+      "text_imlaei": "إِنَّ اللَّهَ يُحِبُّ الَّذِينَ يُقَاتِلُونَ فِي سَبِيلِهِ صَفًّا كَأَنَّهُم بُنْيَانٌ مَّرْصُوصٌ",
+      "page_number": 551,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 100741,
+          "resource_id": 20,
+          "text": "Indeed, Allāh loves those who fight in His cause in a row as though they are a [single] structure joined firmly."
+        },
+        {
+          "id": 1171763,
+          "resource_id": 213,
+          "text": "নিশ্চয় যারা আল্লাহর পথে যুদ্ধ করে সারিবদ্ধভাবে সুদৃঢ় প্রাচীরের মত, আল্লাহ তাদেরকে ভালোবাসেন।"
+        }
+      ]
+    },
+    {
+      "id": 5168,
+      "verse_number": 5,
+      "verse_key": "61:5",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 220,
+      "ruku_number": 486,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَـٰقَوْمِ لِمَ تُؤْذُونَنِى وَقَد تَّعْلَمُونَ أَنِّى رَسُولُ ٱللَّهِ إِلَيْكُمْ ۖ فَلَمَّا زَاغُوٓا۟ أَزَاغَ ٱللَّهُ قُلُوبَهُمْ ۚ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَـٰسِقِينَ",
+      "text_imlaei": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِ يَا قَوْمِ لِمَ تُؤْذُونَنِي وَقَد تَّعْلَمُونَ أَنِّي رَسُولُ اللَّهِ إِلَيْكُمْ ۖ فَلَمَّا زَاغُوا أَزَاغَ اللَّهُ قُلُوبَهُمْ ۚ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الْفَاسِقِينَ",
+      "page_number": 551,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 100911,
+          "resource_id": 20,
+          "text": "And [mention, O Muḥammad], when Moses said to his people, \"O my people, why do you harm me while you certainly know that I am the messenger of Allāh to you?\" And when they deviated, Allāh caused their hearts to deviate. And Allāh does not guide the defiantly disobedient people."
+        },
+        {
+          "id": 1171764,
+          "resource_id": 213,
+          "text": "আর স্মরণ করুন, যখন মূসা তাঁর সম্প্রদায়কে বলেছিলেন, ‘হে আমার সম্প্রদায়! তোমরা আমাকে কেন কষ্ট দিচ্ছ অথচ তোমরা জান যে, আমি তোমাদের কাছে আল্লাহর রাসূল। অতঃপর তারা যখন বাঁকা পথ অবলম্বন করল তখন আল্লাহ্‌ তাদের হৃদয়কে বাঁকা করে দিলেন। আর আল্লাহ ফাসিক সম্প্রদায়কে হেদায়াত করেন না।"
+        }
+      ]
+    },
+    {
+      "id": 5169,
+      "verse_number": 6,
+      "verse_key": "61:6",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 220,
+      "ruku_number": 486,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذْ قَالَ عِيسَى ٱبْنُ مَرْيَمَ يَـٰبَنِىٓ إِسْرَٰٓءِيلَ إِنِّى رَسُولُ ٱللَّهِ إِلَيْكُم مُّصَدِّقًا لِّمَا بَيْنَ يَدَىَّ مِنَ ٱلتَّوْرَىٰةِ وَمُبَشِّرًۢا بِرَسُولٍ يَأْتِى مِنۢ بَعْدِى ٱسْمُهُۥٓ أَحْمَدُ ۖ فَلَمَّا جَآءَهُم بِٱلْبَيِّنَـٰتِ قَالُوا۟ هَـٰذَا سِحْرٌ مُّبِينٌ",
+      "text_imlaei": "وَإِذْ قَالَ عِيسَى ابْنُ مَرْيَمَ يَا بَنِي إِسْرَائِيلَ إِنِّي رَسُولُ اللَّهِ إِلَيْكُم مُّصَدِّقًا لِّمَا بَيْنَ يَدَيَّ مِنَ التَّوْرَاةِ وَمُبَشِّرًا بِرَسُولٍ يَأْتِي مِن بَعْدِي اسْمُهُ أَحْمَدُ ۖ فَلَمَّا جَاءَهُم بِالْبَيِّنَاتِ قَالُوا هَٰذَا سِحْرٌ مُّبِينٌ",
+      "page_number": 552,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 100923,
+          "resource_id": 20,
+          "text": "And [mention] when Jesus, the son of Mary, said, \"O Children of Israel, indeed I am the messenger of Allāh to you confirming what came before me of the Torah and bringing good tidings of a messenger to come after me, whose name is Aḥmad.\"<sup foot_note=197552>1</sup> But when he came to them with clear evidences, they said, \"This is obvious magic.\"<sup foot_note=197551>2</sup>"
+        },
+        {
+          "id": 1171765,
+          "resource_id": 213,
+          "text": "আর স্মরণ করুন, যখন মারইয়াম—পুত্র ‘ঈসা বলেছিলেন, ‘হে বনী ইসরাঈল! নিশ্চয় আমি তোমাদের কাছে আল্লাহর রাসূল এবং আমার পূর্ব থেকে তোমাদের কাছে যে তাওরাত রয়েছে আমি তার সত্যায়নকারী এবং আমার পরে আহমাদ নামে [১] যে রাসূল আসবেন আমি তার সুসংবাদদাতা [২]। পরে তিনি [৩] যখন সুস্পষ্ট প্রমাণাদিসহ তাদের কাছে আসলেন তখন তারা বলতে লাগল, এটা তো স্পষ্ট জাদু।’"
+        }
+      ]
+    },
+    {
+      "id": 5170,
+      "verse_number": 7,
+      "verse_key": "61:7",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 220,
+      "ruku_number": 486,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُوَ يُدْعَىٰٓ إِلَى ٱلْإِسْلَـٰمِ ۚ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+      "text_imlaei": "وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ الْكَذِبَ وَهُوَ يُدْعَىٰ إِلَى الْإِسْلَامِ ۚ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ",
+      "page_number": 552,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 100932,
+          "resource_id": 20,
+          "text": "And who is more unjust than one who invents about Allāh untruth while he is being invited to Islām. And Allāh does not guide the wrongdoing people."
+        },
+        {
+          "id": 1171766,
+          "resource_id": 213,
+          "text": "আর সে ব্যক্তির চেয়ে বড় যালিম আর কে যে আল্লাহ সম্পর্কে মিথ্যা রচনা করে? অথচ তাকে ইসলামের দিকে আহবান করা হয়। আর আল্লাহ যালিম সম্প্রদায়কে হিদায়াত করেন না।"
+        }
+      ]
+    },
+    {
+      "id": 5171,
+      "verse_number": 8,
+      "verse_key": "61:8",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 220,
+      "ruku_number": 486,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يُرِيدُونَ لِيُطْفِـُٔوا۟ نُورَ ٱللَّهِ بِأَفْوَٰهِهِمْ وَٱللَّهُ مُتِمُّ نُورِهِۦ وَلَوْ كَرِهَ ٱلْكَـٰفِرُونَ",
+      "text_imlaei": "يُرِيدُونَ لِيُطْفِئُوا نُورَ اللَّهِ بِأَفْوَاهِهِمْ وَاللَّهُ مُتِمُّ نُورِهِ وَلَوْ كَرِهَ الْكَافِرُونَ",
+      "page_number": 552,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 100934,
+          "resource_id": 20,
+          "text": "They want to extinguish the light of Allāh with their mouths, but Allāh will perfect His light, although the disbelievers dislike it."
+        },
+        {
+          "id": 1171767,
+          "resource_id": 213,
+          "text": "তারা আল্লাহর নূর ফুৎকারে নেভাতে চায়, আর আল্লাহ্‌, তিনি তাঁর নূর পূর্ণতাদানকারী, যদিও কাফিররা তা অপছন্দ করে।"
+        }
+      ]
+    },
+    {
+      "id": 5172,
+      "verse_number": 9,
+      "verse_key": "61:9",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 220,
+      "ruku_number": 486,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "هُوَ ٱلَّذِىٓ أَرْسَلَ رَسُولَهُۥ بِٱلْهُدَىٰ وَدِينِ ٱلْحَقِّ لِيُظْهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ وَلَوْ كَرِهَ ٱلْمُشْرِكُونَ",
+      "text_imlaei": "هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَىٰ وَدِينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ وَلَوْ كَرِهَ الْمُشْرِكُونَ",
+      "page_number": 552,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 100936,
+          "resource_id": 20,
+          "text": "It is He who sent His Messenger with guidance and the religion of truth to manifest it over all religion, although those who associate others with Allāh dislike it."
+        },
+        {
+          "id": 1171768,
+          "resource_id": 213,
+          "text": "তিনিই তাঁর রাসূলকে প্রেরণ করেছেন হেদায়াত ও সত্য দীনসহ সকল দীনের উপর তাকে বিজয়ী করার জন্য, যদিও মুশরিকরা তা অপছন্দ করে।"
+        }
+      ]
+    },
+    {
+      "id": 5173,
+      "verse_number": 10,
+      "verse_key": "61:10",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 220,
+      "ruku_number": 487,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ هَلْ أَدُلُّكُمْ عَلَىٰ تِجَـٰرَةٍ تُنجِيكُم مِّنْ عَذَابٍ أَلِيمٍ",
+      "text_imlaei": "يَا أَيُّهَا الَّذِينَ آمَنُوا هَلْ أَدُلُّكُمْ عَلَىٰ تِجَارَةٍ تُنجِيكُم مِّنْ عَذَابٍ أَلِيمٍ",
+      "page_number": 552,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 100860,
+          "resource_id": 20,
+          "text": "O you who have believed, shall I guide you to a transaction that will save you from a painful punishment?"
+        },
+        {
+          "id": 1171769,
+          "resource_id": 213,
+          "text": "হে ঈমানদারগণ! আমি কি তোমাদেরকে এমন এক ব্যবসার সন্ধান দেব, যা তোমাদেরকে রক্ষা করবে যন্ত্রণাদায়ক শাস্তি থেকে?"
+        }
+      ]
+    },
+    {
+      "id": 5174,
+      "verse_number": 11,
+      "verse_key": "61:11",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 220,
+      "ruku_number": 487,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "تُؤْمِنُونَ بِٱللَّهِ وَرَسُولِهِۦ وَتُجَـٰهِدُونَ فِى سَبِيلِ ٱللَّهِ بِأَمْوَٰلِكُمْ وَأَنفُسِكُمْ ۚ ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ",
+      "text_imlaei": "تُؤْمِنُونَ بِاللَّهِ وَرَسُولِهِ وَتُجَاهِدُونَ فِي سَبِيلِ اللَّهِ بِأَمْوَالِكُمْ وَأَنفُسِكُمْ ۚ ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ",
+      "page_number": 552,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 100862,
+          "resource_id": 20,
+          "text": "[It is that] you believe in Allāh and His Messenger and strive in the cause of Allāh with your wealth and your lives. That is best for you, if you only knew."
+        },
+        {
+          "id": 1171770,
+          "resource_id": 213,
+          "text": "তা এই যে, তোমরা আল্লাহ ও তাঁর রাসূলের উপর ঈমান আনবে এবং তোমরা তোমাদের ধন-সম্পদ ও জীবন দ্বারা আল্লাহর পথে জিহাদ করবে। এটাই তোমাদের জন্য শ্রেয় যদি তোমরা জানতে!"
+        }
+      ]
+    },
+    {
+      "id": 5175,
+      "verse_number": 12,
+      "verse_key": "61:12",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 220,
+      "ruku_number": 487,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَيُدْخِلْكُمْ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ وَمَسَـٰكِنَ طَيِّبَةً فِى جَنَّـٰتِ عَدْنٍ ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "text_imlaei": "يَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَيُدْخِلْكُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ وَمَسَاكِنَ طَيِّبَةً فِي جَنَّاتِ عَدْنٍ ۚ ذَٰلِكَ الْفَوْزُ الْعَظِيمُ",
+      "page_number": 552,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 100864,
+          "resource_id": 20,
+          "text": "He will forgive for you your sins and admit you to gardens beneath which rivers flow and pleasant dwellings in gardens of perpetual residence. That is the great attainment."
+        },
+        {
+          "id": 1171771,
+          "resource_id": 213,
+          "text": "আল্লাহ তোমাদের পাপসমূহ ক্ষমা করে দেবেন এবং তোমাদেরকে প্রবেশ করাবেন জান্নাতে যার পাদদেশে নদী প্রবাহিত এবং স্থায়ী জান্নাতের উত্তম বাসগৃহে। এটাই মহাসাফল্য।"
+        }
+      ]
+    },
+    {
+      "id": 5176,
+      "verse_number": 13,
+      "verse_key": "61:13",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 220,
+      "ruku_number": 487,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَأُخْرَىٰ تُحِبُّونَهَا ۖ نَصْرٌ مِّنَ ٱللَّهِ وَفَتْحٌ قَرِيبٌ ۗ وَبَشِّرِ ٱلْمُؤْمِنِينَ",
+      "text_imlaei": "وَأُخْرَىٰ تُحِبُّونَهَا ۖ نَصْرٌ مِّنَ اللَّهِ وَفَتْحٌ قَرِيبٌ ۗ وَبَشِّرِ الْمُؤْمِنِينَ",
+      "page_number": 552,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 100866,
+          "resource_id": 20,
+          "text": "And [you will obtain] another [favor] that you love - victory from Allāh and an imminent conquest; and give good tidings to the believers."
+        },
+        {
+          "id": 1171772,
+          "resource_id": 213,
+          "text": "এবং (তিনি দান করবেন) আরও একটি অনুগ্রহ, যা তোমরা পছন্দ কর। আল্লাহর পক্ষ থেকে সাহায্য ও আসন্ন বিজয়; আর আপনি মুমিনদেরকে সুসংবাদ দিন [১]।"
+        }
+      ]
+    },
+    {
+      "id": 5177,
+      "verse_number": 14,
+      "verse_key": "61:14",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 220,
+      "ruku_number": 487,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوٓا۟ أَنصَارَ ٱللَّهِ كَمَا قَالَ عِيسَى ٱبْنُ مَرْيَمَ لِلْحَوَارِيِّـۧنَ مَنْ أَنصَارِىٓ إِلَى ٱللَّهِ ۖ قَالَ ٱلْحَوَارِيُّونَ نَحْنُ أَنصَارُ ٱللَّهِ ۖ فَـَٔامَنَت طَّآئِفَةٌ مِّنۢ بَنِىٓ إِسْرَٰٓءِيلَ وَكَفَرَت طَّآئِفَةٌ ۖ فَأَيَّدْنَا ٱلَّذِينَ ءَامَنُوا۟ عَلَىٰ عَدُوِّهِمْ فَأَصْبَحُوا۟ ظَـٰهِرِينَ",
+      "text_imlaei": "يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا أَنصَارَ اللَّهِ كَمَا قَالَ عِيسَى ابْنُ مَرْيَمَ لِلْحَوَارِيِّينَ مَنْ أَنصَارِي إِلَى اللَّهِ ۖ قَالَ الْحَوَارِيُّونَ نَحْنُ أَنصَارُ اللَّهِ ۖ فَآمَنَت طَّائِفَةٌ مِّن بَنِي إِسْرَائِيلَ وَكَفَرَت طَّائِفَةٌ ۖ فَأَيَّدْنَا الَّذِينَ آمَنُوا عَلَىٰ عَدُوِّهِمْ فَأَصْبَحُوا ظَاهِرِينَ",
+      "page_number": 552,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 100870,
+          "resource_id": 20,
+          "text": "O you who have believed, be supporters of Allāh, as when Jesus, the son of Mary, said to the disciples, \"Who are my supporters for Allāh?\" The disciples said, \"We are supporters of Allāh.\" And a faction of the Children of Israel believed and a faction disbelieved. So We supported those who believed against their enemy, and they became dominant."
+        },
+        {
+          "id": 1171773,
+          "resource_id": 213,
+          "text": "হে ঈমানদারগণ! তোমরা আল্লাহর সাহায্যকারী হও, যেমন মারইয়াম-পুত্র ‘ঈসা হাওয়ারীগণকে বলেছিলেন, ‘আল্লাহর পথে কারা আমার সাহায্যকারী হবে?’ হাওয়ারীগণ বলেছিলেন, ‘আমরাই আল্লাহর পথে সাহায্যকারী [১]।’ তারপর বনী ইসরাঈলের একদল ঈমান আনল এবং একদল কুফরী করল। তখন আমরা যারা ঈমান এনেছিল, তাদের শত্রুদের মুকাবিলায় তাদেরকে শক্তিশালী করলাম, ফলে তারা বিজয়ী হল [২]।"
+        }
+      ]
+    }
+  ],
+  "audio_metadata": {
+    "audio_file": {
+      "id": 1031,
+      "chapter_id": 61,
+      "file_size": 4692096.0,
+      "format": "mp3",
+      "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/61.mp3"
+    }
+  }
+}

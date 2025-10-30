@@ -1,0 +1,317 @@
+{
+  "metadata": {
+    "surah_number": 104,
+    "scraped_at": "2025-10-30T05:15:57.237508",
+    "source": "api.quran.com",
+    "version": "1.0",
+    "translation_ids": [
+      213,
+      20
+    ]
+  },
+  "license": {
+    "text": {
+      "source": "api.quran.com",
+      "license": "Public Domain",
+      "attribution": "The Quran text is in the public domain",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:15:57.237508"
+    },
+    "translations": {
+      "source": "api.quran.com",
+      "license": "Various - See individual translation licenses",
+      "attribution": "Translation copyrights belong to respective translators",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:15:57.237508"
+    },
+    "audio": {
+      "source": "everyayah.com via api.quran.com",
+      "license": "Free for non-commercial use",
+      "attribution": "Audio recitations courtesy of everyayah.com",
+      "terms_url": "https://everyayah.com/",
+      "note": "Audio URLs provided - not downloaded locally due to size",
+      "fetched_at": "2025-10-30T05:15:57.237508"
+    }
+  },
+  "translation_metadata": {
+    "213": {
+      "name": "Abdul Hafeez & Mohammed Abdul Haq",
+      "author": "Abdul Hafeez, Mohammed Abdul Haq",
+      "language": "te",
+      "language_name": "Telugu",
+      "license": "Various",
+      "source": "api.quran.com"
+    },
+    "20": {
+      "name": "Saheeh International",
+      "author": "Saheeh International",
+      "language": "en",
+      "language_name": "English",
+      "license": "Public Domain",
+      "source": "api.quran.com"
+    }
+  },
+  "surah_info": {
+    "id": 104,
+    "revelation_place": "makkah",
+    "revelation_order": 32,
+    "bismillah_pre": true,
+    "name_simple": "Al-Humazah",
+    "name_complex": "Al-Humazah",
+    "name_arabic": "الهمزة",
+    "verses_count": 9,
+    "pages": [
+      601,
+      601
+    ],
+    "translated_name": {
+      "language_name": "english",
+      "name": "The Traducer"
+    }
+  },
+  "verses": [
+    {
+      "id": 6180,
+      "verse_number": 1,
+      "verse_key": "104:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 548,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ",
+      "text_imlaei": "وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ",
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96243,
+          "resource_id": 20,
+          "text": "Woe to every scorner and mocker"
+        },
+        {
+          "id": 1172776,
+          "resource_id": 213,
+          "text": "দুর্ভোগ প্রত্যেকের, যে পিছনে ও সামনে লোকের নিন্দা করে [১],"
+        }
+      ]
+    },
+    {
+      "id": 6181,
+      "verse_number": 2,
+      "verse_key": "104:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 548,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِى جَمَعَ مَالًا وَعَدَّدَهُۥ",
+      "text_imlaei": "الَّذِي جَمَعَ مَالًا وَعَدَّدَهُ",
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96245,
+          "resource_id": 20,
+          "text": "Who collects wealth and [continuously] counts it.<sup foot_note=197813>1</sup>"
+        },
+        {
+          "id": 1172777,
+          "resource_id": 213,
+          "text": "যে সম্পদ জমায় ও তা বার বার গণনা করে [১];"
+        }
+      ]
+    },
+    {
+      "id": 6182,
+      "verse_number": 3,
+      "verse_key": "104:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 548,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ",
+      "text_imlaei": "يَحْسَبُ أَنَّ مَالَهُ أَخْلَدَهُ",
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96247,
+          "resource_id": 20,
+          "text": "He thinks that his wealth will make him immortal."
+        },
+        {
+          "id": 1172778,
+          "resource_id": 213,
+          "text": "সে ধারণা করে যে, তার অর্থ তাকে অমর করে রাখবে [১] ;"
+        }
+      ]
+    },
+    {
+      "id": 6183,
+      "verse_number": 4,
+      "verse_key": "104:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 548,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "كَلَّا ۖ لَيُنۢبَذَنَّ فِى ٱلْحُطَمَةِ",
+      "text_imlaei": "كَلَّا ۖ لَيُنبَذَنَّ فِي الْحُطَمَةِ",
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96249,
+          "resource_id": 20,
+          "text": "No! He will surely be thrown into the Crusher.<sup foot_note=197814>1</sup>"
+        },
+        {
+          "id": 1172779,
+          "resource_id": 213,
+          "text": "কখনও না, সে অবশ্যই নিক্ষিপ্ত হবে [১] হুতামায় [২];"
+        }
+      ]
+    },
+    {
+      "id": 6184,
+      "verse_number": 5,
+      "verse_key": "104:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 548,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا ٱلْحُطَمَةُ",
+      "text_imlaei": "وَمَا أَدْرَاكَ مَا الْحُطَمَةُ",
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96251,
+          "resource_id": 20,
+          "text": "And what can make you know what is the Crusher?"
+        },
+        {
+          "id": 1172780,
+          "resource_id": 213,
+          "text": "আর আপনাকে কিসে জানাবে হুতামা কী?"
+        }
+      ]
+    },
+    {
+      "id": 6185,
+      "verse_number": 6,
+      "verse_key": "104:6",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 548,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "نَارُ ٱللَّهِ ٱلْمُوقَدَةُ",
+      "text_imlaei": "نَارُ اللَّهِ الْمُوقَدَةُ",
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96253,
+          "resource_id": 20,
+          "text": "It is the fire of Allāh, [eternally] fueled,"
+        },
+        {
+          "id": 1172781,
+          "resource_id": 213,
+          "text": "এটা আল্লাহর প্রজ্বলিত আগুন [১] ,"
+        }
+      ]
+    },
+    {
+      "id": 6186,
+      "verse_number": 7,
+      "verse_key": "104:7",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 548,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّتِى تَطَّلِعُ عَلَى ٱلْأَفْـِٔدَةِ",
+      "text_imlaei": "الَّتِي تَطَّلِعُ عَلَى الْأَفْئِدَةِ",
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96255,
+          "resource_id": 20,
+          "text": "Which mounts directed at the hearts.<sup foot_note=197815>1</sup>"
+        },
+        {
+          "id": 1172782,
+          "resource_id": 213,
+          "text": "যা হৃদয়কে গ্ৰাস করবে [১] ;"
+        }
+      ]
+    },
+    {
+      "id": 6187,
+      "verse_number": 8,
+      "verse_key": "104:8",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 548,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ",
+      "text_imlaei": "إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ",
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96257,
+          "resource_id": 20,
+          "text": "Indeed, it [i.e., Hellfire] will be closed down upon them"
+        },
+        {
+          "id": 1172783,
+          "resource_id": 213,
+          "text": "নিশ্চয় এটা তাদেরকে পরিবেষ্টন করে রাখবে [১]"
+        }
+      ]
+    },
+    {
+      "id": 6188,
+      "verse_number": 9,
+      "verse_key": "104:9",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 548,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فِى عَمَدٍ مُّمَدَّدَةٍۭ",
+      "text_imlaei": "فِي عَمَدٍ مُّمَدَّدَةٍ",
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96259,
+          "resource_id": 20,
+          "text": "In extended columns.<sup foot_note=197816>1</sup>"
+        },
+        {
+          "id": 1172784,
+          "resource_id": 213,
+          "text": "দীর্ঘায়িত স্তম্ভসমূহে [১]।"
+        }
+      ]
+    }
+  ],
+  "audio_metadata": {
+    "audio_file": {
+      "id": 1117,
+      "chapter_id": 104,
+      "file_size": 938112.0,
+      "format": "mp3",
+      "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/104.mp3"
+    }
+  }
+}

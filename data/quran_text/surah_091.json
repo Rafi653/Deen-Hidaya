@@ -1,0 +1,473 @@
+{
+  "metadata": {
+    "surah_number": 91,
+    "scraped_at": "2025-10-30T05:15:34.198028",
+    "source": "api.quran.com",
+    "version": "1.0",
+    "translation_ids": [
+      213,
+      20
+    ]
+  },
+  "license": {
+    "text": {
+      "source": "api.quran.com",
+      "license": "Public Domain",
+      "attribution": "The Quran text is in the public domain",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:15:34.198028"
+    },
+    "translations": {
+      "source": "api.quran.com",
+      "license": "Various - See individual translation licenses",
+      "attribution": "Translation copyrights belong to respective translators",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:15:34.198028"
+    },
+    "audio": {
+      "source": "everyayah.com via api.quran.com",
+      "license": "Free for non-commercial use",
+      "attribution": "Audio recitations courtesy of everyayah.com",
+      "terms_url": "https://everyayah.com/",
+      "note": "Audio URLs provided - not downloaded locally due to size",
+      "fetched_at": "2025-10-30T05:15:34.198028"
+    }
+  },
+  "translation_metadata": {
+    "213": {
+      "name": "Abdul Hafeez & Mohammed Abdul Haq",
+      "author": "Abdul Hafeez, Mohammed Abdul Haq",
+      "language": "te",
+      "language_name": "Telugu",
+      "license": "Various",
+      "source": "api.quran.com"
+    },
+    "20": {
+      "name": "Saheeh International",
+      "author": "Saheeh International",
+      "language": "en",
+      "language_name": "English",
+      "license": "Public Domain",
+      "source": "api.quran.com"
+    }
+  },
+  "surah_info": {
+    "id": 91,
+    "revelation_place": "makkah",
+    "revelation_order": 26,
+    "bismillah_pre": true,
+    "name_simple": "Ash-Shams",
+    "name_complex": "Ash-Shams",
+    "name_arabic": "الشمس",
+    "verses_count": 15,
+    "pages": [
+      595,
+      595
+    ],
+    "translated_name": {
+      "language_name": "english",
+      "name": "The Sun"
+    }
+  },
+  "verses": [
+    {
+      "id": 6044,
+      "verse_number": 1,
+      "verse_key": "91:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 535,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " وَٱلشَّمْسِ وَضُحَىٰهَا",
+      "text_imlaei": "وَالشَّمْسِ وَضُحَاهَا",
+      "page_number": 595,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102175,
+          "resource_id": 20,
+          "text": "By the sun and its brightness"
+        },
+        {
+          "id": 1172640,
+          "resource_id": 213,
+          "text": "শপথ সূর্যের এবং তার কিরণের [১],"
+        }
+      ]
+    },
+    {
+      "id": 6045,
+      "verse_number": 2,
+      "verse_key": "91:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 535,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلْقَمَرِ إِذَا تَلَىٰهَا",
+      "text_imlaei": "وَالْقَمَرِ إِذَا تَلَاهَا",
+      "page_number": 595,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102194,
+          "resource_id": 20,
+          "text": "And [by] the moon when it follows it"
+        },
+        {
+          "id": 1172641,
+          "resource_id": 213,
+          "text": "শপথ চাঁদের, যখন তা সূর্যের পর আবির্ভূত হয় [১] ,"
+        }
+      ]
+    },
+    {
+      "id": 6046,
+      "verse_number": 3,
+      "verse_key": "91:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 535,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلنَّهَارِ إِذَا جَلَّىٰهَا",
+      "text_imlaei": "وَالنَّهَارِ إِذَا جَلَّاهَا",
+      "page_number": 595,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102206,
+          "resource_id": 20,
+          "text": "And [by] the day when it displays it<sup foot_note=197770>1</sup>"
+        },
+        {
+          "id": 1172642,
+          "resource_id": 213,
+          "text": "শপথ দিনের, যখন সে সূর্যকে প্রকাশ করে [১],"
+        }
+      ]
+    },
+    {
+      "id": 6047,
+      "verse_number": 4,
+      "verse_key": "91:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 535,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلَّيْلِ إِذَا يَغْشَىٰهَا",
+      "text_imlaei": "وَاللَّيْلِ إِذَا يَغْشَاهَا",
+      "page_number": 595,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102208,
+          "resource_id": 20,
+          "text": "And [by] the night when it covers [i.e., conceals] it"
+        },
+        {
+          "id": 1172643,
+          "resource_id": 213,
+          "text": "শপথ রাতের, যখন সে সূর্যকে আচ্ছাদিত করে [১],"
+        }
+      ]
+    },
+    {
+      "id": 6048,
+      "verse_number": 5,
+      "verse_key": "91:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 535,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلسَّمَآءِ وَمَا بَنَىٰهَا",
+      "text_imlaei": "وَالسَّمَاءِ وَمَا بَنَاهَا",
+      "page_number": 595,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102210,
+          "resource_id": 20,
+          "text": "And [by] the sky and He who constructed it"
+        },
+        {
+          "id": 1172644,
+          "resource_id": 213,
+          "text": "শপথ আসমানের এবং যিনি তা নির্মাণ করেছেন তাঁর [১],"
+        }
+      ]
+    },
+    {
+      "id": 6049,
+      "verse_number": 6,
+      "verse_key": "91:6",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 535,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلْأَرْضِ وَمَا طَحَىٰهَا",
+      "text_imlaei": "وَالْأَرْضِ وَمَا طَحَاهَا",
+      "page_number": 595,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102212,
+          "resource_id": 20,
+          "text": "And [by] the earth and He who spread it"
+        },
+        {
+          "id": 1172645,
+          "resource_id": 213,
+          "text": "শপথ জমিনের এবং যিনি তা বিস্তৃত করেছেন তাঁর [১],"
+        }
+      ]
+    },
+    {
+      "id": 6050,
+      "verse_number": 7,
+      "verse_key": "91:7",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 535,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَنَفْسٍ وَمَا سَوَّىٰهَا",
+      "text_imlaei": "وَنَفْسٍ وَمَا سَوَّاهَا",
+      "page_number": 595,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102214,
+          "resource_id": 20,
+          "text": "And [by] the soul and He who proportioned it<sup foot_note=197771>1</sup>"
+        },
+        {
+          "id": 1172646,
+          "resource_id": 213,
+          "text": "শপথ নফ্সের [১] এবং যিনি তা সুবিন্যস্ত করেছেন তাঁর [২] ,"
+        }
+      ]
+    },
+    {
+      "id": 6051,
+      "verse_number": 8,
+      "verse_key": "91:8",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 535,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَىٰهَا",
+      "text_imlaei": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا",
+      "page_number": 595,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102216,
+          "resource_id": 20,
+          "text": "And inspired it [with discernment of] its wickedness and its righteousness,"
+        },
+        {
+          "id": 1172647,
+          "resource_id": 213,
+          "text": "তারপর তাকে তার সৎকাজের এবং তার অসৎ-কাজের জ্ঞান দান করেছেন [১] –"
+        }
+      ]
+    },
+    {
+      "id": 6052,
+      "verse_number": 9,
+      "verse_key": "91:9",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 535,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "قَدْ أَفْلَحَ مَن زَكَّىٰهَا",
+      "text_imlaei": "قَدْ أَفْلَحَ مَن زَكَّاهَا",
+      "page_number": 595,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102218,
+          "resource_id": 20,
+          "text": "He has succeeded who purifies it,"
+        },
+        {
+          "id": 1172648,
+          "resource_id": 213,
+          "text": "সে-ই সফলকাম হয়েছে, যে নিজেকে পবিত্র করেছে।"
+        }
+      ]
+    },
+    {
+      "id": 6053,
+      "verse_number": 10,
+      "verse_key": "91:10",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 535,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَقَدْ خَابَ مَن دَسَّىٰهَا",
+      "text_imlaei": "وَقَدْ خَابَ مَن دَسَّاهَا",
+      "page_number": 595,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102177,
+          "resource_id": 20,
+          "text": "And he has failed who instills it [with corruption]."
+        },
+        {
+          "id": 1172649,
+          "resource_id": 213,
+          "text": "আর সে-ই ব্যর্থ হয়েছে, যে নিজেকে কলুষিত করেছে [১]।"
+        }
+      ]
+    },
+    {
+      "id": 6054,
+      "verse_number": 11,
+      "verse_key": "91:11",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 535,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "كَذَّبَتْ ثَمُودُ بِطَغْوَىٰهَآ",
+      "text_imlaei": "كَذَّبَتْ ثَمُودُ بِطَغْوَاهَا",
+      "page_number": 595,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102180,
+          "resource_id": 20,
+          "text": "Thamūd denied [their prophet] by reason of their transgression,"
+        },
+        {
+          "id": 1172650,
+          "resource_id": 213,
+          "text": "সামূদ সম্প্রদায় অবাধ্যতাবশত [১] মিথ্যারোপ করেছিল।"
+        }
+      ]
+    },
+    {
+      "id": 6055,
+      "verse_number": 12,
+      "verse_key": "91:12",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 535,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِذِ ٱنۢبَعَثَ أَشْقَىٰهَا",
+      "text_imlaei": "إِذِ انبَعَثَ أَشْقَاهَا",
+      "page_number": 595,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102182,
+          "resource_id": 20,
+          "text": "When the most wretched of them was sent forth.<sup foot_note=197772>1</sup>"
+        },
+        {
+          "id": 1172651,
+          "resource_id": 213,
+          "text": "তাদের মধ্যে যে সর্বাধিক হতভাগ্য, সে যখন তৎপর হয়ে উঠল,"
+        }
+      ]
+    },
+    {
+      "id": 6056,
+      "verse_number": 13,
+      "verse_key": "91:13",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 535,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقْيَـٰهَا",
+      "text_imlaei": "فَقَالَ لَهُمْ رَسُولُ اللَّهِ نَاقَةَ اللَّهِ وَسُقْيَاهَا",
+      "page_number": 595,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102184,
+          "resource_id": 20,
+          "text": "And the messenger of Allāh [i.e., Ṣāliḥ] said to them, \"[Do not harm] the she-camel of Allāh or [prevent her from] her drink.\""
+        },
+        {
+          "id": 1172652,
+          "resource_id": 213,
+          "text": "তখন আল্লাহর রাসূল তাদেরকে বললেন, ‘আল্লাহর উষ্ট্রী ও তাকে পানি পান করানোর বিষয়ে সাবধান হও [১]।’"
+        }
+      ]
+    },
+    {
+      "id": 6057,
+      "verse_number": 14,
+      "verse_key": "91:14",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 535,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنۢبِهِمْ فَسَوَّىٰهَا",
+      "text_imlaei": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنبِهِمْ فَسَوَّاهَا",
+      "page_number": 595,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102186,
+          "resource_id": 20,
+          "text": "But they denied him and hamstrung<sup foot_note=197773>1</sup> her. So their Lord brought down upon them destruction for their sin and made it equal [upon all of them]."
+        },
+        {
+          "id": 1172653,
+          "resource_id": 213,
+          "text": "কিন্তু তারা তার প্রতি মিথ্যারোপ করল এবং উষ্ট্রীকে জবাই করল [১]। ফলে তাদের পাপের জন্য তাদের রব তাদেরকে সমূলে ধ্বংস করে একাকার করে দিলেন [২]।"
+        }
+      ]
+    },
+    {
+      "id": 6058,
+      "verse_number": 15,
+      "verse_key": "91:15",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 535,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَا يَخَافُ عُقْبَـٰهَا",
+      "text_imlaei": "وَلَا يَخَافُ عُقْبَاهَا",
+      "page_number": 595,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102188,
+          "resource_id": 20,
+          "text": "And He does not fear the consequence thereof.<sup foot_note=197774>1</sup>"
+        },
+        {
+          "id": 1172654,
+          "resource_id": 213,
+          "text": "আর তিনি এর পরিণামকে ভয় করেন না [১]।"
+        }
+      ]
+    }
+  ],
+  "audio_metadata": {
+    "audio_file": {
+      "id": 1091,
+      "chapter_id": 91,
+      "file_size": 1360000.0,
+      "format": "mp3",
+      "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/91.mp3"
+    }
+  }
+}

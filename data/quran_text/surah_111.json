@@ -1,0 +1,213 @@
+{
+  "metadata": {
+    "surah_number": 111,
+    "scraped_at": "2025-10-30T05:16:10.919462",
+    "source": "api.quran.com",
+    "version": "1.0",
+    "translation_ids": [
+      213,
+      20
+    ]
+  },
+  "license": {
+    "text": {
+      "source": "api.quran.com",
+      "license": "Public Domain",
+      "attribution": "The Quran text is in the public domain",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:16:10.919462"
+    },
+    "translations": {
+      "source": "api.quran.com",
+      "license": "Various - See individual translation licenses",
+      "attribution": "Translation copyrights belong to respective translators",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:16:10.919462"
+    },
+    "audio": {
+      "source": "everyayah.com via api.quran.com",
+      "license": "Free for non-commercial use",
+      "attribution": "Audio recitations courtesy of everyayah.com",
+      "terms_url": "https://everyayah.com/",
+      "note": "Audio URLs provided - not downloaded locally due to size",
+      "fetched_at": "2025-10-30T05:16:10.919462"
+    }
+  },
+  "translation_metadata": {
+    "213": {
+      "name": "Abdul Hafeez & Mohammed Abdul Haq",
+      "author": "Abdul Hafeez, Mohammed Abdul Haq",
+      "language": "te",
+      "language_name": "Telugu",
+      "license": "Various",
+      "source": "api.quran.com"
+    },
+    "20": {
+      "name": "Saheeh International",
+      "author": "Saheeh International",
+      "language": "en",
+      "language_name": "English",
+      "license": "Public Domain",
+      "source": "api.quran.com"
+    }
+  },
+  "surah_info": {
+    "id": 111,
+    "revelation_place": "makkah",
+    "revelation_order": 6,
+    "bismillah_pre": true,
+    "name_simple": "Al-Masad",
+    "name_complex": "Al-Masad",
+    "name_arabic": "المسد",
+    "verses_count": 5,
+    "pages": [
+      603,
+      603
+    ],
+    "translated_name": {
+      "language_name": "english",
+      "name": "The Palm Fiber"
+    }
+  },
+  "verses": [
+    {
+      "id": 6217,
+      "verse_number": 1,
+      "verse_key": "111:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 555,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " تَبَّتْ يَدَآ أَبِى لَهَبٍ وَتَبَّ",
+      "text_imlaei": "تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ",
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96360,
+          "resource_id": 20,
+          "text": "May the hands of Abū Lahab be ruined, and ruined is he.<sup foot_note=197827>1</sup>"
+        },
+        {
+          "id": 1172813,
+          "resource_id": 213,
+          "text": "ধ্বংস হোক আবু লাহাবের [১] দু‘হাত [২] এবং ধ্বংস হয়েছে সে নিজেও।"
+        }
+      ]
+    },
+    {
+      "id": 6218,
+      "verse_number": 2,
+      "verse_key": "111:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 555,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+      "text_imlaei": "مَا أَغْنَىٰ عَنْهُ مَالُهُ وَمَا كَسَبَ",
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96372,
+          "resource_id": 20,
+          "text": "His wealth will not avail him or that which he gained."
+        },
+        {
+          "id": 1172814,
+          "resource_id": 213,
+          "text": "তার ধন-সম্পদ ও তার উপাৰ্জন [১] তার কোনো কাজে আসে নি।"
+        }
+      ]
+    },
+    {
+      "id": 6219,
+      "verse_number": 3,
+      "verse_key": "111:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 555,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
+      "text_imlaei": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96378,
+          "resource_id": 20,
+          "text": "He will [enter to] burn in a Fire of [blazing] flame"
+        },
+        {
+          "id": 1172815,
+          "resource_id": 213,
+          "text": "অচিরে সে দগ্ধ হবে লেলিহান আগুনে [১]"
+        }
+      ]
+    },
+    {
+      "id": 6220,
+      "verse_number": 4,
+      "verse_key": "111:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 555,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱمْرَأَتُهُۥ حَمَّالَةَ ٱلْحَطَبِ",
+      "text_imlaei": "وَامْرَأَتُهُ حَمَّالَةَ الْحَطَبِ",
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96381,
+          "resource_id": 20,
+          "text": "And his wife [as well] - the carrier of firewood.<sup foot_note=197828>1</sup>"
+        },
+        {
+          "id": 1172816,
+          "resource_id": 213,
+          "text": "আর তার স্ত্রীও [১]- যে ইন্ধন বহন করে [২],"
+        }
+      ]
+    },
+    {
+      "id": 6221,
+      "verse_number": 5,
+      "verse_key": "111:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 555,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فِى جِيدِهَا حَبْلٌ مِّن مَّسَدٍۭ",
+      "text_imlaei": "فِي جِيدِهَا حَبْلٌ مِّن مَّسَدٍ",
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96383,
+          "resource_id": 20,
+          "text": "Around her neck is a rope of [twisted] fiber."
+        },
+        {
+          "id": 1172817,
+          "resource_id": 213,
+          "text": "তার গলায় [১] পাকানো রশি [২]।"
+        }
+      ]
+    }
+  ],
+  "audio_metadata": {
+    "audio_file": {
+      "id": 1131,
+      "chapter_id": 111,
+      "file_size": 673920.0,
+      "format": "mp3",
+      "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/111.mp3"
+    }
+  }
+}

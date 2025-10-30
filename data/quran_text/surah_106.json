@@ -1,0 +1,187 @@
+{
+  "metadata": {
+    "surah_number": 106,
+    "scraped_at": "2025-10-30T05:16:00.572298",
+    "source": "api.quran.com",
+    "version": "1.0",
+    "translation_ids": [
+      213,
+      20
+    ]
+  },
+  "license": {
+    "text": {
+      "source": "api.quran.com",
+      "license": "Public Domain",
+      "attribution": "The Quran text is in the public domain",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:16:00.572298"
+    },
+    "translations": {
+      "source": "api.quran.com",
+      "license": "Various - See individual translation licenses",
+      "attribution": "Translation copyrights belong to respective translators",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:16:00.572298"
+    },
+    "audio": {
+      "source": "everyayah.com via api.quran.com",
+      "license": "Free for non-commercial use",
+      "attribution": "Audio recitations courtesy of everyayah.com",
+      "terms_url": "https://everyayah.com/",
+      "note": "Audio URLs provided - not downloaded locally due to size",
+      "fetched_at": "2025-10-30T05:16:00.572298"
+    }
+  },
+  "translation_metadata": {
+    "213": {
+      "name": "Abdul Hafeez & Mohammed Abdul Haq",
+      "author": "Abdul Hafeez, Mohammed Abdul Haq",
+      "language": "te",
+      "language_name": "Telugu",
+      "license": "Various",
+      "source": "api.quran.com"
+    },
+    "20": {
+      "name": "Saheeh International",
+      "author": "Saheeh International",
+      "language": "en",
+      "language_name": "English",
+      "license": "Public Domain",
+      "source": "api.quran.com"
+    }
+  },
+  "surah_info": {
+    "id": 106,
+    "revelation_place": "makkah",
+    "revelation_order": 29,
+    "bismillah_pre": true,
+    "name_simple": "Quraysh",
+    "name_complex": "Quraysh",
+    "name_arabic": "قريش",
+    "verses_count": 4,
+    "pages": [
+      602,
+      602
+    ],
+    "translated_name": {
+      "language_name": "english",
+      "name": "Quraysh"
+    }
+  },
+  "verses": [
+    {
+      "id": 6194,
+      "verse_number": 1,
+      "verse_key": "106:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 550,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " لِإِيلَـٰفِ قُرَيْشٍ",
+      "text_imlaei": "لِإِيلَافِ قُرَيْشٍ",
+      "page_number": 602,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96279,
+          "resource_id": 20,
+          "text": "For the accustomed security of the Quraysh<sup foot_note=197820>1</sup> -"
+        },
+        {
+          "id": 1172790,
+          "resource_id": 213,
+          "text": "কুরাইশে[১]র আসক্তির কারণে [২],"
+        }
+      ]
+    },
+    {
+      "id": 6195,
+      "verse_number": 2,
+      "verse_key": "106:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 550,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِۦلَـٰفِهِمْ رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ",
+      "text_imlaei": "إِيلَافِهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ",
+      "page_number": 602,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96281,
+          "resource_id": 20,
+          "text": "Their accustomed security [in] the caravan of winter and summer<sup foot_note=197821>1</sup> -"
+        },
+        {
+          "id": 1172791,
+          "resource_id": 213,
+          "text": "তাদের আসক্তি আছে শীত ও গ্রীষ্মে সফরের [১]"
+        }
+      ]
+    },
+    {
+      "id": 6196,
+      "verse_number": 3,
+      "verse_key": "106:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 550,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَلْيَعْبُدُوا۟ رَبَّ هَـٰذَا ٱلْبَيْتِ",
+      "text_imlaei": "فَلْيَعْبُدُوا رَبَّ هَٰذَا الْبَيْتِ",
+      "page_number": 602,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96283,
+          "resource_id": 20,
+          "text": "Let them worship the Lord of this House,<sup foot_note=197822>1</sup>"
+        },
+        {
+          "id": 1172792,
+          "resource_id": 213,
+          "text": "অতএব, তারা ‘ইবাদাত করুক এ ঘরের রবের [১],"
+        }
+      ]
+    },
+    {
+      "id": 6197,
+      "verse_number": 4,
+      "verse_key": "106:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 550,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنْ خَوْفٍۭ",
+      "text_imlaei": "الَّذِي أَطْعَمَهُم مِّن جُوعٍ وَآمَنَهُم مِّنْ خَوْفٍ",
+      "page_number": 602,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96286,
+          "resource_id": 20,
+          "text": "Who has fed them, [saving them] from hunger and made them safe, [saving them] from fear."
+        },
+        {
+          "id": 1172793,
+          "resource_id": 213,
+          "text": "যিনি তাদেরকে ক্ষুধায় খাদ্য দিয়েছেন [১] এবং ভীতি থেকে তাদেরকে নিরাপদ করেছেন [২]।"
+        }
+      ]
+    }
+  ],
+  "audio_metadata": {
+    "audio_file": {
+      "id": 1121,
+      "chapter_id": 106,
+      "file_size": 690304.0,
+      "format": "mp3",
+      "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/106.mp3"
+    }
+  }
+}

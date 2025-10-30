@@ -1,0 +1,421 @@
+{
+  "metadata": {
+    "surah_number": 60,
+    "scraped_at": "2025-10-30T05:14:32.638197",
+    "source": "api.quran.com",
+    "version": "1.0",
+    "translation_ids": [
+      213,
+      20
+    ]
+  },
+  "license": {
+    "text": {
+      "source": "api.quran.com",
+      "license": "Public Domain",
+      "attribution": "The Quran text is in the public domain",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:14:32.638197"
+    },
+    "translations": {
+      "source": "api.quran.com",
+      "license": "Various - See individual translation licenses",
+      "attribution": "Translation copyrights belong to respective translators",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:14:32.638197"
+    },
+    "audio": {
+      "source": "everyayah.com via api.quran.com",
+      "license": "Free for non-commercial use",
+      "attribution": "Audio recitations courtesy of everyayah.com",
+      "terms_url": "https://everyayah.com/",
+      "note": "Audio URLs provided - not downloaded locally due to size",
+      "fetched_at": "2025-10-30T05:14:32.638197"
+    }
+  },
+  "translation_metadata": {
+    "213": {
+      "name": "Abdul Hafeez & Mohammed Abdul Haq",
+      "author": "Abdul Hafeez, Mohammed Abdul Haq",
+      "language": "te",
+      "language_name": "Telugu",
+      "license": "Various",
+      "source": "api.quran.com"
+    },
+    "20": {
+      "name": "Saheeh International",
+      "author": "Saheeh International",
+      "language": "en",
+      "language_name": "English",
+      "license": "Public Domain",
+      "source": "api.quran.com"
+    }
+  },
+  "surah_info": {
+    "id": 60,
+    "revelation_place": "madinah",
+    "revelation_order": 91,
+    "bismillah_pre": true,
+    "name_simple": "Al-Mumtahanah",
+    "name_complex": "Al-Mumtaĥanah",
+    "name_arabic": "الممتحنة",
+    "verses_count": 13,
+    "pages": [
+      549,
+      551
+    ],
+    "translated_name": {
+      "language_name": "english",
+      "name": "She that is to be examined"
+    }
+  },
+  "verses": [
+    {
+      "id": 5151,
+      "verse_number": 1,
+      "verse_key": "60:1",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 219,
+      "ruku_number": 484,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوا۟ عَدُوِّى وَعَدُوَّكُمْ أَوْلِيَآءَ تُلْقُونَ إِلَيْهِم بِٱلْمَوَدَّةِ وَقَدْ كَفَرُوا۟ بِمَا جَآءَكُم مِّنَ ٱلْحَقِّ يُخْرِجُونَ ٱلرَّسُولَ وَإِيَّاكُمْ ۙ أَن تُؤْمِنُوا۟ بِٱللَّهِ رَبِّكُمْ إِن كُنتُمْ خَرَجْتُمْ جِهَـٰدًا فِى سَبِيلِى وَٱبْتِغَآءَ مَرْضَاتِى ۚ تُسِرُّونَ إِلَيْهِم بِٱلْمَوَدَّةِ وَأَنَا۠ أَعْلَمُ بِمَآ أَخْفَيْتُمْ وَمَآ أَعْلَنتُمْ ۚ وَمَن يَفْعَلْهُ مِنكُمْ فَقَدْ ضَلَّ سَوَآءَ ٱلسَّبِيلِ",
+      "text_imlaei": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّخِذُوا عَدُوِّي وَعَدُوَّكُمْ أَوْلِيَاءَ تُلْقُونَ إِلَيْهِم بِالْمَوَدَّةِ وَقَدْ كَفَرُوا بِمَا جَاءَكُم مِّنَ الْحَقِّ يُخْرِجُونَ الرَّسُولَ وَإِيَّاكُمْ ۙ أَن تُؤْمِنُوا بِاللَّهِ رَبِّكُمْ إِن كُنتُمْ خَرَجْتُمْ جِهَادًا فِي سَبِيلِي وَابْتِغَاءَ مَرْضَاتِي ۚ تُسِرُّونَ إِلَيْهِم بِالْمَوَدَّةِ وَأَنَا أَعْلَمُ بِمَا أَخْفَيْتُمْ وَمَا أَعْلَنتُمْ ۚ وَمَن يَفْعَلْهُ مِنكُمْ فَقَدْ ضَلَّ سَوَاءَ السَّبِيلِ",
+      "page_number": 549,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 100831,
+          "resource_id": 20,
+          "text": "O you who have believed, do not take My enemies and your enemies as allies,<sup foot_note=197542>1</sup> extending to them affection while they have disbelieved in what came to you of the truth, having driven out the Prophet and yourselves [only] because you believe in Allāh, your Lord. If you have come out for jihād [i.e., fighting or striving] in My cause and seeking means to My approval, [take them not as friends]. You confide to them affection [i.e., instruction], but I am most knowing of what you have concealed and what you have declared. And whoever does it among you has certainly strayed from the soundness of the way."
+        },
+        {
+          "id": 1171747,
+          "resource_id": 213,
+          "text": "হে ঈমানদারগণ ! তোমরা আমার শত্রু ও তোমাদের শক্রকে বন্ধুরূপে গ্ৰহণ করো না, তোমরা কি তাদের প্রতি বন্ধুত্বের বার্তা প্রেরণ করছ, অথচ তারা তোমাদের কাছে যে সত্য এসেছে তা প্রত্যাখ্যান করেছে [১], রাসূলকে এবং তোমাদেরকে বহিস্কার করেছে এ কারণে যে, তোমরা তোমাদের রব আল্লাহর উপর ঈমান এনেছ। যদি তোমরা আমার পথে জিহাদের উদ্দেশ্যে এবং আমার সস্তুষ্টি লাভের জন্য বের হয়ে থাক, তবে কেন তোমরা তাদের সাথে গোপনে বন্ধুত্ব করছ?  আর তোমরা যা গোপন কর  এবং তোমরা যা প্ৰকাশ কর তা আমি সম্যক অবগত। তোমাদের মধ্যে যে কেউ এরূপ করে সে তো বিচ্যুত হয় সরল পথ থেকে।"
+        }
+      ]
+    },
+    {
+      "id": 5152,
+      "verse_number": 2,
+      "verse_key": "60:2",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 219,
+      "ruku_number": 484,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِن يَثْقَفُوكُمْ يَكُونُوا۟ لَكُمْ أَعْدَآءً وَيَبْسُطُوٓا۟ إِلَيْكُمْ أَيْدِيَهُمْ وَأَلْسِنَتَهُم بِٱلسُّوٓءِ وَوَدُّوا۟ لَوْ تَكْفُرُونَ",
+      "text_imlaei": "إِن يَثْقَفُوكُمْ يَكُونُوا لَكُمْ أَعْدَاءً وَيَبْسُطُوا إِلَيْكُمْ أَيْدِيَهُمْ وَأَلْسِنَتَهُم بِالسُّوءِ وَوَدُّوا لَوْ تَكْفُرُونَ",
+      "page_number": 549,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 100837,
+          "resource_id": 20,
+          "text": "If they gain dominance over you, they would be [i.e., behave] to you as enemies and extend against you their hands and their tongues with evil, and they wish you would disbelieve."
+        },
+        {
+          "id": 1171748,
+          "resource_id": 213,
+          "text": "তোমাদেরকে কাবু করতে পারলে তারা হবে  তোমাদের শত্রু এবং হাত ও জিহ্‌বা দ্বারা তোমাদের অনিষ্ট সাধন করবে, আর তারা কামনা করে যদি তোমরা কুফরী করতে।"
+        }
+      ]
+    },
+    {
+      "id": 5153,
+      "verse_number": 3,
+      "verse_key": "60:3",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 219,
+      "ruku_number": 484,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لَن تَنفَعَكُمْ أَرْحَامُكُمْ وَلَآ أَوْلَـٰدُكُمْ ۚ يَوْمَ ٱلْقِيَـٰمَةِ يَفْصِلُ بَيْنَكُمْ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
+      "text_imlaei": "لَن تَنفَعَكُمْ أَرْحَامُكُمْ وَلَا أَوْلَادُكُمْ ۚ يَوْمَ الْقِيَامَةِ يَفْصِلُ بَيْنَكُمْ ۚ وَاللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
+      "page_number": 549,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 100838,
+          "resource_id": 20,
+          "text": "Never will your relatives or your children benefit you; the Day of Resurrection He will judge between you. And Allāh, of what you do, is Seeing."
+        },
+        {
+          "id": 1171749,
+          "resource_id": 213,
+          "text": "তোমাদের আত্নীয়-স্বজন ও সন্তান–সন্ততি কিয়ামতের দিন কোনো উপকার করতে পারবে না। আল্লাহ তোমাদের মধ্যে ফয়সালা করে দেবেন; আর তোমরা যা কর আল্লাহ্‌ তার সম্যক দ্রষ্টা।"
+        }
+      ]
+    },
+    {
+      "id": 5154,
+      "verse_number": 4,
+      "verse_key": "60:4",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 219,
+      "ruku_number": 484,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "قَدْ كَانَتْ لَكُمْ أُسْوَةٌ حَسَنَةٌ فِىٓ إِبْرَٰهِيمَ وَٱلَّذِينَ مَعَهُۥٓ إِذْ قَالُوا۟ لِقَوْمِهِمْ إِنَّا بُرَءَٰٓؤُا۟ مِنكُمْ وَمِمَّا تَعْبُدُونَ مِن دُونِ ٱللَّهِ كَفَرْنَا بِكُمْ وَبَدَا بَيْنَنَا وَبَيْنَكُمُ ٱلْعَدَٰوَةُ وَٱلْبَغْضَآءُ أَبَدًا حَتَّىٰ تُؤْمِنُوا۟ بِٱللَّهِ وَحْدَهُۥٓ إِلَّا قَوْلَ إِبْرَٰهِيمَ لِأَبِيهِ لَأَسْتَغْفِرَنَّ لَكَ وَمَآ أَمْلِكُ لَكَ مِنَ ٱللَّهِ مِن شَىْءٍ ۖ رَّبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ ٱلْمَصِيرُ",
+      "text_imlaei": "قَدْ كَانَتْ لَكُمْ أُسْوَةٌ حَسَنَةٌ فِي إِبْرَاهِيمَ وَالَّذِينَ مَعَهُ إِذْ قَالُوا لِقَوْمِهِمْ إِنَّا بُرَآءُ مِنكُمْ وَمِمَّا تَعْبُدُونَ مِن دُونِ اللَّهِ كَفَرْنَا بِكُمْ وَبَدَا بَيْنَنَا وَبَيْنَكُمُ الْعَدَاوَةُ وَالْبَغْضَاءُ أَبَدًا حَتَّىٰ تُؤْمِنُوا بِاللَّهِ وَحْدَهُ إِلَّا قَوْلَ إِبْرَاهِيمَ لِأَبِيهِ لَأَسْتَغْفِرَنَّ لَكَ وَمَا أَمْلِكُ لَكَ مِنَ اللَّهِ مِن شَيْءٍ ۖ رَّبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ الْمَصِيرُ",
+      "page_number": 549,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 100839,
+          "resource_id": 20,
+          "text": "There has already been for you an excellent pattern<sup foot_note=197543>1</sup> in Abraham and those with him, when they said to their people, \"Indeed, we are disassociated from you and from whatever you worship other than Allāh. We have denied you, and there has appeared between us and you animosity and hatred forever until you believe in Allāh alone\" - except for the saying of Abraham to his father, \"I will surely ask forgiveness for you, but I have not [power to do] for you anything against Allāh. Our Lord, upon You we have relied, and to You we have returned, and to You is the destination."
+        },
+        {
+          "id": 1171750,
+          "resource_id": 213,
+          "text": "অবশ্যই তোমাদের জন্য ইবরাহীম ও তার সাথে যারা ছিল তাদের মধ্যে রয়েছে উত্তম আদর্শ। যখন তারা তাদের সম্প্রদায়কে বলেছিল, ‘তোমাদের সঙ্গে এবং তোমরা আল্লাহর পরিবর্তে যার ‘ইবাদাত কর তা হতে আমরা সম্পর্কমুক্ত। আমরা তোমাদেরকে অস্বীকার করি। তোমাদের  ও আমাদের মধ্যে সৃষ্টি হল শক্ৰতা ও বিদ্বেষ চিরকালের জন্য; যতক্ষণ না তোমরা এক আল্লাহ্‌তে ঈমান আন [১]।’ তবে ব্যতিক্রম তাঁর পিতার প্রতি ইবরাহীমের উক্তি: ‘আমি অবশ্যই তোমার জন্য ক্ষমা প্রার্থনা করব; আর তোমার ব্যাপারে আল্লাহর কাছে আমি কোনো অধিকার রাখি না [২]।’ ইব্‌রাহীম ও তার অনুসারীগণ বলেছিল, ’হে আমাদের রব! আমরা আপনারই উপর নির্ভর করেছি, আপনারই অভিমুখী হয়েছি এবং ফিরে যাওয়া তো আপনারই কাছে।"
+        }
+      ]
+    },
+    {
+      "id": 5155,
+      "verse_number": 5,
+      "verse_key": "60:5",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 219,
+      "ruku_number": 484,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِّلَّذِينَ كَفَرُوا۟ وَٱغْفِرْ لَنَا رَبَّنَآ ۖ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+      "text_imlaei": "رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِّلَّذِينَ كَفَرُوا وَاغْفِرْ لَنَا رَبَّنَا ۖ إِنَّكَ أَنتَ الْعَزِيزُ الْحَكِيمُ",
+      "page_number": 549,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 100840,
+          "resource_id": 20,
+          "text": "Our Lord, make us not [objects of] torment for the disbelievers and forgive us, our Lord. Indeed, it is You who is the Exalted in Might, the Wise.\""
+        },
+        {
+          "id": 1171751,
+          "resource_id": 213,
+          "text": "‘হে আমাদের রব! আপনি আমাদেরকে কাফিরদের ফিতনার পাত্র করবেন না। হে আমাদের রব! আপনি আমাদেরকে ক্ষমা করুন; নিশ্চয় আপনি পরাক্রমশালী, প্রজ্ঞাময়।’"
+        }
+      ]
+    },
+    {
+      "id": 5156,
+      "verse_number": 6,
+      "verse_key": "60:6",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 219,
+      "ruku_number": 484,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لَقَدْ كَانَ لَكُمْ فِيهِمْ أُسْوَةٌ حَسَنَةٌ لِّمَن كَانَ يَرْجُوا۟ ٱللَّهَ وَٱلْيَوْمَ ٱلْـَٔاخِرَ ۚ وَمَن يَتَوَلَّ فَإِنَّ ٱللَّهَ هُوَ ٱلْغَنِىُّ ٱلْحَمِيدُ",
+      "text_imlaei": "لَقَدْ كَانَ لَكُمْ فِيهِمْ أُسْوَةٌ حَسَنَةٌ لِّمَن كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ ۚ وَمَن يَتَوَلَّ فَإِنَّ اللَّهَ هُوَ الْغَنِيُّ الْحَمِيدُ",
+      "page_number": 550,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 100841,
+          "resource_id": 20,
+          "text": "There has certainly been for you in them an excellent pattern for anyone whose hope is in Allāh and the Last Day. And whoever turns away - then indeed, Allāh is the Free of need, the Praiseworthy."
+        },
+        {
+          "id": 1171752,
+          "resource_id": 213,
+          "text": "যারা আল্লাহ্‌ ও শেষ দিবসের প্রত্যাশা করে অবশ্যই তোমাদের জন্য রয়েছে ওদের মধ্যে [১] উত্তম আদর্শ। আর যে মুখ ফিরিয়ে নেয়, (সে জেনে রাখুক), নিশ্চয় আল্লাহ, তিনি অভাবমুক্ত, সপ্রশংসিত।"
+        }
+      ]
+    },
+    {
+      "id": 5157,
+      "verse_number": 7,
+      "verse_key": "60:7",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 220,
+      "ruku_number": 485,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "۞ عَسَى ٱللَّهُ أَن يَجْعَلَ بَيْنَكُمْ وَبَيْنَ ٱلَّذِينَ عَادَيْتُم مِّنْهُم مَّوَدَّةً ۚ وَٱللَّهُ قَدِيرٌ ۚ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
+      "text_imlaei": "عَسَى اللَّهُ أَن يَجْعَلَ بَيْنَكُمْ وَبَيْنَ الَّذِينَ عَادَيْتُم مِّنْهُم مَّوَدَّةً ۚ وَاللَّهُ قَدِيرٌ ۚ وَاللَّهُ غَفُورٌ رَّحِيمٌ",
+      "page_number": 550,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 100842,
+          "resource_id": 20,
+          "text": "Perhaps Allāh will put, between you and those to whom you have been enemies among them, affection. And Allāh is competent,<sup foot_note=197544>1</sup> and Allāh is Forgiving and Merciful."
+        },
+        {
+          "id": 1171753,
+          "resource_id": 213,
+          "text": "যাদের সাথে তোমাদের শক্ৰতা রয়েছে সম্ভবত আল্লাহ তাদের ও তোমাদের মধ্যে বন্ধুত্ব সৃষ্টি করে দেবেন [১] এবং আল্লাহ্‌  ক্ষমতাবান। আর আল্লাহ ক্ষমাশীল, পরম দয়ালু।"
+        }
+      ]
+    },
+    {
+      "id": 5158,
+      "verse_number": 8,
+      "verse_key": "60:8",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 220,
+      "ruku_number": 485,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لَّا يَنْهَىٰكُمُ ٱللَّهُ عَنِ ٱلَّذِينَ لَمْ يُقَـٰتِلُوكُمْ فِى ٱلدِّينِ وَلَمْ يُخْرِجُوكُم مِّن دِيَـٰرِكُمْ أَن تَبَرُّوهُمْ وَتُقْسِطُوٓا۟ إِلَيْهِمْ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُقْسِطِينَ",
+      "text_imlaei": "لَّا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي الدِّينِ وَلَمْ يُخْرِجُوكُم مِّن دِيَارِكُمْ أَن تَبَرُّوهُمْ وَتُقْسِطُوا إِلَيْهِمْ ۚ إِنَّ اللَّهَ يُحِبُّ الْمُقْسِطِينَ",
+      "page_number": 550,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 100843,
+          "resource_id": 20,
+          "text": "Allāh does not forbid you from those who do not fight you because of religion and do not expel you from your homes - from being righteous toward them and acting justly toward them. Indeed, Allāh loves those who act justly."
+        },
+        {
+          "id": 1171754,
+          "resource_id": 213,
+          "text": "দীনের ব্যাপারে যারা তোমাদের বিরুদ্ধে যুদ্ধ করেনি এবং তোমাদেরকে স্বদেশ থেকে বহিস্কার করেনি তাদের প্রতি মহানুভবতা দেখাতে ও ন্যায়বিচার করতে আল্লাহ তোমাদেরকে নিষেধ করেন না। নিশ্চয় আল্লাহ্‌ ন্যায়পরায়ণদেরকে ভালবাসেন [১]।"
+        }
+      ]
+    },
+    {
+      "id": 5159,
+      "verse_number": 9,
+      "verse_key": "60:9",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 220,
+      "ruku_number": 485,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّمَا يَنْهَىٰكُمُ ٱللَّهُ عَنِ ٱلَّذِينَ قَـٰتَلُوكُمْ فِى ٱلدِّينِ وَأَخْرَجُوكُم مِّن دِيَـٰرِكُمْ وَظَـٰهَرُوا۟ عَلَىٰٓ إِخْرَاجِكُمْ أَن تَوَلَّوْهُمْ ۚ وَمَن يَتَوَلَّهُمْ فَأُو۟لَـٰٓئِكَ هُمُ ٱلظَّـٰلِمُونَ",
+      "text_imlaei": "إِنَّمَا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ قَاتَلُوكُمْ فِي الدِّينِ وَأَخْرَجُوكُم مِّن دِيَارِكُمْ وَظَاهَرُوا عَلَىٰ إِخْرَاجِكُمْ أَن تَوَلَّوْهُمْ ۚ وَمَن يَتَوَلَّهُمْ فَأُولَٰئِكَ هُمُ الظَّالِمُونَ",
+      "page_number": 550,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 100844,
+          "resource_id": 20,
+          "text": "Allāh only forbids you from those who fight you because of religion and expel you from your homes and aid in your expulsion - [forbids] that you make allies<sup foot_note=197545>1</sup> of them. And whoever makes allies of them, then it is those who are the wrongdoers."
+        },
+        {
+          "id": 1171755,
+          "resource_id": 213,
+          "text": "আল্লাহ শুধু তাদের সাথে বন্ধুত্ব করতে নিষেধ করেন যারা দীনের ব্যাপারে তোমাদের সাথে যুদ্ধ করেছে, তোমাদেরকে স্বদেশ থেকে বের করে দিয়েছে এবং তোমাদেরকে বের করাতে সাহায্য করেছে। আর তাদের সাথে যারা বন্ধুত্ব করে তারাই তো যালিম।"
+        }
+      ]
+    },
+    {
+      "id": 5160,
+      "verse_number": 10,
+      "verse_key": "60:10",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 220,
+      "ruku_number": 485,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا جَآءَكُمُ ٱلْمُؤْمِنَـٰتُ مُهَـٰجِرَٰتٍ فَٱمْتَحِنُوهُنَّ ۖ ٱللَّهُ أَعْلَمُ بِإِيمَـٰنِهِنَّ ۖ فَإِنْ عَلِمْتُمُوهُنَّ مُؤْمِنَـٰتٍ فَلَا تَرْجِعُوهُنَّ إِلَى ٱلْكُفَّارِ ۖ لَا هُنَّ حِلٌّ لَّهُمْ وَلَا هُمْ يَحِلُّونَ لَهُنَّ ۖ وَءَاتُوهُم مَّآ أَنفَقُوا۟ ۚ وَلَا جُنَاحَ عَلَيْكُمْ أَن تَنكِحُوهُنَّ إِذَآ ءَاتَيْتُمُوهُنَّ أُجُورَهُنَّ ۚ وَلَا تُمْسِكُوا۟ بِعِصَمِ ٱلْكَوَافِرِ وَسْـَٔلُوا۟ مَآ أَنفَقْتُمْ وَلْيَسْـَٔلُوا۟ مَآ أَنفَقُوا۟ ۚ ذَٰلِكُمْ حُكْمُ ٱللَّهِ ۖ يَحْكُمُ بَيْنَكُمْ ۚ وَٱللَّهُ عَلِيمٌ حَكِيمٌ",
+      "text_imlaei": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا جَاءَكُمُ الْمُؤْمِنَاتُ مُهَاجِرَاتٍ فَامْتَحِنُوهُنَّ ۖ اللَّهُ أَعْلَمُ بِإِيمَانِهِنَّ ۖ فَإِنْ عَلِمْتُمُوهُنَّ مُؤْمِنَاتٍ فَلَا تَرْجِعُوهُنَّ إِلَى الْكُفَّارِ ۖ لَا هُنَّ حِلٌّ لَّهُمْ وَلَا هُمْ يَحِلُّونَ لَهُنَّ ۖ وَآتُوهُم مَّا أَنفَقُوا ۚ وَلَا جُنَاحَ عَلَيْكُمْ أَن تَنكِحُوهُنَّ إِذَا آتَيْتُمُوهُنَّ أُجُورَهُنَّ ۚ وَلَا تُمْسِكُوا بِعِصَمِ الْكَوَافِرِ وَاسْأَلُوا مَا أَنفَقْتُمْ وَلْيَسْأَلُوا مَا أَنفَقُوا ۚ ذَٰلِكُمْ حُكْمُ اللَّهِ ۖ يَحْكُمُ بَيْنَكُمْ ۚ وَاللَّهُ عَلِيمٌ حَكِيمٌ",
+      "page_number": 550,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 100832,
+          "resource_id": 20,
+          "text": "O you who have believed, when the believing women come to you as emigrants, examine [i.e., test] them. Allāh is most knowing as to their faith. And if you know them to be believers, then do not return them to the disbelievers; they are not lawful [wives] for them, nor are they lawful [husbands] for them. But give them [i.e., the disbelievers] what they have spent.<sup foot_note=197547>1</sup> And there is no blame upon you if you marry them when you have given them their due compensation [i.e., mahr]. And hold not to marriage bonds with disbelieving women, but ask for what you have spent and let them [i.e., the disbelievers] ask for what they have spent.<sup foot_note=197546>2</sup> That is the judgement of Allāh; He judges between you. And Allāh is Knowing and Wise."
+        },
+        {
+          "id": 1171756,
+          "resource_id": 213,
+          "text": "হে ঈমানদারগণণ [১]! তোমাদের কাছে মুমিন নারীরা হিজরত করে আসলে তোমরা তাদেরকে পরীক্ষা করো [২]; আল্লাহ তাদের ঈমান সম্বন্ধে সম্যক অবগত। অতঃপর যদি তোমরা জানতে পার যে, তারা মুমিন নারী, তবে তাদেরকে কাফিরদের কাছে ফেরত পাঠিয়ে দিয়ো না। মুমিন নারীগণ কাফিরদের জন্য বৈধ নয় এবং কাফিরগণ মুমিন নারীদের জন্য বৈধ নয়। কাফিররা যা ব্যয় করেছে তা তাদেরকে ফিরিয়ে দিও। তারপর তোমরা তাদেরকে বিয়ে করলে  তোমাদের কোনো অপরাধ হবে না যদি তোমরা তাদেরকে তাদের মহর দাও। আর তোমরা কাফির নারীদের সাথে দাম্পত্য সম্পর্ক বজায় রেখো না [৩]। তোমরা যা ব্যয় করেছ তা ফেরত চাইবে এবং কাফিররা যা ব্যয় করেছে তা যেন তারা চেয়ে নেয়। এটাই আল্লাহর বিধান; তিনি তোমাদের মধ্যে ফয়সালা করে থাকেন। আর আল্লাহ্‌ সর্বজ্ঞ, প্রজ্ঞাময়।"
+        }
+      ]
+    },
+    {
+      "id": 5161,
+      "verse_number": 11,
+      "verse_key": "60:11",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 220,
+      "ruku_number": 485,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِن فَاتَكُمْ شَىْءٌ مِّنْ أَزْوَٰجِكُمْ إِلَى ٱلْكُفَّارِ فَعَاقَبْتُمْ فَـَٔاتُوا۟ ٱلَّذِينَ ذَهَبَتْ أَزْوَٰجُهُم مِّثْلَ مَآ أَنفَقُوا۟ ۚ وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِىٓ أَنتُم بِهِۦ مُؤْمِنُونَ",
+      "text_imlaei": "وَإِن فَاتَكُمْ شَيْءٌ مِّنْ أَزْوَاجِكُمْ إِلَى الْكُفَّارِ فَعَاقَبْتُمْ فَآتُوا الَّذِينَ ذَهَبَتْ أَزْوَاجُهُم مِّثْلَ مَا أَنفَقُوا ۚ وَاتَّقُوا اللَّهَ الَّذِي أَنتُم بِهِ مُؤْمِنُونَ",
+      "page_number": 550,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 100833,
+          "resource_id": 20,
+          "text": "And if you have lost any of your wives to the disbelievers and you subsequently obtain [something],<sup foot_note=197548>1</sup> then give those whose wives have gone the equivalent of what they had spent. And fear Allāh, in whom you are believers."
+        },
+        {
+          "id": 1171757,
+          "resource_id": 213,
+          "text": "আর তোমাদের স্ত্রীদের মধ্যে যদি কেউ হাতছাড়া হয়ে কাফিরদের মধ্যে রয়ে যায় অতঃপর যদি তোমরা যুদ্ধজয়ী  হয়ে গনীমত লাভ কর, তাহলে যাদের স্ত্রীরা হাতছাড়া হয়ে গেছে তাদেরকে, তারা যা ব্যয় করেছে তার সমপরিমাণ প্ৰদান কর, আর আল্লাহর তাকওয়া অবলম্বন কর, যাঁর উপর তোমরা ঈমান এনেছ।"
+        }
+      ]
+    },
+    {
+      "id": 5162,
+      "verse_number": 12,
+      "verse_key": "60:12",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 220,
+      "ruku_number": 485,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا جَآءَكَ ٱلْمُؤْمِنَـٰتُ يُبَايِعْنَكَ عَلَىٰٓ أَن لَّا يُشْرِكْنَ بِٱللَّهِ شَيْـًٔا وَلَا يَسْرِقْنَ وَلَا يَزْنِينَ وَلَا يَقْتُلْنَ أَوْلَـٰدَهُنَّ وَلَا يَأْتِينَ بِبُهْتَـٰنٍ يَفْتَرِينَهُۥ بَيْنَ أَيْدِيهِنَّ وَأَرْجُلِهِنَّ وَلَا يَعْصِينَكَ فِى مَعْرُوفٍ ۙ فَبَايِعْهُنَّ وَٱسْتَغْفِرْ لَهُنَّ ٱللَّهَ ۖ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+      "text_imlaei": "يَا أَيُّهَا النَّبِيُّ إِذَا جَاءَكَ الْمُؤْمِنَاتُ يُبَايِعْنَكَ عَلَىٰ أَن لَّا يُشْرِكْنَ بِاللَّهِ شَيْئًا وَلَا يَسْرِقْنَ وَلَا يَزْنِينَ وَلَا يَقْتُلْنَ أَوْلَادَهُنَّ وَلَا يَأْتِينَ بِبُهْتَانٍ يَفْتَرِينَهُ بَيْنَ أَيْدِيهِنَّ وَأَرْجُلِهِنَّ وَلَا يَعْصِينَكَ فِي مَعْرُوفٍ ۙ فَبَايِعْهُنَّ وَاسْتَغْفِرْ لَهُنَّ اللَّهَ ۖ إِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ",
+      "page_number": 551,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 100835,
+          "resource_id": 20,
+          "text": "O Prophet, when the believing women come to you pledging to you that they will not associate anything with Allāh, nor will they steal, nor will they commit unlawful sexual intercourse, nor will they kill their children, nor will they bring forth a slander they have invented between their arms and legs,<sup foot_note=197549>1</sup> nor will they disobey you in what is right - then accept their pledge and ask forgiveness for them of Allāh. Indeed, Allāh is Forgiving and Merciful."
+        },
+        {
+          "id": 1171758,
+          "resource_id": 213,
+          "text": "হে নবী! মুমিন নারীগণ যখন আপনার কাছে কাছে এসে বাই’আত করে [১] এ মর্মে যে, তারা আল্লাহর সাথে কোনো শরীক স্থির করবে না, চুরি করবে না, ব্যভিচার করবেনা, নিজেদের সন্তানদের  হত্যা করবে না, তারা সজ্ঞানে কোনো অপবাদ রচনা করে রটাবে না এবং সৎকাজে আপনাকে অমান্য করবে না, তখন আপনি তাদের বাই’আত গ্ৰহণ করুন এবং তাদের জন্য আল্লাহর কাছে ক্ষমা প্রার্থনা করুন। নিশ্চয় আল্লাহ ক্ষমাশীল, পরম দয়ালু।"
+        }
+      ]
+    },
+    {
+      "id": 5163,
+      "verse_number": 13,
+      "verse_key": "60:13",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 220,
+      "ruku_number": 485,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَوَلَّوْا۟ قَوْمًا غَضِبَ ٱللَّهُ عَلَيْهِمْ قَدْ يَئِسُوا۟ مِنَ ٱلْـَٔاخِرَةِ كَمَا يَئِسَ ٱلْكُفَّارُ مِنْ أَصْحَـٰبِ ٱلْقُبُورِ",
+      "text_imlaei": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَوَلَّوْا قَوْمًا غَضِبَ اللَّهُ عَلَيْهِمْ قَدْ يَئِسُوا مِنَ الْآخِرَةِ كَمَا يَئِسَ الْكُفَّارُ مِنْ أَصْحَابِ الْقُبُورِ",
+      "page_number": 551,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 100836,
+          "resource_id": 20,
+          "text": "O you who have believed, do not make allies of a people with whom Allāh has become angry. They have despaired of [reward in] the Hereafter just as the disbelievers have despaired of [meeting] the companions [i.e., inhabitants] of the graves."
+        },
+        {
+          "id": 1171759,
+          "resource_id": 213,
+          "text": "হে মুমিনগণ! আল্লাহ যে সম্প্রদায়ের প্রতি রুষ্ট তোমরা তাদের সাথে বন্ধুত্ব করো না, তারা তো আখিরাত সম্পর্কে হতাশ হয়ে পড়েছে যেমন হতাশ হয়েছে কাফিররা কবরবাসীদের বিষয়ে।"
+        }
+      ]
+    }
+  ],
+  "audio_metadata": {
+    "audio_file": {
+      "id": 1029,
+      "chapter_id": 60,
+      "file_size": 7233664.0,
+      "format": "mp3",
+      "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/60.mp3"
+    }
+  }
+}

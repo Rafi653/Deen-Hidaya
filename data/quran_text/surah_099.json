@@ -1,0 +1,291 @@
+{
+  "metadata": {
+    "surah_number": 99,
+    "scraped_at": "2025-10-30T05:15:48.470864",
+    "source": "api.quran.com",
+    "version": "1.0",
+    "translation_ids": [
+      213,
+      20
+    ]
+  },
+  "license": {
+    "text": {
+      "source": "api.quran.com",
+      "license": "Public Domain",
+      "attribution": "The Quran text is in the public domain",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:15:48.470864"
+    },
+    "translations": {
+      "source": "api.quran.com",
+      "license": "Various - See individual translation licenses",
+      "attribution": "Translation copyrights belong to respective translators",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:15:48.470864"
+    },
+    "audio": {
+      "source": "everyayah.com via api.quran.com",
+      "license": "Free for non-commercial use",
+      "attribution": "Audio recitations courtesy of everyayah.com",
+      "terms_url": "https://everyayah.com/",
+      "note": "Audio URLs provided - not downloaded locally due to size",
+      "fetched_at": "2025-10-30T05:15:48.470864"
+    }
+  },
+  "translation_metadata": {
+    "213": {
+      "name": "Abdul Hafeez & Mohammed Abdul Haq",
+      "author": "Abdul Hafeez, Mohammed Abdul Haq",
+      "language": "te",
+      "language_name": "Telugu",
+      "license": "Various",
+      "source": "api.quran.com"
+    },
+    "20": {
+      "name": "Saheeh International",
+      "author": "Saheeh International",
+      "language": "en",
+      "language_name": "English",
+      "license": "Public Domain",
+      "source": "api.quran.com"
+    }
+  },
+  "surah_info": {
+    "id": 99,
+    "revelation_place": "madinah",
+    "revelation_order": 93,
+    "bismillah_pre": true,
+    "name_simple": "Az-Zalzalah",
+    "name_complex": "Az-Zalzalah",
+    "name_arabic": "الزلزلة",
+    "verses_count": 8,
+    "pages": [
+      599,
+      599
+    ],
+    "translated_name": {
+      "language_name": "english",
+      "name": "The Earthquake"
+    }
+  },
+  "verses": [
+    {
+      "id": 6139,
+      "verse_number": 1,
+      "verse_key": "99:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 543,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا",
+      "text_imlaei": "إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا",
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102380,
+          "resource_id": 20,
+          "text": "When the earth is shaken with its [final] earthquake"
+        },
+        {
+          "id": 1172735,
+          "resource_id": 213,
+          "text": "যখন প্ৰবল কম্পনে যমীন প্ৰকম্পিত করা হবে [১],"
+        }
+      ]
+    },
+    {
+      "id": 6140,
+      "verse_number": 2,
+      "verse_key": "99:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 543,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا",
+      "text_imlaei": "وَأَخْرَجَتِ الْأَرْضُ أَثْقَالَهَا",
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102382,
+          "resource_id": 20,
+          "text": "And the earth discharges its burdens<sup foot_note=197793>1</sup>"
+        },
+        {
+          "id": 1172736,
+          "resource_id": 213,
+          "text": "আর যমীন তার ভার বের করে দেবে [১],"
+        }
+      ]
+    },
+    {
+      "id": 6141,
+      "verse_number": 3,
+      "verse_key": "99:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 543,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَقَالَ ٱلْإِنسَـٰنُ مَا لَهَا",
+      "text_imlaei": "وَقَالَ الْإِنسَانُ مَا لَهَا",
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102384,
+          "resource_id": 20,
+          "text": "And man says,<sup foot_note=197794>1</sup> \"What is [wrong] with it?\" -"
+        },
+        {
+          "id": 1172737,
+          "resource_id": 213,
+          "text": "আর মানুষ বলবে, ‘এর কী হল [১]?’"
+        }
+      ]
+    },
+    {
+      "id": 6142,
+      "verse_number": 4,
+      "verse_key": "99:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 543,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+      "text_imlaei": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102386,
+          "resource_id": 20,
+          "text": "That Day, it will report its news"
+        },
+        {
+          "id": 1172738,
+          "resource_id": 213,
+          "text": "সেদিন যমীন তার বৃত্তান্ত বৰ্ণনা করবে [১],"
+        }
+      ]
+    },
+    {
+      "id": 6143,
+      "verse_number": 5,
+      "verse_key": "99:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 543,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+      "text_imlaei": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102388,
+          "resource_id": 20,
+          "text": "Because your Lord has inspired [i.e., commanded] it."
+        },
+        {
+          "id": 1172739,
+          "resource_id": 213,
+          "text": "কারণ আপনার রব তাকে নির্দেশ দিয়েছেন,"
+        }
+      ]
+    },
+    {
+      "id": 6144,
+      "verse_number": 6,
+      "verse_key": "99:6",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 543,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَوْمَئِذٍ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا لِّيُرَوْا۟ أَعْمَـٰلَهُمْ",
+      "text_imlaei": "يَوْمَئِذٍ يَصْدُرُ النَّاسُ أَشْتَاتًا لِّيُرَوْا أَعْمَالَهُمْ",
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102390,
+          "resource_id": 20,
+          "text": "That Day, the people will depart<sup foot_note=197795>1</sup> separated [into categories] to be shown [the result of] their deeds."
+        },
+        {
+          "id": 1172740,
+          "resource_id": 213,
+          "text": "সেদিন মানুষ ভিন্ন ভিন্ন দলে বের হবে [১], যাতে তাদেরকে তাদের কৃতকর্ম দেখান যায় [২],"
+        }
+      ]
+    },
+    {
+      "id": 6145,
+      "verse_number": 7,
+      "verse_key": "99:7",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 543,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ",
+      "text_imlaei": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ",
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102392,
+          "resource_id": 20,
+          "text": "So whoever does an atom's weight<sup foot_note=197796>1</sup> of good will see it,"
+        },
+        {
+          "id": 1172741,
+          "resource_id": 213,
+          "text": "কেউ অণু পরিমাণ সৎকাজ করলে সে তা দেখবে [১]।"
+        }
+      ]
+    },
+    {
+      "id": 6146,
+      "verse_number": 8,
+      "verse_key": "99:8",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 543,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ",
+      "text_imlaei": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ",
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 102394,
+          "resource_id": 20,
+          "text": "And whoever does an atom's weight of evil will see it."
+        },
+        {
+          "id": 1172742,
+          "resource_id": 213,
+          "text": "আর কেউ অণু পরিমাণ অসৎকাজ করলে সে তাও দেখবে [১]।"
+        }
+      ]
+    }
+  ],
+  "audio_metadata": {
+    "audio_file": {
+      "id": 1107,
+      "chapter_id": 99,
+      "file_size": 968832.0,
+      "format": "mp3",
+      "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/99.mp3"
+    }
+  }
+}

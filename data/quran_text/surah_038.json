@@ -1,0 +1,2371 @@
+{
+  "metadata": {
+    "surah_number": 38,
+    "scraped_at": "2025-10-30T05:13:57.738766",
+    "source": "api.quran.com",
+    "version": "1.0",
+    "translation_ids": [
+      213,
+      20
+    ]
+  },
+  "license": {
+    "text": {
+      "source": "api.quran.com",
+      "license": "Public Domain",
+      "attribution": "The Quran text is in the public domain",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:13:57.738766"
+    },
+    "translations": {
+      "source": "api.quran.com",
+      "license": "Various - See individual translation licenses",
+      "attribution": "Translation copyrights belong to respective translators",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:13:57.738766"
+    },
+    "audio": {
+      "source": "everyayah.com via api.quran.com",
+      "license": "Free for non-commercial use",
+      "attribution": "Audio recitations courtesy of everyayah.com",
+      "terms_url": "https://everyayah.com/",
+      "note": "Audio URLs provided - not downloaded locally due to size",
+      "fetched_at": "2025-10-30T05:13:57.738766"
+    }
+  },
+  "translation_metadata": {
+    "213": {
+      "name": "Abdul Hafeez & Mohammed Abdul Haq",
+      "author": "Abdul Hafeez, Mohammed Abdul Haq",
+      "language": "te",
+      "language_name": "Telugu",
+      "license": "Various",
+      "source": "api.quran.com"
+    },
+    "20": {
+      "name": "Saheeh International",
+      "author": "Saheeh International",
+      "language": "en",
+      "language_name": "English",
+      "license": "Public Domain",
+      "source": "api.quran.com"
+    }
+  },
+  "surah_info": {
+    "id": 38,
+    "revelation_place": "makkah",
+    "revelation_order": 38,
+    "bismillah_pre": true,
+    "name_simple": "Sad",
+    "name_complex": "Şād",
+    "name_arabic": "ص",
+    "verses_count": 88,
+    "pages": [
+      453,
+      458
+    ],
+    "translated_name": {
+      "language_name": "english",
+      "name": "The Letter \"Saad\""
+    }
+  },
+  "verses": [
+    {
+      "id": 3971,
+      "verse_number": 1,
+      "verse_key": "38:1",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 181,
+      "ruku_number": 393,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": " صٓ ۚ وَٱلْقُرْءَانِ ذِى ٱلذِّكْرِ",
+      "text_imlaei": "ص ۚ وَالْقُرْآنِ ذِي الذِّكْرِ",
+      "page_number": 453,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99346,
+          "resource_id": 20,
+          "text": "Ṣād.<sup foot_note=197209>1</sup> By the Qur’ān containing reminder...<sup foot_note=197208>2</sup>"
+        },
+        {
+          "id": 1170567,
+          "resource_id": 213,
+          "text": "সোয়াদ [১], শপথ উপদেশপূর্ণ কুরআনের!"
+        }
+      ]
+    },
+    {
+      "id": 3972,
+      "verse_number": 2,
+      "verse_key": "38:2",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 181,
+      "ruku_number": 393,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "بَلِ ٱلَّذِينَ كَفَرُوا۟ فِى عِزَّةٍ وَشِقَاقٍ",
+      "text_imlaei": "بَلِ الَّذِينَ كَفَرُوا فِي عِزَّةٍ وَشِقَاقٍ",
+      "page_number": 453,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99358,
+          "resource_id": 20,
+          "text": "But those who disbelieve are in pride and dissension."
+        },
+        {
+          "id": 1170568,
+          "resource_id": 213,
+          "text": "বরং কাফিররা ঔদ্ধত্য ও বিরোধিতায় নিপতিত আছে।"
+        }
+      ]
+    },
+    {
+      "id": 3973,
+      "verse_number": 3,
+      "verse_key": "38:3",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 181,
+      "ruku_number": 393,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّن قَرْنٍ فَنَادَوا۟ وَّلَاتَ حِينَ مَنَاصٍ",
+      "text_imlaei": "كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّن قَرْنٍ فَنَادَوا وَّلَاتَ حِينَ مَنَاصٍ",
+      "page_number": 453,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99370,
+          "resource_id": 20,
+          "text": "How many a generation have We destroyed before them, and they [then] called out; but it was not a time for escape."
+        },
+        {
+          "id": 1170569,
+          "resource_id": 213,
+          "text": "এদের আগে আমরা বহু জনগোষ্ঠী  ধ্বংস করেছি; তখন তারা আর্ত চীৎকার করেছিল। কিন্তু তখন পরিত্রাণের কোনোই সময় ছিল না।"
+        }
+      ]
+    },
+    {
+      "id": 3974,
+      "verse_number": 4,
+      "verse_key": "38:4",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 181,
+      "ruku_number": 393,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَعَجِبُوٓا۟ أَن جَآءَهُم مُّنذِرٌ مِّنْهُمْ ۖ وَقَالَ ٱلْكَـٰفِرُونَ هَـٰذَا سَـٰحِرٌ كَذَّابٌ",
+      "text_imlaei": "وَعَجِبُوا أَن جَاءَهُم مُّنذِرٌ مِّنْهُمْ ۖ وَقَالَ الْكَافِرُونَ هَٰذَا سَاحِرٌ كَذَّابٌ",
+      "page_number": 453,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99382,
+          "resource_id": 20,
+          "text": "And they wonder that there has come to them a warner [i.e., Prophet Muḥammad (ﷺ)] from among themselves. And the disbelievers say, \"This is a magician and a liar."
+        },
+        {
+          "id": 1170570,
+          "resource_id": 213,
+          "text": "আর তারা বিস্ময় বোধ করছে যে, এদের কাছে এদেরই মধ্য থেকে একজন সতর্ককারী আসল এবং কাফিররা বলে, 'এ তো এক জাদুকর [১], মিথ্যাবাদী।'"
+        }
+      ]
+    },
+    {
+      "id": 3975,
+      "verse_number": 5,
+      "verse_key": "38:5",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 181,
+      "ruku_number": 393,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "أَجَعَلَ ٱلْـَٔالِهَةَ إِلَـٰهًا وَٰحِدًا ۖ إِنَّ هَـٰذَا لَشَىْءٌ عُجَابٌ",
+      "text_imlaei": "أَجَعَلَ الْآلِهَةَ إِلَٰهًا وَاحِدًا ۖ إِنَّ هَٰذَا لَشَيْءٌ عُجَابٌ",
+      "page_number": 453,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99394,
+          "resource_id": 20,
+          "text": "Has he made the gods [only] one God? Indeed, this is a curious thing.\""
+        },
+        {
+          "id": 1170571,
+          "resource_id": 213,
+          "text": "'সে কি বহু ইলাহকে এক ইলাহ বানিয়ে নিয়েছে? এটা তো এক অত্যাশ্চর্য ব্যাপার!'"
+        }
+      ]
+    },
+    {
+      "id": 3976,
+      "verse_number": 6,
+      "verse_key": "38:6",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 181,
+      "ruku_number": 393,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱنطَلَقَ ٱلْمَلَأُ مِنْهُمْ أَنِ ٱمْشُوا۟ وَٱصْبِرُوا۟ عَلَىٰٓ ءَالِهَتِكُمْ ۖ إِنَّ هَـٰذَا لَشَىْءٌ يُرَادُ",
+      "text_imlaei": "وَانطَلَقَ الْمَلَأُ مِنْهُمْ أَنِ امْشُوا وَاصْبِرُوا عَلَىٰ آلِهَتِكُمْ ۖ إِنَّ هَٰذَا لَشَيْءٌ يُرَادُ",
+      "page_number": 453,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99406,
+          "resource_id": 20,
+          "text": "And the eminent among them went forth, [saying], \"Continue, and be patient over [the defense of] your gods. Indeed, this is a thing intended.<sup foot_note=197210>1</sup>"
+        },
+        {
+          "id": 1170572,
+          "resource_id": 213,
+          "text": "আর তাদের নেতারা এ বলে সরে পড়ে যে, 'তোমরা চলে যাও এবং তোমাদের দেবতাগুলোর পূজায় তোমরা অবিচলিত থাক। নিশ্চয়ই এ ব্যাপারটি উদ্দেশ্যমূলক।'"
+        }
+      ]
+    },
+    {
+      "id": 3977,
+      "verse_number": 7,
+      "verse_key": "38:7",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 181,
+      "ruku_number": 393,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "مَا سَمِعْنَا بِهَـٰذَا فِى ٱلْمِلَّةِ ٱلْـَٔاخِرَةِ إِنْ هَـٰذَآ إِلَّا ٱخْتِلَـٰقٌ",
+      "text_imlaei": "مَا سَمِعْنَا بِهَٰذَا فِي الْمِلَّةِ الْآخِرَةِ إِنْ هَٰذَا إِلَّا اخْتِلَاقٌ",
+      "page_number": 453,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99418,
+          "resource_id": 20,
+          "text": "We have not heard of this in the latest religion.<sup foot_note=197211>1</sup> This is not but a fabrication."
+        },
+        {
+          "id": 1170573,
+          "resource_id": 213,
+          "text": "আমরা তো অন্য ধর্মাদর্শে [১] এরূপ কথা শুনিনি; এটা এক মনগড়া উক্তি মাত্র।"
+        }
+      ]
+    },
+    {
+      "id": 3978,
+      "verse_number": 8,
+      "verse_key": "38:8",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 181,
+      "ruku_number": 393,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "أَءُنزِلَ عَلَيْهِ ٱلذِّكْرُ مِنۢ بَيْنِنَا ۚ بَلْ هُمْ فِى شَكٍّ مِّن ذِكْرِى ۖ بَل لَّمَّا يَذُوقُوا۟ عَذَابِ",
+      "text_imlaei": "أَأُنزِلَ عَلَيْهِ الذِّكْرُ مِن بَيْنِنَا ۚ بَلْ هُمْ فِي شَكٍّ مِّن ذِكْرِي ۖ بَل لَّمَّا يَذُوقُوا عَذَابِ",
+      "page_number": 453,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99430,
+          "resource_id": 20,
+          "text": "Has the message been revealed to him out of [all of] us?\" Rather, they are in doubt about My message. Rather, they have not yet tasted My punishment."
+        },
+        {
+          "id": 1170574,
+          "resource_id": 213,
+          "text": "'আমাদের মধ্যে কি তারই উপর যিক্‌র (বাণী) নাযিল হল? প্রকৃতপক্ষে  তারা তো আমার বাণীতে (কুরআনে) সন্দিহান। বরং তারা এখনো আমার শাস্তি  আস্বাদন করেনি।"
+        }
+      ]
+    },
+    {
+      "id": 3979,
+      "verse_number": 9,
+      "verse_key": "38:9",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 181,
+      "ruku_number": 393,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "أَمْ عِندَهُمْ خَزَآئِنُ رَحْمَةِ رَبِّكَ ٱلْعَزِيزِ ٱلْوَهَّابِ",
+      "text_imlaei": "أَمْ عِندَهُمْ خَزَائِنُ رَحْمَةِ رَبِّكَ الْعَزِيزِ الْوَهَّابِ",
+      "page_number": 453,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99437,
+          "resource_id": 20,
+          "text": "Or do they have the depositories of the mercy of your Lord, the Exalted in Might, the Bestower?<sup foot_note=197212>1</sup>"
+        },
+        {
+          "id": 1170575,
+          "resource_id": 213,
+          "text": "নাকি তাদের কাছে আছে আপনার রবের অনুগ্রহের ভাণ্ডার, যিনি পরাক্রমশালী, মহান দাতা?"
+        }
+      ]
+    },
+    {
+      "id": 3980,
+      "verse_number": 10,
+      "verse_key": "38:10",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 181,
+      "ruku_number": 393,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "أَمْ لَهُم مُّلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ۖ فَلْيَرْتَقُوا۟ فِى ٱلْأَسْبَـٰبِ",
+      "text_imlaei": "أَمْ لَهُم مُّلْكُ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا ۖ فَلْيَرْتَقُوا فِي الْأَسْبَابِ",
+      "page_number": 453,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99347,
+          "resource_id": 20,
+          "text": "Or is theirs the dominion of the heavens and the earth and what is between them? Then let them ascend through [any] ways of access.<sup foot_note=197213>1</sup>"
+        },
+        {
+          "id": 1170576,
+          "resource_id": 213,
+          "text": "নাকি তাদের কর্তৃত্ব আছে আসমানসমূহ ও যমীন এবং এ দু’য়ের অন্তর্বতী সমস্ত কিছুর উপর? থাকলে, তারা কোনো উপায় অবলম্বন করে আরোহণ করুক !"
+        }
+      ]
+    },
+    {
+      "id": 3981,
+      "verse_number": 11,
+      "verse_key": "38:11",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 181,
+      "ruku_number": 393,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "جُندٌ مَّا هُنَالِكَ مَهْزُومٌ مِّنَ ٱلْأَحْزَابِ",
+      "text_imlaei": "جُندٌ مَّا هُنَالِكَ مَهْزُومٌ مِّنَ الْأَحْزَابِ",
+      "page_number": 453,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99348,
+          "resource_id": 20,
+          "text": "[They are but] soldiers [who will be] defeated there among the companies [of disbelievers]."
+        },
+        {
+          "id": 1170577,
+          "resource_id": 213,
+          "text": "এ বাহিনী সেখানে অবশ্যই পরাজিত হবে, পূর্ববতী দলসমূহের মত [১]।"
+        }
+      ]
+    },
+    {
+      "id": 3982,
+      "verse_number": 12,
+      "verse_key": "38:12",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 181,
+      "ruku_number": 393,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَعَادٌ وَفِرْعَوْنُ ذُو ٱلْأَوْتَادِ",
+      "text_imlaei": "كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَعَادٌ وَفِرْعَوْنُ ذُو الْأَوْتَادِ",
+      "page_number": 453,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99349,
+          "resource_id": 20,
+          "text": "The people of Noah denied before them, and [the tribe of] ʿAad and Pharaoh, the owner of stakes,<sup foot_note=197214>1</sup>"
+        },
+        {
+          "id": 1170578,
+          "resource_id": 213,
+          "text": "এদের আগেও রাসূলগণের প্রতি মিথ্যারোপ করেছিল নূহের সম্প্রদায়, ‘আদ ও কীলকওয়ালা ফিরআউন [১],"
+        }
+      ]
+    },
+    {
+      "id": 3983,
+      "verse_number": 13,
+      "verse_key": "38:13",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 181,
+      "ruku_number": 393,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَثَمُودُ وَقَوْمُ لُوطٍ وَأَصْحَـٰبُ لْـَٔيْكَةِ ۚ أُو۟لَـٰٓئِكَ ٱلْأَحْزَابُ",
+      "text_imlaei": "وَثَمُودُ وَقَوْمُ لُوطٍ وَأَصْحَابُ الْأَيْكَةِ ۚ أُولَٰئِكَ الْأَحْزَابُ",
+      "page_number": 453,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99350,
+          "resource_id": 20,
+          "text": "And [the tribe of] Thamūd and the people of Lot and the companions of the thicket [i.e., people of Madyan]. Those are the companies.<sup foot_note=197215>1</sup>"
+        },
+        {
+          "id": 1170579,
+          "resource_id": 213,
+          "text": "সামুদ, লুত সম্প্রদায় ও আইকা'র অধিবাসী; ওরা ছিল এক-একটি  বিশাল বাহিনী।"
+        }
+      ]
+    },
+    {
+      "id": 3984,
+      "verse_number": 14,
+      "verse_key": "38:14",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 181,
+      "ruku_number": 393,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "إِن كُلٌّ إِلَّا كَذَّبَ ٱلرُّسُلَ فَحَقَّ عِقَابِ",
+      "text_imlaei": "إِن كُلٌّ إِلَّا كَذَّبَ الرُّسُلَ فَحَقَّ عِقَابِ",
+      "page_number": 453,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99351,
+          "resource_id": 20,
+          "text": "Each of them denied the messengers, so My penalty was justified."
+        },
+        {
+          "id": 1170580,
+          "resource_id": 213,
+          "text": "তাদের প্রত্যেকেই রাসূলগণের প্ৰতি মিথ্যারোপ করেছিল। ফলে তাদের ক্ষেত্রে আমার শাস্তি ছিল যথার্থ।।"
+        }
+      ]
+    },
+    {
+      "id": 3985,
+      "verse_number": 15,
+      "verse_key": "38:15",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 181,
+      "ruku_number": 394,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَا يَنظُرُ هَـٰٓؤُلَآءِ إِلَّا صَيْحَةً وَٰحِدَةً مَّا لَهَا مِن فَوَاقٍ",
+      "text_imlaei": "وَمَا يَنظُرُ هَٰؤُلَاءِ إِلَّا صَيْحَةً وَاحِدَةً مَّا لَهَا مِن فَوَاقٍ",
+      "page_number": 453,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99352,
+          "resource_id": 20,
+          "text": "And these [disbelievers] await not but one blast [of the Horn]; for it there will be no delay.<sup foot_note=197216>1</sup>"
+        },
+        {
+          "id": 1170581,
+          "resource_id": 213,
+          "text": "আর এরা তো কেবল অপেক্ষা করছে একটি মাত্র প্রচণ্ড শব্দের, যাতে কোনো বিরাম থাকবে না [১]।"
+        }
+      ]
+    },
+    {
+      "id": 3986,
+      "verse_number": 16,
+      "verse_key": "38:16",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 181,
+      "ruku_number": 394,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَقَالُوا۟ رَبَّنَا عَجِّل لَّنَا قِطَّنَا قَبْلَ يَوْمِ ٱلْحِسَابِ",
+      "text_imlaei": "وَقَالُوا رَبَّنَا عَجِّل لَّنَا قِطَّنَا قَبْلَ يَوْمِ الْحِسَابِ",
+      "page_number": 453,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99353,
+          "resource_id": 20,
+          "text": "And they say, \"Our Lord, hasten for us our share [of the punishment] before the Day of Account.\""
+        },
+        {
+          "id": 1170582,
+          "resource_id": 213,
+          "text": "আর তারা বলে, 'হে আমাদের রব! হিসাব দিবসের আগেই আমাদের প্রাপ্য [১] আমাদেরকে শীঘ্রই দিয়ে দিন!'"
+        }
+      ]
+    },
+    {
+      "id": 3987,
+      "verse_number": 17,
+      "verse_key": "38:17",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 181,
+      "ruku_number": 394,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "ٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَٱذْكُرْ عَبْدَنَا دَاوُۥدَ ذَا ٱلْأَيْدِ ۖ إِنَّهُۥٓ أَوَّابٌ",
+      "text_imlaei": "اصْبِرْ عَلَىٰ مَا يَقُولُونَ وَاذْكُرْ عَبْدَنَا دَاوُودَ ذَا الْأَيْدِ ۖ إِنَّهُ أَوَّابٌ",
+      "page_number": 454,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99354,
+          "resource_id": 20,
+          "text": "Be patient over what they say and remember Our servant, David, the possessor of strength; indeed, he was one who repeatedly turned back [to Allāh]."
+        },
+        {
+          "id": 1170583,
+          "resource_id": 213,
+          "text": "তারা যা বলে তাতে আপনি ধৈর্য ধারণ করুন এবং স্মরণ করুন আমাদের শক্তিশালী বান্দা দাউদের কথা; তিনি ছিলেন খুব বেশী আল্লাহ অভিমুখী [১]।"
+        }
+      ]
+    },
+    {
+      "id": 3988,
+      "verse_number": 18,
+      "verse_key": "38:18",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 181,
+      "ruku_number": 394,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+      "text_imlaei": "إِنَّا سَخَّرْنَا الْجِبَالَ مَعَهُ يُسَبِّحْنَ بِالْعَشِيِّ وَالْإِشْرَاقِ",
+      "page_number": 454,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99355,
+          "resource_id": 20,
+          "text": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise."
+        },
+        {
+          "id": 1170584,
+          "resource_id": 213,
+          "text": "নিশ্চয় আমরা অনুগত করেছিলাম পর্বতমালাকে, যেন এগুলো সকাল- সন্ধ্যায় তার সাথে আমার পবিত্রতা ও মহিমা ঘোষণা করে"
+        }
+      ]
+    },
+    {
+      "id": 3989,
+      "verse_number": 19,
+      "verse_key": "38:19",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 181,
+      "ruku_number": 394,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلطَّيْرَ مَحْشُورَةً ۖ كُلٌّ لَّهُۥٓ أَوَّابٌ",
+      "text_imlaei": "وَالطَّيْرَ مَحْشُورَةً ۖ كُلٌّ لَّهُ أَوَّابٌ",
+      "page_number": 454,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99356,
+          "resource_id": 20,
+          "text": "And the birds were assembled, all with him repeating [praises]."
+        },
+        {
+          "id": 1170585,
+          "resource_id": 213,
+          "text": "এবং সমবেত পাখীদেরকেও; সবাই ছিল তার অভিমুখী [১]।"
+        }
+      ]
+    },
+    {
+      "id": 3990,
+      "verse_number": 20,
+      "verse_key": "38:20",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 181,
+      "ruku_number": 394,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَشَدَدْنَا مُلْكَهُۥ وَءَاتَيْنَـٰهُ ٱلْحِكْمَةَ وَفَصْلَ ٱلْخِطَابِ",
+      "text_imlaei": "وَشَدَدْنَا مُلْكَهُ وَآتَيْنَاهُ الْحِكْمَةَ وَفَصْلَ الْخِطَابِ",
+      "page_number": 454,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99359,
+          "resource_id": 20,
+          "text": "And We strengthened his kingdom and gave him wisdom and discernment in speech."
+        },
+        {
+          "id": 1170586,
+          "resource_id": 213,
+          "text": "আর আমরা তার রাজ্যকে সুদৃঢ় করেছিলাম এবং তাকে দিয়েছিলাম হিকমত ও ফয়সালাকারী বাগ্মিতা [১]।"
+        }
+      ]
+    },
+    {
+      "id": 3991,
+      "verse_number": 21,
+      "verse_key": "38:21",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 394,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "۞ وَهَلْ أَتَىٰكَ نَبَؤُا۟ ٱلْخَصْمِ إِذْ تَسَوَّرُوا۟ ٱلْمِحْرَابَ",
+      "text_imlaei": "وَهَلْ أَتَاكَ نَبَأُ الْخَصْمِ إِذْ تَسَوَّرُوا الْمِحْرَابَ",
+      "page_number": 454,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99360,
+          "resource_id": 20,
+          "text": "And has there come to you the news of the adversaries, when they climbed over the wall of [his] prayer chamber -"
+        },
+        {
+          "id": 1170587,
+          "resource_id": 213,
+          "text": "আর আপনার কাছে বিবদমান লোকদের বৃত্তান্ত পৌঁছেছে কি? যখন তারা প্রাচীর ডিঙিয়ে আসল ‘ইবাদতখানায়,"
+        }
+      ]
+    },
+    {
+      "id": 3992,
+      "verse_number": 22,
+      "verse_key": "38:22",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 394,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "إِذْ دَخَلُوا۟ عَلَىٰ دَاوُۥدَ فَفَزِعَ مِنْهُمْ ۖ قَالُوا۟ لَا تَخَفْ ۖ خَصْمَانِ بَغَىٰ بَعْضُنَا عَلَىٰ بَعْضٍ فَٱحْكُم بَيْنَنَا بِٱلْحَقِّ وَلَا تُشْطِطْ وَٱهْدِنَآ إِلَىٰ سَوَآءِ ٱلصِّرَٰطِ",
+      "text_imlaei": "إِذْ دَخَلُوا عَلَىٰ دَاوُودَ فَفَزِعَ مِنْهُمْ ۖ قَالُوا لَا تَخَفْ ۖ خَصْمَانِ بَغَىٰ بَعْضُنَا عَلَىٰ بَعْضٍ فَاحْكُم بَيْنَنَا بِالْحَقِّ وَلَا تُشْطِطْ وَاهْدِنَا إِلَىٰ سَوَاءِ الصِّرَاطِ",
+      "page_number": 454,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99361,
+          "resource_id": 20,
+          "text": "When they entered upon David and he was alarmed by them? They said, \"Fear not. [We are] two adversaries, one of whom has wronged the other, so judge between us with truth and do not exceed [it] and guide us to the sound path."
+        },
+        {
+          "id": 1170588,
+          "resource_id": 213,
+          "text": "যখন তারা দাউদের কাছে প্ৰবেশ করল, তখন তাদের কারণে তিনি ভীত হয়ে পড়লেন। তারা বলল, 'ভীত হবেন না, আমরা দুই বিবাদমান পক্ষ---আমাদের একে অন্যের উপর সীমালঙ্ঘন করেছে; অতএব আপনি আমাদের মধ্যে ন্যায় বিচার করুন; অবিচার করবেন না এবং আমাদেরকে সঠিক পথ প্রদর্শন করুন।"
+        }
+      ]
+    },
+    {
+      "id": 3993,
+      "verse_number": 23,
+      "verse_key": "38:23",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 394,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ هَـٰذَآ أَخِى لَهُۥ تِسْعٌ وَتِسْعُونَ نَعْجَةً وَلِىَ نَعْجَةٌ وَٰحِدَةٌ فَقَالَ أَكْفِلْنِيهَا وَعَزَّنِى فِى ٱلْخِطَابِ",
+      "text_imlaei": "إِنَّ هَٰذَا أَخِي لَهُ تِسْعٌ وَتِسْعُونَ نَعْجَةً وَلِيَ نَعْجَةٌ وَاحِدَةٌ فَقَالَ أَكْفِلْنِيهَا وَعَزَّنِي فِي الْخِطَابِ",
+      "page_number": 454,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99362,
+          "resource_id": 20,
+          "text": "Indeed this, my brother, has ninety-nine ewes, and I have one ewe; so he said, 'Entrust her to me,' and he overpowered me in speech.\""
+        },
+        {
+          "id": 1170589,
+          "resource_id": 213,
+          "text": "'নিশ্চয় এ ব্যক্তি আমার ভাই, এর আছে নিরানব্বইটি ভেড়ী [১]। আর আমার আছে মাত্র একটি ভেড়ী। তবুও সে বলে, ‘আমার যিম্মায় এটি দিয়ে দাও' এবং কথায় সে আমার প্ৰতি প্ৰাধান্য বিস্তার করেছে।"
+        }
+      ]
+    },
+    {
+      "id": 3994,
+      "verse_number": 24,
+      "verse_key": "38:24",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 394,
+      "manzil_number": 6,
+      "sajdah_number": 10,
+      "text_uthmani": "قَالَ لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ إِلَىٰ نِعَاجِهِۦ ۖ وَإِنَّ كَثِيرًا مِّنَ ٱلْخُلَطَآءِ لَيَبْغِى بَعْضُهُمْ عَلَىٰ بَعْضٍ إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَقَلِيلٌ مَّا هُمْ ۗ وَظَنَّ دَاوُۥدُ أَنَّمَا فَتَنَّـٰهُ فَٱسْتَغْفَرَ رَبَّهُۥ وَخَرَّ رَاكِعًا وَأَنَابَ ۩",
+      "text_imlaei": "قَالَ لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ إِلَىٰ نِعَاجِهِ ۖ وَإِنَّ كَثِيرًا مِّنَ الْخُلَطَاءِ لَيَبْغِي بَعْضُهُمْ عَلَىٰ بَعْضٍ إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَقَلِيلٌ مَّا هُمْ ۗ وَظَنَّ دَاوُودُ أَنَّمَا فَتَنَّاهُ فَاسْتَغْفَرَ رَبَّهُ وَخَرَّ رَاكِعًا وَأَنَابَ",
+      "page_number": 454,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99363,
+          "resource_id": 20,
+          "text": "[David] said, \"He has certainly wronged you in demanding your ewe [in addition] to his ewes. And indeed, many associates oppress one another, except for those who believe and do righteous deeds - and few are they.\" And David became certain that We had tried him, and he asked forgiveness of his Lord<sup foot_note=197217>1</sup> and fell down bowing [in prostration] and turned in repentance [to Allāh]."
+        },
+        {
+          "id": 1170590,
+          "resource_id": 213,
+          "text": "দাউদ বললেন, 'তোমার ভেড়ীটিকে তার ভেড়িগুলোর সঙ্গে যুক্ত করার দাবী করে সে তোমার প্রতি যুলুম করেছে। আর শরীকদের অনেকে একে অন্যের উপর তো সীমালংঘন করে থাকে---করে না শুধু যারা ঈমান আনে এবং সৎকাজ করে, আর তারা সংখ্যায় স্বল্প।’ আর দাউদ বুঝতে পারলেন, আমরা তো তাকে পরীক্ষা করলাম। অতঃপর তিনি তার রবের কাছে ক্ষমা প্রার্থনা করলেন এবং নত হয়ে লুটিয়ে পড়লেন [১], আর তাঁর অভিমুখী হলেন।"
+        }
+      ]
+    },
+    {
+      "id": 3995,
+      "verse_number": 25,
+      "verse_key": "38:25",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 394,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "فَغَفَرْنَا لَهُۥ ذَٰلِكَ ۖ وَإِنَّ لَهُۥ عِندَنَا لَزُلْفَىٰ وَحُسْنَ مَـَٔابٍ",
+      "text_imlaei": "فَغَفَرْنَا لَهُ ذَٰلِكَ ۖ وَإِنَّ لَهُ عِندَنَا لَزُلْفَىٰ وَحُسْنَ مَآبٍ",
+      "page_number": 454,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99364,
+          "resource_id": 20,
+          "text": "So We forgave him that; and indeed, for him is nearness to Us and a good place of return."
+        },
+        {
+          "id": 1170591,
+          "resource_id": 213,
+          "text": "অতঃপর আমরা তার ক্ৰটি ক্ষমা করলাম। আর নিশ্চয় আমাদের কাছে তার জন্য রয়েছে নৈকট্যের মর্যাদা ও উত্তম প্রত্যাবর্তনস্থল।"
+        }
+      ]
+    },
+    {
+      "id": 3996,
+      "verse_number": 26,
+      "verse_key": "38:26",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 394,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰدَاوُۥدُ إِنَّا جَعَلْنَـٰكَ خَلِيفَةً فِى ٱلْأَرْضِ فَٱحْكُم بَيْنَ ٱلنَّاسِ بِٱلْحَقِّ وَلَا تَتَّبِعِ ٱلْهَوَىٰ فَيُضِلَّكَ عَن سَبِيلِ ٱللَّهِ ۚ إِنَّ ٱلَّذِينَ يَضِلُّونَ عَن سَبِيلِ ٱللَّهِ لَهُمْ عَذَابٌ شَدِيدٌۢ بِمَا نَسُوا۟ يَوْمَ ٱلْحِسَابِ",
+      "text_imlaei": "يَا دَاوُودُ إِنَّا جَعَلْنَاكَ خَلِيفَةً فِي الْأَرْضِ فَاحْكُم بَيْنَ النَّاسِ بِالْحَقِّ وَلَا تَتَّبِعِ الْهَوَىٰ فَيُضِلَّكَ عَن سَبِيلِ اللَّهِ ۚ إِنَّ الَّذِينَ يَضِلُّونَ عَن سَبِيلِ اللَّهِ لَهُمْ عَذَابٌ شَدِيدٌ بِمَا نَسُوا يَوْمَ الْحِسَابِ",
+      "page_number": 454,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99365,
+          "resource_id": 20,
+          "text": "[We said], \"O David, indeed We have made you a successor upon the earth, so judge between the people in truth and do not follow [your own] desire, as it will lead you astray from the way of Allāh.\" Indeed, those who go astray from the way of Allāh will have a severe punishment for having forgotten the Day of Account."
+        },
+        {
+          "id": 1170592,
+          "resource_id": 213,
+          "text": "‘হে দাউদ! আমরা আপনাকে যমীনে খলীফা বানিয়েছি, অতএব আপনি লোকদের মধ্যে সুবিচার করুন এবং খেয়াল-খুশীর অনুসরণ করবেন না। কেননা এটা আপনাকে আল্লাহর পথ থেকে বিচ্যুত করবে।’ নিশ্চয় যারা আল্লাহর পথ থেকে ভ্ৰষ্ট হয় তাদের জন্য রয়েছে কঠিন শাস্তি। কারণ, তারা বিচার দিনকে ভুলে আছে।"
+        }
+      ]
+    },
+    {
+      "id": 3997,
+      "verse_number": 27,
+      "verse_key": "38:27",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 395,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَا خَلَقْنَا ٱلسَّمَآءَ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا بَـٰطِلًا ۚ ذَٰلِكَ ظَنُّ ٱلَّذِينَ كَفَرُوا۟ ۚ فَوَيْلٌ لِّلَّذِينَ كَفَرُوا۟ مِنَ ٱلنَّارِ",
+      "text_imlaei": "وَمَا خَلَقْنَا السَّمَاءَ وَالْأَرْضَ وَمَا بَيْنَهُمَا بَاطِلًا ۚ ذَٰلِكَ ظَنُّ الَّذِينَ كَفَرُوا ۚ فَوَيْلٌ لِّلَّذِينَ كَفَرُوا مِنَ النَّارِ",
+      "page_number": 455,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99366,
+          "resource_id": 20,
+          "text": "And We did not create the heaven and the earth and that between them aimlessly. That is the assumption of those who disbelieve, so woe to those who disbelieve from the Fire."
+        },
+        {
+          "id": 1170593,
+          "resource_id": 213,
+          "text": "'আর আমরা আসমান, যমীন ও এ দুয়ের মধ্যবর্তী কোনো কিছুই অনর্থক সৃষ্টি করিনি [১]। অনর্থক সৃষ্টি করার ধারণা তাদের যারা কুফরী করেছে, কাজেই যারা কুফরী করে তাদের জন্য রয়েছে আগুনের দুর্ভোগ।"
+        }
+      ]
+    },
+    {
+      "id": 3998,
+      "verse_number": 28,
+      "verse_key": "38:28",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 395,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "أَمْ نَجْعَلُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ كَٱلْمُفْسِدِينَ فِى ٱلْأَرْضِ أَمْ نَجْعَلُ ٱلْمُتَّقِينَ كَٱلْفُجَّارِ",
+      "text_imlaei": "أَمْ نَجْعَلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ كَالْمُفْسِدِينَ فِي الْأَرْضِ أَمْ نَجْعَلُ الْمُتَّقِينَ كَالْفُجَّارِ",
+      "page_number": 455,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99367,
+          "resource_id": 20,
+          "text": "Or should We treat those who believe and do righteous deeds like corrupters in the land? Or should We treat those who fear Allāh like the wicked?"
+        },
+        {
+          "id": 1170594,
+          "resource_id": 213,
+          "text": "যারা ঈমান আনে ও সৎকাজ করে আমরা কি তাদেরকে যমীনে বিপর্যয় সৃষ্টিকারীদের সমান গণ্য করব? নাকি আমরা মুত্তাকীদেরকে অপরাধীদের সমান গণ্য করব?"
+        }
+      ]
+    },
+    {
+      "id": 3999,
+      "verse_number": 29,
+      "verse_key": "38:29",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 395,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "كِتَـٰبٌ أَنزَلْنَـٰهُ إِلَيْكَ مُبَـٰرَكٌ لِّيَدَّبَّرُوٓا۟ ءَايَـٰتِهِۦ وَلِيَتَذَكَّرَ أُو۟لُوا۟ ٱلْأَلْبَـٰبِ",
+      "text_imlaei": "كِتَابٌ أَنزَلْنَاهُ إِلَيْكَ مُبَارَكٌ لِّيَدَّبَّرُوا آيَاتِهِ وَلِيَتَذَكَّرَ أُولُو الْأَلْبَابِ",
+      "page_number": 455,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99368,
+          "resource_id": 20,
+          "text": "[This is] a blessed Book which We have revealed to you, [O Muḥammad], that they might reflect upon its verses and that those of understanding would be reminded."
+        },
+        {
+          "id": 1170595,
+          "resource_id": 213,
+          "text": "এক মুবারক কিতাব, এটা আমরা আপনার প্রতি নাযিল করেছি, যাতে মানুষ এর আয়াতসমূহে গভীরভাবে চিন্তা করে এবং যাতে বোধশক্তিসম্পন্ন ব্যক্তিরা গ্ৰহণ করে উপদেশ।"
+        }
+      ]
+    },
+    {
+      "id": 4000,
+      "verse_number": 30,
+      "verse_key": "38:30",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 395,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَوَهَبْنَا لِدَاوُۥدَ سُلَيْمَـٰنَ ۚ نِعْمَ ٱلْعَبْدُ ۖ إِنَّهُۥٓ أَوَّابٌ",
+      "text_imlaei": "وَوَهَبْنَا لِدَاوُودَ سُلَيْمَانَ ۚ نِعْمَ الْعَبْدُ ۖ إِنَّهُ أَوَّابٌ",
+      "page_number": 455,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 98846,
+          "resource_id": 20,
+          "text": "And to David We gave Solomon. An excellent servant, indeed he was one repeatedly turning back [to Allāh]."
+        },
+        {
+          "id": 1170596,
+          "resource_id": 213,
+          "text": "আর আমরা দাউদকে দান করলাম সুলাইমান [১]। কতই না উত্তম বান্দা তিনি! নিশ্চয় তিনি ছিলেন অতিশয় আল্লাহ অভিমুখী।"
+        }
+      ]
+    },
+    {
+      "id": 4001,
+      "verse_number": 31,
+      "verse_key": "38:31",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 395,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "إِذْ عُرِضَ عَلَيْهِ بِٱلْعَشِىِّ ٱلصَّـٰفِنَـٰتُ ٱلْجِيَادُ",
+      "text_imlaei": "إِذْ عُرِضَ عَلَيْهِ بِالْعَشِيِّ الصَّافِنَاتُ الْجِيَادُ",
+      "page_number": 455,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 98985,
+          "resource_id": 20,
+          "text": "[Mention] when there were exhibited before him in the afternoon the poised [standing] racehorses."
+        },
+        {
+          "id": 1170597,
+          "resource_id": 213,
+          "text": "যখন বিকেলে তার সামনে দ্রুতগামী  উৎকৃষ্ট অশ্বরাজিকে [১] পেশ করা হল,"
+        }
+      ]
+    },
+    {
+      "id": 4002,
+      "verse_number": 32,
+      "verse_key": "38:32",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 395,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "فَقَالَ إِنِّىٓ أَحْبَبْتُ حُبَّ ٱلْخَيْرِ عَن ذِكْرِ رَبِّى حَتَّىٰ تَوَارَتْ بِٱلْحِجَابِ",
+      "text_imlaei": "فَقَالَ إِنِّي أَحْبَبْتُ حُبَّ الْخَيْرِ عَن ذِكْرِ رَبِّي حَتَّىٰ تَوَارَتْ بِالْحِجَابِ",
+      "page_number": 455,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99372,
+          "resource_id": 20,
+          "text": "And he said, \"Indeed, I gave preference to the love of good [things] over the remembrance of my Lord until it [i.e., the sun] disappeared into the curtain [of darkness].\""
+        },
+        {
+          "id": 1170598,
+          "resource_id": 213,
+          "text": "তখন তিনি বললেন, 'আমি তো আমার রবের স্মরণ হতে বিমুখ হয়ে ঐশ্বৰ্য প্রীতিতে মগ্ন হয়ে পড়েছি, এদিকে সূর্য পর্দার আড়ালে চলে গেছে;"
+        }
+      ]
+    },
+    {
+      "id": 4003,
+      "verse_number": 33,
+      "verse_key": "38:33",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 395,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "رُدُّوهَا عَلَىَّ ۖ فَطَفِقَ مَسْحًۢا بِٱلسُّوقِ وَٱلْأَعْنَاقِ",
+      "text_imlaei": "رُدُّوهَا عَلَيَّ ۖ فَطَفِقَ مَسْحًا بِالسُّوقِ وَالْأَعْنَاقِ",
+      "page_number": 455,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99373,
+          "resource_id": 20,
+          "text": "[He said], \"Return them to me,\" and set about striking<sup foot_note=197218>1</sup> [their] legs and necks."
+        },
+        {
+          "id": 1170599,
+          "resource_id": 213,
+          "text": "‘এগুলোকে আমার কাছে ফিরিয়ে আন।' তারপর তিনি এগুলোর পা এবং গলা ছেদন করতে লাগলেন [১]।"
+        }
+      ]
+    },
+    {
+      "id": 4004,
+      "verse_number": 34,
+      "verse_key": "38:34",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 395,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَقَدْ فَتَنَّا سُلَيْمَـٰنَ وَأَلْقَيْنَا عَلَىٰ كُرْسِيِّهِۦ جَسَدًا ثُمَّ أَنَابَ",
+      "text_imlaei": "وَلَقَدْ فَتَنَّا سُلَيْمَانَ وَأَلْقَيْنَا عَلَىٰ كُرْسِيِّهِ جَسَدًا ثُمَّ أَنَابَ",
+      "page_number": 455,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99374,
+          "resource_id": 20,
+          "text": "And We certainly tried Solomon and placed on his throne a body;<sup foot_note=197220>1</sup> then he returned.<sup foot_note=197219>2</sup>"
+        },
+        {
+          "id": 1170600,
+          "resource_id": 213,
+          "text": "আর অবশ্যই আমরা সুলাইমানকে পরীক্ষা করলাম এবং তার আসনের  উপর রাখলাম একটি ধড় [১]; তারপর সুলাইমান আমার অভিমুখী হলেন।"
+        }
+      ]
+    },
+    {
+      "id": 4005,
+      "verse_number": 35,
+      "verse_key": "38:35",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 395,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ رَبِّ ٱغْفِرْ لِى وَهَبْ لِى مُلْكًا لَّا يَنۢبَغِى لِأَحَدٍ مِّنۢ بَعْدِىٓ ۖ إِنَّكَ أَنتَ ٱلْوَهَّابُ",
+      "text_imlaei": "قَالَ رَبِّ اغْفِرْ لِي وَهَبْ لِي مُلْكًا لَّا يَنبَغِي لِأَحَدٍ مِّن بَعْدِي ۖ إِنَّكَ أَنتَ الْوَهَّابُ",
+      "page_number": 455,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99376,
+          "resource_id": 20,
+          "text": "He said, \"My Lord, forgive me and grant me a kingdom such as will not belong to anyone after me. Indeed, You are the Bestower.\""
+        },
+        {
+          "id": 1170601,
+          "resource_id": 213,
+          "text": "তিনি বললেন, ‘হে আমার রব! আমাকে  ক্ষমা করুন এবং আমাকে দান করুন এমন এক রাজ্য [১] যা আমার পর আর কারও জন্যই প্রযোজ্য হবে না। নিশ্চয় আপনি পরম দাতা।'"
+        }
+      ]
+    },
+    {
+      "id": 4006,
+      "verse_number": 36,
+      "verse_key": "38:36",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 395,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "فَسَخَّرْنَا لَهُ ٱلرِّيحَ تَجْرِى بِأَمْرِهِۦ رُخَآءً حَيْثُ أَصَابَ",
+      "text_imlaei": "فَسَخَّرْنَا لَهُ الرِّيحَ تَجْرِي بِأَمْرِهِ رُخَاءً حَيْثُ أَصَابَ",
+      "page_number": 455,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99377,
+          "resource_id": 20,
+          "text": "So We subjected to him the wind blowing by his command, gently, wherever he directed,"
+        },
+        {
+          "id": 1170602,
+          "resource_id": 213,
+          "text": "তখন আমরা তার অধীন করে দিলাম বায়ুকে যা তার আদেশে তিনি যেখানে ইচ্ছে করতেন সেখানে মৃদুমন্দভাবে প্রবাহিত হত,"
+        }
+      ]
+    },
+    {
+      "id": 4007,
+      "verse_number": 37,
+      "verse_key": "38:37",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 395,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلشَّيَـٰطِينَ كُلَّ بَنَّآءٍ وَغَوَّاصٍ",
+      "text_imlaei": "وَالشَّيَاطِينَ كُلَّ بَنَّاءٍ وَغَوَّاصٍ",
+      "page_number": 455,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99378,
+          "resource_id": 20,
+          "text": "And [also] the devils [of jinn] - every builder and diver."
+        },
+        {
+          "id": 1170603,
+          "resource_id": 213,
+          "text": "আর (অধীন করে দিলাম) প্রত্যেক প্রাসাদ নির্মাণকারী ও ডুবুরী শয়তানসমূহকেও"
+        }
+      ]
+    },
+    {
+      "id": 4008,
+      "verse_number": 38,
+      "verse_key": "38:38",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 395,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَءَاخَرِينَ مُقَرَّنِينَ فِى ٱلْأَصْفَادِ",
+      "text_imlaei": "وَآخَرِينَ مُقَرَّنِينَ فِي الْأَصْفَادِ",
+      "page_number": 455,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99379,
+          "resource_id": 20,
+          "text": "And others bound together in irons."
+        },
+        {
+          "id": 1170604,
+          "resource_id": 213,
+          "text": "এবং শৃংখলে আবদ্ধ আরও অনেককে [১]"
+        }
+      ]
+    },
+    {
+      "id": 4009,
+      "verse_number": 39,
+      "verse_key": "38:39",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 395,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "هَـٰذَا عَطَآؤُنَا فَٱمْنُنْ أَوْ أَمْسِكْ بِغَيْرِ حِسَابٍ",
+      "text_imlaei": "هَٰذَا عَطَاؤُنَا فَامْنُنْ أَوْ أَمْسِكْ بِغَيْرِ حِسَابٍ",
+      "page_number": 455,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99380,
+          "resource_id": 20,
+          "text": "[We said], \"This is Our gift, so grant or withhold without account.\""
+        },
+        {
+          "id": 1170605,
+          "resource_id": 213,
+          "text": "‘এসব আমাদের অনুগ্রহ, অতএব এ থেকে আপনি অন্যকে দিতে বা নিজে রাখতে পারেন। এর জন্য আপনাকে হিসেব দিতে হবে না।'"
+        }
+      ]
+    },
+    {
+      "id": 4010,
+      "verse_number": 40,
+      "verse_key": "38:40",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 395,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِنَّ لَهُۥ عِندَنَا لَزُلْفَىٰ وَحُسْنَ مَـَٔابٍ",
+      "text_imlaei": "وَإِنَّ لَهُ عِندَنَا لَزُلْفَىٰ وَحُسْنَ مَآبٍ",
+      "page_number": 455,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99383,
+          "resource_id": 20,
+          "text": "And indeed, for him is nearness to Us and a good place of return."
+        },
+        {
+          "id": 1170606,
+          "resource_id": 213,
+          "text": "আর নিশ্চয় আমাদের কাছে রয়েছে তার জন্য নৈকট্যের মর্যাদা ও উত্তম প্রত্যাবর্তনস্থল।"
+        }
+      ]
+    },
+    {
+      "id": 4011,
+      "verse_number": 41,
+      "verse_key": "38:41",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍ وَعَذَابٍ",
+      "text_imlaei": "وَاذْكُرْ عَبْدَنَا أَيُّوبَ إِذْ نَادَىٰ رَبَّهُ أَنِّي مَسَّنِيَ الشَّيْطَانُ بِنُصْبٍ وَعَذَابٍ",
+      "page_number": 455,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99384,
+          "resource_id": 20,
+          "text": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\""
+        },
+        {
+          "id": 1170607,
+          "resource_id": 213,
+          "text": "আর স্মরণ করুন, আমাদের বান্দা  আইউবকে, যখন তিনি তার রবকে বলেছিলেন, ‘শয়তান তো আমাকে যন্ত্রণা ও কষ্টে ফেলেছে',"
+        }
+      ]
+    },
+    {
+      "id": 4012,
+      "verse_number": 42,
+      "verse_key": "38:42",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "ٱرْكُضْ بِرِجْلِكَ ۖ هَـٰذَا مُغْتَسَلٌۢ بَارِدٌ وَشَرَابٌ",
+      "text_imlaei": "ارْكُضْ بِرِجْلِكَ ۖ هَٰذَا مُغْتَسَلٌ بَارِدٌ وَشَرَابٌ",
+      "page_number": 455,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99385,
+          "resource_id": 20,
+          "text": "[So he was told], \"Strike [the ground] with your foot; this is a [spring for a] cool bath and drink.\""
+        },
+        {
+          "id": 1170608,
+          "resource_id": 213,
+          "text": "(আমি তাকে বললাম) ‘আপনি আপনার পা দ্বারা ভূমিতে আঘাত করুন, এই তো গোসলের সুশীতল পানি ও পানীয় [১]।"
+        }
+      ]
+    },
+    {
+      "id": 4013,
+      "verse_number": 43,
+      "verse_key": "38:43",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَوَهَبْنَا لَهُۥٓ أَهْلَهُۥ وَمِثْلَهُم مَّعَهُمْ رَحْمَةً مِّنَّا وَذِكْرَىٰ لِأُو۟لِى ٱلْأَلْبَـٰبِ",
+      "text_imlaei": "وَوَهَبْنَا لَهُ أَهْلَهُ وَمِثْلَهُم مَّعَهُمْ رَحْمَةً مِّنَّا وَذِكْرَىٰ لِأُولِي الْأَلْبَابِ",
+      "page_number": 456,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99386,
+          "resource_id": 20,
+          "text": "And We granted him his family and a like [number] with them as mercy from Us and a reminder for those of understanding."
+        },
+        {
+          "id": 1170609,
+          "resource_id": 213,
+          "text": "আর আমরা তাকে দান করলাম তার পরিজনবর্গ ও তাদের মত  আরো অনেক; আমাদের পক্ষ থেকে অনুগ্রহস্বরূপ এবং বোধশক্তি সম্পন্ন লোকদের জন্য উপদেশস্বরূপ [১]।"
+        }
+      ]
+    },
+    {
+      "id": 4014,
+      "verse_number": 44,
+      "verse_key": "38:44",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَخُذْ بِيَدِكَ ضِغْثًا فَٱضْرِب بِّهِۦ وَلَا تَحْنَثْ ۗ إِنَّا وَجَدْنَـٰهُ صَابِرًا ۚ نِّعْمَ ٱلْعَبْدُ ۖ إِنَّهُۥٓ أَوَّابٌ",
+      "text_imlaei": "وَخُذْ بِيَدِكَ ضِغْثًا فَاضْرِب بِّهِ وَلَا تَحْنَثْ ۗ إِنَّا وَجَدْنَاهُ صَابِرًا ۚ نِّعْمَ الْعَبْدُ ۖ إِنَّهُ أَوَّابٌ",
+      "page_number": 456,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99387,
+          "resource_id": 20,
+          "text": "[We said], \"And take in your hand a bunch [of grass] and strike with it and do not break your oath.\"<sup foot_note=197221>1</sup> Indeed, We found him patient, an excellent servant. Indeed, he was one repeatedly turning back [to Allāh]."
+        },
+        {
+          "id": 1170610,
+          "resource_id": 213,
+          "text": "'আর (আমি তাকে আদেশ করলাম) একমুঠ ঘাস নিন এবং তা দ্বারা আঘাত করুন এবং শপথ ভঙ্গ করবেন না।' নিশ্চয় আমরা তাকে পেয়েছি ধৈর্যশীল [১]। কতই উত্তম বান্দা  তিনি! নিশ্চয় তিনি ছিলেন আমার অভিমুখী।"
+        }
+      ]
+    },
+    {
+      "id": 4015,
+      "verse_number": 45,
+      "verse_key": "38:45",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱذْكُرْ عِبَـٰدَنَآ إِبْرَٰهِيمَ وَإِسْحَـٰقَ وَيَعْقُوبَ أُو۟لِى ٱلْأَيْدِى وَٱلْأَبْصَـٰرِ",
+      "text_imlaei": "وَاذْكُرْ عِبَادَنَا إِبْرَاهِيمَ وَإِسْحَاقَ وَيَعْقُوبَ أُولِي الْأَيْدِي وَالْأَبْصَارِ",
+      "page_number": 456,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99388,
+          "resource_id": 20,
+          "text": "And remember Our servants, Abraham, Isaac and Jacob - those of strength and [religious] vision."
+        },
+        {
+          "id": 1170611,
+          "resource_id": 213,
+          "text": "আর স্মরণ করুন, আমাদের বান্দা  ইবরাহীম, ইসহাক ও ইয়া'কুবের কথা, তাঁরা ছিলেন শক্তিশালী ও সূক্ষ্মদর্শী।"
+        }
+      ]
+    },
+    {
+      "id": 4016,
+      "verse_number": 46,
+      "verse_key": "38:46",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّآ أَخْلَصْنَـٰهُم بِخَالِصَةٍ ذِكْرَى ٱلدَّارِ",
+      "text_imlaei": "إِنَّا أَخْلَصْنَاهُم بِخَالِصَةٍ ذِكْرَى الدَّارِ",
+      "page_number": 456,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99389,
+          "resource_id": 20,
+          "text": "Indeed, We chose them for an exclusive quality: remembrance of the home [of the Hereafter]."
+        },
+        {
+          "id": 1170612,
+          "resource_id": 213,
+          "text": "নিশ্চয় আমরা তাদেরকে অধিকারী করেছিলাম এক বিশেষ গুণের, তা ছিল আখিরাতের স্মরণ [১]।"
+        }
+      ]
+    },
+    {
+      "id": 4017,
+      "verse_number": 47,
+      "verse_key": "38:47",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِنَّهُمْ عِندَنَا لَمِنَ ٱلْمُصْطَفَيْنَ ٱلْأَخْيَارِ",
+      "text_imlaei": "وَإِنَّهُمْ عِندَنَا لَمِنَ الْمُصْطَفَيْنَ الْأَخْيَارِ",
+      "page_number": 456,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99390,
+          "resource_id": 20,
+          "text": "And indeed they are, to Us, among the chosen and outstanding."
+        },
+        {
+          "id": 1170613,
+          "resource_id": 213,
+          "text": "আর নিশ্চয় তারা ছিলেন আমাদের নিকট মনোনীত উত্তম বান্দাদের অন্যতম।"
+        }
+      ]
+    },
+    {
+      "id": 4018,
+      "verse_number": 48,
+      "verse_key": "38:48",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱذْكُرْ إِسْمَـٰعِيلَ وَٱلْيَسَعَ وَذَا ٱلْكِفْلِ ۖ وَكُلٌّ مِّنَ ٱلْأَخْيَارِ",
+      "text_imlaei": "وَاذْكُرْ إِسْمَاعِيلَ وَالْيَسَعَ وَذَا الْكِفْلِ ۖ وَكُلٌّ مِّنَ الْأَخْيَارِ",
+      "page_number": 456,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99391,
+          "resource_id": 20,
+          "text": "And remember Ishmael, Elisha and Dhul-Kifl, and all are among the outstanding."
+        },
+        {
+          "id": 1170614,
+          "resource_id": 213,
+          "text": "আর স্মরণ করুন, ইসমাঈল, আল-ইয়াসা'আ ও যুল-কিফ্‌লের কথা, আর  এরা প্ৰত্যেকেই ছিলেন সজ্জনদের অন্তর্ভুক্ত।"
+        }
+      ]
+    },
+    {
+      "id": 4019,
+      "verse_number": 49,
+      "verse_key": "38:49",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "هَـٰذَا ذِكْرٌ ۚ وَإِنَّ لِلْمُتَّقِينَ لَحُسْنَ مَـَٔابٍ",
+      "text_imlaei": "هَٰذَا ذِكْرٌ ۚ وَإِنَّ لِلْمُتَّقِينَ لَحُسْنَ مَآبٍ",
+      "page_number": 456,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99392,
+          "resource_id": 20,
+          "text": "This is a reminder. And indeed, for the righteous is a good place of return -"
+        },
+        {
+          "id": 1170615,
+          "resource_id": 213,
+          "text": "এ এক স্মরণ’ [১]। মুত্তাকীদের জন্য রয়েছে উত্তম আবাস---"
+        }
+      ]
+    },
+    {
+      "id": 4020,
+      "verse_number": 50,
+      "verse_key": "38:50",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "جَنَّـٰتِ عَدْنٍ مُّفَتَّحَةً لَّهُمُ ٱلْأَبْوَٰبُ",
+      "text_imlaei": "جَنَّاتِ عَدْنٍ مُّفَتَّحَةً لَّهُمُ الْأَبْوَابُ",
+      "page_number": 456,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99395,
+          "resource_id": 20,
+          "text": "Gardens of perpetual residence, whose doors will be opened to them."
+        },
+        {
+          "id": 1170616,
+          "resource_id": 213,
+          "text": "চিরস্থায়ী জান্নাত, যার দরজাসমূহ তাদের জন্য উন্মুক্ত [১]।"
+        }
+      ]
+    },
+    {
+      "id": 4021,
+      "verse_number": 51,
+      "verse_key": "38:51",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 182,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "مُتَّكِـِٔينَ فِيهَا يَدْعُونَ فِيهَا بِفَـٰكِهَةٍ كَثِيرَةٍ وَشَرَابٍ",
+      "text_imlaei": "مُتَّكِئِينَ فِيهَا يَدْعُونَ فِيهَا بِفَاكِهَةٍ كَثِيرَةٍ وَشَرَابٍ",
+      "page_number": 456,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99396,
+          "resource_id": 20,
+          "text": "Reclining within them, they will call therein for abundant fruit and drink."
+        },
+        {
+          "id": 1170617,
+          "resource_id": 213,
+          "text": "সেখানে তারা আসীন হবে হেলান দিয়ে, সেখানে তারা বহুবিধ ফলমূল ও পানীয় চাইবে।"
+        }
+      ]
+    },
+    {
+      "id": 4022,
+      "verse_number": 52,
+      "verse_key": "38:52",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "۞ وَعِندَهُمْ قَـٰصِرَٰتُ ٱلطَّرْفِ أَتْرَابٌ",
+      "text_imlaei": "وَعِندَهُمْ قَاصِرَاتُ الطَّرْفِ أَتْرَابٌ",
+      "page_number": 456,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99397,
+          "resource_id": 20,
+          "text": "And with them will be women limiting [their] glances<sup foot_note=197222>1</sup> and of equal age."
+        },
+        {
+          "id": 1170618,
+          "resource_id": 213,
+          "text": "আর তাদের পাশে থাকবে আনতনয়না সমবয়স্কারা।"
+        }
+      ]
+    },
+    {
+      "id": 4023,
+      "verse_number": 53,
+      "verse_key": "38:53",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "هَـٰذَا مَا تُوعَدُونَ لِيَوْمِ ٱلْحِسَابِ",
+      "text_imlaei": "هَٰذَا مَا تُوعَدُونَ لِيَوْمِ الْحِسَابِ",
+      "page_number": 456,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99398,
+          "resource_id": 20,
+          "text": "This is what you, [the righteous], are promised for the Day of Account."
+        },
+        {
+          "id": 1170619,
+          "resource_id": 213,
+          "text": "এটা হিসেবের দিনের জন্য তোমাদেরকে দেয়া প্ৰতিশ্রুতি।"
+        }
+      ]
+    },
+    {
+      "id": 4024,
+      "verse_number": 54,
+      "verse_key": "38:54",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ هَـٰذَا لَرِزْقُنَا مَا لَهُۥ مِن نَّفَادٍ",
+      "text_imlaei": "إِنَّ هَٰذَا لَرِزْقُنَا مَا لَهُ مِن نَّفَادٍ",
+      "page_number": 456,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99399,
+          "resource_id": 20,
+          "text": "Indeed, this is Our provision; for it there is no depletion."
+        },
+        {
+          "id": 1170620,
+          "resource_id": 213,
+          "text": "নিশ্চয় এটা আমাদের দেয়া রিযিক যা  নিঃশেষ হওয়ার নয়।"
+        }
+      ]
+    },
+    {
+      "id": 4025,
+      "verse_number": 55,
+      "verse_key": "38:55",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "هَـٰذَا ۚ وَإِنَّ لِلطَّـٰغِينَ لَشَرَّ مَـَٔابٍ",
+      "text_imlaei": "هَٰذَا ۚ وَإِنَّ لِلطَّاغِينَ لَشَرَّ مَآبٍ",
+      "page_number": 456,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99400,
+          "resource_id": 20,
+          "text": "This [is so]. But indeed, for the transgressors is an evil place of return -"
+        },
+        {
+          "id": 1170621,
+          "resource_id": 213,
+          "text": "এটাই। আর নিশ্চয় সীমালংঘনকারীদের  জন্য রয়েছে নিকৃষ্টতম প্রত্যাবর্তনস্থল---"
+        }
+      ]
+    },
+    {
+      "id": 4026,
+      "verse_number": 56,
+      "verse_key": "38:56",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "جَهَنَّمَ يَصْلَوْنَهَا فَبِئْسَ ٱلْمِهَادُ",
+      "text_imlaei": "جَهَنَّمَ يَصْلَوْنَهَا فَبِئْسَ الْمِهَادُ",
+      "page_number": 456,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99401,
+          "resource_id": 20,
+          "text": "Hell, which they will [enter to] burn, and wretched is the resting place."
+        },
+        {
+          "id": 1170622,
+          "resource_id": 213,
+          "text": "জাহান্নাম, সেখানে তারা অগ্নিদগ্ধ হবে, কত নিকৃষ্ট বিশ্রামস্থল!"
+        }
+      ]
+    },
+    {
+      "id": 4027,
+      "verse_number": 57,
+      "verse_key": "38:57",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "هَـٰذَا فَلْيَذُوقُوهُ حَمِيمٌ وَغَسَّاقٌ",
+      "text_imlaei": "هَٰذَا فَلْيَذُوقُوهُ حَمِيمٌ وَغَسَّاقٌ",
+      "page_number": 456,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99402,
+          "resource_id": 20,
+          "text": "This - so let them taste it - is scalding water and [foul] purulence."
+        },
+        {
+          "id": 1170623,
+          "resource_id": 213,
+          "text": "এটাই। কাজেই তারা আস্বাদন করুক ফুটন্ত পানি ও পুঁজ [১]।"
+        }
+      ]
+    },
+    {
+      "id": 4028,
+      "verse_number": 58,
+      "verse_key": "38:58",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَءَاخَرُ مِن شَكْلِهِۦٓ أَزْوَٰجٌ",
+      "text_imlaei": "وَآخَرُ مِن شَكْلِهِ أَزْوَاجٌ",
+      "page_number": 456,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99403,
+          "resource_id": 20,
+          "text": "And other [punishments] of its type [in various] kinds."
+        },
+        {
+          "id": 1170624,
+          "resource_id": 213,
+          "text": "আরো আছে এরূপ বিভিন্ন ধরনের শাস্তি [১]।"
+        }
+      ]
+    },
+    {
+      "id": 4029,
+      "verse_number": 59,
+      "verse_key": "38:59",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "هَـٰذَا فَوْجٌ مُّقْتَحِمٌ مَّعَكُمْ ۖ لَا مَرْحَبًۢا بِهِمْ ۚ إِنَّهُمْ صَالُوا۟ ٱلنَّارِ",
+      "text_imlaei": "هَٰذَا فَوْجٌ مُّقْتَحِمٌ مَّعَكُمْ ۖ لَا مَرْحَبًا بِهِمْ ۚ إِنَّهُمْ صَالُو النَّارِ",
+      "page_number": 456,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99404,
+          "resource_id": 20,
+          "text": "[Its inhabitants will say], \"This is a company bursting in with you. No welcome for them. Indeed, they will burn in the Fire.\""
+        },
+        {
+          "id": 1170625,
+          "resource_id": 213,
+          "text": "'এ তো এক বাহিনী, তোমাদের সঙ্গে প্ৰবেশ করছে।  তাদের জন্য নেই কোনো অভিনন্দন। নিশ্চয় তারা আগুনে জ্বলবে।’"
+        }
+      ]
+    },
+    {
+      "id": 4030,
+      "verse_number": 60,
+      "verse_key": "38:60",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "قَالُوا۟ بَلْ أَنتُمْ لَا مَرْحَبًۢا بِكُمْ ۖ أَنتُمْ قَدَّمْتُمُوهُ لَنَا ۖ فَبِئْسَ ٱلْقَرَارُ",
+      "text_imlaei": "قَالُوا بَلْ أَنتُمْ لَا مَرْحَبًا بِكُمْ ۖ أَنتُمْ قَدَّمْتُمُوهُ لَنَا ۖ فَبِئْسَ الْقَرَارُ",
+      "page_number": 456,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99407,
+          "resource_id": 20,
+          "text": "They will say, \"Nor you! No welcome for you. You, [our leaders], brought this upon us, and wretched is the settlement.\""
+        },
+        {
+          "id": 1170626,
+          "resource_id": 213,
+          "text": "অনুসারীরা বলবে, ‘বরং তোমরাও, তোমাদের জন্যও কোনো অভিনন্দন নেই। তোমরাই তো আগে আমাদের জন্য এটার ব্যবস্থা করেছ। অতএব কত নিকৃষ্ট এ আবাসস্থল [১]!’"
+        }
+      ]
+    },
+    {
+      "id": 4031,
+      "verse_number": 61,
+      "verse_key": "38:61",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "قَالُوا۟ رَبَّنَا مَن قَدَّمَ لَنَا هَـٰذَا فَزِدْهُ عَذَابًا ضِعْفًا فِى ٱلنَّارِ",
+      "text_imlaei": "قَالُوا رَبَّنَا مَن قَدَّمَ لَنَا هَٰذَا فَزِدْهُ عَذَابًا ضِعْفًا فِي النَّارِ",
+      "page_number": 456,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99408,
+          "resource_id": 20,
+          "text": "They will say, \"Our Lord, whoever brought this upon us - increase for him double punishment in the Fire.\""
+        },
+        {
+          "id": 1170627,
+          "resource_id": 213,
+          "text": "তারা বলবে, 'হে আমাদের রব! যে এটাকে আমাদের সম্মুখীন করেছে, আগুনে তার শাস্তি আপনি দ্বিগুণ বাড়িয়ে দিন।'"
+        }
+      ]
+    },
+    {
+      "id": 4032,
+      "verse_number": 62,
+      "verse_key": "38:62",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَقَالُوا۟ مَا لَنَا لَا نَرَىٰ رِجَالًا كُنَّا نَعُدُّهُم مِّنَ ٱلْأَشْرَارِ",
+      "text_imlaei": "وَقَالُوا مَا لَنَا لَا نَرَىٰ رِجَالًا كُنَّا نَعُدُّهُم مِّنَ الْأَشْرَارِ",
+      "page_number": 457,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99409,
+          "resource_id": 20,
+          "text": "And they will say, \"Why do we not see men whom we used to count among the worst?<sup foot_note=197223>1</sup>"
+        },
+        {
+          "id": 1170628,
+          "resource_id": 213,
+          "text": "তারা আরও বলবে, 'আমাদের কী হল যে, আমরা যেসব লোককে মন্দ বলে গণ্য করতাম তাদেরকে দেখতে পাচ্ছি না [১]।"
+        }
+      ]
+    },
+    {
+      "id": 4033,
+      "verse_number": 63,
+      "verse_key": "38:63",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "أَتَّخَذْنَـٰهُمْ سِخْرِيًّا أَمْ زَاغَتْ عَنْهُمُ ٱلْأَبْصَـٰرُ",
+      "text_imlaei": "أَتَّخَذْنَاهُمْ سِخْرِيًّا أَمْ زَاغَتْ عَنْهُمُ الْأَبْصَارُ",
+      "page_number": 457,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99410,
+          "resource_id": 20,
+          "text": "Is it [because] we took them in ridicule, or has [our] vision turned away from them?\""
+        },
+        {
+          "id": 1170629,
+          "resource_id": 213,
+          "text": "'তবে কি আমরা তাদেরকে (অহেতুক) ঠাট্টা-বিদ্রূপের পাত্ৰ মনে করতাম; না তাদের ব্যাপারে আমাদের দৃষ্টি বিভ্রম ঘটেছে [১]'?"
+        }
+      ]
+    },
+    {
+      "id": 4034,
+      "verse_number": 64,
+      "verse_key": "38:64",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 396,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ ذَٰلِكَ لَحَقٌّ تَخَاصُمُ أَهْلِ ٱلنَّارِ",
+      "text_imlaei": "إِنَّ ذَٰلِكَ لَحَقٌّ تَخَاصُمُ أَهْلِ النَّارِ",
+      "page_number": 457,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99411,
+          "resource_id": 20,
+          "text": "Indeed, that is truth [i.e., reality] - the quarreling of the people of the Fire."
+        },
+        {
+          "id": 1170630,
+          "resource_id": 213,
+          "text": "নিশ্চয় এটা বাস্তব সত্য--- জাহান্নামীদের এ পারস্পারিক বাদ-প্রতিবাদ।"
+        }
+      ]
+    },
+    {
+      "id": 4035,
+      "verse_number": 65,
+      "verse_key": "38:65",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 397,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "قُلْ إِنَّمَآ أَنَا۠ مُنذِرٌ ۖ وَمَا مِنْ إِلَـٰهٍ إِلَّا ٱللَّهُ ٱلْوَٰحِدُ ٱلْقَهَّارُ",
+      "text_imlaei": "قُلْ إِنَّمَا أَنَا مُنذِرٌ ۖ وَمَا مِنْ إِلَٰهٍ إِلَّا اللَّهُ الْوَاحِدُ الْقَهَّارُ",
+      "page_number": 457,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99412,
+          "resource_id": 20,
+          "text": "Say, [O Muḥammad], \"I am only a warner, and there is not any deity except Allāh, the One, the Prevailing,<sup foot_note=197224>1</sup>"
+        },
+        {
+          "id": 1170631,
+          "resource_id": 213,
+          "text": "বলুন, 'আমি তো একজন সতর্ককারী মাত্র এবং সত্য কোনো ইলাহ্ নেই  আল্লাহ ছাড়া, যিনি এক, প্রবল প্ৰতাপশালী।"
+        }
+      ]
+    },
+    {
+      "id": 4036,
+      "verse_number": 66,
+      "verse_key": "38:66",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 397,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "رَبُّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ٱلْعَزِيزُ ٱلْغَفَّـٰرُ",
+      "text_imlaei": "رَبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا الْعَزِيزُ الْغَفَّارُ",
+      "page_number": 457,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99413,
+          "resource_id": 20,
+          "text": "Lord of the heavens and the earth and whatever is between them, the Exalted in Might,<sup foot_note=197226>1</sup> the Perpetual Forgiver.\"<sup foot_note=197225>2</sup>"
+        },
+        {
+          "id": 1170632,
+          "resource_id": 213,
+          "text": "'যিনি আসমানসমূহ, যমীন ও তাদের মধ্যবর্তী সমস্ত কিছুর রব, প্রবল পরাক্রমশালী, মহাক্ষমাশীল।'"
+        }
+      ]
+    },
+    {
+      "id": 4037,
+      "verse_number": 67,
+      "verse_key": "38:67",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 397,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "قُلْ هُوَ نَبَؤٌا۟ عَظِيمٌ",
+      "text_imlaei": "قُلْ هُوَ نَبَأٌ عَظِيمٌ",
+      "page_number": 457,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99414,
+          "resource_id": 20,
+          "text": "Say, \"It is great news"
+        },
+        {
+          "id": 1170633,
+          "resource_id": 213,
+          "text": "বলুন, 'এটা এক মহাসংবাদ,"
+        }
+      ]
+    },
+    {
+      "id": 4038,
+      "verse_number": 68,
+      "verse_key": "38:68",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 397,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "أَنتُمْ عَنْهُ مُعْرِضُونَ",
+      "text_imlaei": "أَنتُمْ عَنْهُ مُعْرِضُونَ",
+      "page_number": 457,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99415,
+          "resource_id": 20,
+          "text": "From which you turn away."
+        },
+        {
+          "id": 1170634,
+          "resource_id": 213,
+          "text": "'যা থেকে তোমরা মুখ ফিরিয়ে নিচ্ছ।"
+        }
+      ]
+    },
+    {
+      "id": 4039,
+      "verse_number": 69,
+      "verse_key": "38:69",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 397,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "مَا كَانَ لِىَ مِنْ عِلْمٍۭ بِٱلْمَلَإِ ٱلْأَعْلَىٰٓ إِذْ يَخْتَصِمُونَ",
+      "text_imlaei": "مَا كَانَ لِيَ مِنْ عِلْمٍ بِالْمَلَإِ الْأَعْلَىٰ إِذْ يَخْتَصِمُونَ",
+      "page_number": 457,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99416,
+          "resource_id": 20,
+          "text": "I had no knowledge of the exalted assembly [of angels] when they were disputing [the creation of Adam]."
+        },
+        {
+          "id": 1170635,
+          "resource_id": 213,
+          "text": "‘উর্ধ্বলোক সম্পর্কে আমার কোনো জ্ঞান ছিল না যখন তারা বাদানুবাদ করছিল [১]।"
+        }
+      ]
+    },
+    {
+      "id": 4040,
+      "verse_number": 70,
+      "verse_key": "38:70",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 397,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "إِن يُوحَىٰٓ إِلَىَّ إِلَّآ أَنَّمَآ أَنَا۠ نَذِيرٌ مُّبِينٌ",
+      "text_imlaei": "إِن يُوحَىٰ إِلَيَّ إِلَّا أَنَّمَا أَنَا نَذِيرٌ مُّبِينٌ",
+      "page_number": 457,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99419,
+          "resource_id": 20,
+          "text": "It has not been revealed to me except that I am a clear warner.\""
+        },
+        {
+          "id": 1170636,
+          "resource_id": 213,
+          "text": "'আমার কাছে তো এ ওহী এসেছে যে, আমি একজন স্পষ্ট সতর্ককারী মাত্র।'"
+        }
+      ]
+    },
+    {
+      "id": 4041,
+      "verse_number": 71,
+      "verse_key": "38:71",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 397,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "إِذْ قَالَ رَبُّكَ لِلْمَلَـٰٓئِكَةِ إِنِّى خَـٰلِقٌۢ بَشَرًا مِّن طِينٍ",
+      "text_imlaei": "إِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي خَالِقٌ بَشَرًا مِّن طِينٍ",
+      "page_number": 457,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99420,
+          "resource_id": 20,
+          "text": "[So mention] when your Lord said to the angels, \"Indeed, I am going to create a human being from clay."
+        },
+        {
+          "id": 1170637,
+          "resource_id": 213,
+          "text": "স্মরণ করুন, যখন আপনার রব ফেরেশতাদেরকে বলেছিলেন, 'আমি  মানুষ সৃষ্টি করছি কাদা থেকে,"
+        }
+      ]
+    },
+    {
+      "id": 4042,
+      "verse_number": 72,
+      "verse_key": "38:72",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 397,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "فَإِذَا سَوَّيْتُهُۥ وَنَفَخْتُ فِيهِ مِن رُّوحِى فَقَعُوا۟ لَهُۥ سَـٰجِدِينَ",
+      "text_imlaei": "فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِن رُّوحِي فَقَعُوا لَهُ سَاجِدِينَ",
+      "page_number": 457,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99421,
+          "resource_id": 20,
+          "text": "So when I have proportioned him and breathed into him of My [created] soul,<sup foot_note=197227>1</sup> then fall down to him in prostration.\""
+        },
+        {
+          "id": 1170638,
+          "resource_id": 213,
+          "text": "অতঃপর যখন আমি তাকে সুষম করব এবং তাতে আমার রূহ সঞ্চার করব, তখন তোমরা তার প্রতি সাজদাবনত হয়ো।'"
+        }
+      ]
+    },
+    {
+      "id": 4043,
+      "verse_number": 73,
+      "verse_key": "38:73",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 397,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "فَسَجَدَ ٱلْمَلَـٰٓئِكَةُ كُلُّهُمْ أَجْمَعُونَ",
+      "text_imlaei": "فَسَجَدَ الْمَلَائِكَةُ كُلُّهُمْ أَجْمَعُونَ",
+      "page_number": 457,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99422,
+          "resource_id": 20,
+          "text": "So the angels prostrated - all of them entirely,"
+        },
+        {
+          "id": 1170639,
+          "resource_id": 213,
+          "text": "তখন ফেরেশতারা সকলেই  সাজদাবনত হল---"
+        }
+      ]
+    },
+    {
+      "id": 4044,
+      "verse_number": 74,
+      "verse_key": "38:74",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 397,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "إِلَّآ إِبْلِيسَ ٱسْتَكْبَرَ وَكَانَ مِنَ ٱلْكَـٰفِرِينَ",
+      "text_imlaei": "إِلَّا إِبْلِيسَ اسْتَكْبَرَ وَكَانَ مِنَ الْكَافِرِينَ",
+      "page_number": 457,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99423,
+          "resource_id": 20,
+          "text": "Except Iblees;<sup foot_note=197228>1</sup> he was arrogant and became among the disbelievers."
+        },
+        {
+          "id": 1170640,
+          "resource_id": 213,
+          "text": "ইবলীস ছাড়া, সে অহংকার করল এবং কাফিরদের অন্তর্ভুক্ত হল।"
+        }
+      ]
+    },
+    {
+      "id": 4045,
+      "verse_number": 75,
+      "verse_key": "38:75",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 397,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ يَـٰٓإِبْلِيسُ مَا مَنَعَكَ أَن تَسْجُدَ لِمَا خَلَقْتُ بِيَدَىَّ ۖ أَسْتَكْبَرْتَ أَمْ كُنتَ مِنَ ٱلْعَالِينَ",
+      "text_imlaei": "قَالَ يَا إِبْلِيسُ مَا مَنَعَكَ أَن تَسْجُدَ لِمَا خَلَقْتُ بِيَدَيَّ ۖ أَسْتَكْبَرْتَ أَمْ كُنتَ مِنَ الْعَالِينَ",
+      "page_number": 457,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99424,
+          "resource_id": 20,
+          "text": "[Allāh] said, \"O Iblees, what prevented you from prostrating to that which I created with My hands?<sup foot_note=197229>1</sup> Were you arrogant [then], or were you [already] among the haughty?\""
+        },
+        {
+          "id": 1170641,
+          "resource_id": 213,
+          "text": "তিনি বললেন, 'হে ইবলীস! আমি যাকে আমার দু'হাতে [১] সৃষ্টি করেছি, তার প্রতি সাজদাবনত হতে তোমাকে কিসে বাধা দিল? তুমি কি ঔদ্ধত্য প্রকাশ করলে, না তুমি অধিকতর উচ্চ মর্যাদাসম্পন্ন?'"
+        }
+      ]
+    },
+    {
+      "id": 4046,
+      "verse_number": 76,
+      "verse_key": "38:76",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 397,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ أَنَا۠ خَيْرٌ مِّنْهُ ۖ خَلَقْتَنِى مِن نَّارٍ وَخَلَقْتَهُۥ مِن طِينٍ",
+      "text_imlaei": "قَالَ أَنَا خَيْرٌ مِّنْهُ ۖ خَلَقْتَنِي مِن نَّارٍ وَخَلَقْتَهُ مِن طِينٍ",
+      "page_number": 457,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99425,
+          "resource_id": 20,
+          "text": "He said, \"I am better than him. You created me from fire and created him from clay.\""
+        },
+        {
+          "id": 1170642,
+          "resource_id": 213,
+          "text": "সে বলল, 'আমি তার চেয়ে শ্রেষ্ঠ। আপনি আমাকে আগুন থেকে সৃষ্টি করেছেন এবং তাকে সৃষ্টি করেছেন কাদা থেকে।’"
+        }
+      ]
+    },
+    {
+      "id": 4047,
+      "verse_number": 77,
+      "verse_key": "38:77",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 397,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ فَٱخْرُجْ مِنْهَا فَإِنَّكَ رَجِيمٌ",
+      "text_imlaei": "قَالَ فَاخْرُجْ مِنْهَا فَإِنَّكَ رَجِيمٌ",
+      "page_number": 457,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99426,
+          "resource_id": 20,
+          "text": "[Allāh] said, \"Then get out of it [i.e., Paradise], for indeed, you are expelled."
+        },
+        {
+          "id": 1170643,
+          "resource_id": 213,
+          "text": "তিনি বললেন, 'তুমি এখান থেকে বের হয়ে যাও, কেননা নিশ্চয় তুমি বিতাড়িত।"
+        }
+      ]
+    },
+    {
+      "id": 4048,
+      "verse_number": 78,
+      "verse_key": "38:78",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 397,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِنَّ عَلَيْكَ لَعْنَتِىٓ إِلَىٰ يَوْمِ ٱلدِّينِ",
+      "text_imlaei": "وَإِنَّ عَلَيْكَ لَعْنَتِي إِلَىٰ يَوْمِ الدِّينِ",
+      "page_number": 457,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99427,
+          "resource_id": 20,
+          "text": "And indeed, upon you is My curse until the Day of Recompense.\""
+        },
+        {
+          "id": 1170644,
+          "resource_id": 213,
+          "text": "‘আর নিশ্চয় তোমার উপর আমার লা'নত থাকবে, কর্মফল দিন পর্যন্ত।’"
+        }
+      ]
+    },
+    {
+      "id": 4049,
+      "verse_number": 79,
+      "verse_key": "38:79",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 397,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ رَبِّ فَأَنظِرْنِىٓ إِلَىٰ يَوْمِ يُبْعَثُونَ",
+      "text_imlaei": "قَالَ رَبِّ فَأَنظِرْنِي إِلَىٰ يَوْمِ يُبْعَثُونَ",
+      "page_number": 457,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99428,
+          "resource_id": 20,
+          "text": "He said, \"My Lord, then reprieve me until the Day they are resurrected.\""
+        },
+        {
+          "id": 1170645,
+          "resource_id": 213,
+          "text": "সে বলল, 'হে আমার রব! অতএব আপনি আমাকে সেদিন পর্যন্ত অবকাশ দিন, যে দিন তাদেরকে পুনরুত্থিত করা হবে।"
+        }
+      ]
+    },
+    {
+      "id": 4050,
+      "verse_number": 80,
+      "verse_key": "38:80",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 397,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ فَإِنَّكَ مِنَ ٱلْمُنظَرِينَ",
+      "text_imlaei": "قَالَ فَإِنَّكَ مِنَ الْمُنظَرِينَ",
+      "page_number": 457,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99431,
+          "resource_id": 20,
+          "text": "[Allāh] said, \"So indeed, you are of those reprieved"
+        },
+        {
+          "id": 1170646,
+          "resource_id": 213,
+          "text": "তিনি বললেন, 'তাহলে তুমি অবকাশপ্ৰাপ্তদের অন্তর্ভুক্ত হলে---"
+        }
+      ]
+    },
+    {
+      "id": 4051,
+      "verse_number": 81,
+      "verse_key": "38:81",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 397,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "إِلَىٰ يَوْمِ ٱلْوَقْتِ ٱلْمَعْلُومِ",
+      "text_imlaei": "إِلَىٰ يَوْمِ الْوَقْتِ الْمَعْلُومِ",
+      "page_number": 457,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99167,
+          "resource_id": 20,
+          "text": "Until the Day of the time well-known.\""
+        },
+        {
+          "id": 1170647,
+          "resource_id": 213,
+          "text": "‘নির্ধারিত সময় উপস্থিত হওয়ার দিন পর্যন্ত।'"
+        }
+      ]
+    },
+    {
+      "id": 4052,
+      "verse_number": 82,
+      "verse_key": "38:82",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 397,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ فَبِعِزَّتِكَ لَأُغْوِيَنَّهُمْ أَجْمَعِينَ",
+      "text_imlaei": "قَالَ فَبِعِزَّتِكَ لَأُغْوِيَنَّهُمْ أَجْمَعِينَ",
+      "page_number": 457,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99249,
+          "resource_id": 20,
+          "text": "[Iblees] said, \"By Your might, I will surely mislead them all."
+        },
+        {
+          "id": 1170648,
+          "resource_id": 213,
+          "text": "সে বলল, 'আপনার ক্ষমতা-সম্মানের শপথ! অবশ্যই আমি তাদের সবাইকে পথভ্রষ্ট করব,"
+        }
+      ]
+    },
+    {
+      "id": 4053,
+      "verse_number": 83,
+      "verse_key": "38:83",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 397,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "إِلَّا عِبَادَكَ مِنْهُمُ ٱلْمُخْلَصِينَ",
+      "text_imlaei": "إِلَّا عِبَادَكَ مِنْهُمُ الْمُخْلَصِينَ",
+      "page_number": 457,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99250,
+          "resource_id": 20,
+          "text": "Except, among them, Your chosen servants.\""
+        },
+        {
+          "id": 1170649,
+          "resource_id": 213,
+          "text": "‘তবে তাদের মধ্যে আপনার একনিষ্ঠ বান্দারা ব্যতীত।'"
+        }
+      ]
+    },
+    {
+      "id": 4054,
+      "verse_number": 84,
+      "verse_key": "38:84",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 397,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ فَٱلْحَقُّ وَٱلْحَقَّ أَقُولُ",
+      "text_imlaei": "قَالَ فَالْحَقُّ وَالْحَقَّ أَقُولُ",
+      "page_number": 458,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 98948,
+          "resource_id": 20,
+          "text": "[Allāh] said, \"The truth [is My oath], and the truth I say -"
+        },
+        {
+          "id": 1170650,
+          "resource_id": 213,
+          "text": "তিনি বললেন, ‘তবে এটাই সত্য, আর আমি সত্যই বলি--"
+        }
+      ]
+    },
+    {
+      "id": 4055,
+      "verse_number": 85,
+      "verse_key": "38:85",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 397,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "لَأَمْلَأَنَّ جَهَنَّمَ مِنكَ وَمِمَّن تَبِعَكَ مِنْهُمْ أَجْمَعِينَ",
+      "text_imlaei": "لَأَمْلَأَنَّ جَهَنَّمَ مِنكَ وَمِمَّن تَبِعَكَ مِنْهُمْ أَجْمَعِينَ",
+      "page_number": 458,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99432,
+          "resource_id": 20,
+          "text": "[That] I will surely fill Hell with you and those of them that follow you all together.\""
+        },
+        {
+          "id": 1170651,
+          "resource_id": 213,
+          "text": "'অবশ্যই তোমার দ্বারা ও তাদের মধ্যে যারা তোমার অনুসরণ করবে তাদের সবার দ্বারা আমি জাহান্নাম পূর্ণ করব।'"
+        }
+      ]
+    },
+    {
+      "id": 4056,
+      "verse_number": 86,
+      "verse_key": "38:86",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 397,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "قُلْ مَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ وَمَآ أَنَا۠ مِنَ ٱلْمُتَكَلِّفِينَ",
+      "text_imlaei": "قُلْ مَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ وَمَا أَنَا مِنَ الْمُتَكَلِّفِينَ",
+      "page_number": 458,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99433,
+          "resource_id": 20,
+          "text": "Say, [O Muḥammad], \"I do not ask you for it [i.e., the Qur’ān] any payment, and I am not of the pretentious."
+        },
+        {
+          "id": 1170652,
+          "resource_id": 213,
+          "text": "বলুন, 'আমি এর জন্য তোমাদের কাছে কোনো প্রতিদান চাই না এবং আমি  কৃত্রিমতাশ্রয়ীদের অন্তর্ভুক্ত নই [১]।"
+        }
+      ]
+    },
+    {
+      "id": 4057,
+      "verse_number": 87,
+      "verse_key": "38:87",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 397,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَـٰلَمِينَ",
+      "text_imlaei": "إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَالَمِينَ",
+      "page_number": 458,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99434,
+          "resource_id": 20,
+          "text": "It is but a reminder to the worlds."
+        },
+        {
+          "id": 1170653,
+          "resource_id": 213,
+          "text": "এ তো সৃষ্টিকুলের জন্য উপদেশ মাত্ৰ! [১]।"
+        }
+      ]
+    },
+    {
+      "id": 4058,
+      "verse_number": 88,
+      "verse_key": "38:88",
+      "hizb_number": 46,
+      "rub_el_hizb_number": 183,
+      "ruku_number": 397,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَتَعْلَمُنَّ نَبَأَهُۥ بَعْدَ حِينٍۭ",
+      "text_imlaei": "وَلَتَعْلَمُنَّ نَبَأَهُ بَعْدَ حِينٍ",
+      "page_number": 458,
+      "juz_number": 23,
+      "translations": [
+        {
+          "id": 99435,
+          "resource_id": 20,
+          "text": "And you will surely know [the truth of] its information after a time.\""
+        },
+        {
+          "id": 1170654,
+          "resource_id": 213,
+          "text": "আর এর সংবাদ তোমরা অবশ্যই জানবে, কিছুদিন পরে [১]।"
+        }
+      ]
+    }
+  ],
+  "audio_metadata": {
+    "audio_file": {
+      "id": 985,
+      "chapter_id": 38,
+      "file_size": 17123456.0,
+      "format": "mp3",
+      "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/38.mp3"
+    }
+  }
+}

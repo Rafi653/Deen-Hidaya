@@ -1,0 +1,1045 @@
+{
+  "metadata": {
+    "surah_number": 45,
+    "scraped_at": "2025-10-30T05:14:09.716728",
+    "source": "api.quran.com",
+    "version": "1.0",
+    "translation_ids": [
+      213,
+      20
+    ]
+  },
+  "license": {
+    "text": {
+      "source": "api.quran.com",
+      "license": "Public Domain",
+      "attribution": "The Quran text is in the public domain",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:14:09.716728"
+    },
+    "translations": {
+      "source": "api.quran.com",
+      "license": "Various - See individual translation licenses",
+      "attribution": "Translation copyrights belong to respective translators",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:14:09.716728"
+    },
+    "audio": {
+      "source": "everyayah.com via api.quran.com",
+      "license": "Free for non-commercial use",
+      "attribution": "Audio recitations courtesy of everyayah.com",
+      "terms_url": "https://everyayah.com/",
+      "note": "Audio URLs provided - not downloaded locally due to size",
+      "fetched_at": "2025-10-30T05:14:09.716728"
+    }
+  },
+  "translation_metadata": {
+    "213": {
+      "name": "Abdul Hafeez & Mohammed Abdul Haq",
+      "author": "Abdul Hafeez, Mohammed Abdul Haq",
+      "language": "te",
+      "language_name": "Telugu",
+      "license": "Various",
+      "source": "api.quran.com"
+    },
+    "20": {
+      "name": "Saheeh International",
+      "author": "Saheeh International",
+      "language": "en",
+      "language_name": "English",
+      "license": "Public Domain",
+      "source": "api.quran.com"
+    }
+  },
+  "surah_info": {
+    "id": 45,
+    "revelation_place": "makkah",
+    "revelation_order": 65,
+    "bismillah_pre": true,
+    "name_simple": "Al-Jathiyah",
+    "name_complex": "Al-Jāthiyah",
+    "name_arabic": "الجاثية",
+    "verses_count": 37,
+    "pages": [
+      499,
+      502
+    ],
+    "translated_name": {
+      "language_name": "english",
+      "name": "The Crouching"
+    }
+  },
+  "verses": [
+    {
+      "id": 4474,
+      "verse_number": 1,
+      "verse_key": "45:1",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 199,
+      "ruku_number": 436,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": " حمٓ",
+      "text_imlaei": "حم",
+      "page_number": 499,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 99988,
+          "resource_id": 20,
+          "text": "Ḥā, Meem.<sup foot_note=197353>1</sup>"
+        },
+        {
+          "id": 1171070,
+          "resource_id": 213,
+          "text": "হা - মীম।"
+        }
+      ]
+    },
+    {
+      "id": 4475,
+      "verse_number": 2,
+      "verse_key": "45:2",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 199,
+      "ruku_number": 436,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "تَنزِيلُ ٱلْكِتَـٰبِ مِنَ ٱللَّهِ ٱلْعَزِيزِ ٱلْحَكِيمِ",
+      "text_imlaei": "تَنزِيلُ الْكِتَابِ مِنَ اللَّهِ الْعَزِيزِ الْحَكِيمِ",
+      "page_number": 499,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 100002,
+          "resource_id": 20,
+          "text": "The revelation of the Book is from Allāh, the Exalted in Might, the Wise."
+        },
+        {
+          "id": 1171071,
+          "resource_id": 213,
+          "text": "এ কিতাব মহাপরাক্রমশালী, প্রজ্ঞাময় আল্লাহর কাছ থেকে নাযিলকৃত।"
+        }
+      ]
+    },
+    {
+      "id": 4476,
+      "verse_number": 3,
+      "verse_key": "45:3",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 199,
+      "ruku_number": 436,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ لَـَٔايَـٰتٍ لِّلْمُؤْمِنِينَ",
+      "text_imlaei": "إِنَّ فِي السَّمَاوَاتِ وَالْأَرْضِ لَآيَاتٍ لِّلْمُؤْمِنِينَ",
+      "page_number": 499,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 100014,
+          "resource_id": 20,
+          "text": "Indeed, within the heavens and earth are signs for the believers."
+        },
+        {
+          "id": 1171072,
+          "resource_id": 213,
+          "text": "নিশ্চয় আসমানসমূহ ও যমীনে মুমিনদের জন্য রয়েছে বহু নিদর্শন।"
+        }
+      ]
+    },
+    {
+      "id": 4477,
+      "verse_number": 4,
+      "verse_key": "45:4",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 199,
+      "ruku_number": 436,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَفِى خَلْقِكُمْ وَمَا يَبُثُّ مِن دَآبَّةٍ ءَايَـٰتٌ لِّقَوْمٍ يُوقِنُونَ",
+      "text_imlaei": "وَفِي خَلْقِكُمْ وَمَا يَبُثُّ مِن دَابَّةٍ آيَاتٌ لِّقَوْمٍ يُوقِنُونَ",
+      "page_number": 499,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 100024,
+          "resource_id": 20,
+          "text": "And in the creation of yourselves and what He disperses of moving creatures are signs for people who are certain [in faith]."
+        },
+        {
+          "id": 1171073,
+          "resource_id": 213,
+          "text": "আর তোমাদের সৃষ্টি এবং জীব-জন্তুর বিস্তারে বহু নিদর্শন রয়েছে এমন সম্প্রদায়ের জন্য, যারা নিশ্চিত বিশ্বাস স্থাপন করে ;"
+        }
+      ]
+    },
+    {
+      "id": 4478,
+      "verse_number": 5,
+      "verse_key": "45:5",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 199,
+      "ruku_number": 436,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱخْتِلَـٰفِ ٱلَّيْلِ وَٱلنَّهَارِ وَمَآ أَنزَلَ ٱللَّهُ مِنَ ٱلسَّمَآءِ مِن رِّزْقٍ فَأَحْيَا بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا وَتَصْرِيفِ ٱلرِّيَـٰحِ ءَايَـٰتٌ لِّقَوْمٍ يَعْقِلُونَ",
+      "text_imlaei": "وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ وَمَا أَنزَلَ اللَّهُ مِنَ السَّمَاءِ مِن رِّزْقٍ فَأَحْيَا بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا وَتَصْرِيفِ الرِّيَاحِ آيَاتٌ لِّقَوْمٍ يَعْقِلُونَ",
+      "page_number": 499,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 100026,
+          "resource_id": 20,
+          "text": "And [in] the alternation of night and day and [in] what Allāh sends down from the sky of provision [i.e., rain] and gives life thereby to the earth after its lifelessness and [in His] directing of the winds are signs for a people who reason."
+        },
+        {
+          "id": 1171074,
+          "resource_id": 213,
+          "text": "আর রাত ও দিনের পরিবর্তনে এবং আল্লাহ আকাশ হতে যে রিযক (পানি) বর্ষণ করেন, অতঃপর তিনি তা দ্বারা যমীনকে তার মৃত্যুর পর পুনর্জীবিত করেন তাতে এবং বায়ুর পরিবর্তনে অনেক নিদর্শন রয়েছে, এমন সম্প্রদায়ের জন্য যারা বোঝে।"
+        }
+      ]
+    },
+    {
+      "id": 4479,
+      "verse_number": 6,
+      "verse_key": "45:6",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 199,
+      "ruku_number": 436,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "تِلْكَ ءَايَـٰتُ ٱللَّهِ نَتْلُوهَا عَلَيْكَ بِٱلْحَقِّ ۖ فَبِأَىِّ حَدِيثٍۭ بَعْدَ ٱللَّهِ وَءَايَـٰتِهِۦ يُؤْمِنُونَ",
+      "text_imlaei": "تِلْكَ آيَاتُ اللَّهِ نَتْلُوهَا عَلَيْكَ بِالْحَقِّ ۖ فَبِأَيِّ حَدِيثٍ بَعْدَ اللَّهِ وَآيَاتِهِ يُؤْمِنُونَ",
+      "page_number": 499,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 100028,
+          "resource_id": 20,
+          "text": "These are the verses of Allāh which We recite to you in truth. Then in what statement after Allāh and His verses will they believe?"
+        },
+        {
+          "id": 1171075,
+          "resource_id": 213,
+          "text": "এগুলো আল্লাহর আয়াত, যা আমরা আপনার কাছে তিলাওয়াত করছি যথাযথভাবে। কাজেই আল্লাহ এবং তাঁর আয়াতের পরে তারা আর কোন্ বাণীতে ঈমান আনবে [১]"
+        }
+      ]
+    },
+    {
+      "id": 4480,
+      "verse_number": 7,
+      "verse_key": "45:7",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 199,
+      "ruku_number": 436,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَيْلٌ لِّكُلِّ أَفَّاكٍ أَثِيمٍ",
+      "text_imlaei": "وَيْلٌ لِّكُلِّ أَفَّاكٍ أَثِيمٍ",
+      "page_number": 499,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 100030,
+          "resource_id": 20,
+          "text": "Woe to every sinful liar"
+        },
+        {
+          "id": 1171076,
+          "resource_id": 213,
+          "text": "দুর্ভোগ প্রত্যেক ঘোর মিথ্যাবাদী পাপীর [১],"
+        }
+      ]
+    },
+    {
+      "id": 4481,
+      "verse_number": 8,
+      "verse_key": "45:8",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 199,
+      "ruku_number": 436,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "يَسْمَعُ ءَايَـٰتِ ٱللَّهِ تُتْلَىٰ عَلَيْهِ ثُمَّ يُصِرُّ مُسْتَكْبِرًا كَأَن لَّمْ يَسْمَعْهَا ۖ فَبَشِّرْهُ بِعَذَابٍ أَلِيمٍ",
+      "text_imlaei": "يَسْمَعُ آيَاتِ اللَّهِ تُتْلَىٰ عَلَيْهِ ثُمَّ يُصِرُّ مُسْتَكْبِرًا كَأَن لَّمْ يَسْمَعْهَا ۖ فَبَشِّرْهُ بِعَذَابٍ أَلِيمٍ",
+      "page_number": 499,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 100032,
+          "resource_id": 20,
+          "text": "Who hears the verses of Allāh recited to him, then persists arrogantly as if he had not heard them. So give him tidings of a painful punishment."
+        },
+        {
+          "id": 1171077,
+          "resource_id": 213,
+          "text": "সে আল্লাহর আয়াতসমূহ শোনে যা তার কাছে তিলাওয়াত করা হয়, তারপর সে ঔদ্ধত্যের সাথে অটল থাকে যেন সে তা শোনেনি। অতএব, আপনি তাকে সুসংবাদ দিন যন্ত্রণাদায়ক শাস্তির;"
+        }
+      ]
+    },
+    {
+      "id": 4482,
+      "verse_number": 9,
+      "verse_key": "45:9",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 199,
+      "ruku_number": 436,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا عَلِمَ مِنْ ءَايَـٰتِنَا شَيْـًٔا ٱتَّخَذَهَا هُزُوًا ۚ أُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌ مُّهِينٌ",
+      "text_imlaei": "وَإِذَا عَلِمَ مِنْ آيَاتِنَا شَيْئًا اتَّخَذَهَا هُزُوًا ۚ أُولَٰئِكَ لَهُمْ عَذَابٌ مُّهِينٌ",
+      "page_number": 499,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 100036,
+          "resource_id": 20,
+          "text": "And when he knows anything of Our verses, he takes them in ridicule. Those will have a humiliating punishment."
+        },
+        {
+          "id": 1171078,
+          "resource_id": 213,
+          "text": "আর যখন সে আমাদের কোনো আয়াত অবগত হয়, তখন সে সেটাকে পরিহাসের পাত্র রূপে গ্রহণ করে। তাদেরই জন্য রয়েছে লাঞ্ছনাদায়ক শাস্তি।"
+        }
+      ]
+    },
+    {
+      "id": 4483,
+      "verse_number": 10,
+      "verse_key": "45:10",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 199,
+      "ruku_number": 436,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "مِّن وَرَآئِهِمْ جَهَنَّمُ ۖ وَلَا يُغْنِى عَنْهُم مَّا كَسَبُوا۟ شَيْـًٔا وَلَا مَا ٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ أَوْلِيَآءَ ۖ وَلَهُمْ عَذَابٌ عَظِيمٌ",
+      "text_imlaei": "مِّن وَرَائِهِمْ جَهَنَّمُ ۖ وَلَا يُغْنِي عَنْهُم مَّا كَسَبُوا شَيْئًا وَلَا مَا اتَّخَذُوا مِن دُونِ اللَّهِ أَوْلِيَاءَ ۖ وَلَهُمْ عَذَابٌ عَظِيمٌ",
+      "page_number": 499,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 99989,
+          "resource_id": 20,
+          "text": "Before them<sup foot_note=197354>1</sup> is Hell, and what they had earned will not avail them at all nor what they had taken besides Allāh as allies. And they will have a great punishment."
+        },
+        {
+          "id": 1171079,
+          "resource_id": 213,
+          "text": "তাদের সামনে রয়েছে জাহান্নাম ; তাদের কৃতকর্ম তাদের কোনো কাজে আসবে না, তারা আল্লাহ্‌র পরিবর্তে যাদেরকে অভিভাবক স্থির করেছে ওরাও নয়। আর তাদের জন্য রয়েছে মহাশাস্তি।"
+        }
+      ]
+    },
+    {
+      "id": 4484,
+      "verse_number": 11,
+      "verse_key": "45:11",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 199,
+      "ruku_number": 436,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "هَـٰذَا هُدًى ۖ وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِ رَبِّهِمْ لَهُمْ عَذَابٌ مِّن رِّجْزٍ أَلِيمٌ",
+      "text_imlaei": "هَٰذَا هُدًى ۖ وَالَّذِينَ كَفَرُوا بِآيَاتِ رَبِّهِمْ لَهُمْ عَذَابٌ مِّن رِّجْزٍ أَلِيمٌ",
+      "page_number": 499,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 99990,
+          "resource_id": 20,
+          "text": "This [Qur’ān] is guidance. And those who have disbelieved in the verses of their Lord will have a painful punishment of foul nature."
+        },
+        {
+          "id": 1171080,
+          "resource_id": 213,
+          "text": "এ কুরআন সৎপথের দিশারী; আর যারা তাদের রবের আয়াতসমূহের সাথে কুফরী করে, তাদের জন্য রয়েছে খুবই যন্ত্রণাদায়ক শাস্তি।"
+        }
+      ]
+    },
+    {
+      "id": 4485,
+      "verse_number": 12,
+      "verse_key": "45:12",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 200,
+      "ruku_number": 437,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "۞ ٱللَّهُ ٱلَّذِى سَخَّرَ لَكُمُ ٱلْبَحْرَ لِتَجْرِىَ ٱلْفُلْكُ فِيهِ بِأَمْرِهِۦ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "text_imlaei": "اللَّهُ الَّذِي سَخَّرَ لَكُمُ الْبَحْرَ لِتَجْرِيَ الْفُلْكُ فِيهِ بِأَمْرِهِ وَلِتَبْتَغُوا مِن فَضْلِهِ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "page_number": 499,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 99992,
+          "resource_id": 20,
+          "text": "It is Allāh who subjected to you the sea so that ships may sail upon it by His command and that you may seek of His bounty; and perhaps you will be grateful."
+        },
+        {
+          "id": 1171081,
+          "resource_id": 213,
+          "text": "আল্লাহ, যিনি সাগরকে তোমাদের কল্যাণে নিয়োজিত করেছেন যেন তাঁর আদেশে তাতে নৌযানসমূহ চলাচল করতে পারে। আর যেন  তোমরা তাঁর  অনুগ্রহ তালাশ করতে পার [১] এবং যেন তোমরা (তাঁর প্রতি) কৃতজ্ঞতা প্রকাশ কর।"
+        }
+      ]
+    },
+    {
+      "id": 4486,
+      "verse_number": 13,
+      "verse_key": "45:13",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 200,
+      "ruku_number": 437,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَسَخَّرَ لَكُم مَّا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ جَمِيعًا مِّنْهُ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ",
+      "text_imlaei": "وَسَخَّرَ لَكُم مَّا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ جَمِيعًا مِّنْهُ ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّقَوْمٍ يَتَفَكَّرُونَ",
+      "page_number": 499,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 99993,
+          "resource_id": 20,
+          "text": "And He has subjected to you whatever is in the heavens and whatever is on the earth - all from Him. Indeed in that are signs for a people who give thought."
+        },
+        {
+          "id": 1171082,
+          "resource_id": 213,
+          "text": "আর তিনি তোমাদের কল্যাণে নিয়োজিত করেছেন আসমানসমূহ ও যমীনের সমস্ত কিছু নিজ অনুগ্রহে, নিশ্চয় এতে অনেক নিদর্শনাবলী রয়েছে, এমন সম্প্রদায়ের জন্য যারা চিন্তা করে।"
+        }
+      ]
+    },
+    {
+      "id": 4487,
+      "verse_number": 14,
+      "verse_key": "45:14",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 200,
+      "ruku_number": 437,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "قُل لِّلَّذِينَ ءَامَنُوا۟ يَغْفِرُوا۟ لِلَّذِينَ لَا يَرْجُونَ أَيَّامَ ٱللَّهِ لِيَجْزِىَ قَوْمًۢا بِمَا كَانُوا۟ يَكْسِبُونَ",
+      "text_imlaei": "قُل لِّلَّذِينَ آمَنُوا يَغْفِرُوا لِلَّذِينَ لَا يَرْجُونَ أَيَّامَ اللَّهِ لِيَجْزِيَ قَوْمًا بِمَا كَانُوا يَكْسِبُونَ",
+      "page_number": 500,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 99995,
+          "resource_id": 20,
+          "text": "Say, [O Muḥammad], to those who have believed that they [should] forgive those who expect not the days of Allāh [i.e., of His retribution] so that He may recompense a people<sup foot_note=197355>1</sup> for what they used to earn."
+        },
+        {
+          "id": 1171083,
+          "resource_id": 213,
+          "text": "যারা ঈমান এনেছে তাদেরকে বলুন, ‘তারা যেন ক্ষমা করে ওদেরকে, যারা আল্লাহর দিনগুলোর প্রত্যাশা করে না। যাতে আল্লাহ প্ৰত্যেক সম্প্রদায়কে তাদের কৃতকর্মের জন্য প্রতিদান দিতে পারেন।’"
+        }
+      ]
+    },
+    {
+      "id": 4488,
+      "verse_number": 15,
+      "verse_key": "45:15",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 200,
+      "ruku_number": 437,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "مَنْ عَمِلَ صَـٰلِحًا فَلِنَفْسِهِۦ ۖ وَمَنْ أَسَآءَ فَعَلَيْهَا ۖ ثُمَّ إِلَىٰ رَبِّكُمْ تُرْجَعُونَ",
+      "text_imlaei": "مَنْ عَمِلَ صَالِحًا فَلِنَفْسِهِ ۖ وَمَنْ أَسَاءَ فَعَلَيْهَا ۖ ثُمَّ إِلَىٰ رَبِّكُمْ تُرْجَعُونَ",
+      "page_number": 500,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 99996,
+          "resource_id": 20,
+          "text": "Whoever does a good deed - it is for himself; and whoever does evil - it is against it [i.e., the self or soul]. Then to your Lord you will be returned."
+        },
+        {
+          "id": 1171084,
+          "resource_id": 213,
+          "text": "যে সৎকাজ করে সে তার কল্যাণের জন্যই তা করে এবং কেউ মন্দ কাজ করলে তা তারই উপর বর্তাবে, তারপর তোমাদেরকে তোমাদের রবের দিকেই প্রত্যাবর্তিত করা হবে।"
+        }
+      ]
+    },
+    {
+      "id": 4489,
+      "verse_number": 16,
+      "verse_key": "45:16",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 200,
+      "ruku_number": 437,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَقَدْ ءَاتَيْنَا بَنِىٓ إِسْرَٰٓءِيلَ ٱلْكِتَـٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ وَرَزَقْنَـٰهُم مِّنَ ٱلطَّيِّبَـٰتِ وَفَضَّلْنَـٰهُمْ عَلَى ٱلْعَـٰلَمِينَ",
+      "text_imlaei": "وَلَقَدْ آتَيْنَا بَنِي إِسْرَائِيلَ الْكِتَابَ وَالْحُكْمَ وَالنُّبُوَّةَ وَرَزَقْنَاهُم مِّنَ الطَّيِّبَاتِ وَفَضَّلْنَاهُمْ عَلَى الْعَالَمِينَ",
+      "page_number": 500,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 99997,
+          "resource_id": 20,
+          "text": "And We did certainly give the Children of Israel the Scripture and judgement<sup foot_note=197356>1</sup> and prophethood, and We provided them with good things and preferred them over the worlds."
+        },
+        {
+          "id": 1171085,
+          "resource_id": 213,
+          "text": "আর অবশ্যই আমরা বনী ইসরাঈলকে কিতাব, কর্তৃত্ব [১] ও নবুওয়াত দান করেছিলাম এবং তাদেরকে রিযিক প্ৰদান করেছিলাম উত্তম বস্তু হতে, আর দিয়েছিলাম তাদেরকে সকল সৃষ্টির উপর শ্রেষ্ঠত্ব।"
+        }
+      ]
+    },
+    {
+      "id": 4490,
+      "verse_number": 17,
+      "verse_key": "45:17",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 200,
+      "ruku_number": 437,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَءَاتَيْنَـٰهُم بَيِّنَـٰتٍ مِّنَ ٱلْأَمْرِ ۖ فَمَا ٱخْتَلَفُوٓا۟ إِلَّا مِنۢ بَعْدِ مَا جَآءَهُمُ ٱلْعِلْمُ بَغْيًۢا بَيْنَهُمْ ۚ إِنَّ رَبَّكَ يَقْضِى بَيْنَهُمْ يَوْمَ ٱلْقِيَـٰمَةِ فِيمَا كَانُوا۟ فِيهِ يَخْتَلِفُونَ",
+      "text_imlaei": "وَآتَيْنَاهُم بَيِّنَاتٍ مِّنَ الْأَمْرِ ۖ فَمَا اخْتَلَفُوا إِلَّا مِن بَعْدِ مَا جَاءَهُمُ الْعِلْمُ بَغْيًا بَيْنَهُمْ ۚ إِنَّ رَبَّكَ يَقْضِي بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ",
+      "page_number": 500,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 99998,
+          "resource_id": 20,
+          "text": "And We gave them clear proofs of the matter [of religion]. And they did not differ except after knowledge had come to them - out of jealous animosity between themselves. Indeed, your Lord will judge between them on the Day of Resurrection concerning that over which they used to differ."
+        },
+        {
+          "id": 1171086,
+          "resource_id": 213,
+          "text": "আর আমরা তাদেরকে দীনের যাবতীয় বিষয়ে সুস্পষ্ট প্রমাণাদি দান করেছিলাম। তাদের কাছে জ্ঞান আসার পরও তারা শুধু পরস্পর বিদ্বেষবশতঃ মতবিরোধ করেছিল। তারা যে সব বিষয়ে মতবিরোধ করত, নিশ্চয় আপনার রব কিয়ামতের দিন তাদের মধ্যে সে সব বিষয়ে ফয়সালা করে দেবেন।"
+        }
+      ]
+    },
+    {
+      "id": 4491,
+      "verse_number": 18,
+      "verse_key": "45:18",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 200,
+      "ruku_number": 437,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "ثُمَّ جَعَلْنَـٰكَ عَلَىٰ شَرِيعَةٍ مِّنَ ٱلْأَمْرِ فَٱتَّبِعْهَا وَلَا تَتَّبِعْ أَهْوَآءَ ٱلَّذِينَ لَا يَعْلَمُونَ",
+      "text_imlaei": "ثُمَّ جَعَلْنَاكَ عَلَىٰ شَرِيعَةٍ مِّنَ الْأَمْرِ فَاتَّبِعْهَا وَلَا تَتَّبِعْ أَهْوَاءَ الَّذِينَ لَا يَعْلَمُونَ",
+      "page_number": 500,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 99999,
+          "resource_id": 20,
+          "text": "Then We put you, [O Muḥammad], on an ordained way concerning the matter [of religion]; so follow it and do not follow the inclinations of those who do not know."
+        },
+        {
+          "id": 1171087,
+          "resource_id": 213,
+          "text": "তারপর আমরা আপনাকে প্রতিষ্ঠিত করেছি দীনের বিশেষ বিধানের উপর; কাজেই আপনি তার অনুসরণ করুন। আর যারা জানে না তাদের খেয়াল-খুশীর অনুসরণ করবেন না।"
+        }
+      ]
+    },
+    {
+      "id": 4492,
+      "verse_number": 19,
+      "verse_key": "45:19",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 200,
+      "ruku_number": 437,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّهُمْ لَن يُغْنُوا۟ عَنكَ مِنَ ٱللَّهِ شَيْـًٔا ۚ وَإِنَّ ٱلظَّـٰلِمِينَ بَعْضُهُمْ أَوْلِيَآءُ بَعْضٍ ۖ وَٱللَّهُ وَلِىُّ ٱلْمُتَّقِينَ",
+      "text_imlaei": "إِنَّهُمْ لَن يُغْنُوا عَنكَ مِنَ اللَّهِ شَيْئًا ۚ وَإِنَّ الظَّالِمِينَ بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ ۖ وَاللَّهُ وَلِيُّ الْمُتَّقِينَ",
+      "page_number": 500,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 100000,
+          "resource_id": 20,
+          "text": "Indeed, they will never avail you against Allāh at all. And indeed, the wrongdoers are allies of one another; but Allāh is the protector of the righteous."
+        },
+        {
+          "id": 1171088,
+          "resource_id": 213,
+          "text": "নিশ্চয় তারা আল্লাহ্‌র মুকাবিলায় আপনার কোনই কাজে আসবে না; আর নিশ্চয় যালিমরা একে অন্যের বন্ধু এবং আল্লাহ্‌ মুত্তাকীদের বন্ধু।"
+        }
+      ]
+    },
+    {
+      "id": 4493,
+      "verse_number": 20,
+      "verse_key": "45:20",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 200,
+      "ruku_number": 437,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "هَـٰذَا بَصَـٰٓئِرُ لِلنَّاسِ وَهُدًى وَرَحْمَةٌ لِّقَوْمٍ يُوقِنُونَ",
+      "text_imlaei": "هَٰذَا بَصَائِرُ لِلنَّاسِ وَهُدًى وَرَحْمَةٌ لِّقَوْمٍ يُوقِنُونَ",
+      "page_number": 500,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 100003,
+          "resource_id": 20,
+          "text": "This [Qur’ān] is enlightenment for mankind and guidance and mercy for a people who are certain [in faith]."
+        },
+        {
+          "id": 1171089,
+          "resource_id": 213,
+          "text": "এ কুরআন মানুষের জন্য আলোকবর্তিকা এবং হেদায়াত ও রহমত এমন সম্প্রদায়ের জন্য, যারা নিশ্চিত বিশ্বাস করে।"
+        }
+      ]
+    },
+    {
+      "id": 4494,
+      "verse_number": 21,
+      "verse_key": "45:21",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 200,
+      "ruku_number": 437,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "أَمْ حَسِبَ ٱلَّذِينَ ٱجْتَرَحُوا۟ ٱلسَّيِّـَٔاتِ أَن نَّجْعَلَهُمْ كَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ سَوَآءً مَّحْيَاهُمْ وَمَمَاتُهُمْ ۚ سَآءَ مَا يَحْكُمُونَ",
+      "text_imlaei": "أَمْ حَسِبَ الَّذِينَ اجْتَرَحُوا السَّيِّئَاتِ أَن نَّجْعَلَهُمْ كَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَوَاءً مَّحْيَاهُمْ وَمَمَاتُهُمْ ۚ سَاءَ مَا يَحْكُمُونَ",
+      "page_number": 500,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 100004,
+          "resource_id": 20,
+          "text": "Or do those who commit evils think We will make them like those who have believed and done righteous deeds - [make them] equal in their life and their death?<sup foot_note=197357>1</sup> Evil is that which they judge [i.e., assume]."
+        },
+        {
+          "id": 1171090,
+          "resource_id": 213,
+          "text": "নাকি যারা দুষ্কর্ম করেছে তারা মনে করে যে, আমরা জীবন ও মৃত্যুর দিক দিয়ে তাদেরকে ওদের মত গণ্য করব যারা ঈমান এনেছে এবং সৎকাজ করেছে? তাদের বিচার-সিদ্ধান্ত কতই না মন্দ !"
+        }
+      ]
+    },
+    {
+      "id": 4495,
+      "verse_number": 22,
+      "verse_key": "45:22",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 200,
+      "ruku_number": 438,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَخَلَقَ ٱللَّهُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ وَلِتُجْزَىٰ كُلُّ نَفْسٍۭ بِمَا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ",
+      "text_imlaei": "وَخَلَقَ اللَّهُ السَّمَاوَاتِ وَالْأَرْضَ بِالْحَقِّ وَلِتُجْزَىٰ كُلُّ نَفْسٍ بِمَا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ",
+      "page_number": 500,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 100005,
+          "resource_id": 20,
+          "text": "And Allāh created the heavens and earth in truth and so that every soul may be recompensed for what it has earned, and they will not be wronged."
+        },
+        {
+          "id": 1171091,
+          "resource_id": 213,
+          "text": "আর আল্লাহ্‌ আসমানসমূহ ও যমীনকে সৃষ্টি করেছেন যথাযথভাবে এবং যাতে প্রত্যেক ব্যক্তিকে তার কাজ অনুযায়ী ফল  দেয়া যেতে পারে। আর তাদের প্রতি যুলুম করা হবে না।"
+        }
+      ]
+    },
+    {
+      "id": 4496,
+      "verse_number": 23,
+      "verse_key": "45:23",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 200,
+      "ruku_number": 438,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "أَفَرَءَيْتَ مَنِ ٱتَّخَذَ إِلَـٰهَهُۥ هَوَىٰهُ وَأَضَلَّهُ ٱللَّهُ عَلَىٰ عِلْمٍ وَخَتَمَ عَلَىٰ سَمْعِهِۦ وَقَلْبِهِۦ وَجَعَلَ عَلَىٰ بَصَرِهِۦ غِشَـٰوَةً فَمَن يَهْدِيهِ مِنۢ بَعْدِ ٱللَّهِ ۚ أَفَلَا تَذَكَّرُونَ",
+      "text_imlaei": "أَفَرَأَيْتَ مَنِ اتَّخَذَ إِلَٰهَهُ هَوَاهُ وَأَضَلَّهُ اللَّهُ عَلَىٰ عِلْمٍ وَخَتَمَ عَلَىٰ سَمْعِهِ وَقَلْبِهِ وَجَعَلَ عَلَىٰ بَصَرِهِ غِشَاوَةً فَمَن يَهْدِيهِ مِن بَعْدِ اللَّهِ ۚ أَفَلَا تَذَكَّرُونَ",
+      "page_number": 501,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 100006,
+          "resource_id": 20,
+          "text": "Have you seen he who has taken as his god his [own] desire, and Allāh has sent him astray due to knowledge<sup foot_note=197358>1</sup> and has set a seal upon his hearing and his heart and put over his vision a veil? So who will guide him after Allāh? Then will you not be reminded?"
+        },
+        {
+          "id": 1171092,
+          "resource_id": 213,
+          "text": "তবে কি আপনি লক্ষ্য করেছেন তাকে, যে তার খেয়াল-খুশীকে নিজ ইলাহ্‌ বানিয়ে নিয়েছে? আর তার কাছে জ্ঞান আসার পর আল্লাহ তাকে বিভ্রান্ত করেছেন [১] এবং তিনি তার কান ও হৃদয়ে মোহর করে দিয়েছেন। আর তিনি তার চোখের উপর রেখেছেন আবরণ। অতএব, আল্লাহর পরে কে তাকে হেদায়েত দিবে? তবু কি তোমরা উপদেশ গ্ৰহণ করবে না?"
+        }
+      ]
+    },
+    {
+      "id": 4497,
+      "verse_number": 24,
+      "verse_key": "45:24",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 200,
+      "ruku_number": 438,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَقَالُوا۟ مَا هِىَ إِلَّا حَيَاتُنَا ٱلدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا يُهْلِكُنَآ إِلَّا ٱلدَّهْرُ ۚ وَمَا لَهُم بِذَٰلِكَ مِنْ عِلْمٍ ۖ إِنْ هُمْ إِلَّا يَظُنُّونَ",
+      "text_imlaei": "وَقَالُوا مَا هِيَ إِلَّا حَيَاتُنَا الدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا يُهْلِكُنَا إِلَّا الدَّهْرُ ۚ وَمَا لَهُم بِذَٰلِكَ مِنْ عِلْمٍ ۖ إِنْ هُمْ إِلَّا يَظُنُّونَ",
+      "page_number": 501,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 100007,
+          "resource_id": 20,
+          "text": "And they say, \"There is not but our worldly life; we die and live,<sup foot_note=197359>1</sup> and nothing destroys us except time.\" And they have of that no knowledge; they are only assuming."
+        },
+        {
+          "id": 1171093,
+          "resource_id": 213,
+          "text": "আর তারা বলে, ‘একমাত্র দুনিয়ার জীবনই আমাদের জীবন, আমরা মরি ও বাঁচি, আর কাল-ই কেবল আমাদেরকে ধবংস করে [১]।’ বস্তুত এ ব্যাপারে তাদের কোনো জ্ঞান নেই, তারা তো শুধু ধারণাই করে।"
+        }
+      ]
+    },
+    {
+      "id": 4498,
+      "verse_number": 25,
+      "verse_key": "45:25",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 200,
+      "ruku_number": 438,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَـٰتُنَا بَيِّنَـٰتٍ مَّا كَانَ حُجَّتَهُمْ إِلَّآ أَن قَالُوا۟ ٱئْتُوا۟ بِـَٔابَآئِنَآ إِن كُنتُمْ صَـٰدِقِينَ",
+      "text_imlaei": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ آيَاتُنَا بَيِّنَاتٍ مَّا كَانَ حُجَّتَهُمْ إِلَّا أَن قَالُوا ائْتُوا بِآبَائِنَا إِن كُنتُمْ صَادِقِينَ",
+      "page_number": 501,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 100008,
+          "resource_id": 20,
+          "text": "And when Our verses are recited to them as clear evidences, their argument is only that they say, \"Bring [back] our forefathers, if you should be truthful.\""
+        },
+        {
+          "id": 1171094,
+          "resource_id": 213,
+          "text": "আর তাদের কাছে যখন আমাদের সুস্পষ্ট আয়াতসমূহ তেলাওয়াত করা হয় তখন তাদের কোনো যুক্তি থাকে না শুধু এ কথা ছাড়া যে, তোমরা সত্যবাদী হলে আমাদের পিতৃপুরুষদেরকে নিয়ে আস।"
+        }
+      ]
+    },
+    {
+      "id": 4499,
+      "verse_number": 26,
+      "verse_key": "45:26",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 200,
+      "ruku_number": 438,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "قُلِ ٱللَّهُ يُحْيِيكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يَجْمَعُكُمْ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ لَا رَيْبَ فِيهِ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+      "text_imlaei": "قُلِ اللَّهُ يُحْيِيكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يَجْمَعُكُمْ إِلَىٰ يَوْمِ الْقِيَامَةِ لَا رَيْبَ فِيهِ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
+      "page_number": 501,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 100009,
+          "resource_id": 20,
+          "text": "Say, \"Allāh causes you to live, then causes you to die; then He will assemble you for the Day of Resurrection, about which there is no doubt, but most of the people do not know.\""
+        },
+        {
+          "id": 1171095,
+          "resource_id": 213,
+          "text": "বলুন, ‘আল্লাহই তোমাদেরকে জীবন দান করেন তারপর তোমাদের মৃত্যু ঘটান। তারপর তিনি তোমাদেরকে কিয়ামতের দিনে একত্র করবেন, যাতে কোনো সন্দেহ নেই। কিন্তু বেশীর ভাগ মানুষ তা জানে না।’"
+        }
+      ]
+    },
+    {
+      "id": 4500,
+      "verse_number": 27,
+      "verse_key": "45:27",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 200,
+      "ruku_number": 439,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَلِلَّهِ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَيَوْمَ تَقُومُ ٱلسَّاعَةُ يَوْمَئِذٍ يَخْسَرُ ٱلْمُبْطِلُونَ",
+      "text_imlaei": "وَلِلَّهِ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۚ وَيَوْمَ تَقُومُ السَّاعَةُ يَوْمَئِذٍ يَخْسَرُ الْمُبْطِلُونَ",
+      "page_number": 501,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 100010,
+          "resource_id": 20,
+          "text": "And to Allāh belongs the dominion of the heavens and the earth. And the Day the Hour appears - that Day the falsifiers will lose."
+        },
+        {
+          "id": 1171096,
+          "resource_id": 213,
+          "text": "আর আসমানসমূহ ও যমীনের রাজত্ব আল্লাহরই এবং যেদিন কিয়ামত সংঘটিত হবে সেদিন বাতিলপন্থীরা হবে ক্ষতিগ্রস্ত।"
+        }
+      ]
+    },
+    {
+      "id": 4501,
+      "verse_number": 28,
+      "verse_key": "45:28",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 200,
+      "ruku_number": 439,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَتَرَىٰ كُلَّ أُمَّةٍ جَاثِيَةً ۚ كُلُّ أُمَّةٍ تُدْعَىٰٓ إِلَىٰ كِتَـٰبِهَا ٱلْيَوْمَ تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ",
+      "text_imlaei": "وَتَرَىٰ كُلَّ أُمَّةٍ جَاثِيَةً ۚ كُلُّ أُمَّةٍ تُدْعَىٰ إِلَىٰ كِتَابِهَا الْيَوْمَ تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ",
+      "page_number": 501,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 100011,
+          "resource_id": 20,
+          "text": "And you will see every nation kneeling [from fear]. Every nation will be called to its record [and told], \"Today you will be recompensed for what you used to do."
+        },
+        {
+          "id": 1171097,
+          "resource_id": 213,
+          "text": "আর আপনি প্রত্যেক জাতিকে দেখবেন ভয়ে নতজানু [১], প্ৰত্যেক জাতিকে তার কিতাবের [২] প্রতি ডাকা হবে, (এবং বলা হবে) ‘আজ তোমাদেরকে তারই প্রতিফল দেয়া হবে যা তোমরা আমল করতে।"
+        }
+      ]
+    },
+    {
+      "id": 4502,
+      "verse_number": 29,
+      "verse_key": "45:29",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 200,
+      "ruku_number": 439,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "هَـٰذَا كِتَـٰبُنَا يَنطِقُ عَلَيْكُم بِٱلْحَقِّ ۚ إِنَّا كُنَّا نَسْتَنسِخُ مَا كُنتُمْ تَعْمَلُونَ",
+      "text_imlaei": "هَٰذَا كِتَابُنَا يَنطِقُ عَلَيْكُم بِالْحَقِّ ۚ إِنَّا كُنَّا نَسْتَنسِخُ مَا كُنتُمْ تَعْمَلُونَ",
+      "page_number": 501,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 100012,
+          "resource_id": 20,
+          "text": "This, Our record, speaks about you in truth. Indeed, We were having transcribed<sup foot_note=197360>1</sup> whatever you used to do.\""
+        },
+        {
+          "id": 1171098,
+          "resource_id": 213,
+          "text": "‘এই আমাদের লেখনি, যা তোমাদের ব্যাপারে সাক্ষ্য দেবে সত্যভাবে। নিশ্চয় তোমরা যা আমল করতে তা আমরা লিপিবদ্ধ করেছিলাম।’"
+        }
+      ]
+    },
+    {
+      "id": 4503,
+      "verse_number": 30,
+      "verse_key": "45:30",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 200,
+      "ruku_number": 439,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فَيُدْخِلُهُمْ رَبُّهُمْ فِى رَحْمَتِهِۦ ۚ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْمُبِينُ",
+      "text_imlaei": "فَأَمَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَيُدْخِلُهُمْ رَبُّهُمْ فِي رَحْمَتِهِ ۚ ذَٰلِكَ هُوَ الْفَوْزُ الْمُبِينُ",
+      "page_number": 501,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 100015,
+          "resource_id": 20,
+          "text": "So as for those who believed and did righteous deeds, their Lord will admit them into His mercy. That is what is the clear attainment."
+        },
+        {
+          "id": 1171099,
+          "resource_id": 213,
+          "text": "অতঃপর যারা ঈমান এনেছে এবং সৎকাজ করেছে পরিণামে তাদের রব তাদেরকে প্রবেশ করাবেন স্বীয় রহমতে। এটাই সুস্পষ্ট সাফল্য।"
+        }
+      ]
+    },
+    {
+      "id": 4504,
+      "verse_number": 31,
+      "verse_key": "45:31",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 200,
+      "ruku_number": 439,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَمَّا ٱلَّذِينَ كَفَرُوٓا۟ أَفَلَمْ تَكُنْ ءَايَـٰتِى تُتْلَىٰ عَلَيْكُمْ فَٱسْتَكْبَرْتُمْ وَكُنتُمْ قَوْمًا مُّجْرِمِينَ",
+      "text_imlaei": "وَأَمَّا الَّذِينَ كَفَرُوا أَفَلَمْ تَكُنْ آيَاتِي تُتْلَىٰ عَلَيْكُمْ فَاسْتَكْبَرْتُمْ وَكُنتُمْ قَوْمًا مُّجْرِمِينَ",
+      "page_number": 501,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 100016,
+          "resource_id": 20,
+          "text": "But as for those who disbelieved, [it will be said], \"Were not Our verses recited to you, but you were arrogant and became a criminal people?"
+        },
+        {
+          "id": 1171100,
+          "resource_id": 213,
+          "text": "আর যারা কুফরী করেছে (তাদেরকে বলা হবে), ‘তোমাদের কাছে কি আমার আয়াতসমূহ পাঠ করা হয়নি? অতঃপর তোমরা অহংকার করেছিলে এবং তোমরা ছিলে এক অপরাধী সম্প্রদায়।’"
+        }
+      ]
+    },
+    {
+      "id": 4505,
+      "verse_number": 32,
+      "verse_key": "45:32",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 200,
+      "ruku_number": 439,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا قِيلَ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ وَٱلسَّاعَةُ لَا رَيْبَ فِيهَا قُلْتُم مَّا نَدْرِى مَا ٱلسَّاعَةُ إِن نَّظُنُّ إِلَّا ظَنًّا وَمَا نَحْنُ بِمُسْتَيْقِنِينَ",
+      "text_imlaei": "وَإِذَا قِيلَ إِنَّ وَعْدَ اللَّهِ حَقٌّ وَالسَّاعَةُ لَا رَيْبَ فِيهَا قُلْتُم مَّا نَدْرِي مَا السَّاعَةُ إِن نَّظُنُّ إِلَّا ظَنًّا وَمَا نَحْنُ بِمُسْتَيْقِنِينَ",
+      "page_number": 501,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 100017,
+          "resource_id": 20,
+          "text": "And when it was said, 'Indeed, the promise of Allāh is truth and the Hour [is coming] - no doubt about it,' you said, 'We know not what is the Hour. We assume only assumption, and we are not convinced.'\""
+        },
+        {
+          "id": 1171101,
+          "resource_id": 213,
+          "text": "আর যখন বলা হয়, ‘নিশ্চয় আল্লাহর প্রতিশ্রুতি সত্য এবং কিয়ামত--- এতে কোনো সন্দেহ নেই, তখন তোমরা বলে থাক, ‘আমরা জানি না কিয়ামত কী; আমরা কেবল অনুমান করি এবং আমরা তো দৃঢ় বিশ্বাসী নই।’"
+        }
+      ]
+    },
+    {
+      "id": 4506,
+      "verse_number": 33,
+      "verse_key": "45:33",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 200,
+      "ruku_number": 439,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَبَدَا لَهُمْ سَيِّـَٔاتُ مَا عَمِلُوا۟ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "text_imlaei": "وَبَدَا لَهُمْ سَيِّئَاتُ مَا عَمِلُوا وَحَاقَ بِهِم مَّا كَانُوا بِهِ يَسْتَهْزِئُونَ",
+      "page_number": 502,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 100018,
+          "resource_id": 20,
+          "text": "And the evil consequences of what they did will appear to them, and they will be enveloped by what they used to ridicule."
+        },
+        {
+          "id": 1171102,
+          "resource_id": 213,
+          "text": "আর তাদের  মন্দ কাজগুলোর কুফল তাদের কাছে প্ৰকাশিত হবে এবং যা নিয়ে তারা ঠাট্টা-বিদ্রূপ করত তা তাদেরকে পরিবেষ্টন করবে।"
+        }
+      ]
+    },
+    {
+      "id": 4507,
+      "verse_number": 34,
+      "verse_key": "45:34",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 200,
+      "ruku_number": 439,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَقِيلَ ٱلْيَوْمَ نَنسَىٰكُمْ كَمَا نَسِيتُمْ لِقَآءَ يَوْمِكُمْ هَـٰذَا وَمَأْوَىٰكُمُ ٱلنَّارُ وَمَا لَكُم مِّن نَّـٰصِرِينَ",
+      "text_imlaei": "وَقِيلَ الْيَوْمَ نَنسَاكُمْ كَمَا نَسِيتُمْ لِقَاءَ يَوْمِكُمْ هَٰذَا وَمَأْوَاكُمُ النَّارُ وَمَا لَكُم مِّن نَّاصِرِينَ",
+      "page_number": 502,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 100019,
+          "resource_id": 20,
+          "text": "And it will be said, \"Today We will forget you as you forgot the meeting of this Day of yours, and your refuge is the Fire, and for you there are no helpers."
+        },
+        {
+          "id": 1171103,
+          "resource_id": 213,
+          "text": "আর বলা হবে, ‘আজ আমরা তোমাদেরকে ছেড়ে রাখব যেমন তোমরা এ দিনের সাক্ষাতের বিষয়টি ছেড়ে গিয়েছিলে। আর তোমাদের আবাসস্থল হবে জাহান্নাম এবং তোমাদের কোনো সাহায্যকারীও থাকবে না।"
+        }
+      ]
+    },
+    {
+      "id": 4508,
+      "verse_number": 35,
+      "verse_key": "45:35",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 200,
+      "ruku_number": 439,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "ذَٰلِكُم بِأَنَّكُمُ ٱتَّخَذْتُمْ ءَايَـٰتِ ٱللَّهِ هُزُوًا وَغَرَّتْكُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا ۚ فَٱلْيَوْمَ لَا يُخْرَجُونَ مِنْهَا وَلَا هُمْ يُسْتَعْتَبُونَ",
+      "text_imlaei": "ذَٰلِكُم بِأَنَّكُمُ اتَّخَذْتُمْ آيَاتِ اللَّهِ هُزُوًا وَغَرَّتْكُمُ الْحَيَاةُ الدُّنْيَا ۚ فَالْيَوْمَ لَا يُخْرَجُونَ مِنْهَا وَلَا هُمْ يُسْتَعْتَبُونَ",
+      "page_number": 502,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 100020,
+          "resource_id": 20,
+          "text": "That is because you took the verses of Allāh in ridicule, and worldly life deluded you.\" So that Day they will not be removed from it, nor will they be asked to appease [Allāh]."
+        },
+        {
+          "id": 1171104,
+          "resource_id": 213,
+          "text": "‘এটা এ জন্যে যে, তোমরা আল্লাহর আয়াতসমূহকে ঠাট্টা-বিদ্রূপের পাত্র বানিয়েছিলে এবং দুনিয়ার জীবন তোমাদেরকে প্রতারিত করেছিল।’ সুতরাং আজ না তাদেরকে জাহান্নাম থেকে বের করা হবে, আর না তাদেরকে আল্লাহ্‌র সন্তুষ্টি লাভের সুযোগ দেয়া হবে।"
+        }
+      ]
+    },
+    {
+      "id": 4509,
+      "verse_number": 36,
+      "verse_key": "45:36",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 200,
+      "ruku_number": 439,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "فَلِلَّهِ ٱلْحَمْدُ رَبِّ ٱلسَّمَـٰوَٰتِ وَرَبِّ ٱلْأَرْضِ رَبِّ ٱلْعَـٰلَمِينَ",
+      "text_imlaei": "فَلِلَّهِ الْحَمْدُ رَبِّ السَّمَاوَاتِ وَرَبِّ الْأَرْضِ رَبِّ الْعَالَمِينَ",
+      "page_number": 502,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 100021,
+          "resource_id": 20,
+          "text": "Then, to Allāh belongs [all] praise - Lord of the heavens and Lord of the earth, Lord of the worlds."
+        },
+        {
+          "id": 1171105,
+          "resource_id": 213,
+          "text": "অতএব, সকল প্রশংসা আল্লাহরই, যিনি আসমানসমূহের রব, যমীনের রব ও সকল সৃষ্টির রব।"
+        }
+      ]
+    },
+    {
+      "id": 4510,
+      "verse_number": 37,
+      "verse_key": "45:37",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 200,
+      "ruku_number": 439,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَهُ ٱلْكِبْرِيَآءُ فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+      "text_imlaei": "وَلَهُ الْكِبْرِيَاءُ فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+      "page_number": 502,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 100022,
+          "resource_id": 20,
+          "text": "And to Him belongs [all] grandeur within the heavens and the earth, and He is the Exalted in Might, the Wise."
+        },
+        {
+          "id": 1171106,
+          "resource_id": 213,
+          "text": "আর আসমানসমূহ ও যমীনের যাবতীয় গৌরব-গরিমা তাঁরই [১] এবং তিনি মহা পরাক্রমশালী, হিকমতওয়ালা।"
+        }
+      ]
+    }
+  ],
+  "audio_metadata": {
+    "audio_file": {
+      "id": 999,
+      "chapter_id": 45,
+      "file_size": 10432129.0,
+      "format": "mp3",
+      "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/45.mp3"
+    }
+  }
+}

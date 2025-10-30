@@ -1,0 +1,577 @@
+{
+  "metadata": {
+    "surah_number": 82,
+    "scraped_at": "2025-10-30T05:15:16.952597",
+    "source": "api.quran.com",
+    "version": "1.0",
+    "translation_ids": [
+      213,
+      20
+    ]
+  },
+  "license": {
+    "text": {
+      "source": "api.quran.com",
+      "license": "Public Domain",
+      "attribution": "The Quran text is in the public domain",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:15:16.952597"
+    },
+    "translations": {
+      "source": "api.quran.com",
+      "license": "Various - See individual translation licenses",
+      "attribution": "Translation copyrights belong to respective translators",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:15:16.952597"
+    },
+    "audio": {
+      "source": "everyayah.com via api.quran.com",
+      "license": "Free for non-commercial use",
+      "attribution": "Audio recitations courtesy of everyayah.com",
+      "terms_url": "https://everyayah.com/",
+      "note": "Audio URLs provided - not downloaded locally due to size",
+      "fetched_at": "2025-10-30T05:15:16.952597"
+    }
+  },
+  "translation_metadata": {
+    "213": {
+      "name": "Abdul Hafeez & Mohammed Abdul Haq",
+      "author": "Abdul Hafeez, Mohammed Abdul Haq",
+      "language": "te",
+      "language_name": "Telugu",
+      "license": "Various",
+      "source": "api.quran.com"
+    },
+    "20": {
+      "name": "Saheeh International",
+      "author": "Saheeh International",
+      "language": "en",
+      "language_name": "English",
+      "license": "Public Domain",
+      "source": "api.quran.com"
+    }
+  },
+  "surah_info": {
+    "id": 82,
+    "revelation_place": "makkah",
+    "revelation_order": 82,
+    "bismillah_pre": true,
+    "name_simple": "Al-Infitar",
+    "name_complex": "Al-'Infiţār",
+    "name_arabic": "الإنفطار",
+    "verses_count": 19,
+    "pages": [
+      587,
+      587
+    ],
+    "translated_name": {
+      "language_name": "english",
+      "name": "The Cleaving"
+    }
+  },
+  "verses": [
+    {
+      "id": 5830,
+      "verse_number": 1,
+      "verse_key": "82:1",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 526,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " إِذَا ٱلسَّمَآءُ ٱنفَطَرَتْ",
+      "text_imlaei": "إِذَا السَّمَاءُ انفَطَرَتْ",
+      "page_number": 587,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 101887,
+          "resource_id": 20,
+          "text": "When the sky breaks apart"
+        },
+        {
+          "id": 1172426,
+          "resource_id": 213,
+          "text": "যখন আসমান বিদীর্ণ হবে,"
+        }
+      ]
+    },
+    {
+      "id": 5831,
+      "verse_number": 2,
+      "verse_key": "82:2",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 526,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا ٱلْكَوَاكِبُ ٱنتَثَرَتْ",
+      "text_imlaei": "وَإِذَا الْكَوَاكِبُ انتَثَرَتْ",
+      "page_number": 587,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 101899,
+          "resource_id": 20,
+          "text": "And when the stars fall, scattering,"
+        },
+        {
+          "id": 1172427,
+          "resource_id": 213,
+          "text": "আর যখন নক্ষত্রমণ্ডলী বিক্ষিপ্তভাবে ঝরে পরবে,"
+        }
+      ]
+    },
+    {
+      "id": 5832,
+      "verse_number": 3,
+      "verse_key": "82:3",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 526,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا ٱلْبِحَارُ فُجِّرَتْ",
+      "text_imlaei": "وَإِذَا الْبِحَارُ فُجِّرَتْ",
+      "page_number": 587,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 101901,
+          "resource_id": 20,
+          "text": "And when the seas are erupted"
+        },
+        {
+          "id": 1172428,
+          "resource_id": 213,
+          "text": "আর যখন সাগরগুলো বিস্ফোরিত করা হবে,"
+        }
+      ]
+    },
+    {
+      "id": 5833,
+      "verse_number": 4,
+      "verse_key": "82:4",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 526,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا ٱلْقُبُورُ بُعْثِرَتْ",
+      "text_imlaei": "وَإِذَا الْقُبُورُ بُعْثِرَتْ",
+      "page_number": 587,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 101903,
+          "resource_id": 20,
+          "text": "And when the [contents of] graves are scattered [i.e., exposed],"
+        },
+        {
+          "id": 1172429,
+          "resource_id": 213,
+          "text": "আর যখন কবরসমূহ উন্মোচিত হবে,"
+        }
+      ]
+    },
+    {
+      "id": 5834,
+      "verse_number": 5,
+      "verse_key": "82:5",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 526,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "عَلِمَتْ نَفْسٌ مَّا قَدَّمَتْ وَأَخَّرَتْ",
+      "text_imlaei": "عَلِمَتْ نَفْسٌ مَّا قَدَّمَتْ وَأَخَّرَتْ",
+      "page_number": 587,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 101905,
+          "resource_id": 20,
+          "text": "A soul will [then] know what it has put forth and kept back."
+        },
+        {
+          "id": 1172430,
+          "resource_id": 213,
+          "text": "তখন প্রত্যেকে জানবে, সে কী আগে পাঠিয়েছে ও কী পিছনে রেখে গিয়েছে [১]।"
+        }
+      ]
+    },
+    {
+      "id": 5835,
+      "verse_number": 6,
+      "verse_key": "82:6",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 526,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلْإِنسَـٰنُ مَا غَرَّكَ بِرَبِّكَ ٱلْكَرِيمِ",
+      "text_imlaei": "يَا أَيُّهَا الْإِنسَانُ مَا غَرَّكَ بِرَبِّكَ الْكَرِيمِ",
+      "page_number": 587,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 101907,
+          "resource_id": 20,
+          "text": "O mankind, what has deceived you concerning your Lord, the Generous,"
+        },
+        {
+          "id": 1172431,
+          "resource_id": 213,
+          "text": "হে মানুষ! কিসে তোমাকে তোমার মহান রব সম্পর্কে বিভ্ৰান্ত করল?"
+        }
+      ]
+    },
+    {
+      "id": 5836,
+      "verse_number": 7,
+      "verse_key": "82:7",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 526,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِى خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ",
+      "text_imlaei": "الَّذِي خَلَقَكَ فَسَوَّاكَ فَعَدَلَكَ",
+      "page_number": 587,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 101909,
+          "resource_id": 20,
+          "text": "Who created you, proportioned you, and balanced you?"
+        },
+        {
+          "id": 1172432,
+          "resource_id": 213,
+          "text": "যিনি তোমাকে সৃষ্টি করেছেন, অতঃপর তোমাকে সুঠাম করেছেন এবং সুসামঞ্জস্য করেছেন [১],"
+        }
+      ]
+    },
+    {
+      "id": 5837,
+      "verse_number": 8,
+      "verse_key": "82:8",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 526,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فِىٓ أَىِّ صُورَةٍ مَّا شَآءَ رَكَّبَكَ",
+      "text_imlaei": "فِي أَيِّ صُورَةٍ مَّا شَاءَ رَكَّبَكَ",
+      "page_number": 587,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 101911,
+          "resource_id": 20,
+          "text": "In whatever form He willed has He assembled you."
+        },
+        {
+          "id": 1172433,
+          "resource_id": 213,
+          "text": "যে আকৃতিতে চেয়েছেন, তিনি তোমাকে গঠন করেছেন [১]।"
+        }
+      ]
+    },
+    {
+      "id": 5838,
+      "verse_number": 9,
+      "verse_key": "82:9",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 526,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "كَلَّا بَلْ تُكَذِّبُونَ بِٱلدِّينِ",
+      "text_imlaei": "كَلَّا بَلْ تُكَذِّبُونَ بِالدِّينِ",
+      "page_number": 587,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 101913,
+          "resource_id": 20,
+          "text": "No! But you deny the Recompense."
+        },
+        {
+          "id": 1172434,
+          "resource_id": 213,
+          "text": "কখনো নয়, তোমরা তো প্রতিদান দিবসে মিথ্যারোপ করে থাক [১];"
+        }
+      ]
+    },
+    {
+      "id": 5839,
+      "verse_number": 10,
+      "verse_key": "82:10",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 526,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِنَّ عَلَيْكُمْ لَحَـٰفِظِينَ",
+      "text_imlaei": "وَإِنَّ عَلَيْكُمْ لَحَافِظِينَ",
+      "page_number": 587,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 101888,
+          "resource_id": 20,
+          "text": "And indeed, [appointed] over you are keepers,<sup foot_note=197724>1</sup>"
+        },
+        {
+          "id": 1172435,
+          "resource_id": 213,
+          "text": "আর নিশ্চয় নিয়োজিত আছেন তোমাদের উপর সংরক্ষকদল;"
+        }
+      ]
+    },
+    {
+      "id": 5840,
+      "verse_number": 11,
+      "verse_key": "82:11",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 526,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "كِرَامًا كَـٰتِبِينَ",
+      "text_imlaei": "كِرَامًا كَاتِبِينَ",
+      "page_number": 587,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 101889,
+          "resource_id": 20,
+          "text": "Noble and recording;"
+        },
+        {
+          "id": 1172436,
+          "resource_id": 213,
+          "text": "সম্মানিত লেখকবৃন্দ;"
+        }
+      ]
+    },
+    {
+      "id": 5841,
+      "verse_number": 12,
+      "verse_key": "82:12",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 526,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَعْلَمُونَ مَا تَفْعَلُونَ",
+      "text_imlaei": "يَعْلَمُونَ مَا تَفْعَلُونَ",
+      "page_number": 587,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 101890,
+          "resource_id": 20,
+          "text": "They know whatever you do."
+        },
+        {
+          "id": 1172437,
+          "resource_id": 213,
+          "text": "তারা জানে তোমরা যা কর [১]।"
+        }
+      ]
+    },
+    {
+      "id": 5842,
+      "verse_number": 13,
+      "verse_key": "82:13",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 526,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ ٱلْأَبْرَارَ لَفِى نَعِيمٍ",
+      "text_imlaei": "إِنَّ الْأَبْرَارَ لَفِي نَعِيمٍ",
+      "page_number": 587,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 101891,
+          "resource_id": 20,
+          "text": "Indeed, the righteous will be in pleasure,"
+        },
+        {
+          "id": 1172438,
+          "resource_id": 213,
+          "text": "পুণ্যবানেরা তো থাকবে পরম স্বাচ্ছন্দ্যো [১];"
+        }
+      ]
+    },
+    {
+      "id": 5843,
+      "verse_number": 14,
+      "verse_key": "82:14",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 526,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِنَّ ٱلْفُجَّارَ لَفِى جَحِيمٍ",
+      "text_imlaei": "وَإِنَّ الْفُجَّارَ لَفِي جَحِيمٍ",
+      "page_number": 587,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 101892,
+          "resource_id": 20,
+          "text": "And indeed, the wicked will be in Hellfire."
+        },
+        {
+          "id": 1172439,
+          "resource_id": 213,
+          "text": "আর পাপাচারীরা তো থাকবে জাহান্নামে [১];"
+        }
+      ]
+    },
+    {
+      "id": 5844,
+      "verse_number": 15,
+      "verse_key": "82:15",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 526,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَصْلَوْنَهَا يَوْمَ ٱلدِّينِ",
+      "text_imlaei": "يَصْلَوْنَهَا يَوْمَ الدِّينِ",
+      "page_number": 587,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 101893,
+          "resource_id": 20,
+          "text": "They will [enter to] burn therein on the Day of Recompense,"
+        },
+        {
+          "id": 1172440,
+          "resource_id": 213,
+          "text": "তারা প্ৰতিদান দিবসে তাতে দগ্ধ হবে;"
+        }
+      ]
+    },
+    {
+      "id": 5845,
+      "verse_number": 16,
+      "verse_key": "82:16",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 526,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَا هُمْ عَنْهَا بِغَآئِبِينَ",
+      "text_imlaei": "وَمَا هُمْ عَنْهَا بِغَائِبِينَ",
+      "page_number": 587,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 101894,
+          "resource_id": 20,
+          "text": "And never therefrom will they be absent."
+        },
+        {
+          "id": 1172441,
+          "resource_id": 213,
+          "text": "আর তারা সেখান থেকে অন্তৰ্হিত হতে পারবে না [১]।"
+        }
+      ]
+    },
+    {
+      "id": 5846,
+      "verse_number": 17,
+      "verse_key": "82:17",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 526,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا يَوْمُ ٱلدِّينِ",
+      "text_imlaei": "وَمَا أَدْرَاكَ مَا يَوْمُ الدِّينِ",
+      "page_number": 587,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 101895,
+          "resource_id": 20,
+          "text": "And what can make you know what is the Day of Recompense?"
+        },
+        {
+          "id": 1172442,
+          "resource_id": 213,
+          "text": "আর কিসে আপনাকে জানাবে : প্রতিদান দিবস কী?"
+        }
+      ]
+    },
+    {
+      "id": 5847,
+      "verse_number": 18,
+      "verse_key": "82:18",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 526,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ثُمَّ مَآ أَدْرَىٰكَ مَا يَوْمُ ٱلدِّينِ",
+      "text_imlaei": "ثُمَّ مَا أَدْرَاكَ مَا يَوْمُ الدِّينِ",
+      "page_number": 587,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 101896,
+          "resource_id": 20,
+          "text": "Then, what can make you know what is the Day of Recompense?"
+        },
+        {
+          "id": 1172443,
+          "resource_id": 213,
+          "text": "তারপর বলি, কিসে আপনাকে জানাবে: প্রতিদান দিবস কী?"
+        }
+      ]
+    },
+    {
+      "id": 5848,
+      "verse_number": 19,
+      "verse_key": "82:19",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 526,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْـًٔا ۖ وَٱلْأَمْرُ يَوْمَئِذٍ لِّلَّهِ",
+      "text_imlaei": "يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْئًا ۖ وَالْأَمْرُ يَوْمَئِذٍ لِّلَّهِ",
+      "page_number": 587,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 101897,
+          "resource_id": 20,
+          "text": "It is the Day when a soul will not possess for another soul [power to do] a thing; and the command, that Day, is [entirely] with Allāh."
+        },
+        {
+          "id": 1172444,
+          "resource_id": 213,
+          "text": "সেদিন কেউ কারও জন্য কিছু করার মালিক হবে না; আর সেদিন সব বিষয়ের কর্তৃত্ব হবে আল্লাহর [১]।"
+        }
+      ]
+    }
+  ],
+  "audio_metadata": {
+    "audio_file": {
+      "id": 1073,
+      "chapter_id": 82,
+      "file_size": 2197632.0,
+      "format": "mp3",
+      "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/82.mp3"
+    }
+  }
+}

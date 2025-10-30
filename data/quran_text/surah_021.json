@@ -1,12 +1,12 @@
 {
   "metadata": {
     "surah_number": 21,
-    "scraped_at": "2025-10-30T04:11:14.029723",
+    "scraped_at": "2025-10-30T05:13:29.480427",
     "source": "api.quran.com",
     "version": "1.0",
     "translation_ids": [
-      131,
-      213
+      213,
+      20
     ]
   },
   "license": {
@@ -15,14 +15,14 @@
       "license": "Public Domain",
       "attribution": "The Quran text is in the public domain",
       "terms_url": "https://quran.com/terms",
-      "fetched_at": "2025-10-30T04:11:14.029723"
+      "fetched_at": "2025-10-30T05:13:29.480427"
     },
     "translations": {
       "source": "api.quran.com",
       "license": "Various - See individual translation licenses",
       "attribution": "Translation copyrights belong to respective translators",
       "terms_url": "https://quran.com/terms",
-      "fetched_at": "2025-10-30T04:11:14.029723"
+      "fetched_at": "2025-10-30T05:13:29.480427"
     },
     "audio": {
       "source": "everyayah.com via api.quran.com",
@@ -30,24 +30,24 @@
       "attribution": "Audio recitations courtesy of everyayah.com",
       "terms_url": "https://everyayah.com/",
       "note": "Audio URLs provided - not downloaded locally due to size",
-      "fetched_at": "2025-10-30T04:11:14.029723"
+      "fetched_at": "2025-10-30T05:13:29.480427"
     }
   },
   "translation_metadata": {
-    "131": {
-      "name": "Dr. Mustafa Khattab, The Clear Quran",
-      "author": "Dr. Mustafa Khattab",
-      "language": "en",
-      "language_name": "English",
-      "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0",
-      "source": "api.quran.com"
-    },
     "213": {
       "name": "Abdul Hafeez & Mohammed Abdul Haq",
       "author": "Abdul Hafeez, Mohammed Abdul Haq",
       "language": "te",
       "language_name": "Telugu",
       "license": "Various",
+      "source": "api.quran.com"
+    },
+    "20": {
+      "name": "Saheeh International",
+      "author": "Saheeh International",
+      "language": "en",
+      "language_name": "English",
+      "license": "Public Domain",
       "source": "api.quran.com"
     }
   },
@@ -85,6 +85,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97400,
+          "resource_id": 20,
+          "text": "[The time of] their account has approached for the people, while they are in heedlessness turning away."
+        },
+        {
           "id": 1169080,
           "resource_id": 213,
           "text": "মানুষের হিসেব-নিকেশের সময় আসন্ন [১], অথচ তারা উদাসীনতায় মুখ ফিরিয়ে রয়েছে [২]।"
@@ -105,6 +110,11 @@
       "page_number": 322,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97435,
+          "resource_id": 20,
+          "text": "No mention [i.e., revelation] comes to them anew from their Lord except that they listen to it while they are at play"
+        },
         {
           "id": 1169081,
           "resource_id": 213,
@@ -127,6 +137,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97458,
+          "resource_id": 20,
+          "text": "With their hearts distracted. And those who do wrong conceal their private conversation, [saying], \"Is this [Prophet] except a human being like you? So would you approach magic while you are aware [of it]?\""
+        },
+        {
           "id": 1169082,
           "resource_id": 213,
           "text": "তাদের অন্তর থাকে অমনোযোগী। আর যারা যালেম তারা গোপনে পরামর্শ করে। ‘এ তো তোমাদের মত একজন মানুষই, তবুও কি তোমরা দেখে শুনে জাদুর কবলে পড়বে [১]?’"
@@ -147,6 +162,11 @@
       "page_number": 322,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97480,
+          "resource_id": 20,
+          "text": "He [the Prophet (ﷺ)] said, \"My Lord knows whatever is said throughout the heaven and earth, and He is the Hearing, the Knowing.\""
+        },
         {
           "id": 1169083,
           "resource_id": 213,
@@ -169,6 +189,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97503,
+          "resource_id": 20,
+          "text": "But they say, \"[The revelation is but] a mixture of false dreams; rather, he has invented it; rather, he is a poet. So let him bring us a sign just as the previous [messengers] were sent [with miracles].\""
+        },
+        {
           "id": 1169084,
           "resource_id": 213,
           "text": "বরং তারা বলে, ‘এসব অলীক কল্পনা, হয় সে এগুলো রটনা করেছে, না হয় সে একজন কবি [১]। অতএব সে নিয়ে আসুক আমাদের কাছে এক নিদর্শন যেরূপ নিদর্শনসহ প্রেরিত হয়েছিল পূর্ববর্তীগণ।"
@@ -189,6 +214,11 @@
       "page_number": 322,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97525,
+          "resource_id": 20,
+          "text": "Not a [single] city which We destroyed believed before them,<sup foot_note=196781>1</sup> so will they believe?"
+        },
         {
           "id": 1169085,
           "resource_id": 213,
@@ -211,6 +241,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97548,
+          "resource_id": 20,
+          "text": "And We sent not before you, [O Muḥammad], except men to whom We revealed [the message], so ask the people of the message [i.e., former scriptures] if you do not know."
+        },
+        {
           "id": 1169086,
           "resource_id": 213,
           "text": "আর আপনার আগে আমরা ওহীসহ পুরুষদেরকেই পাঠিয়েছিলাম [১]; সুতরাং যদি তোমরা না জান তবে জ্ঞানীদেরকে জিজ্ঞেস কর [২]।"
@@ -231,6 +266,11 @@
       "page_number": 322,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97570,
+          "resource_id": 20,
+          "text": "And We did not make them [i.e., the prophets] forms not eating food,<sup foot_note=196782>1</sup> nor were they immortal [on earth]."
+        },
         {
           "id": 1169087,
           "resource_id": 213,
@@ -253,6 +293,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97593,
+          "resource_id": 20,
+          "text": "Then<sup foot_note=196783>1</sup> We fulfilled for them the promise, and We saved them and whom We willed and destroyed the transgressors."
+        },
+        {
           "id": 1169088,
           "resource_id": 213,
           "text": "তারপর আমরা তাদের প্রতি কৃত ওয়াদা সত্য করে দেখলাম, ফলে আমরা তাদেরকে ও যাদেরকে ইচ্ছে রক্ষা করেছিলাম এবং সীমালংঘনকারীদেরকে করেছিলাম ধ্বংস [১]।"
@@ -273,6 +318,11 @@
       "page_number": 322,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97402,
+          "resource_id": 20,
+          "text": "We have certainly sent down to you a Book [i.e., the Qur’ān] in which is your mention.<sup foot_note=196784>1</sup> Then will you not reason?"
+        },
         {
           "id": 1169089,
           "resource_id": 213,
@@ -295,6 +345,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97414,
+          "resource_id": 20,
+          "text": "And how many a city which was unjust<sup foot_note=196785>1</sup> have We shattered and produced after it another people."
+        },
+        {
           "id": 1169090,
           "resource_id": 213,
           "text": "আর আমরা ধ্বংস করেছি বহু জনপদ, যার অধিবাসীরা ছিল যালেম এবং তাদের পরে সৃষ্টি করেছি অন্য জাতি।"
@@ -315,6 +370,11 @@
       "page_number": 323,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97419,
+          "resource_id": 20,
+          "text": "And when they [i.e., its inhabitants] perceived Our punishment, at once they fled from it."
+        },
         {
           "id": 1169091,
           "resource_id": 213,
@@ -337,6 +397,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97421,
+          "resource_id": 20,
+          "text": "[Some angels said], \"Do not flee but return to where you were given luxury and to your homes - perhaps you will be questioned.\"<sup foot_note=196786>1</sup>"
+        },
+        {
           "id": 1169092,
           "resource_id": 213,
           "text": "‘পালিয়ে যেও না এবং ফিরে এসো যেখানে তোমরা বিলাসিতায় মত্ত ছিলে ও তোমাদের আবাসগৃহে, যাতে এ বিষয়ে তোমাদেরকে জিজ্ঞেস করা হয় [১]।"
@@ -357,6 +422,11 @@
       "page_number": 323,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97423,
+          "resource_id": 20,
+          "text": "They said, \"O woe to us! Indeed, we were wrongdoers.\""
+        },
         {
           "id": 1169093,
           "resource_id": 213,
@@ -379,6 +449,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97425,
+          "resource_id": 20,
+          "text": "And that declaration of theirs did not cease until We made them [as] a harvest [mowed down], extinguished [like a fire]."
+        },
+        {
           "id": 1169094,
           "resource_id": 213,
           "text": "অতঃপর তাদের এ আর্তনাদ চলতে থাকে আমরা তাদেরকে কাটা শস্য ও নেভানো আগুনের মত না করা পর্যন্ত।"
@@ -399,6 +474,11 @@
       "page_number": 323,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97427,
+          "resource_id": 20,
+          "text": "And We did not create the heaven and earth and that between them in play."
+        },
         {
           "id": 1169095,
           "resource_id": 213,
@@ -421,6 +501,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97429,
+          "resource_id": 20,
+          "text": "Had We intended to take a diversion,<sup foot_note=196787>1</sup> We could have taken it from [what is] with Us - if [indeed] We were to do so."
+        },
+        {
           "id": 1169096,
           "resource_id": 213,
           "text": "আমরা যদি খেলার উপকরণ গ্রহণ করতে চাইতাম তবে আমরা আমাদের কাছ থেকেই তা গ্রহণ করতাম; কিন্তু আমরা তা করিনি [১]।"
@@ -441,6 +526,11 @@
       "page_number": 323,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97431,
+          "resource_id": 20,
+          "text": "Rather, We dash the truth upon falsehood, and it destroys it,<sup foot_note=196789>1</sup> and thereupon it departs. And for you is destruction from that which you describe.<sup foot_note=196788>2</sup>"
+        },
         {
           "id": 1169097,
           "resource_id": 213,
@@ -463,6 +553,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97433,
+          "resource_id": 20,
+          "text": "To Him belongs whoever is in the heavens and the earth. And those near Him [i.e., the angels] are not prevented by arrogance from His worship, nor do they tire."
+        },
+        {
           "id": 1169098,
           "resource_id": 213,
           "text": "আর আসমানসমূহ ও যমীনে যারা আছে তারা তাঁরই; আর তাঁর সান্নিধ্যে যারা আছে [১] তারা অহংকার-বশে তাঁর ইবাদাত করা হতে বিমুখ হয় না এবং বিরক্তি বোধ করে না [২]।"
@@ -483,6 +578,11 @@
       "page_number": 323,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97437,
+          "resource_id": 20,
+          "text": "They exalt [Him] night and day [and] do not slacken."
+        },
         {
           "id": 1169099,
           "resource_id": 213,
@@ -505,6 +605,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97439,
+          "resource_id": 20,
+          "text": "Or have they [i.e., men] taken for themselves gods from the earth who resurrect [the dead]?"
+        },
+        {
           "id": 1169100,
           "resource_id": 213,
           "text": "এরা যমীন থেকে যেগুলোকে মা’বুদ হিসেবে গ্রহণ করেছে সেগুলো কি মৃতকে জীবিত করতে সক্ষম [১] ?"
@@ -525,6 +630,11 @@
       "page_number": 323,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97441,
+          "resource_id": 20,
+          "text": "Had there been within them [i.e., the heavens and earth] gods besides Allāh, they both would have been ruined. So exalted is Allāh, Lord of the Throne, above what they describe."
+        },
         {
           "id": 1169101,
           "resource_id": 213,
@@ -547,6 +657,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97443,
+          "resource_id": 20,
+          "text": "He is not questioned about what He does, but they will be questioned."
+        },
+        {
           "id": 1169102,
           "resource_id": 213,
           "text": "তিনি যা করেন সে বিষয়ে তিনি জিজ্ঞাসিত হবেন না; বরং তাদেরকেই জিজ্ঞাসা করা হবে।"
@@ -567,6 +682,11 @@
       "page_number": 323,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97445,
+          "resource_id": 20,
+          "text": "Or have they taken gods besides Him? Say, [O Muḥammad], \"Produce your proof. This [Qur’ān] is the message for those with me and the message of those before me.\"<sup foot_note=196790>1</sup> But most of them do not know the truth, so they are turning away."
+        },
         {
           "id": 1169103,
           "resource_id": 213,
@@ -589,6 +709,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97447,
+          "resource_id": 20,
+          "text": "And We sent not before you any messenger except We revealed to him that, \"There is no deity except Me, so worship Me.\""
+        },
+        {
           "id": 1169104,
           "resource_id": 213,
           "text": "আর আপনার পূর্বে আমরা যে রাসূলই প্রেরণ করেছি তার কাছে এ ওহীই পাঠিয়েছি যে, আমি ব্যতীত অন্য কোনো সত্য ইলাহ নেই, সুতরাং তোমরা আমরাই ইবাদাত কর।"
@@ -609,6 +734,11 @@
       "page_number": 324,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97449,
+          "resource_id": 20,
+          "text": "And they say, \"The Most Merciful has taken a son.\" Exalted is He! Rather, they<sup foot_note=196791>1</sup> are [but] honored servants."
+        },
         {
           "id": 1169105,
           "resource_id": 213,
@@ -631,6 +761,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97451,
+          "resource_id": 20,
+          "text": "They cannot precede Him in word, and they act by His command."
+        },
+        {
           "id": 1169106,
           "resource_id": 213,
           "text": "তারা তাঁর আগে বেড়ে কথা বলে না [১]; তারা তো তাঁর আদেশ অনুসারেই কাজ করে থাকে।"
@@ -651,6 +786,11 @@
       "page_number": 324,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97453,
+          "resource_id": 20,
+          "text": "He knows what is [presently] before them and what will be after them,<sup foot_note=196792>1</sup> and they cannot intercede except on behalf of one whom He approves. And they, from fear of Him, are apprehensive."
+        },
         {
           "id": 1169107,
           "resource_id": 213,
@@ -673,6 +813,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97455,
+          "resource_id": 20,
+          "text": "And whoever of them should say, \"Indeed, I am a god besides Him\" - that one We would recompense with Hell. Thus do We recompense the wrongdoers."
+        },
+        {
           "id": 1169108,
           "resource_id": 213,
           "text": "আর তাদের মধ্যে যে বলবে, ‘তিনি ব্যতীত আমিই ইলাহ’, তাকে আমরা জাহান্নামের শাস্তির প্রতিদান দেব; এভাবেই আমরা যালেমদেরকে প্রতিদান দিয়ে থাকি [১]।"
@@ -693,6 +838,11 @@
       "page_number": 324,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97460,
+          "resource_id": 20,
+          "text": "Have those who disbelieved not considered that the heavens and the earth were a joined entity, and then We separated them and made from water every living thing? Then will they not believe?"
+        },
         {
           "id": 1169109,
           "resource_id": 213,
@@ -715,6 +865,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97462,
+          "resource_id": 20,
+          "text": "And We placed within the earth firmly set mountains, lest it should shift with them, and We made therein [mountain] passes [as] roads that they might be guided."
+        },
+        {
           "id": 1169110,
           "resource_id": 213,
           "text": "এবং আমরা পৃথিবীতে সৃষ্টি করেছি সুদৃঢ় পর্বত, যাতে যমীন তাদেরকে নিয়ে এদিক-ওদিক ঢলে না যায় [১] এবং আমরা সেখানে করে দিয়েছি প্রশস্ত পথ, যাতে তারা গন্তব্যস্থলে পৌঁছতে পারে।"
@@ -735,6 +890,11 @@
       "page_number": 324,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97464,
+          "resource_id": 20,
+          "text": "And We made the sky a protected ceiling, but they, from its signs,<sup foot_note=196793>1</sup> are turning away."
+        },
         {
           "id": 1169111,
           "resource_id": 213,
@@ -757,6 +917,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97466,
+          "resource_id": 20,
+          "text": "And it is He who created the night and the day and the sun and the moon; all [heavenly bodies] in an orbit are swimming."
+        },
+        {
           "id": 1169112,
           "resource_id": 213,
           "text": "আর আল্লাহই সৃষ্টি করেছেন রাত ও দিন এবং সূর্য ও চাঁদ; প্রত্যেকেই নিজ নিজ কক্ষপথে [১] বিচরণ করে।"
@@ -777,6 +942,11 @@
       "page_number": 324,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97468,
+          "resource_id": 20,
+          "text": "And We did not grant to any man before you eternity [on earth]; so if you die - would they be eternal?"
+        },
         {
           "id": 1169113,
           "resource_id": 213,
@@ -799,6 +969,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97470,
+          "resource_id": 20,
+          "text": "Every soul will taste death. And We test you with evil and with good as trial; and to Us you will be returned."
+        },
+        {
           "id": 1169114,
           "resource_id": 213,
           "text": "জীবমাত্রই মৃত্যুর স্বাদ গ্রহণ করবে [১]; আমরা তোমাদেরকে মন্দ ও ভালো দ্বারা বিশেষভাবে পরীক্ষা করে থাকি [২] এবং আমাদেরই কাছে তোমরা প্রত্যাবর্তিত হবে।"
@@ -819,6 +994,11 @@
       "page_number": 325,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97472,
+          "resource_id": 20,
+          "text": "And when those who disbelieve see you, [O Muḥammad], they take you not except in ridicule, [saying], \"Is this the one who mentions [i.e., insults] your gods?\" And they are, at the mention of the Most Merciful, disbelievers."
+        },
         {
           "id": 1169115,
           "resource_id": 213,
@@ -841,6 +1021,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97474,
+          "resource_id": 20,
+          "text": "Man was created of haste [i.e., impatience]. I will show you My signs [i.e., vengeance], so do not impatiently urge Me."
+        },
+        {
           "id": 1169116,
           "resource_id": 213,
           "text": "মানুষ সৃষ্টিগতভাবে ত্বরাপ্রবন [১] শীঘ্রই আমি তোমাদেরকে আমার নিদর্শনাবলী দেখাব; কাজেই তোমরা তাড়াহুড়া কামনা করো না।"
@@ -861,6 +1046,11 @@
       "page_number": 325,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97476,
+          "resource_id": 20,
+          "text": "And they say, \"When is this promise, if you should be truthful?\""
+        },
         {
           "id": 1169117,
           "resource_id": 213,
@@ -883,6 +1073,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97478,
+          "resource_id": 20,
+          "text": "If those who disbelieved but knew the time when they will not avert the Fire from their faces or from their backs and they will not be aided...<sup foot_note=196794>1</sup>"
+        },
+        {
           "id": 1169118,
           "resource_id": 213,
           "text": "যদি কাফেররা সে সময়ের কথা জানত, যখন তারা তাদের চেহারা ও পিঠ থেকে আগুন প্রতিরোধ করতে পারবে না এবং তাদেরকে সাহায্য করাও হবে না (তাহলে তারা সে শাস্তিকে তাড়াতাড়ি চাইত না)।"
@@ -903,6 +1098,11 @@
       "page_number": 325,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97482,
+          "resource_id": 20,
+          "text": "Rather, it will come to them unexpectedly and bewilder them, and they will not be able to repel it, nor will they be reprieved."
+        },
         {
           "id": 1169119,
           "resource_id": 213,
@@ -925,6 +1125,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97484,
+          "resource_id": 20,
+          "text": "And already were messengers ridiculed before you, but those who mocked them were enveloped by what they used to ridicule."
+        },
+        {
           "id": 1169120,
           "resource_id": 213,
           "text": "আর আপনার আগেও অনেক রাসুলের সাথেই ঠাট্টা-বিদ্রূপ করা হয়েছিল; পরিণামে তারা যা নিয়ে ঠাট্টা-বিদ্রূপ করত তা বিদ্রূপকারীদেরকে পরিবেষ্টন করেছিল।"
@@ -945,6 +1150,11 @@
       "page_number": 325,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97486,
+          "resource_id": 20,
+          "text": "Say, \"Who can protect you at night or by day from the Most Merciful?\" But they are, from the remembrance of their Lord, turning away."
+        },
         {
           "id": 1169121,
           "resource_id": 213,
@@ -967,6 +1177,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97488,
+          "resource_id": 20,
+          "text": "Or do they have gods to defend them other than Us? They are unable [even] to help themselves, nor can they be protected from Us."
+        },
+        {
           "id": 1169122,
           "resource_id": 213,
           "text": "তবে কি তাদের এমন কতেক ইলাহও আছে যারা আমাদের থেকে তাদেরকে রক্ষা করতে পারে? এরা তো নিজেদেরকেই সাহায্য করতে পারে না এবং আমাদের থেকে তাদের আশ্রয়দানকারীও হবে না।"
@@ -987,6 +1202,11 @@
       "page_number": 325,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97490,
+          "resource_id": 20,
+          "text": "But, [on the contrary], We have provided good things for these [disbelievers] and their fathers until life was prolonged for them. Then do they not see that We set upon the land, reducing it from its borders?<sup foot_note=196795>1</sup> Is it they who will overcome?"
+        },
         {
           "id": 1169123,
           "resource_id": 213,
@@ -1009,6 +1229,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97492,
+          "resource_id": 20,
+          "text": "Say, \"I only warn you by revelation.\" But the deaf do not hear the call when they are warned."
+        },
+        {
           "id": 1169124,
           "resource_id": 213,
           "text": "বলুন, আমি তো শুধু ওহী দ্বারাই তোমাদেরকে সতর্ক করি, কিন্তু যারা বধির তাদেরকে যখন সতর্ক করা হয় তখন তারা সে আহবান শুনে না।"
@@ -1029,6 +1254,11 @@
       "page_number": 326,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97495,
+          "resource_id": 20,
+          "text": "And if [as much as] a whiff of the punishment of your Lord should touch them, they would surely say, \"O woe to us! Indeed, we have been wrongdoers.\""
+        },
         {
           "id": 1169125,
           "resource_id": 213,
@@ -1051,6 +1281,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97497,
+          "resource_id": 20,
+          "text": "And We place the scales of justice for the Day of Resurrection, so no soul will be treated unjustly at all. And if there is [even] the weight of a mustard seed,<sup foot_note=196796>1</sup> We will bring it forth. And sufficient are We as accountant."
+        },
+        {
           "id": 1169126,
           "resource_id": 213,
           "text": "আর কিয়ামতের দিনে আমরা ন্যায়বিচারের পাল্লাসমূহ স্থাপন করব [১], সুতরাং কারো প্রতি কোনো যুলুম করা হবে না এবং কাজ যদি শস্য দানা পরিমাণ ওজনেরও হয় তবুও তা আমরা উপস্থিত করব; আর হিসেব গ্রহণকারীরূপে আমরাই যথেষ্ট।"
@@ -1071,6 +1306,11 @@
       "page_number": 326,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97499,
+          "resource_id": 20,
+          "text": "And We had already given Moses and Aaron the criterion and a light and a reminder<sup foot_note=196797>1</sup> for the righteous"
+        },
         {
           "id": 1169127,
           "resource_id": 213,
@@ -1093,6 +1333,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97501,
+          "resource_id": 20,
+          "text": "Who fear their Lord unseen,<sup foot_note=196798>1</sup> while they are of the Hour apprehensive."
+        },
+        {
           "id": 1169128,
           "resource_id": 213,
           "text": "যারা না দেখেও তাদের রবকে ভয় করে এবং তারা কেয়ামত সম্পর্কে ভীত-সন্ত্রস্ত।"
@@ -1113,6 +1358,11 @@
       "page_number": 326,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97505,
+          "resource_id": 20,
+          "text": "And this [Qur’ān] is a blessed message which We have sent down. Then are you with it unacquainted?<sup foot_note=196799>1</sup>"
+        },
         {
           "id": 1169129,
           "resource_id": 213,
@@ -1135,6 +1385,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97507,
+          "resource_id": 20,
+          "text": "And We had certainly given Abraham his sound judgement before,<sup foot_note=196800>1</sup> and We were of him well-Knowing"
+        },
+        {
           "id": 1169130,
           "resource_id": 213,
           "text": "আর আমরা তো এর আগে ইবরাহিমকে তার শুভবুদ্ধি ও সত্যজ্ঞান দিয়েছিলাম [১] এবং আমরা তার সম্বন্ধে ছিলাম সম্যক পরিজ্ঞাত।"
@@ -1155,6 +1410,11 @@
       "page_number": 326,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97509,
+          "resource_id": 20,
+          "text": "When he said to his father and his people, \"What are these statues to which you are devoted?\""
+        },
         {
           "id": 1169131,
           "resource_id": 213,
@@ -1177,6 +1437,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97511,
+          "resource_id": 20,
+          "text": "They said, \"We found our fathers worshippers of them.\""
+        },
+        {
           "id": 1169132,
           "resource_id": 213,
           "text": "তারা বলল, ‘আমরা আমাদের পিতৃ পুরুষদেরকে এদের ‘ইবাদত করতে দেখেছি।’"
@@ -1197,6 +1462,11 @@
       "page_number": 326,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97513,
+          "resource_id": 20,
+          "text": "He said, \"You were certainly, you and your fathers, in manifest error.\""
+        },
         {
           "id": 1169133,
           "resource_id": 213,
@@ -1219,6 +1489,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97515,
+          "resource_id": 20,
+          "text": "They said, \"Have you come to us with truth, or are you of those who jest?\""
+        },
+        {
           "id": 1169134,
           "resource_id": 213,
           "text": "তারা বলল, ‘তুমি কি আমাদের কাছে সত্য নিয়ে এসেছ, না তুমি খেলা করছ [১]?’"
@@ -1239,6 +1514,11 @@
       "page_number": 326,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97517,
+          "resource_id": 20,
+          "text": "He said, \"[No], rather, your Lord is the Lord of the heavens and the earth who created them, and I, to that, am of those who testify."
+        },
         {
           "id": 1169135,
           "resource_id": 213,
@@ -1261,6 +1541,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97519,
+          "resource_id": 20,
+          "text": "And [I swear] by Allāh, I will surely plan against your idols after you have turned and gone away.\""
+        },
+        {
           "id": 1169136,
           "resource_id": 213,
           "text": "আর আল্লাহর শপথ, তোমরা পিছনে ফিরে চলে গেলে আমি তোমাদের মূর্তিগুলো সম্বন্ধে অবশ্যই কৌশল অবলম্বন করব [১]।’"
@@ -1281,6 +1566,11 @@
       "page_number": 327,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97521,
+          "resource_id": 20,
+          "text": "So he made them into fragments, except a large one among them, that they might return to it [and question]."
+        },
         {
           "id": 1169137,
           "resource_id": 213,
@@ -1303,6 +1593,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97523,
+          "resource_id": 20,
+          "text": "They said, \"Who has done this to our gods? Indeed, he is of the wrongdoers.\""
+        },
+        {
           "id": 1169138,
           "resource_id": 213,
           "text": "তারা বলল, ‘আমাদের মাবুদগুলোর প্রতি এরূপ করল কে? সে নিশ্চয়ই অন্যতম যালেম।’"
@@ -1323,6 +1618,11 @@
       "page_number": 327,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97527,
+          "resource_id": 20,
+          "text": "They said, \"We heard a young man mention them who is called Abraham.\""
+        },
         {
           "id": 1169139,
           "resource_id": 213,
@@ -1345,6 +1645,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97529,
+          "resource_id": 20,
+          "text": "They said, \"Then bring him before the eyes of the people that they may testify.\"<sup foot_note=196801>1</sup>"
+        },
+        {
           "id": 1169140,
           "resource_id": 213,
           "text": "তারা বলল, ‘তাহলে তাকে জনসমক্ষে উপস্থিত কর, যাতে তারা সাক্ষ্য হয় [১]।’"
@@ -1365,6 +1670,11 @@
       "page_number": 327,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97531,
+          "resource_id": 20,
+          "text": "They said, \"Have you done this to our gods, O Abraham?\""
+        },
         {
           "id": 1169141,
           "resource_id": 213,
@@ -1387,6 +1697,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97533,
+          "resource_id": 20,
+          "text": "He said, \"Rather, this - the largest of them - did it, so ask them, if they should [be able to] speak.\""
+        },
+        {
           "id": 1169142,
           "resource_id": 213,
           "text": "তিনি বললেন, ‘বরং এদের এ প্রধান-ই তো এটা করেছে [১], সুতরাং এদেরকে জিজ্ঞেস কর যদি এরা কথা বলতে পারে।’"
@@ -1407,6 +1722,11 @@
       "page_number": 327,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97535,
+          "resource_id": 20,
+          "text": "So they returned to [blaming] themselves and said [to each other], \"Indeed, you are the wrongdoers.\""
+        },
         {
           "id": 1169143,
           "resource_id": 213,
@@ -1429,6 +1749,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97537,
+          "resource_id": 20,
+          "text": "Then they reversed themselves,<sup foot_note=196802>1</sup> [saying], \"You have already known that these do not speak!\""
+        },
+        {
           "id": 1169144,
           "resource_id": 213,
           "text": "তারপর তাদের মাথা নত হয়ে গেল এবং তার বলল, ‘তুমি তো জানই যে, এরা কথা বলে না।’"
@@ -1449,6 +1774,11 @@
       "page_number": 327,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97540,
+          "resource_id": 20,
+          "text": "He said, \"Then do you worship instead of Allāh that which does not benefit you at all or harm you?"
+        },
         {
           "id": 1169145,
           "resource_id": 213,
@@ -1471,6 +1801,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97542,
+          "resource_id": 20,
+          "text": "Uff<sup foot_note=196803>1</sup> to you and to what you worship instead of Allāh. Then will you not use reason?\""
+        },
+        {
           "id": 1169146,
           "resource_id": 213,
           "text": "‘ধিক তোমাদের জন্য এবং আল্লাহর পরিবর্তে তোমরা যাদের ‘ইবাদাত কর তাদের জন্য! তবুও কি তোমরা অনুধাবন করবে না?’"
@@ -1491,6 +1826,11 @@
       "page_number": 327,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97544,
+          "resource_id": 20,
+          "text": "They said, \"Burn him and support your gods - if you are to act.\""
+        },
         {
           "id": 1169147,
           "resource_id": 213,
@@ -1513,6 +1853,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97546,
+          "resource_id": 20,
+          "text": "We [i.e., Allāh] said, \"O fire, be coolness and safety upon Abraham.\""
+        },
+        {
           "id": 1169148,
           "resource_id": 213,
           "text": "আমরা বললাম, ‘হে আগুন! তুমি ইবরাহীমের জন্য শীতল ও নিরাপদ হয়ে যাও।’"
@@ -1533,6 +1878,11 @@
       "page_number": 327,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97550,
+          "resource_id": 20,
+          "text": "And they intended for him a plan [i.e., harm], but We made them the greatest losers."
+        },
         {
           "id": 1169149,
           "resource_id": 213,
@@ -1555,6 +1905,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97552,
+          "resource_id": 20,
+          "text": "And We delivered him and Lot to the land which We had blessed for the worlds [i.e., peoples]."
+        },
+        {
           "id": 1169150,
           "resource_id": 213,
           "text": "এবং আমরা তাকে ও লূতকে উদ্ধার করে নিয়ে গেলাম সে দেশে, যেখানে আমরা কল্যাণ রেখেছি সৃষ্টিজগতের জন্য [১]।"
@@ -1575,6 +1930,11 @@
       "page_number": 327,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97554,
+          "resource_id": 20,
+          "text": "And We gave him Isaac and Jacob in addition, and all [of them] We made righteous."
+        },
         {
           "id": 1169151,
           "resource_id": 213,
@@ -1597,6 +1957,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97556,
+          "resource_id": 20,
+          "text": "And We made them leaders guiding by Our command. And We inspired to them the doing of good deeds, establishment of prayer, and giving of zakāh; and they were worshippers of Us."
+        },
+        {
           "id": 1169152,
           "resource_id": 213,
           "text": "আর আমরা তাদেরকে করেছিলাম নেতা; তারা আমাদের নির্দেশ অনুসারে মানুষকে সঠিক পথ দেখাতে; আর আমরা তাদেরকে সৎকাজ করতে ও সালাত কায়েম করতে এবং যাকাত প্রদান করতে ওহী পাঠিয়েছিলাম ; এবং তারা আমাদেরই ইবাদাতকারী ছিল।"
@@ -1617,6 +1982,11 @@
       "page_number": 328,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97558,
+          "resource_id": 20,
+          "text": "And to Lot We gave judgement and knowledge, and We saved him from the city that was committing wicked deeds. Indeed, they were a people of evil, defiantly disobedient."
+        },
         {
           "id": 1169153,
           "resource_id": 213,
@@ -1639,6 +2009,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97560,
+          "resource_id": 20,
+          "text": "And We admitted him into Our mercy. Indeed, he was of the righteous."
+        },
+        {
           "id": 1169154,
           "resource_id": 213,
           "text": "এবং তাকে আমরা আমাদের অনুগ্রহের অন্তর্ভুক্ত করেছিলাম; তিনি ছিলেন সৎকর্মপরায়ণদের অন্যতম।"
@@ -1659,6 +2034,11 @@
       "page_number": 328,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97562,
+          "resource_id": 20,
+          "text": "And [mention] Noah, when he called [to Allāh]<sup foot_note=196804>1</sup> before [that time], so We responded to him and saved him and his family from the great affliction [i.e., the flood]."
+        },
         {
           "id": 1169155,
           "resource_id": 213,
@@ -1681,6 +2061,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97564,
+          "resource_id": 20,
+          "text": "And We aided [i.e., saved] him from the people who denied Our signs. Indeed, they were a people of evil, so We drowned them, all together."
+        },
+        {
           "id": 1169156,
           "resource_id": 213,
           "text": "এবং আমরা তাকে সাহায্য করেছিলাম সে সম্প্রদায়ের বিরুদ্ধে যারা আমার নিদর্শনাবলীতে মিথ্যারোপ করেছিল। নিশ্চয় তারা ছিল এক মন্দ সম্প্রদায়। এজন্য আমরা তাদের সবাইকেই নিমজ্জিত করেছিলাম।"
@@ -1701,6 +2086,11 @@
       "page_number": 328,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97566,
+          "resource_id": 20,
+          "text": "And [mention] David and Solomon, when they judged concerning the field - when the sheep of a people overran it [at night],<sup foot_note=196805>1</sup> and We were witness to their judgement."
+        },
         {
           "id": 1169157,
           "resource_id": 213,
@@ -1723,6 +2113,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97568,
+          "resource_id": 20,
+          "text": "And We gave understanding of it [i.e., the case] to Solomon, and to each [of them] We gave judgement and knowledge. And We subjected the mountains to exalt [Us], along with David and [also] the birds. And We were doing [that].<sup foot_note=196806>1</sup>"
+        },
+        {
           "id": 1169158,
           "resource_id": 213,
           "text": "অতঃপর আমরা সুলায়মানকে এ বিষয়ের মীমাংসা বুঝিয়ে দিয়েছিলাম এবং তাদের প্রত্যেককে আমরা দিয়েছিলাম প্রজ্ঞা ও জ্ঞান [১]। আর আমরা পর্বত ও পাখিদেরকে দাউদের অনুগত করে দিয়েছিলাম, তারা তার সাথে পবিত্রতা ও মহিমা ঘোষণা করত [২], আর আমরাই ছিলাম এ সবের কর্তা।"
@@ -1743,6 +2138,11 @@
       "page_number": 328,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97572,
+          "resource_id": 20,
+          "text": "And We taught him the fashioning of coats of armor to protect you from your [enemy in] battle. So will you then be grateful?"
+        },
         {
           "id": 1169159,
           "resource_id": 213,
@@ -1765,6 +2165,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97574,
+          "resource_id": 20,
+          "text": "And to Solomon [We subjected] the wind, blowing forcefully, proceeding by his command toward the land which We had blessed. And We are ever, of all things, Knowing."
+        },
+        {
           "id": 1169160,
           "resource_id": 213,
           "text": "আর সুলাইমানের বশীভূত করে দিয়েছিলাম প্রবল বায়ূকে; সেটা তার আদেশে সে দেশের দিকে প্রবাহিত হত [১] যেখানে আমরা প্রভূত কল্যাণ রেখেছি [২]; আর প্রত্যেক বিষয় সম্পর্কে আমরাই জ্ঞানী।"
@@ -1785,6 +2190,11 @@
       "page_number": 329,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97576,
+          "resource_id": 20,
+          "text": "And of the devils [i.e., jinn] were those who dived for him and did work other than that. And We were of them a guardian.<sup foot_note=196807>1</sup>"
+        },
         {
           "id": 1169161,
           "resource_id": 213,
@@ -1807,6 +2217,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97579,
+          "resource_id": 20,
+          "text": "And [mention] Job, when he called to his Lord, \"Indeed, adversity has touched me, and You are the most merciful of the merciful.\""
+        },
+        {
           "id": 1169162,
           "resource_id": 213,
           "text": "আর স্মরণ করুন আইয়ূবকে [১], যখন তিনি তার রবকে ডেকে বলেছিলেন আমি তো দুক্ষি-কষ্টে পড়েছি, আর আপনি তো সর্বশ্রেষ্ঠ দয়ালু [২]!’"
@@ -1827,6 +2242,11 @@
       "page_number": 329,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97581,
+          "resource_id": 20,
+          "text": "So We responded to him and removed what afflicted him of adversity. And We gave him [back] his family and the like thereof with them as mercy from Us and a reminder for the worshippers [of Allāh]."
+        },
         {
           "id": 1169163,
           "resource_id": 213,
@@ -1849,6 +2269,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97583,
+          "resource_id": 20,
+          "text": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient."
+        },
+        {
           "id": 1169164,
           "resource_id": 213,
           "text": "এবং স্মরণ করুন ইসমাঈল, ইদরীস ও যুলকিফলকে, তাদের প্রত্যেকেই ছিলেন ধৈর্যশীল [১];"
@@ -1869,6 +2294,11 @@
       "page_number": 329,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97585,
+          "resource_id": 20,
+          "text": "And We admitted them into Our mercy. Indeed, they were of the righteous."
+        },
         {
           "id": 1169165,
           "resource_id": 213,
@@ -1891,6 +2321,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97587,
+          "resource_id": 20,
+          "text": "And [mention] the man of the fish [i.e., Jonah], when he went off in anger<sup foot_note=196810>1</sup> and thought that We would not decree [anything] upon him.<sup foot_note=196809>2</sup> And he called out within the darknesses,<sup foot_note=196808>3</sup> \"There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.\""
+        },
+        {
           "id": 1169166,
           "resource_id": 213,
           "text": "আর স্মরণ করুন, যুন-নূনকে [১], যখন তিনি ক্রোধ ভরে [২] চলে গিয়েছিলেন এবং মনে করেছিলেন যে, আমরা তাকে পাকড়াও করব না [৩]। তারপর তিনি অন্ধকারে [৪] এ আহবান করেছিলেন যে, ‘আপনি ব্যতীত কোনো সত্য ইলাহ নেই; আপনি কতইনা পবিত্র ও মহান, নিশ্চয়ই আমি যালেমদের অন্তর্ভুক্ত হয়ে গেছি’ [৫]।"
@@ -1911,6 +2346,11 @@
       "page_number": 329,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97589,
+          "resource_id": 20,
+          "text": "So We responded to him and saved him from the distress. And thus do We save the believers."
+        },
         {
           "id": 1169167,
           "resource_id": 213,
@@ -1933,6 +2373,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97591,
+          "resource_id": 20,
+          "text": "And [mention] Zechariah, when he called to his Lord, \"My Lord, do not leave me alone [with no heir], while You are the best of inheritors.\""
+        },
+        {
           "id": 1169168,
           "resource_id": 213,
           "text": "আর স্মরণ করুন যাকারিয়্যাকে, যখন তিনি তার রবকে ডেকে বলেছিলেন, ‘হে আমার রব! আমাকে একা (নিঃসন্তান) রেখে দিবেন না, আপনি তো শ্রেষ্ঠ ওয়ারিশ [১]।’"
@@ -1953,6 +2398,11 @@
       "page_number": 329,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97595,
+          "resource_id": 20,
+          "text": "So We responded to him, and We gave to him John, and amended for him his wife. Indeed, they used to hasten to good deeds and supplicate<sup foot_note=196811>1</sup> Us in hope and fear, and they were to Us humbly submissive."
+        },
         {
           "id": 1169169,
           "resource_id": 213,
@@ -1975,6 +2425,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97597,
+          "resource_id": 20,
+          "text": "And [mention] the one who guarded her chastity [i.e., Mary], so We blew into her [garment] through Our angel [i.e., Gabriel], and We made her and her son a sign for the worlds."
+        },
+        {
           "id": 1169170,
           "resource_id": 213,
           "text": "এবং স্মরণ করুন সে নারীকে [১], যে নিজ লজ্জাস্থানের হেফাজত করেছিল, অতঃপর তার মধ্যে আমরা আমাদের রূহ [২] ফুঁকে দিলাম এবং তাকে ও তার পুত্রকে করেছিলাম সৃষ্টিজগতের জন্য এক নিদর্শন।"
@@ -1995,6 +2450,11 @@
       "page_number": 330,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97599,
+          "resource_id": 20,
+          "text": "Indeed this, your religion, is one religion,<sup foot_note=196812>1</sup> and I am your Lord, so worship Me."
+        },
         {
           "id": 1169171,
           "resource_id": 213,
@@ -2017,6 +2477,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97601,
+          "resource_id": 20,
+          "text": "And [yet] they divided their affair [i.e., that of their religion] among themselves,<sup foot_note=196813>1</sup> [but] all to Us will return."
+        },
+        {
           "id": 1169172,
           "resource_id": 213,
           "text": "কিন্তু তারা নিজেদের কার্যকলাপে পরস্পরের মধ্যে বিভেদ সৃষ্টি করেছে। প্রত্যেকেই আমাদের কাছে প্রত্যাবর্তনকারী।"
@@ -2037,6 +2502,11 @@
       "page_number": 330,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97603,
+          "resource_id": 20,
+          "text": "So whoever does righteous deeds while he is a believer - no denial will there be for his effort,<sup foot_note=196814>1</sup> and indeed We [i.e., Our angels], of it, are recorders."
+        },
         {
           "id": 1169173,
           "resource_id": 213,
@@ -2059,6 +2529,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97605,
+          "resource_id": 20,
+          "text": "And it is prohibited to [the people of] a city which We have destroyed that they will [ever] return<sup foot_note=196815>1</sup>"
+        },
+        {
           "id": 1169174,
           "resource_id": 213,
           "text": "আর যে জনপদকে আমরা ধ্বংস করেছি তার সম্পর্কে নিষিদ্ধ করা হয়েছে যে, তার অধিবাসীরা ফিরে আসবে না [১],"
@@ -2079,6 +2554,11 @@
       "page_number": 330,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97607,
+          "resource_id": 20,
+          "text": "Until when [the dam of] Gog and Magog has been opened and they, from every elevation, descend"
+        },
         {
           "id": 1169175,
           "resource_id": 213,
@@ -2101,6 +2581,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97609,
+          "resource_id": 20,
+          "text": "And [when] the true promise [i.e., the resurrection] has approached; then suddenly the eyes of those who disbelieved will be staring [in horror, while they say], \"O woe to us; we had been unmindful of this; rather, we were wrongdoers.\""
+        },
+        {
           "id": 1169176,
           "resource_id": 213,
           "text": "আর অমোঘ প্রতিশ্রুত সময় নিকটবর্তী হবে, আকস্মাৎ কাফেরদের চক্ষু স্থির হয়ে যাবে, তারা বলবে, ‘হায়, দুর্ভোগ আমাদের! আমরা তো ছিলাম এ বিষয়ে উদাসীন; বরং আমরা তো ছিলাম যালেম [১]।"
@@ -2121,6 +2606,11 @@
       "page_number": 330,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97611,
+          "resource_id": 20,
+          "text": "Indeed, you [disbelievers] and what you worship other than Allāh are the firewood of Hell. You will be coming to [enter] it."
+        },
         {
           "id": 1169177,
           "resource_id": 213,
@@ -2143,6 +2633,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97613,
+          "resource_id": 20,
+          "text": "Had these [false deities] been [actual] gods, they would not have come to it, but all are eternal therein."
+        },
+        {
           "id": 1169178,
           "resource_id": 213,
           "text": "যদি তারা ইলাহ হত তবে তারা জাহান্নামে প্রবেশ করত না; আর তাদের সবাই তাতে স্থায়ী হবে,"
@@ -2163,6 +2658,11 @@
       "page_number": 330,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97403,
+          "resource_id": 20,
+          "text": "For them therein is heavy sighing, and they therein will not hear."
+        },
         {
           "id": 1169179,
           "resource_id": 213,
@@ -2185,6 +2685,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97404,
+          "resource_id": 20,
+          "text": "Indeed, those for whom the best [reward] has preceded from Us - they are from it far removed."
+        },
+        {
           "id": 1169180,
           "resource_id": 213,
           "text": "নিশ্চয় যাদের জন্য আমাদের কাছ থেকে পূর্ব থেকেই কল্যাণ নির্ধারিত রয়েছে তাদেরকে তা থেকে দূরে রাখা হবে [১]।"
@@ -2205,6 +2710,11 @@
       "page_number": 331,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97405,
+          "resource_id": 20,
+          "text": "They will not hear its sound, while they are, in that which their souls desire, abiding eternally."
+        },
         {
           "id": 1169181,
           "resource_id": 213,
@@ -2227,6 +2737,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97406,
+          "resource_id": 20,
+          "text": "They will not be grieved by the greatest terror,<sup foot_note=196816>1</sup> and the angels will meet them, [saying], \"This is your Day which you have been promised\" -"
+        },
+        {
           "id": 1169182,
           "resource_id": 213,
           "text": "মহাভীতি [১] তাদেরকে চিন্তান্বিত করবে না এবং ফিরিশতাগণ তাদেরকে অভ্যর্থনা করবে এ বলে, ‘এ তোমাদের সে দিন যার প্রতিশ্রুতি তোমাদেরকে দেয়া হয়েছিল।"
@@ -2247,6 +2762,11 @@
       "page_number": 331,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97407,
+          "resource_id": 20,
+          "text": "The Day when We will fold the heaven like the folding of a [written] sheet for the records. As We began the first creation, We will repeat it. [That is] a promise binding upon Us. Indeed, We will do it.<sup foot_note=196817>1</sup>"
+        },
         {
           "id": 1169183,
           "resource_id": 213,
@@ -2269,6 +2789,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97408,
+          "resource_id": 20,
+          "text": "And We have already written in the book [of Psalms]<sup foot_note=196819>1</sup> after the [previous] mention<sup foot_note=196818>2</sup> that the land [of Paradise] is inherited by My righteous servants."
+        },
+        {
           "id": 1169184,
           "resource_id": 213,
           "text": "আর অবশ্যই আমরা ‘যিকর’ এর পর যাবূরে [১] লিখে দিয়েছি যে, যমীনের [২] অধিকারী হবে আমার যোগ্য বান্দাগণই।"
@@ -2289,6 +2814,11 @@
       "page_number": 331,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97409,
+          "resource_id": 20,
+          "text": "Indeed, in this [Qur’ān] is notification for a worshipping people."
+        },
         {
           "id": 1169185,
           "resource_id": 213,
@@ -2311,6 +2841,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97410,
+          "resource_id": 20,
+          "text": "And We have not sent you, [O Muḥammad], except as a mercy to the worlds."
+        },
+        {
           "id": 1169186,
           "resource_id": 213,
           "text": "আর আমরা তো আপনাকে সৃষ্টিকুলের জন্য শুধু রহমতরূপেই পাঠিয়েছি [১]"
@@ -2331,6 +2866,11 @@
       "page_number": 331,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97411,
+          "resource_id": 20,
+          "text": "Say, \"It is only revealed to me that your god is but one God; so will you be Muslims [in submission to Him]?\""
+        },
         {
           "id": 1169187,
           "resource_id": 213,
@@ -2353,6 +2893,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97412,
+          "resource_id": 20,
+          "text": "But if they turn away, then say, \"I have announced to [all of] you equally.<sup foot_note=196820>1</sup> And I know not whether near or far is that which you are promised."
+        },
+        {
           "id": 1169188,
           "resource_id": 213,
           "text": "অতঃপর তারা মুখ ফিরিয়ে নিলে আপনি বলবেন, ‘আমি তোমাদেরকে যথাযথভাবে জানিয়ে দিয়েছি এবং তোমাদেরকে যে বিষয়ের প্রতিশ্রুতি দেয়া হয়েছে [১], আমি জানি না, তা কি খুব কাছে, নাকি তা দূরে।"
@@ -2373,6 +2918,11 @@
       "page_number": 331,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97415,
+          "resource_id": 20,
+          "text": "Indeed, He knows what is declared of speech, and He knows what you conceal."
+        },
         {
           "id": 1169189,
           "resource_id": 213,
@@ -2395,6 +2945,11 @@
       "juz_number": 17,
       "translations": [
         {
+          "id": 97416,
+          "resource_id": 20,
+          "text": "And I know not; perhaps it<sup foot_note=196821>1</sup> is a trial for you and enjoyment for a time.\""
+        },
+        {
           "id": 1169190,
           "resource_id": 213,
           "text": "‘আর আমি জানি না হয়ত এটা তোমাদের জন্য এক পরীক্ষা এবং জীবনোপভোগ কিছু কালের জন্য [১]"
@@ -2415,6 +2970,11 @@
       "page_number": 331,
       "juz_number": 17,
       "translations": [
+        {
+          "id": 97417,
+          "resource_id": 20,
+          "text": "[The Prophet (ﷺ)] has said, \"My Lord, judge [between us] in truth. And our Lord is the Most Merciful, the one whose help is sought against that which you describe.\"<sup foot_note=196822>1</sup>"
+        },
         {
           "id": 1169191,
           "resource_id": 213,

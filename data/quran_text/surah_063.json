@@ -1,0 +1,369 @@
+{
+  "metadata": {
+    "surah_number": 63,
+    "scraped_at": "2025-10-30T05:14:37.710009",
+    "source": "api.quran.com",
+    "version": "1.0",
+    "translation_ids": [
+      213,
+      20
+    ]
+  },
+  "license": {
+    "text": {
+      "source": "api.quran.com",
+      "license": "Public Domain",
+      "attribution": "The Quran text is in the public domain",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:14:37.710009"
+    },
+    "translations": {
+      "source": "api.quran.com",
+      "license": "Various - See individual translation licenses",
+      "attribution": "Translation copyrights belong to respective translators",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:14:37.710009"
+    },
+    "audio": {
+      "source": "everyayah.com via api.quran.com",
+      "license": "Free for non-commercial use",
+      "attribution": "Audio recitations courtesy of everyayah.com",
+      "terms_url": "https://everyayah.com/",
+      "note": "Audio URLs provided - not downloaded locally due to size",
+      "fetched_at": "2025-10-30T05:14:37.710009"
+    }
+  },
+  "translation_metadata": {
+    "213": {
+      "name": "Abdul Hafeez & Mohammed Abdul Haq",
+      "author": "Abdul Hafeez, Mohammed Abdul Haq",
+      "language": "te",
+      "language_name": "Telugu",
+      "license": "Various",
+      "source": "api.quran.com"
+    },
+    "20": {
+      "name": "Saheeh International",
+      "author": "Saheeh International",
+      "language": "en",
+      "language_name": "English",
+      "license": "Public Domain",
+      "source": "api.quran.com"
+    }
+  },
+  "surah_info": {
+    "id": 63,
+    "revelation_place": "madinah",
+    "revelation_order": 104,
+    "bismillah_pre": true,
+    "name_simple": "Al-Munafiqun",
+    "name_complex": "Al-Munāfiqūn",
+    "name_arabic": "المنافقون",
+    "verses_count": 11,
+    "pages": [
+      554,
+      555
+    ],
+    "translated_name": {
+      "language_name": "english",
+      "name": "The Hypocrites"
+    }
+  },
+  "verses": [
+    {
+      "id": 5189,
+      "verse_number": 1,
+      "verse_key": "63:1",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 221,
+      "ruku_number": 490,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " إِذَا جَآءَكَ ٱلْمُنَـٰفِقُونَ قَالُوا۟ نَشْهَدُ إِنَّكَ لَرَسُولُ ٱللَّهِ ۗ وَٱللَّهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُۥ وَٱللَّهُ يَشْهَدُ إِنَّ ٱلْمُنَـٰفِقِينَ لَكَـٰذِبُونَ",
+      "text_imlaei": "إِذَا جَاءَكَ الْمُنَافِقُونَ قَالُوا نَشْهَدُ إِنَّكَ لَرَسُولُ اللَّهِ ۗ وَاللَّهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُ وَاللَّهُ يَشْهَدُ إِنَّ الْمُنَافِقِينَ لَكَاذِبُونَ",
+      "page_number": 554,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 100962,
+          "resource_id": 20,
+          "text": "When the hypocrites come to you, [O Muḥammad], they say, \"We testify that you are the Messenger of Allāh.\" And Allāh knows that you are His Messenger, and Allāh testifies that the hypocrites are liars."
+        },
+        {
+          "id": 1171785,
+          "resource_id": 213,
+          "text": "যখন মুনাফিকরা আপনার কাছে আসে তখন তারা বলে, ‘আমরা সাক্ষ্য দিচ্ছি যে, আপনি নিশ্চয় আল্লাহর রাসূল।’ আর আল্লাহ জানেন যে, আপনি নিশ্চয় তাঁর রাসূল এবং আল্লাহ সাক্ষ্য দিচ্ছেন যে, মুনাফিকরা অবশ্যই মিথ্যাবাদী [১]।"
+        }
+      ]
+    },
+    {
+      "id": 5190,
+      "verse_number": 2,
+      "verse_key": "63:2",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 221,
+      "ruku_number": 490,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱتَّخَذُوٓا۟ أَيْمَـٰنَهُمْ جُنَّةً فَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ ۚ إِنَّهُمْ سَآءَ مَا كَانُوا۟ يَعْمَلُونَ",
+      "text_imlaei": "اتَّخَذُوا أَيْمَانَهُمْ جُنَّةً فَصَدُّوا عَن سَبِيلِ اللَّهِ ۚ إِنَّهُمْ سَاءَ مَا كَانُوا يَعْمَلُونَ",
+      "page_number": 554,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 100834,
+          "resource_id": 20,
+          "text": "They have taken their oaths as a cover, so they averted [people] from the way of Allāh. Indeed, it was evil that they were doing."
+        },
+        {
+          "id": 1171786,
+          "resource_id": 213,
+          "text": "আর তাদের শপথগুলোকে ঢালরূপে ব্যবহার করে, ফলে তারা আল্লাহর পথ থেকে মানুষকে নিবৃত্ত  করে। তারা যা করে, নিশ্চয় তা কতই না মন্দ!"
+        }
+      ]
+    },
+    {
+      "id": 5191,
+      "verse_number": 3,
+      "verse_key": "63:3",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 221,
+      "ruku_number": 490,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ذَٰلِكَ بِأَنَّهُمْ ءَامَنُوا۟ ثُمَّ كَفَرُوا۟ فَطُبِعَ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَفْقَهُونَ",
+      "text_imlaei": "ذَٰلِكَ بِأَنَّهُمْ آمَنُوا ثُمَّ كَفَرُوا فَطُبِعَ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَفْقَهُونَ",
+      "page_number": 554,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 100807,
+          "resource_id": 20,
+          "text": "That is because they believed, and then they disbelieved; so their hearts were sealed over, and they do not understand."
+        },
+        {
+          "id": 1171787,
+          "resource_id": 213,
+          "text": "এটা এজন্য যে, তারা ঈমান আনার পর কুফরী করেছে। ফলে তাদের হৃদয় মোহর করে দেয়া হয়েছে; তাই তারা বুঝতে পারছে না।"
+        }
+      ]
+    },
+    {
+      "id": 5192,
+      "verse_number": 4,
+      "verse_key": "63:4",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 222,
+      "ruku_number": 490,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "۞ وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ ۖ وَإِن يَقُولُوا۟ تَسْمَعْ لِقَوْلِهِمْ ۖ كَأَنَّهُمْ خُشُبٌ مُّسَنَّدَةٌ ۖ يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْ ۚ هُمُ ٱلْعَدُوُّ فَٱحْذَرْهُمْ ۚ قَـٰتَلَهُمُ ٱللَّهُ ۖ أَنَّىٰ يُؤْفَكُونَ",
+      "text_imlaei": "وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ ۖ وَإِن يَقُولُوا تَسْمَعْ لِقَوْلِهِمْ ۖ كَأَنَّهُمْ خُشُبٌ مُّسَنَّدَةٌ ۖ يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْ ۚ هُمُ الْعَدُوُّ فَاحْذَرْهُمْ ۚ قَاتَلَهُمُ اللَّهُ ۖ أَنَّىٰ يُؤْفَكُونَ",
+      "page_number": 554,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 100968,
+          "resource_id": 20,
+          "text": "And when you see them, their forms please you, and if they speak, you listen to their speech. [They are] as if they were pieces of wood propped up<sup foot_note=197557>1</sup> - they think that every shout is against them. They are the enemy, so beware of them. May Allāh destroy them; how are they deluded?"
+        },
+        {
+          "id": 1171788,
+          "resource_id": 213,
+          "text": "আর আপনি যখন তাদের দিকে তাকান তাদের দেহের আকৃতি আপনার কাছে প্ৰীতিকর মনে হবে এবং তারা যখন কথা বলে, আপনি আগ্রহের সাথে তাদের কথা শুনে থাকেন। তারা দেয়ালে ঠেকান কাঠের খুঁটির মতই; তারা যে কোনো আওয়াজকেই তাদের বিরুদ্ধে মনে করে। তারাই শত্ৰু, অতএব তাদের সম্পর্কে সতর্ক হোন; আল্লাহ তাদেরকে ধবংস করুন! তাদেরকে কোথায় ফিরানো হচ্ছে!"
+        }
+      ]
+    },
+    {
+      "id": 5193,
+      "verse_number": 5,
+      "verse_key": "63:5",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 222,
+      "ruku_number": 490,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ يَسْتَغْفِرْ لَكُمْ رَسُولُ ٱللَّهِ لَوَّوْا۟ رُءُوسَهُمْ وَرَأَيْتَهُمْ يَصُدُّونَ وَهُم مُّسْتَكْبِرُونَ",
+      "text_imlaei": "وَإِذَا قِيلَ لَهُمْ تَعَالَوْا يَسْتَغْفِرْ لَكُمْ رَسُولُ اللَّهِ لَوَّوْا رُءُوسَهُمْ وَرَأَيْتَهُمْ يَصُدُّونَ وَهُم مُّسْتَكْبِرُونَ",
+      "page_number": 555,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 100970,
+          "resource_id": 20,
+          "text": "And when it is said to them, \"Come, the Messenger of Allāh will ask forgiveness for you,\" they turn their heads aside and you see them evading while they are arrogant."
+        },
+        {
+          "id": 1171789,
+          "resource_id": 213,
+          "text": "আর যখন তাদেরকে বলা হয়, ‘তোমরা আস, আল্লাহর রাসূল তোমাদের জন্য  ক্ষমা প্রার্থনা করবেন’ তখন তারা মাথা নেড়ে অস্বীকৃতি জানায়, আর আপনি তাদেরকে দেখতে পাবেন, অহংকারবশত ফিরে যেতে।"
+        }
+      ]
+    },
+    {
+      "id": 5194,
+      "verse_number": 6,
+      "verse_key": "63:6",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 222,
+      "ruku_number": 490,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "سَوَآءٌ عَلَيْهِمْ أَسْتَغْفَرْتَ لَهُمْ أَمْ لَمْ تَسْتَغْفِرْ لَهُمْ لَن يَغْفِرَ ٱللَّهُ لَهُمْ ۚ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَـٰسِقِينَ",
+      "text_imlaei": "سَوَاءٌ عَلَيْهِمْ أَسْتَغْفَرْتَ لَهُمْ أَمْ لَمْ تَسْتَغْفِرْ لَهُمْ لَن يَغْفِرَ اللَّهُ لَهُمْ ۚ إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ الْفَاسِقِينَ",
+      "page_number": 555,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 100972,
+          "resource_id": 20,
+          "text": "It is all the same for them whether you ask forgiveness for them or do not ask forgiveness for them; never will Allāh forgive them. Indeed, Allāh does not guide the defiantly disobedient people."
+        },
+        {
+          "id": 1171790,
+          "resource_id": 213,
+          "text": "আপনি তাদের জন্য ক্ষমা প্রার্থনা করুন বা না করুন, উভয়ই তাদের জন্য সমান। আল্লাহ তাদেরকে কখনো ক্ষমা করবেন না। নিশ্চয় আল্লাহ ফাসিক সম্প্রদায়কে হেদায়াত দেন না।"
+        }
+      ]
+    },
+    {
+      "id": 5195,
+      "verse_number": 7,
+      "verse_key": "63:7",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 222,
+      "ruku_number": 490,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "هُمُ ٱلَّذِينَ يَقُولُونَ لَا تُنفِقُوا۟ عَلَىٰ مَنْ عِندَ رَسُولِ ٱللَّهِ حَتَّىٰ يَنفَضُّوا۟ ۗ وَلِلَّهِ خَزَآئِنُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلَـٰكِنَّ ٱلْمُنَـٰفِقِينَ لَا يَفْقَهُونَ",
+      "text_imlaei": "هُمُ الَّذِينَ يَقُولُونَ لَا تُنفِقُوا عَلَىٰ مَنْ عِندَ رَسُولِ اللَّهِ حَتَّىٰ يَنفَضُّوا ۗ وَلِلَّهِ خَزَائِنُ السَّمَاوَاتِ وَالْأَرْضِ وَلَٰكِنَّ الْمُنَافِقِينَ لَا يَفْقَهُونَ",
+      "page_number": 555,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 100974,
+          "resource_id": 20,
+          "text": "They are the ones who say, \"Do not spend on those who are with the Messenger of Allāh until they disband.\" And to Allāh belong the depositories of the heavens and the earth, but the hypocrites do not understand."
+        },
+        {
+          "id": 1171791,
+          "resource_id": 213,
+          "text": "তারাই বলে, ‘তোমরা আল্লাহর রাসূলের সহচরদের জন্য ব্যয় করো না, যাতে তারা সরে পড়ে।’ অথচ আসমানসমূহ ও যমীনের ধন-ভাণ্ডার তো আল্লাহরই; কিন্তু মুনাফিকরা তা বুঝে না [১]।"
+        }
+      ]
+    },
+    {
+      "id": 5196,
+      "verse_number": 8,
+      "verse_key": "63:8",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 222,
+      "ruku_number": 490,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَقُولُونَ لَئِن رَّجَعْنَآ إِلَى ٱلْمَدِينَةِ لَيُخْرِجَنَّ ٱلْأَعَزُّ مِنْهَا ٱلْأَذَلَّ ۚ وَلِلَّهِ ٱلْعِزَّةُ وَلِرَسُولِهِۦ وَلِلْمُؤْمِنِينَ وَلَـٰكِنَّ ٱلْمُنَـٰفِقِينَ لَا يَعْلَمُونَ",
+      "text_imlaei": "يَقُولُونَ لَئِن رَّجَعْنَا إِلَى الْمَدِينَةِ لَيُخْرِجَنَّ الْأَعَزُّ مِنْهَا الْأَذَلَّ ۚ وَلِلَّهِ الْعِزَّةُ وَلِرَسُولِهِ وَلِلْمُؤْمِنِينَ وَلَٰكِنَّ الْمُنَافِقِينَ لَا يَعْلَمُونَ",
+      "page_number": 555,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 100976,
+          "resource_id": 20,
+          "text": "They say, \"If we return to al-Madīnah, the more honored [for power] will surely expel therefrom the more humble.\" And to Allāh belongs [all] honor, and to His Messenger, and to the believers, but the hypocrites do not know."
+        },
+        {
+          "id": 1171792,
+          "resource_id": 213,
+          "text": "তারা বলে, ‘আমরা মদীনায় ফিরে আসলে সেখান থেকে শক্তিশালীরা অবশ্যই দুর্বলদেরকে বের করে দেবে [১]।’ অথচ শক্তি-সম্মান তো  আল্লাহরই, আর তাঁর রাসূল ও মুমিনদের। কিন্তু মুনাফিকরা এটা জানে না।"
+        }
+      ]
+    },
+    {
+      "id": 5197,
+      "verse_number": 9,
+      "verse_key": "63:9",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 222,
+      "ruku_number": 491,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُلْهِكُمْ أَمْوَٰلُكُمْ وَلَآ أَوْلَـٰدُكُمْ عَن ذِكْرِ ٱللَّهِ ۚ وَمَن يَفْعَلْ ذَٰلِكَ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْخَـٰسِرُونَ",
+      "text_imlaei": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُلْهِكُمْ أَمْوَالُكُمْ وَلَا أَوْلَادُكُمْ عَن ذِكْرِ اللَّهِ ۚ وَمَن يَفْعَلْ ذَٰلِكَ فَأُولَٰئِكَ هُمُ الْخَاسِرُونَ",
+      "page_number": 555,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 100978,
+          "resource_id": 20,
+          "text": "O you who have believed, let not your wealth and your children divert you from the remembrance of Allāh. And whoever does that - then those are the losers."
+        },
+        {
+          "id": 1171793,
+          "resource_id": 213,
+          "text": "‘হে মুমিনগণ! তোমাদের ধন-সম্পদ ও সন্তান–সন্ততি যেন তোমাদেরকে আল্লাহর স্মরণে উদাসীন না করে। আর যারা এরূপ উদাসীন হবে তারাই তো ক্ষতিগ্রস্ত [১]।"
+        }
+      ]
+    },
+    {
+      "id": 5198,
+      "verse_number": 10,
+      "verse_key": "63:10",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 222,
+      "ruku_number": 491,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَنفِقُوا۟ مِن مَّا رَزَقْنَـٰكُم مِّن قَبْلِ أَن يَأْتِىَ أَحَدَكُمُ ٱلْمَوْتُ فَيَقُولَ رَبِّ لَوْلَآ أَخَّرْتَنِىٓ إِلَىٰٓ أَجَلٍ قَرِيبٍ فَأَصَّدَّقَ وَأَكُن مِّنَ ٱلصَّـٰلِحِينَ",
+      "text_imlaei": "وَأَنفِقُوا مِن مَّا رَزَقْنَاكُم مِّن قَبْلِ أَن يَأْتِيَ أَحَدَكُمُ الْمَوْتُ فَيَقُولَ رَبِّ لَوْلَا أَخَّرْتَنِي إِلَىٰ أَجَلٍ قَرِيبٍ فَأَصَّدَّقَ وَأَكُن مِّنَ الصَّالِحِينَ",
+      "page_number": 555,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 100963,
+          "resource_id": 20,
+          "text": "And spend [in the way of Allāh] from what We have provided you before death approaches one of you and he says, \"My Lord, if only You would delay me for a brief term so I would give charity and be of the righteous.\""
+        },
+        {
+          "id": 1171794,
+          "resource_id": 213,
+          "text": "আর আমরা তোমাদেরকে যে রিফিক দিয়েছি তোমরা তা থেকে ব্যয় করবে। তোমাদের কারও মৃত্যু আসার আগে। (অন্যথায় মৃত্যু আসলে সে বলবে) 'হে আমার রব! আমাকে আরো কিছু কালের জন্য অবকাশ দিলে আমি সাদাকাহ দিতাম ও সৎকর্মপরায়ণদের অন্তর্ভুক্ত হতাম [১]!’"
+        }
+      ]
+    },
+    {
+      "id": 5199,
+      "verse_number": 11,
+      "verse_key": "63:11",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 222,
+      "ruku_number": 491,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَن يُؤَخِّرَ ٱللَّهُ نَفْسًا إِذَا جَآءَ أَجَلُهَا ۚ وَٱللَّهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
+      "text_imlaei": "وَلَن يُؤَخِّرَ اللَّهُ نَفْسًا إِذَا جَاءَ أَجَلُهَا ۚ وَاللَّهُ خَبِيرٌ بِمَا تَعْمَلُونَ",
+      "page_number": 555,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 100964,
+          "resource_id": 20,
+          "text": "But never will Allāh delay a soul when its time has come. And Allāh is Aware of what you do."
+        },
+        {
+          "id": 1171795,
+          "resource_id": 213,
+          "text": "আর যখন কারো নির্ধারিত কাল উপস্থিত হবে, তখন আল্লাহ তাকে কিছুতেই অবকাশ দেবেন না। তোমরা যা আমল কর আল্লাহ্‌ সে সম্বন্ধে সবিশেষ অবহিত।"
+        }
+      ]
+    }
+  ],
+  "audio_metadata": {
+    "audio_file": {
+      "id": 1035,
+      "chapter_id": 63,
+      "file_size": 4141184.0,
+      "format": "mp3",
+      "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/63.mp3"
+    }
+  }
+}

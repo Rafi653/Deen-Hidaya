@@ -1,0 +1,239 @@
+{
+  "metadata": {
+    "surah_number": 114,
+    "scraped_at": "2025-10-30T05:16:16.066749",
+    "source": "api.quran.com",
+    "version": "1.0",
+    "translation_ids": [
+      213,
+      20
+    ]
+  },
+  "license": {
+    "text": {
+      "source": "api.quran.com",
+      "license": "Public Domain",
+      "attribution": "The Quran text is in the public domain",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:16:16.066749"
+    },
+    "translations": {
+      "source": "api.quran.com",
+      "license": "Various - See individual translation licenses",
+      "attribution": "Translation copyrights belong to respective translators",
+      "terms_url": "https://quran.com/terms",
+      "fetched_at": "2025-10-30T05:16:16.066749"
+    },
+    "audio": {
+      "source": "everyayah.com via api.quran.com",
+      "license": "Free for non-commercial use",
+      "attribution": "Audio recitations courtesy of everyayah.com",
+      "terms_url": "https://everyayah.com/",
+      "note": "Audio URLs provided - not downloaded locally due to size",
+      "fetched_at": "2025-10-30T05:16:16.066749"
+    }
+  },
+  "translation_metadata": {
+    "213": {
+      "name": "Abdul Hafeez & Mohammed Abdul Haq",
+      "author": "Abdul Hafeez, Mohammed Abdul Haq",
+      "language": "te",
+      "language_name": "Telugu",
+      "license": "Various",
+      "source": "api.quran.com"
+    },
+    "20": {
+      "name": "Saheeh International",
+      "author": "Saheeh International",
+      "language": "en",
+      "language_name": "English",
+      "license": "Public Domain",
+      "source": "api.quran.com"
+    }
+  },
+  "surah_info": {
+    "id": 114,
+    "revelation_place": "makkah",
+    "revelation_order": 21,
+    "bismillah_pre": true,
+    "name_simple": "An-Nas",
+    "name_complex": "An-Nās",
+    "name_arabic": "الناس",
+    "verses_count": 6,
+    "pages": [
+      604,
+      604
+    ],
+    "translated_name": {
+      "language_name": "english",
+      "name": "Mankind"
+    }
+  },
+  "verses": [
+    {
+      "id": 6231,
+      "verse_number": 1,
+      "verse_key": "114:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 558,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+      "text_imlaei": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+      "page_number": 604,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96330,
+          "resource_id": 20,
+          "text": "Say, \"I seek refuge in the Lord of mankind,"
+        },
+        {
+          "id": 1172827,
+          "resource_id": 213,
+          "text": "বলুন, ‘আমি আশ্ৰয় প্রার্থনা করছি মানুষের রবের,"
+        }
+      ]
+    },
+    {
+      "id": 6232,
+      "verse_number": 2,
+      "verse_key": "114:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 558,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "مَلِكِ ٱلنَّاسِ",
+      "text_imlaei": "مَلِكِ النَّاسِ",
+      "page_number": 604,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96423,
+          "resource_id": 20,
+          "text": "The Sovereign of mankind,"
+        },
+        {
+          "id": 1172828,
+          "resource_id": 213,
+          "text": "মানুষের অধিপতির,"
+        }
+      ]
+    },
+    {
+      "id": 6233,
+      "verse_number": 3,
+      "verse_key": "114:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 558,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِلَـٰهِ ٱلنَّاسِ",
+      "text_imlaei": "إِلَٰهِ النَّاسِ",
+      "page_number": 604,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96426,
+          "resource_id": 20,
+          "text": "The God of mankind,"
+        },
+        {
+          "id": 1172829,
+          "resource_id": 213,
+          "text": "মানুষের ইলাহের কাছে [১]"
+        }
+      ]
+    },
+    {
+      "id": 6234,
+      "verse_number": 4,
+      "verse_key": "114:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 558,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ",
+      "text_imlaei": "مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
+      "page_number": 604,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96428,
+          "resource_id": 20,
+          "text": "From the evil of the retreating whisperer<sup foot_note=197832>1</sup> -"
+        },
+        {
+          "id": 1172830,
+          "resource_id": 213,
+          "text": "আত্মগোপনকারী কুমন্ত্রণাদাতার [১] অনিষ্ট হতে,"
+        }
+      ]
+    },
+    {
+      "id": 6235,
+      "verse_number": 5,
+      "verse_key": "114:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 558,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ",
+      "text_imlaei": "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ",
+      "page_number": 604,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96430,
+          "resource_id": 20,
+          "text": "Who whispers [evil] into the breasts of mankind -"
+        },
+        {
+          "id": 1172831,
+          "resource_id": 213,
+          "text": "যে কুমন্ত্রণা দেয় মানুষের অন্তরে,"
+        }
+      ]
+    },
+    {
+      "id": 6236,
+      "verse_number": 6,
+      "verse_key": "114:6",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 558,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
+      "text_imlaei": "مِنَ الْجِنَّةِ وَالنَّاسِ",
+      "page_number": 604,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 96432,
+          "resource_id": 20,
+          "text": "From among the jinn and mankind\".<sup foot_note=197833>1</sup>"
+        },
+        {
+          "id": 1172832,
+          "resource_id": 213,
+          "text": "জিনের মধ্য থেকে এবং মানুষের মধ্য থেকে [১]।’"
+        }
+      ]
+    }
+  ],
+  "audio_metadata": {
+    "audio_file": {
+      "id": 1137,
+      "chapter_id": 114,
+      "file_size": 811136.0,
+      "format": "mp3",
+      "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/114.mp3"
+    }
+  }
+}
