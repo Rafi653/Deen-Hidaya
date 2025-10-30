@@ -7,7 +7,7 @@ from sqlalchemy.orm import Session, joinedload
 from sqlalchemy import or_, func
 from models import Verse, Surah, Translation, Embedding
 from schemas import SearchResult, TranslationResponse
-from embedding_service import EmbeddingService
+from embeddings.unified_service import UnifiedEmbeddingService
 import os
 import logging
 
@@ -23,11 +23,11 @@ SEMANTIC_MATCH_WEIGHT = 0.7
 _embedding_service = None
 
 
-def get_embedding_service() -> Optional[EmbeddingService]:
+def get_embedding_service() -> Optional[UnifiedEmbeddingService]:
     """Get or create embedding service instance"""
     global _embedding_service
     if _embedding_service is None:
-        _embedding_service = EmbeddingService()
+        _embedding_service = UnifiedEmbeddingService(backend="auto")
     return _embedding_service
 
 

@@ -1,12 +1,12 @@
 {
   "metadata": {
     "surah_number": 13,
-    "scraped_at": "2025-10-29T20:56:04.165679",
+    "scraped_at": "2025-10-30T04:11:04.594026",
     "source": "api.quran.com",
     "version": "1.0",
     "translation_ids": [
       131,
-      140
+      213
     ]
   },
   "license": {
@@ -15,14 +15,14 @@
       "license": "Public Domain",
       "attribution": "The Quran text is in the public domain",
       "terms_url": "https://quran.com/terms",
-      "fetched_at": "2025-10-29T20:56:04.165679"
+      "fetched_at": "2025-10-30T04:11:04.594026"
     },
     "translations": {
       "source": "api.quran.com",
       "license": "Various - See individual translation licenses",
       "attribution": "Translation copyrights belong to respective translators",
       "terms_url": "https://quran.com/terms",
-      "fetched_at": "2025-10-29T20:56:04.165679"
+      "fetched_at": "2025-10-30T04:11:04.594026"
     },
     "audio": {
       "source": "everyayah.com via api.quran.com",
@@ -30,7 +30,7 @@
       "attribution": "Audio recitations courtesy of everyayah.com",
       "terms_url": "https://everyayah.com/",
       "note": "Audio URLs provided - not downloaded locally due to size",
-      "fetched_at": "2025-10-29T20:56:04.165679"
+      "fetched_at": "2025-10-30T04:11:04.594026"
     }
   },
   "translation_metadata": {
@@ -42,9 +42,9 @@
       "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0",
       "source": "api.quran.com"
     },
-    "140": {
-      "name": "Telugu Translation",
-      "author": "Unknown",
+    "213": {
+      "name": "Abdul Hafeez & Mohammed Abdul Haq",
+      "author": "Abdul Hafeez, Mohammed Abdul Haq",
       "language": "te",
       "language_name": "Telugu",
       "license": "Various",
@@ -85,9 +85,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955557,
-          "resource_id": 140,
-          "text": "Alif. Lam. Mim. Ra<sup foot_note=149443>1</sup>. Estas son las aleyas del Libro (el Corán), y lo que tu Señor te ha revelado (¡oh, Muhammad!) es la verdad, aunque la mayoría de la gente no (lo) cree."
+          "id": 1168304,
+          "resource_id": 213,
+          "text": "আলিফ-লাম-মীম-রা, এগুলো কিতাবের আয়াত, আর যা আপনার রব হতে আপনার প্রতি নাযিল করা হয়েছে তা সত্য [১]; কিন্তু বেশীর ভাগ মানুষই ঈমান আনে না [২]।"
         }
       ]
     },
@@ -106,9 +106,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955558,
-          "resource_id": 140,
-          "text": "Al-lah es Quien elevó los cielos sin columnas, como veis, y luego se asentó sobre el Trono. Ha sometido el sol y la luna (a Su voluntad), y cada uno recorre su curso hasta un tiempo fijado (el Día de la Resurrección).Él controla todos los asuntos (de Sus criaturas) y explica con detalle las pruebas (de Su poder) para que (reflexionéis sobre ellas y) tengáis certeza del encuentro con vuestro Señor (para ser juzgados)."
+          "id": 1168305,
+          "resource_id": 213,
+          "text": "আল্লাহ্, যিনি আসমানসমূহ উপরে স্থাপন করেছেন খুঁটি ছাড়া [১], তোমরা তা দেখছ [২]। তারপর তিনি ‘আরশের উপর উঠেছেন [৩] এবং সূর্য ও চাঁদকে নিয়মাধীন করেছেন [৪]; প্রত্যেকটি নির্দিষ্ট সময় পর্যন্ত চলবে [৫]। তিনি সব বিষয় পরিচালনা করেন, আয়াতসমূহ বিশদভাবে বর্ণনা করেন [৬], যাতে তোমরা তোমাদের রবের সঙ্গে সাক্ষাত সম্পর্কে নিশ্চিত বিশ্বাস করতে পার [৭]।"
         }
       ]
     },
@@ -127,9 +127,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955559,
-          "resource_id": 140,
-          "text": "Él es Quien ha expandido<sup foot_note=149444>1</sup> la tierra (haciéndola vasta) y ha creado en ella firmes montañas y ríos, y de todos los frutos ha creado dos tipos. Hace que la (oscuridad de la) noche cubra (la luz) del día. En verdad, en ello hay pruebas claras (del poder de Al-lah) para gentes que reflexionan."
+          "id": 1168306,
+          "resource_id": 213,
+          "text": "আর তিনিই যমীনকে বিস্তৃত করেছেন [১] এবং তাতে সুদৃঢ়পর্বত ও নদী সৃষ্টি করেছেন এবং সব রকমের ফল সৃষ্টি করেছেন জোড়ায় জোড়ায় [২]। তিনি দিনকে রাত দ্বারা আচ্ছাদিত করেন [৩]। নিশ্চয় এতে নিদর্শন রয়েছে চিন্তাশীল সম্প্রদায়ের জন্য [৪]।"
         }
       ]
     },
@@ -148,9 +148,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955560,
-          "resource_id": 140,
-          "text": "Y en la tierra hay terrenos distintos que son colindantes y hay viñedos, cultivos y palmeras, algunas de las cuales parten de un mismo tronco y otras, no; y todo es irrigado por una misma agua (a pesar de sus diferencias). Y preferimos unos frutos a otros. Ciertamente, en todo ello hay pruebas (del poder de Al-lah) para gentes que razonan."
+          "id": 1168307,
+          "resource_id": 213,
+          "text": "আর যমীনে রয়েছে পরস্পর সংলগ্ন ভূখন্ড [১], আঙ্গুর বাগান, শস্যক্ষেত্র, একই মূল থেকে উদগত বা ভিন্ন ভিন্ন মূল থেকে উদগত খেজুর গাছ [২] যেগুলো একই পানি দ্বারা সেচ করা হয়, আর স্বাদ-রূপের ক্ষেত্রে সেগুলোর কিছু সংখ্যককে আমরা কিছু সংখ্যকের উপর শ্রেষ্ঠত্ব দিয়ে থাকি [৩]। নিশ্চয় বোধশক্তি সম্পন্ন সম্প্রদায়ের জন্য এতে রয়েছে নিদর্শন [৪]।"
         }
       ]
     },
@@ -169,9 +169,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955561,
-          "resource_id": 140,
-          "text": "Y si te sorprende (¡oh, Muhammad!) que te desmientan, más sorprendente es que digan (negando la resurrección): «¿Cuando seamos polvo, volveremos a la vida?». Esos son quienes no creen en su Señor. (El Día de la Resurrección) llevarán cadenas en el cuello (por las que serán arrastrados hacia su destino). Esos serán los habitantes del fuego y allí permanecerán eternamente."
+          "id": 1168308,
+          "resource_id": 213,
+          "text": "আর যদি আপনি বিস্মিত হন, তবে বিস্ময়ের বিষয় তাদের কথা [১]: ‘মাটিতে পরিণত হওয়ার পরও কি আমরা নূতন জীবন লাভ করব [২]?’ এরাই তারা, যারা তাদের রবের সাথে কুফরী করেছে [৩] আর এরাই তারা, যাদের গলায় থাকবে শিকল [৪]। আর তারাই আগুনের অধিবাসী, সেখানে তারা স্থায়ী হবে।"
         }
       ]
     },
@@ -190,9 +190,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955562,
-          "resource_id": 140,
-          "text": "(Quienes rechazan la verdad) te piden (a modo de desafío) que les envíes sin demora el castigo (sobre el cual los adviertes) en vez de (pedirte) un bien, a sabiendas de que pueblos anteriores a ellos recibieron un castigo ejemplar (por su incredulidad). En verdad, tu Señor perdona a los hombres a pesar de sus malas acciones (si estos se arrepienten), pero también es severo en el castigo (con quienes continúan desobedeciéndolo y negando la verdad)."
+          "id": 1168309,
+          "resource_id": 213,
+          "text": "আর তারা ভালোর পূর্বেই মন্দের জন্য তাড়াহুড়ো করছে। অথচ তাদের আগে শাস্তির অনুরূপ বহু (শিক্ষণীয়) দৃষ্টান্ত গত হয়েছে [১]। আর নিশ্চয় আপনার রব মানুষের প্রতি ক্ষমাশীল তাদের  যুলুম সত্ত্বেও এবং নিশ্চয় আপনার রব শাস্তি দানে কঠোর [২]।"
         }
       ]
     },
@@ -211,9 +211,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955563,
-          "resource_id": 140,
-          "text": "Y quienes rechazan la verdad dicen: «¿Por qué no ha sido enviado con (Muhammad) un milagro de su Señor?». Mas tú eres solamente un amonestador, y todos los pueblos han recibido un profeta como guía."
+          "id": 1168310,
+          "resource_id": 213,
+          "text": "আর যারা কুফরী করেছে তারা বলে, ‘তার রবের কাছ থেকে তার উপর কোনো নিদর্শন নাযিল হয় না কেন [১]?’ আপনি তো শুধু সতর্ককারী, আর প্রত্যেক সম্প্রদায়ের জন্য আছে পথ প্রদর্শক [২]।"
         }
       ]
     },
@@ -232,9 +232,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955564,
-          "resource_id": 140,
-          "text": "Al-lah conoce lo que cada hembra lleva en su vientre, lo que no llega a completarse en el útero y las gestaciones que superan la media<sup foot_note=149445>1</sup>. Todojunto a Él tiene su determinada medida."
+          "id": 1168311,
+          "resource_id": 213,
+          "text": "প্রত্যেক নারী যা গর্ভে ধারণ করে এবং গর্ভাশয়ে যা কিছু কমে ও বাড়ে আল্লাহ্ তা জানেন [১] এবং তাঁর নিকট প্রত্যেক বস্তুরই এক নির্দিষ্ট পরিমাণ আছে।"
         }
       ]
     },
@@ -253,9 +253,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955565,
-          "resource_id": 140,
-          "text": "Él es el Conocedor del gaib<sup foot_note=149446>1</sup> y de lo manifiesto, y es el más Grande y el más Sublime."
+          "id": 1168312,
+          "resource_id": 213,
+          "text": "তিনি গায়েব ও প্রকাশ্যের জ্ঞানী, মহান, সর্বোচ্চ [১]।"
         }
       ]
     },
@@ -274,9 +274,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955566,
-          "resource_id": 140,
-          "text": "Da lo mismo si alguno de vosotros dice algo en secreto o en público, si se esconde en (la oscuridad de) la noche o se muestra durante el día (pues el conocimiento de Al-lah lo abarca todo)."
+          "id": 1168313,
+          "resource_id": 213,
+          "text": "তোমাদের মধ্যে যে কথা গোপন রাখে বা যে তা প্রকাশ করে, রাতে যে আত্মগোপন করে এবং দিনে যে প্রকাশ্যে বিচরণ করে, তারা সবাই আল্লাহ্‌র নিকট সমান [১]।"
         }
       ]
     },
@@ -295,9 +295,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955567,
-          "resource_id": 140,
-          "text": "(Todo hombre) tiene unos ángeles guardianes que se suceden para protegerlo, por delante y por detrás, por orden de Al-lah. En verdad, Al-lah no cambia la buena situación de la que disfruta un pueblo a menos queélmismo cambie(abandonando la obediencia a su Señor)<sup foot_note=149447>1</sup>. Y si Al-lah quiere castigar a un pueblo, nada puede impedírselo, y este no tendrá fuera de Al-lah quién lo proteja."
+          "id": 1168314,
+          "resource_id": 213,
+          "text": "মানুষের জন্য রয়েছে তার সামনে ও পিছনে একের পর এক আগমনকারী প্রহরী; তারা আল্লাহ্‌র আদেশে তার রক্ষণাবেক্ষণ করে [১]। নিশ্চয় আল্লাহ্ কোনো সম্প্রদায়ের অবস্থা পরিবর্তন করেন না যতক্ষণ না তারা নিজেদের অবস্থা নিজেরা পরিবর্তন করে [২]। আর কোনো সম্প্রদায়ের জন্য যদি আল্লাহ্ অশুভ কিছু ইচ্ছে করেন তবে তা রদ হওয়ার নয় [৩] এবং তিনি ছাড়া তাদের কোনো অভিভাবক নেই।"
         }
       ]
     },
@@ -316,9 +316,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955568,
-          "resource_id": 140,
-          "text": "Él es Quien os hace ver el relámpago, el cual os hace temer (la tormenta) y anhelar (la lluvia), y es Quien forma las pesadas nubes<sup foot_note=149448>1</sup>."
+          "id": 1168315,
+          "resource_id": 213,
+          "text": "তিনিই তোমাদেরকে দেখান বিজলী, ভয় ও আশা-আকাংখারূপে এবং তিনিই সৃষ্টি করেন ভারী মেঘ [১];"
         }
       ]
     },
@@ -337,9 +337,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955569,
-          "resource_id": 140,
-          "text": "Y el trueno Lo glorifica con alabanzas<sup foot_note=149449>1</sup>, así como los ángeles, por temor a Él. Y Él es Quien envía los rayos y alcanza con ellos a quien quiere. No obstante, quienes rechazan la verdad discuten sobre Al-lah; y Él es severo en el castigo."
+          "id": 1168316,
+          "resource_id": 213,
+          "text": "আর রা’দ তাঁর সপ্রশংস মহিমা ও পবিত্রতা ঘোষণা করে [১] এবং ফেরেশতাগণও তা-ই করে তাঁর ভয়ে। আর তিনি গর্জনকারী বজ্র পাঠান অতঃপর যাকে ইচ্ছে তা দ্বারা আঘাত করেন [২] এবং তারা আল্লাহ্ সম্বন্ধে বিতণ্ডা করে, আর তিনি শক্তিতে প্রবল শাস্তিতে কঠোর [৩]।"
         }
       ]
     },
@@ -358,9 +358,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955570,
-          "resource_id": 140,
-          "text": "Solo Él merece ser invocado y adorado.Y aquello que(los idólatras) invocan fuera de Él no puede responder en absoluto a sus súplicas, del mismo modo queel agua no acude a la llamada del (sediento) que extiende las manos hacia ella desde lejos para que esta llegue a su boca<sup foot_note=149450>1</sup>. Y la súplica de quienes rechazan la verdad no es de ninguna utilidad."
+          "id": 1168317,
+          "resource_id": 213,
+          "text": "সত্যের আহ্বান তাঁরই। যারা তাঁকে ছাড়া অন্যকে আহ্বান করে, তারা তাদেরকে কোনো কিছুতেই সাড়া দেয় না [১]; তাদের দৃষ্টান্ত সে ব্যক্তির মত, যে তার মুখে পানি পৌঁছবে এ আশায় তার দুহাত মেলে ধরে পানির দিকে, অথচ তা তার মুখে পৌঁছার নয়, আর কাফিরদের আহ্বান তো কেবল ভ্রষ্টতায় নিপতিত [২]।"
         }
       ]
     },
@@ -379,9 +379,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955571,
-          "resource_id": 140,
-          "text": "Y ante Al-lah se postra, por la mañana y al atardecer, cuanto existe en los cielos y en la tierra, voluntariamente o a la fuerza, así como sus sombras<sup foot_note=149451>1</sup>."
+          "id": 1168318,
+          "resource_id": 213,
+          "text": "আর আল্লাহ্‌র প্রতিই সিজদাবনত হয় আসমানসমূহ ও যমীনে যা কিছু আছে ইচ্ছায় ও অনিচ্ছায় [১] এবং তাদের ছায়াগুলোও সকাল ও সন্ধ্যায় [২]।"
         }
       ]
     },
@@ -400,9 +400,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955572,
-          "resource_id": 140,
-          "text": "Pregunta (a tu pueblo, ¡oh, Muhammad!): «¿Quién es el Señor de los cielos y de la tierra?». Responde: «Al-lah». Diles: «¿Tomáis, entonces, a otros protectores y aliados fuera de Él que no pueden ni beneficiarse ni perjudicarse a sí mismos?». Pregúntales: «¿Acaso puede compararse el ciego con el vidente o pueden compararse las tinieblas con la luz?». ¿O acaso aquellos a los que adoran además de a Élhan originado una creación parecida a la de Él, hasta el punto de creer que ambas creaciones son similares? Diles: «Al-lah es el Creador de todas las cosas, y Él es el Único<sup foot_note=149452>1</sup>, el Dominador Supremo»."
+          "id": 1168319,
+          "resource_id": 213,
+          "text": "বলুন, ‘কে আসমানসমূহ ও যমীনের রব?’ বলুন, ‘আল্লাহ্‌।’ [১] বলুন, ‘তবে কি তোমরা অভিভাবকরূপে গ্রহণ করেছ আল্লাহর পরিবর্তে অন্যকে যারা নিজেদের লাভ বা ক্ষতি সাধনে সক্ষম নয়?’ বলুন, ‘অন্ধ [২] ও চক্ষুষ্মান কি সমান হতে পারে? নাকি অন্ধকার ও আলো [৩] সমান হতে পারে?’ তবে কি তারা আল্লাহ্‌র এমন শরীক সৃষ্টি করেছে, যারা আল্লাহর সৃষ্টির মত সৃষ্টি করেছে, যে কারণে সৃষ্টি তাদের কাছে সদৃশ মনে হয়েছে [৪]? বলুন, ‘আল্লাহ্ সকল বস্তুর স্রষ্টা [৫]; আর তিনি এক, মহা প্রতাপশালী [৬]।’"
         }
       ]
     },
@@ -421,9 +421,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955573,
-          "resource_id": 140,
-          "text": "Él hace descender agua del cielo que corre entre los valles según la capacidad de estos, arrastrando espuma en su superficie<sup foot_note=149453>1</sup>. Y de los minerales que funden para fabricar adornos y utensilios sale una espuma parecida. Así es como Al-lah compara la verdad con la falsedad: la espuma, que de nada sirve, acaba desapareciendo; pero lo que beneficia a los hombres permanece en la tierra. Así es como Al-lah presenta los ejemplos."
+          "id": 1168320,
+          "resource_id": 213,
+          "text": "তিনি আকাশ হতে বৃষ্টিপাত করেন, ফলে উপত্যকাসমূহ তাদের পরিমাণ অনুযায়ী প্লাবিত হয় এবং প্লাবন তার উপরের আবর্জনা বহন করে। এরূপে আবর্জনা উপরিভাগে আসে যখন অলংকার বা তৈজসপত্র নির্মাণের উদ্দেশ্যে কিছু আগুনে উত্তপ্ত করা হয় [১]। এভাবে আল্লাহ্‌ সত্য ও অসত্যের দৃষ্টান্ত দিয়ে থাকেন। যা আবর্জনা তা ফেলে দেয়া হয় এবং যা মানুষের উপকারে আসে তা জমিতে থেকে যায়। এভাবে আল্লাহ্ উপমা দিয়ে থাকেন [২]।"
         }
       ]
     },
@@ -442,9 +442,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955574,
-          "resource_id": 140,
-          "text": "Quienes respondan a la llamada de su Señor (obedeciéndolo y siguiendo a Su Mensajero)obtendrán la mejor de las recompensas; y quienes no, aunque poseyeran todo cuanto hay en la tierra e incluso más, y lo ofrecieran para librarse del castigo, de nada les serviría. Cuando sean juzgados estarán en una mala situación (por sus malas acciones) y morarán en el infierno; ¡y qué pésima morada!"
+          "id": 1168321,
+          "resource_id": 213,
+          "text": "যারা তাদের রবের ডাকে সাড়া দেয়, তাদের জন্য রয়েছে শ্রেষ্ঠ প্রতিদান। আর যারা তাঁর ডাকে সাড়া দেয় না, যমীনে যা কিছু আছে তার সবটুকুই যদি তারা মালিক হতো এবং তার সাথে সমপরিমাণ আরো কিছুও হতো তাহলেও তারা মুক্তিপণস্বরূপ তা দিত [১]। তাদেরই হিসেব হবে কঠোর [২] এবং জাহান্নাম হবে তাদের আবাস, আর সেটা কত নিকৃষ্ট বিশ্রামস্থল!"
         }
       ]
     },
@@ -463,9 +463,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955575,
-          "resource_id": 140,
-          "text": "¿Acaso puede compararse quien sabe que lo que tu Señor te ha revelado es la verdad con quien no lo sabe (y no cree en ella)? Ciertamente, solo reflexionan los hombres de buen juicio;"
+          "id": 1168322,
+          "resource_id": 213,
+          "text": "আপনার রব হতে আপনার প্রতি যা নাযিল হয়েছে তা যে ব্যক্তি সত্য বলে জানে সে কি তার মত যে অন্ধ [১]? উপদেশ গ্রহণ করে শুধু বিবেকসম্পন্নগণই [২],"
         }
       ]
     },
@@ -484,9 +484,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955576,
-          "resource_id": 140,
-          "text": "esos que cumplen su compromiso con Al-lah y no quebrantan ningún tipo de pacto;"
+          "id": 1168323,
+          "resource_id": 213,
+          "text": "যারা [১] আল্লাহ্‌র সাথে কৃত অঙ্গীকার পূর্ণ করে এবং প্রতিজ্ঞা ভংগ করে না,"
         }
       ]
     },
@@ -505,9 +505,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955577,
-          "resource_id": 140,
-          "text": "esos que mantienen lo que Al-lah ha ordenado mantener (como los lazos familiares), tienen temor de Al-lah y temen el castigo de la otra vida;"
+          "id": 1168324,
+          "resource_id": 213,
+          "text": "আর আল্লাহ্ যে সম্পর্ক অক্ষুন্ন রাখতে আদেশ করেছেন যারা তা অক্ষুণ্ন রাখে, ভয় করে তাদের রবকে এবং ভয় করে হিসাবকে,"
         }
       ]
     },
@@ -526,9 +526,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955578,
-          "resource_id": 140,
-          "text": "y esos que son constantes y pacientes (en los actos de obediencia a su Señor y ante la adversidad) y anhelan Su complacencia, cumplen con el salat, dan en caridadparte de lo que les hemos concedido, tanto en secreto como públicamente, y responden al mal con el bien. Esos triunfarán en la otra vida."
+          "id": 1168325,
+          "resource_id": 213,
+          "text": "আর যারা তাদের রবের সস্তুষ্টি লাভের জন্য ধৈর্য্য ধারণ করে এবং সালাত কায়েম করে, আর আমরা তাদেরকে যে জীবনোপকরণ দিয়েছি তা থেকে গোপনে ও প্রকাশ্যে ব্যয় করে এবং ভাল কাজের দ্বারা মন্দ কাজকে প্রতিহত করে, তাদের জন্যই রয়েছে আখেরাতের শুভ পরিণাম।"
         }
       ]
     },
@@ -547,9 +547,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955579,
-          "resource_id": 140,
-          "text": "Entrarán en los Jardines de la Eternidad (situados en los niveles superiores del paraíso) en compañía de aquellos de entre sus padres, esposas y descendientes que hayan obrado con rectitud; y los ángeles entrarán por cualquier puerta para darles la bienvenida y congratularlos."
+          "id": 1168326,
+          "resource_id": 213,
+          "text": "স্থায়ী জান্নাত [১], তাতে তারা প্রবেশ করবে এবং তাদের পিতা-মাতা, পতি-পত্নী ও সন্তান-সন্ততিদের মধ্যে যারা সৎকাজ করেছে তারাও [২]। আর ফেরেশতাগণ তাদের কাছে উপস্থিত হবে প্রত্যেক দরজা দিয়ে,"
         }
       ]
     },
@@ -568,9 +568,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955580,
-          "resource_id": 140,
-          "text": "(Les dirán:)«La paz esté con vosotros por haber sido constantes y pacientes. ¡Qué excelente final el vuestro!»."
+          "id": 1168327,
+          "resource_id": 213,
+          "text": "এবং বলবে, ‘তোমরা ধৈর্য্য ধারণ করেছ বলে তোমাদের প্রতি শান্তি; আর আখেরাতের এ পরিণাম কতই না উত্তম [১]!’"
         }
       ]
     },
@@ -589,9 +589,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955581,
-          "resource_id": 140,
-          "text": "Y a quienes quebranten sus pactos con Al-lah después de haberlos acordado, rompan los (lazos) que Al-lah ha ordenado mantener y corrompan la tierra, a esos Al-lah los expulsará de Su misericordia y tendrán un pésimo final."
+          "id": 1168328,
+          "resource_id": 213,
+          "text": "পক্ষান্তরে যারা আল্লাহ্‌র সাথে দৃঢ় অঙ্গীকারে আবদ্ধ হওয়ার পর তা ভঙ্গ করে, যে সম্পর্ক অক্ষুণ্ন রাখতে আল্লাহ্ আদেশ করেছেন তা ছিন্ন করে এবং যমীনে অশান্তি সৃষ্টি করে বেড়ায়, তাদের জন্যই রয়েছে লা’নত এবং তাদের জন্য রয়েছে আখেরাতের মন্দ আবাস [১]।"
         }
       ]
     },
@@ -610,9 +610,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955582,
-          "resource_id": 140,
-          "text": "Ciertamente, Al-lah concede provisión abundante a quien quiere y se la restringe a quien quiere. Y (quienes rechazan la verdad) se complacen en la vida terrenal, a pesar de no ser esta más que un placer pasajero comparado con la otra que les espera."
+          "id": 1168329,
+          "resource_id": 213,
+          "text": "আল্লাহ্ যার জন্য ইচ্ছে তার জীবনোপকরণ বৃদ্ধি করেন এবং সংকুচিত করেন; কিন্তু এরা দুনিয়ার জীবন নিয়েই আনন্দিত, অথচ দুনিয়ার জীবন তো আখিরাতের তুলনায় ক্ষণস্থায়ী ভোগমাত্র [১]।"
         }
       ]
     },
@@ -631,9 +631,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955583,
-          "resource_id": 140,
-          "text": "Y quienes rechazan la verdad dicen: «¿Por qué no ha descendido con (Muhammad) un milagro de su Señor?». Diles: «Ciertamente, Al-lah extravía a quien quiere (por negar la verdad) y guía hacia Él a quienes Lo buscan arrepentidos,"
+          "id": 1168330,
+          "resource_id": 213,
+          "text": "আর যারা কুফরী করেছে তারা বলে, ‘তার রবের কাছ থেকে তার কাছে কোনো নিদর্শন নাযিল হয় না কেন?’ [১] বলুন, ‘আল্লাহ্ যাকে ইচ্ছে বিভ্রান্ত করেন এবং যারা তাঁর অভিমুখী তিনি তাদেরকে তাঁর পথ দেখান [২]।"
         }
       ]
     },
@@ -652,9 +652,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955584,
-          "resource_id": 140,
-          "text": "»esos que creen y cuyos corazones se tranquilizan con la mención de Al-lah». Ciertamente, los corazones encuentran sosiego al mencionar y glorificar a Al-lah (exaltando Su nombre)<sup foot_note=149454>1</sup>."
+          "id": 1168331,
+          "resource_id": 213,
+          "text": "‘যারা ঈমান আনে [১] এবং আল্লাহ্‌র স্মরণে যাদের মন প্রশান্ত হয়; জেনে রাখ, আল্লাহ্‌র স্মরণেই মন প্রশান্ত হয় [২];"
         }
       ]
     },
@@ -673,9 +673,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955585,
-          "resource_id": 140,
-          "text": "Quienes crean en Al-lah y en Su Mensajero y obren rectamente obtendrán felicidad<sup foot_note=149455>1</sup> y un hermoso destino (en el paraíso)."
+          "id": 1168332,
+          "resource_id": 213,
+          "text": "‘যারা ঈমান আনে ও সৎকাজ করে, তাদেরই জন্য রয়েছে পরম আনন্দ [১] এবং সুন্দর প্রত্যাবর্তনস্থল।’"
         }
       ]
     },
@@ -694,9 +694,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955586,
-          "resource_id": 140,
-          "text": "(Del mismo modo que enviamos mensajeros con anterioridad a ti, ¡oh, Muhammad!) te hemos enviado a una comunidad que vio pasar antes a otras comunidades, para que les recites lo que te ha sido revelado (el Corán). Pero, a pesar de ello, no creen en el Clemente. Diles: «Él es mi Señor, no existe nada ni nadie con derecho a ser adorado excepto Él. En Él deposito mi confianza y a Él será mi retorno»."
+          "id": 1168333,
+          "resource_id": 213,
+          "text": "এভাবে আমরা আপনাকে পাঠিয়েছি এমন এক জাতির প্রতি যাদের আগে বহু জাতি গত হয়েছে, যাতে আমরা আপনার প্রতি যা ওহী করেছি, তা তাদের কাছে তিলাওয়াত করেন। তথাপি তারা রহমানকে অস্বীকার করে [১]। বলুন, ‘তিনিই আমার রব; তিনি ছাড়া অন্য কোনো হক্ক ইলাহ নেই। তাঁরই উপর আমি নির্ভর করি এবং তাঁরই কাছে আমার ফিরে যাওয়া।’"
         }
       ]
     },
@@ -715,9 +715,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955587,
-          "resource_id": 140,
-          "text": "Y si hubiera un libro (revelado) capaz de hacer mover las montañas de lugar, abrir la tierra o hacer hablar a los muertos (este sería el Corán). Pero Al-lah es Quien tiene el poder de decisión sobre todas las cosas. ¿Acaso quienes creen no saben aún que si Al-lah hubiera querido, habría guiado a todos los hombres? Y quienes rechazan la verdad no dejarán de padecer calamidades por lo que han cometido, o estas pasarán cerca de sus hogares hasta que llegue el castigo que Al-lah les ha prometido. Ciertamente, Al-lah no incumple Sus promesas."
+          "id": 1168334,
+          "resource_id": 213,
+          "text": "আর যদি কুরআন এমন হত যা দ্বারা পৰ্বতকে গতিশীল করা যেত অথবা যমীনকে টুকরো টুকরো করা যেত অথবা মৃতের সাথে কথা বলা যেত [১], কিন্তু সববিষয়ই আল্লাহ্‌র ইখতিয়ারভুক্ত [২]। তবে কি যারা ঈমান এনেছে তারা জানে না [৩] যে, আল্লাহ্ ইচ্ছে করলে সবাইকেই সৎ পথে পরিচালিত করতে পারতেন? আর যারা কুফরী করেছে তাদের কর্মকাণ্ডের কারণে তাদের বিপর্যয় ঘটতেই থাকবে অথবা বিপর্যয় তাদের আবাসের আশেপাশে আপতিত হতেই থাকবে যতক্ষণ পর্যন্ত না আল্লাহ্‌র প্রতিশ্রুতি এসে পড়বে [৪]। নিশ্চয় আল্লাহ্ প্রতিশ্রুতির ব্যতিক্রম করেন না [৫]।"
         }
       ]
     },
@@ -736,9 +736,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955588,
-          "resource_id": 140,
-          "text": "Y (también) fueron objeto de burlas otros mensajeros que te precedieron (¡oh, Muhammad!). No obstante, los dejé disfrutar por un tiempo y luego Mi castigo se abatió sobre ellos. ¡Y qué terrible fue Mi castigo!"
+          "id": 1168335,
+          "resource_id": 213,
+          "text": "আর অবশ্যই আপনার আগে অনেক রাসূলকে ঠাট্টা-বিদ্রুপ করা হয়েছে এবং যারা কুফরী করেছে তাদেরকে আমি কিছু অবকাশ দিয়েছিলাম, তারপর তাদেরকে পাকড়াও করেছিলাম। সুতরাং কেমন ছিল আমার শাস্তি [১]!"
         }
       ]
     },
@@ -757,9 +757,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955589,
-          "resource_id": 140,
-          "text": "¿Acaso puede compararse Aquel que tiene conocimiento de todo lo que hace el hombre con quienes no lo tienen (los falsos ídolos)? Y aun así, (los idólatras) equiparan a Al-lah con las divinidades a las que adoran. Pregúntales (¡oh, Muhammad!): «¿Quiénes son esas divinidades?».¿Es que informáis (a Al-lah)sobre algo que desconoce en la tierra o decís solo palabras sin sentido? Ciertamente, quienes rechazan la verdad se han dejado seducir por su incredulidad y se han desviado del (buen) camino. Y nadie puede guiar a quien Al-lah extravía (por obstinarse en negar la verdad)."
+          "id": 1168336,
+          "resource_id": 213,
+          "text": "তবে কি প্রত্যেক মানুষ যা করে তার যিনি পর্যবেক্ষক [১] (তিনি কি এদের অক্ষম ইলাহগুলোর মত?) অথচ তারা আল্লাহ্‌র বহু শরীক সাব্যস্ত করেছে। বলুন, তাদের পরিচয় দাও। নাকি তোমরা যমীনে এমন কিছুর সংবাদ দিতে চাও যা তিনি জানেন না? নাকি (তোমরা) বাহ্যিক কথা মাত্র জানাচ্ছ? বরং যারা কুফরী করেছে তাদের কাছে তাদের ছলনা [২] শোভনীয় করে দেয়া হয়েছে এবং তাদেরকে সৎপথ থেকে ফিরিয়ে রাখা হয়েছে [৩], আর আল্লাহ্‌ যাকে বিভ্রান্ত করেন তার কোনো পথপ্রদর্শক নেই।"
         }
       ]
     },
@@ -778,9 +778,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955590,
-          "resource_id": 140,
-          "text": "Esos serán castigados en esta vida, mas el castigo de la otra vida será peor, y no tendrán quien los proteja del castigo de Al-lah."
+          "id": 1168337,
+          "resource_id": 213,
+          "text": "তাদের জন্য দুনিয়ার জীবনে আছে শাস্তি এবং আখিরাতের শাস্তি তো আরো কঠোর! আর আল্লাহ্‌র শাস্তি থেকে রক্ষা করার মত তাদের কেউ নেই [১]।"
         }
       ]
     },
@@ -799,9 +799,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955591,
-          "resource_id": 140,
-          "text": "Esta es la descripción del paraíso prometido a los piadosos: estará surcado por ríos, sus frutos no se agotarán jamás y su sombra será permanente. Tal es el destino de quienes temen a Al-lah (obedecen Sus mandatos y se abstienen de lo que prohíbe); mas quienes rechazan la verdad tendrán por destino final el fuego."
+          "id": 1168338,
+          "resource_id": 213,
+          "text": "মুত্তাকীদেরকে যে জান্নাতের প্রতিশ্রুতি দেয়া হয়েছে, তার উপমা এরূপ: তার পাদদেশে নদী প্রবাহিত [১], তার ফলসমূহ ও ছায়া চিরস্থায়ী [২]। যারা তাকওয়া অবলম্বন করেছে এটা তাদের প্রতিফল আর কাফিরদের প্রতিফল আগুন [৩]।"
         }
       ]
     },
@@ -820,9 +820,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955592,
-          "resource_id": 140,
-          "text": "(Quienes creen en la verdad de entre) los judíos y los cristianos se complacen en lo que te ha sido revelado (el Corán, porque ven que es una confirmación de lo que tenían en sus Escrituras). Y entre los grupos que se oponen a ti hay quienes rechazan parte de él. Diles (¡oh, Muhammad!): «Ciertamente, se me ha ordenado adorar solo a Al-lah y a nadie más. A Él dirijo mis súplicas y a Él es mi retorno (el Día de la Resurrección)»."
+          "id": 1168339,
+          "resource_id": 213,
+          "text": "আর আমরা যাদেরকে কিতাব দিয়েছি তারা যা আপনার প্রতি নাযিল হয়েছে তাতে আনন্দ পায় [১]। আর দলগুলোর [২] মধ্যে কেউ কেউ তার কিছু অংশকে অস্বীকার করে। বলুন, ‘আমি তো আল্লাহ্‌র ইবাদাত করতে ও তাঁর কোনো শরীক না করতে আদেশপ্রাপ্ত হয়েছি। আমি তাঁরই দিকে ডাকি এবং তাঁরই কাছে আমার ফিরে যাওয়া।’"
         }
       ]
     },
@@ -841,9 +841,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955593,
-          "resource_id": 140,
-          "text": "Y del mismo modo (que enviamos revelaciones sagradas a los profetas en sus propias lenguas), te hemos revelado a ti (¡oh,Muhammad!) este Corán en lengua árabe, que contiene claros preceptos (para que juzgues entre los hombres).Y si siguieras los deseos de los idólatras, después del conocimiento que has recibido(procedente de Al-lah), no tendrías quién te protegiera y te librara de Su castigo."
+          "id": 1168340,
+          "resource_id": 213,
+          "text": "আর এভাবেই [১] আমরা কুরআনকে নাযিল করেছি আরবী ভাষায় বিধানরূপে। আর জ্ঞান পাওয়ার পরও যদি আপনি তাদের খেয়াল-খুশীর অনুসরণ করেন তবে আল্লাহ্‌র বিরুদ্ধে [২] আপনার কোনো অভিভাবক ও রক্ষক থাকবে না [৩]।"
         }
       ]
     },
@@ -862,9 +862,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955594,
-          "resource_id": 140,
-          "text": "Y, ciertamente, enviamos mensajeros anteriores a ti (a sus respectivos pueblos)y les concedimos (también) esposas y descendencia<sup foot_note=149456>1</sup>. Y ningún mensajero puede producir un milagro sin el permiso de Al-lah. Todo asunto tiene un tiempo decretado para él."
+          "id": 1168341,
+          "resource_id": 213,
+          "text": "আর অবশ্যই আমরা আপনার আগে অনেক রাসূল পাঠিয়েছিলাম এবং তাদেরকে স্ত্রী ও সন্তান-সন্ততি দিয়েছিলাম [১]। আর আল্লাহর অনুমতি ছাড়া কোনো নিদর্শন উপস্থিত করা কোনো রাসূলের কাজ নয় [২]। প্রত্যেক বিষয়ের ব্যাপারেই নির্ধারিত সময় লিপিবদ্ধ আছে [৩]।"
         }
       ]
     },
@@ -883,9 +883,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955595,
-          "resource_id": 140,
-          "text": "Al-lah anula lo que quiere y confirma lo que quiere (de Sus revelaciones anteriores y preceptos). Y junto a Él está el Libro principal (o Tabla Protegida donde están registradas todas las cosas, antes incluso de que sucedan)."
+          "id": 1168342,
+          "resource_id": 213,
+          "text": "আল্লাহ্ যা ইচ্ছে তা মিটিয়ে দেন এবং যা ইচ্ছে তা প্রতিষ্ঠিত রাখেন [১] এবং তাঁরই কাছে আছে উম্মুল কিতাব [২]।"
         }
       ]
     },
@@ -904,9 +904,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955596,
-          "resource_id": 140,
-          "text": "Y tanto si presencias parte del castigo que hemos prometido en esta vida (a quienes rechazan la verdad) como si te hacemos perecer antes (¡oh, Muhammad!, serán igualmente castigados). A ti solo te corresponde amonestarlos, mientras que a Nos Nos corresponde juzgarlos y recompensarlos por sus acciones."
+          "id": 1168343,
+          "resource_id": 213,
+          "text": "আর আমরা তাদেরকে যে শাস্তির প্রতিশ্রুতি দিচ্ছি তার কিছু যদি আমরা আপনাকে দেখাই বা যদি এর আগে আপনার মৃত্যু ঘটাই [১]-- তবে আপনার কর্তব্য তো শুধু প্রচার করা, আর হিসাব-নিকাশ তো আমারই দায়িত্ব।"
         }
       ]
     },
@@ -925,9 +925,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955597,
-          "resource_id": 140,
-          "text": "¿Acaso no ven que vamos reduciendo la tierra por sus extremos?<sup foot_note=149457>1</sup> Y a Al-lah le corresponde juzgar y nadie puede oponerse a Su sentencia. Y Al-lah es rápido en la retribución de Su recompensa."
+          "id": 1168344,
+          "resource_id": 213,
+          "text": "তারা কি দেখে না যে, আমরা এ যমীনকে চতুর্দিক থেকে সংকুচিত করে আনছি [১] ? আর আল্লাহ্ই আদেশ করেন, তাঁর আদেশ রদ করার কেউ নেই এবং তিনি হিসেব গ্রহণে তৎপর [২]।"
         }
       ]
     },
@@ -946,9 +946,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955598,
-          "resource_id": 140,
-          "text": "Y, ciertamente, ya hubo quienes conspiraron contra Sus mensajeros con anterioridad, pero Al-lah es mejor planeando (y haciendo que lo que traman se vuelva contra ellos). Él conoce todas las acciones que el hombre realiza. Y ya sabrán quienes rechazan la verdad quiénes triunfarán al final."
+          "id": 1168345,
+          "resource_id": 213,
+          "text": "আর তাদের আগে যারা ছিল তারাও চক্রান্ত করেছিল; কিন্তু সব চক্রান্তই আল্লাহর ইখতিয়ারে। প্রত্যেক ব্যক্তি যা উপার্জন করে তা তিনি জানেন। আর কাফেররা শীঘ্রই জানবে আখেরাতের শুভ পরিণাম কাদের জন্য।"
         }
       ]
     },
@@ -967,9 +967,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955599,
-          "resource_id": 140,
-          "text": "Y quienes niegan la verdad dicen que tú (¡oh, Muhammad!) no eres un mensajero. Diles: «Al-lah basta como testigo entre nosotros, así como quienes tienen conocimiento de las Escrituras, de que digo la verdad»."
+          "id": 1168346,
+          "resource_id": 213,
+          "text": "আর যারা কুফরী করেছে তারা বলে, তুমি আল্লাহর পাঠানো নও। বলুন, আল্লাহ্ এবং যাদের কাছে কিতাবের জ্ঞান আছে, তারা আমার ও তোমাদের মধ্যে সাক্ষী হিসেবে যথেষ্ট [১]।"
         }
       ]
     }

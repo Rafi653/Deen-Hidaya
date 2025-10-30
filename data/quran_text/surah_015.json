@@ -1,12 +1,12 @@
 {
   "metadata": {
     "surah_number": 15,
-    "scraped_at": "2025-10-29T20:56:08.469434",
+    "scraped_at": "2025-10-30T04:11:07.027335",
     "source": "api.quran.com",
     "version": "1.0",
     "translation_ids": [
       131,
-      140
+      213
     ]
   },
   "license": {
@@ -15,14 +15,14 @@
       "license": "Public Domain",
       "attribution": "The Quran text is in the public domain",
       "terms_url": "https://quran.com/terms",
-      "fetched_at": "2025-10-29T20:56:08.469434"
+      "fetched_at": "2025-10-30T04:11:07.027335"
     },
     "translations": {
       "source": "api.quran.com",
       "license": "Various - See individual translation licenses",
       "attribution": "Translation copyrights belong to respective translators",
       "terms_url": "https://quran.com/terms",
-      "fetched_at": "2025-10-29T20:56:08.469434"
+      "fetched_at": "2025-10-30T04:11:07.027335"
     },
     "audio": {
       "source": "everyayah.com via api.quran.com",
@@ -30,7 +30,7 @@
       "attribution": "Audio recitations courtesy of everyayah.com",
       "terms_url": "https://everyayah.com/",
       "note": "Audio URLs provided - not downloaded locally due to size",
-      "fetched_at": "2025-10-29T20:56:08.469434"
+      "fetched_at": "2025-10-30T04:11:07.027335"
     }
   },
   "translation_metadata": {
@@ -42,9 +42,9 @@
       "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0",
       "source": "api.quran.com"
     },
-    "140": {
-      "name": "Telugu Translation",
-      "author": "Unknown",
+    "213": {
+      "name": "Abdul Hafeez & Mohammed Abdul Haq",
+      "author": "Abdul Hafeez, Mohammed Abdul Haq",
       "language": "te",
       "language_name": "Telugu",
       "license": "Various",
@@ -85,9 +85,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955652,
-          "resource_id": 140,
-          "text": "Alif. Lam. Ra<sup foot_note=149469>1</sup>.Estas son las aleyas del Libro (el Corán), un libro esclarecedor (que distingue la verdad de la falsedad)."
+          "id": 1168399,
+          "resource_id": 213,
+          "text": "আলিফ- লাম-রা, এগুলো হচ্ছে আয়াত মহাগ্রন্থ ও সুস্পষ্ট কুরআনের [১]।"
         }
       ]
     },
@@ -106,9 +106,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955653,
-          "resource_id": 140,
-          "text": "¡Cuánto desearán quienes rechazan la verdad (el Día delaResurrección) haber aceptado el islam!"
+          "id": 1168400,
+          "resource_id": 213,
+          "text": "কখনো কখনো কাফিররা আকাংখা করবে যে, তারা যদি মুসলিম হত [১] !"
         }
       ]
     },
@@ -127,9 +127,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955654,
-          "resource_id": 140,
-          "text": "Déjalos (¡oh, Muhammad!) que coman, disfruten (por un tiempo) y se distraigan con (falsas) esperanzas (mundanales), que ya verán (el castigo que les espera)."
+          "id": 1168401,
+          "resource_id": 213,
+          "text": "তাদেরকে ছাড়ুন, তারা খেতে থাকুক [১], ভোগ করতে থাকুক এবং আশা তাদেরকে মোহাচ্ছন্ন রাখুক [২], অতঃপর অচিরেই তারা জানতে পারবে [৩]।"
         }
       ]
     },
@@ -148,9 +148,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955655,
-          "resource_id": 140,
-          "text": "Y no hemos destruido ninguna ciudad cuyo final no estuviera decretado."
+          "id": 1168402,
+          "resource_id": 213,
+          "text": "আর আমরা যে জনপদকেই ধ্বংস করেছি তার জন্য ছিল একটি নির্দিষ্ট লিপিবদ্ধ কাল [১]"
         }
       ]
     },
@@ -169,9 +169,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955656,
-          "resource_id": 140,
-          "text": "Y ninguna nación puede adelantar ni retrasar su final."
+          "id": 1168403,
+          "resource_id": 213,
+          "text": "কোনো জাতি তার নির্দিষ্ট কালকে ত্বরান্বিত করতে পারে না, বিলম্বিতও করতে পারে না।"
         }
       ]
     },
@@ -190,9 +190,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955657,
-          "resource_id": 140,
-          "text": "Y (los idólatras de La Meca) dicen (a Muhammad): «¡Tú que dices haber recibido la revelación!, ciertamente, estás loco."
+          "id": 1168404,
+          "resource_id": 213,
+          "text": "আর তারা বলে, ‘হে ঐ ব্যক্তি, যার প্রতি যিকর [১] নাযিল হয়েছে! তুমি তো নিশ্চয় উন্মাদ [২]।"
         }
       ]
     },
@@ -211,9 +211,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955658,
-          "resource_id": 140,
-          "text": "»¿Por qué no has venido a nosotros con ángeles, si eres de los veraces?»."
+          "id": 1168405,
+          "resource_id": 213,
+          "text": "‘তুমি সত্যবাদীদের অন্তর্ভুক্ত হয়ে থাকলে আমাদের কাছে ফেরেশতাদেরকে উপস্থিত করছ না কেন [১]?"
         }
       ]
     },
@@ -232,9 +232,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955659,
-          "resource_id": 140,
-          "text": "(Al-lah les responde diciendo:) «No enviamos ángeles si no es con el castigo y, entonces, este no se hace esperar (sobre quienes niegan la verdad)."
+          "id": 1168406,
+          "resource_id": 213,
+          "text": "আমরা ফেরেশতাদেরকে যথার্থ কারণ ছাড়া প্রেরণ করি না; আর ( ফেরেশতারা উপস্থিত হলে) তখন তারা আর অবকাশ পেত না [১]।"
         }
       ]
     },
@@ -253,9 +253,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955660,
-          "resource_id": 140,
-          "text": "»En verdad, Nos hemos revelado la Exhortación (el Corán) y Nos la protegeremos<sup foot_note=149470>1</sup>»."
+          "id": 1168407,
+          "resource_id": 213,
+          "text": "নিশ্চয় আমরাই কুরআন নাযিল করেছি এবং আমরা অবশ্যই তার সংরক্ষক [১]।"
         }
       ]
     },
@@ -274,9 +274,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955661,
-          "resource_id": 140,
-          "text": "Y, ciertamente, enviamos (otros mensajeros) antes de ti (¡oh, Muhammad!) a antiguas comunidades;"
+          "id": 1168408,
+          "resource_id": 213,
+          "text": "আর অবশ্যই আপনার আগে আমরা আগেকার অনেক সম্প্রদায়ের কাছে রাসূল পাঠিয়েছিলাম।"
         }
       ]
     },
@@ -295,9 +295,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955662,
-          "resource_id": 140,
-          "text": "y cada vez que se presentaba ante ellos un mensajero Nuestro, se burlaban de él (como se burlan también de ti)."
+          "id": 1168409,
+          "resource_id": 213,
+          "text": "আর তাদের কাছে এমন কোন রাসূল আসেনি যাকে তারা ঠাট্টা-বিদ্রূপ করত না।"
         }
       ]
     },
@@ -316,9 +316,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955663,
-          "resource_id": 140,
-          "text": "Y del mismo modo (que infundimos la incredulidad en sus corazones por desmentir a sus mensajeros) hacemos que esta también penetre en los corazones de los pecadores (de los habitantes de La Meca que rechazan la verdad)."
+          "id": 1168410,
+          "resource_id": 213,
+          "text": "এভাবেই আমরা অপরাধীদের অন্তরে তা সঞ্চার করি [১],"
         }
       ]
     },
@@ -337,9 +337,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955664,
-          "resource_id": 140,
-          "text": "No creerán en él<sup foot_note=149471>1</sup>, y les sucederá lo mismo que les ocurrió a quienes negaban la verdad de las comunidades anteriores."
+          "id": 1168411,
+          "resource_id": 213,
+          "text": "এরা কুরআনের প্রতি ঈমান আনবে না, আর অবশ্যই গত হয়েছে পূর্ববর্তীদের রীতি [১]।"
         }
       ]
     },
@@ -358,9 +358,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955665,
-          "resource_id": 140,
-          "text": "Y aunque abriéramos para ellos una puerta en el cielo por donde pudieran ascendera él sin cesar (hasta contemplar las maravillas del reino de Al-lah, no creerían),"
+          "id": 1168412,
+          "resource_id": 213,
+          "text": "আর যদি আমরা তাদের জন্য আকাশের দরজা খুলে দেই অতঃপর তারা তাতে আরোহন করতে থাকে,"
         }
       ]
     },
@@ -379,9 +379,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955666,
-          "resource_id": 140,
-          "text": "y dirían: «No hemos visto con claridad, o más bien somos un pueblo que ha sido hechizado»."
+          "id": 1168413,
+          "resource_id": 213,
+          "text": "তবুও তারা বলবে, আমাদের দৃষ্টি সম্মোহিত করা হয়েছে; না, বরং আমরা এক জাদুগ্রস্ত সম্প্রদায়।"
         }
       ]
     },
@@ -400,9 +400,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955667,
-          "resource_id": 140,
-          "text": "Y, ciertamente, hemos dispuesto en el cielo constelaciones y lo hemos embellecido para quienes lo contemplan<sup foot_note=149472>1</sup>."
+          "id": 1168414,
+          "resource_id": 213,
+          "text": "আর অবশ্যই আমরা আকাশের বুরুজসমূহ সৃষ্টি করেছি [১] এবং দর্শকদের জন্য সেগুলোকে সুশোভিত করেছি [২];"
         }
       ]
     },
@@ -421,9 +421,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955668,
-          "resource_id": 140,
-          "text": "Y lo hemos protegido de todo demonio que ha sido expulsado (de la misericordia de Al-lah para que no pueda escuchar las órdenes que en él se dan a los ángeles o lo que en él se decreta)."
+          "id": 1168415,
+          "resource_id": 213,
+          "text": "এবং প্রত্যেক অভিশপ্ত শয়তান হতে আমরা সেগুলোকে সুরক্ষিত করেছি;"
         }
       ]
     },
@@ -442,9 +442,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955669,
-          "resource_id": 140,
-          "text": "Y si alguno llega a escuchar algo, es perseguido por una estrella fugaz (que lo destruye)."
+          "id": 1168416,
+          "resource_id": 213,
+          "text": "কিন্তু কেউ চুরি করে [১] শুনতে চাইলে [২] প্রদীপ্ত শিখা [৩] তার পশ্চাদ্ধাবন করে।"
         }
       ]
     },
@@ -463,9 +463,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955670,
-          "resource_id": 140,
-          "text": "Y hemos expandido<sup foot_note=149473>1</sup> la tierra (haciéndola habitable) y hemos establecido en ella firmes montañas, y hemos hecho que en ella todo brote en su debida proporción."
+          "id": 1168417,
+          "resource_id": 213,
+          "text": "আর যমীন, এটাকে আমরা বিস্তৃত করেছি, তাতে পর্বতমালা স্থাপন করেছি; এবং আমরা তাতে প্রত্যেক বস্তু উদগত করেছি সুপরিমিতভাবে [১],"
         }
       ]
     },
@@ -484,9 +484,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955671,
-          "resource_id": 140,
-          "text": "Y hemos dispuesto en ella diferentes medios para vuestra subsistencia y para aquellos cuyo sustento no depende de vosotros."
+          "id": 1168418,
+          "resource_id": 213,
+          "text": "আর আমরা তাতে জীবিকার ব্যবস্থা করেছি তোমাদের জন্য এবং তোমরা যাদের রিযিকদাতা নও তাদের জন্যও [১]।"
         }
       ]
     },
@@ -505,9 +505,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955672,
-          "resource_id": 140,
-          "text": "Y poseemos las reservas de todo sustento y os lo concedemos en una medida precisa."
+          "id": 1168419,
+          "resource_id": 213,
+          "text": "আর আমাদের কাছেই আছে প্রত্যেক বস্তুর ভাণ্ডার এবং আমরা তা পরিজ্ঞাত পরিমানেই নাযিল করে থাকি [১]।"
         }
       ]
     },
@@ -526,9 +526,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955673,
-          "resource_id": 140,
-          "text": "Y enviamos los vientos fertilizantes<sup foot_note=149474>1</sup> y hacemos descender la lluvia del cielo de la que os damos de beber y cuyas reservas no dependen de vosotros."
+          "id": 1168420,
+          "resource_id": 213,
+          "text": "আর আমরা বৃষ্টি-গর্ভ বায়ু পাঠাই, তারপর আকাশ হতে পানি নাযিল করে তা তোমাদেরকে পান করতে দেই [১]; অথচ তোমরা নিজেরা তা ভাণ্ডারে জমাকারী নও [২]।"
         }
       ]
     },
@@ -547,9 +547,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955674,
-          "resource_id": 140,
-          "text": "Y Nos somos Quienes damos la vida y la muerte y el único heredero de todo<sup foot_note=149475>1</sup>."
+          "id": 1168421,
+          "resource_id": 213,
+          "text": "আর আমরাই জীবন দান করি ও মৃত্যু ঘটাই এবং আমরাই চুড়ান্ত মালিকানার অধিকারী।"
         }
       ]
     },
@@ -568,9 +568,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955675,
-          "resource_id": 140,
-          "text": "Y, ciertamente, conocemos las generaciones que os precedieron y las que os sucederán."
+          "id": 1168422,
+          "resource_id": 213,
+          "text": "আর অবশ্যই আমরা তোমাদের মধ্য থেকে যারা অগ্রগামী হয়েছে তাদেরকে জানি এবং অবশ্যই জানি তাদেরকে যারা পশ্চাতে গমনকারী [১]।"
         }
       ]
     },
@@ -589,9 +589,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955676,
-          "resource_id": 140,
-          "text": "Y tu Señor (¡oh, Muhammad!) las reunirá a todas. Él es, en verdad, el Sabio, el Omnisciente."
+          "id": 1168423,
+          "resource_id": 213,
+          "text": "আর নিশ্চয় আপনার রব তাদেরকে সমবেত করবেন; নিশ্চয় তিনি প্রজ্ঞাময়, সর্বজ্ঞ [১]।"
         }
       ]
     },
@@ -610,9 +610,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955677,
-          "resource_id": 140,
-          "text": "Y creamos al (primer) hombre a partir de arcilla seca procedente de un barro negromoldeable."
+          "id": 1168424,
+          "resource_id": 213,
+          "text": "আর অবশ্যই আমরা মানুষ সৃষ্টি করেছি গন্ধযুক্ত কাদার শুস্ক ঠনঠনে কালচে মাটি থেকে [১],"
         }
       ]
     },
@@ -631,9 +631,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955678,
-          "resource_id": 140,
-          "text": "Y antes creamos a los yinn de fuego puro."
+          "id": 1168425,
+          "resource_id": 213,
+          "text": "আর এর আগে আমরা সৃষ্টি করেছি জিনদেরকে অতি উষ্ণ [১] নির্ধুম আগুন থেকে।"
         }
       ]
     },
@@ -652,9 +652,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955679,
-          "resource_id": 140,
-          "text": "Y recuerda (¡oh, Muhammad!) cuando tu Señor dijo a los ángeles: «Voy a crear a un ser humano a partir de arcilla seca procedente de un barro negro moldeable."
+          "id": 1168426,
+          "resource_id": 213,
+          "text": "আর স্মরণ করুন, যখন আপনার রব ফেরেশতাদেরকে বললেন, নিশ্চয় আমি গন্ধযুক্ত কাদার শুস্ক ঠনঠনে কালচে মাটি হতে মানুষ সৃষ্টি করতে যাচ্ছি;"
         }
       ]
     },
@@ -673,9 +673,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955680,
-          "resource_id": 140,
-          "text": "»Y cuando lo modele e insufle en él, y sea depositada en él el alma (cobrando así vida), os postraréis ante él (en señal de respeto)."
+          "id": 1168427,
+          "resource_id": 213,
+          "text": "অতঃপর যখন আমি তাকে সুঠাম করব এবং তাতে আমার পক্ষ থেকে রূহ সঞ্চার করব [১] তখন তোমরা তার প্রতি সিজদাবনত হয়ো [২],"
         }
       ]
     },
@@ -694,9 +694,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955681,
-          "resource_id": 140,
-          "text": "Y todos los ángeles se postraron,"
+          "id": 1168428,
+          "resource_id": 213,
+          "text": "অতঃপর ফেরেশতাগণ সবাই একত্রে সাজদা করল,"
         }
       ]
     },
@@ -715,9 +715,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955682,
-          "resource_id": 140,
-          "text": "salvo Iblis<sup foot_note=149476>1</sup> (que se hallaba entre los ángeles a pesar de ser un yinn), quien se negó a postrarse con los demás."
+          "id": 1168429,
+          "resource_id": 213,
+          "text": "ইবলীস ছাড়া, সে সাজদাকারীদের অন্তর্ভুক্ত হতে অস্বীকার করল।"
         }
       ]
     },
@@ -736,9 +736,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955683,
-          "resource_id": 140,
-          "text": "(Al-lah) le dijo: «Iblis, ¿por qué no te has postrado con los demás?»."
+          "id": 1168430,
+          "resource_id": 213,
+          "text": "আল্লাহ্‌ বললেন, ‘হে ইবলীস! তোমার কি হল যে, তুমি সাজদাকারীদের অন্তর্ভুক্ত হলে না?’"
         }
       ]
     },
@@ -757,9 +757,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955684,
-          "resource_id": 140,
-          "text": "Este contestó (con altivez): «No iba a (rebajarme) postrándome ante un humano creado a partir de arcilla seca procedente de un barro negro moldeable»."
+          "id": 1168431,
+          "resource_id": 213,
+          "text": "সে বলল, ‘আপনি গন্ধযুক্ত কাদার শুস্ক ঠনঠনে কালচে মাটি হতে যে মানুষকে সৃষ্টি করেছেন আমি তাকে সাজদা করার নই।’"
         }
       ]
     },
@@ -778,9 +778,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955685,
-          "resource_id": 140,
-          "text": "(Al-lah) le dijo: «Sal, pues, de aquí expulsado."
+          "id": 1168432,
+          "resource_id": 213,
+          "text": "তিনি বললেন, তবে তুমি এখান থেকে বের হয়ে যাও, কারণ নিশ্চয় তুমি বিতাড়িত;"
         }
       ]
     },
@@ -799,9 +799,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955686,
-          "resource_id": 140,
-          "text": "»Serásdespreciado y expulsado de Mi misericordia hasta el Día del Juicio Final»."
+          "id": 1168433,
+          "resource_id": 213,
+          "text": "আর নিশ্চয় প্রতিদান দিবস পর্যন্ত তোমার প্রতি রইল লা’নত।"
         }
       ]
     },
@@ -820,9 +820,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955687,
-          "resource_id": 140,
-          "text": "(Iblis) dijo: «¡Señor, concédeme un plazo de tiempo hasta el Día de la Resurrección!»."
+          "id": 1168434,
+          "resource_id": 213,
+          "text": "সে বলল, হে আমার রব!  যেদিন তাদের পুনরুত্থান করা হবে সেদিন পর্যন্ত আমাকে অবকাশ দিন।"
         }
       ]
     },
@@ -841,9 +841,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955688,
-          "resource_id": 140,
-          "text": "(Al-lah) contestó: «Se te concederá dicho plazo,"
+          "id": 1168435,
+          "resource_id": 213,
+          "text": "তিনি বললেন, নিশ্চয় তুমি অবকাশপ্রাপ্তদের একজন,"
         }
       ]
     },
@@ -862,9 +862,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955689,
-          "resource_id": 140,
-          "text": "»hasta el día señalado»."
+          "id": 1168436,
+          "resource_id": 213,
+          "text": "সুনির্দিষ্ট সময় আসার দিন পর্যন্ত।"
         }
       ]
     },
@@ -883,9 +883,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955690,
-          "resource_id": 140,
-          "text": "Dijo (Iblis): «¡Señor!, por haber sido la causa de mi extravío, seduciré a los hombres en la tierra (para que pequen) y los desviaré a todos (de Tu camino);"
+          "id": 1168437,
+          "resource_id": 213,
+          "text": "সে বলল, ‘হে আমার রব! আপনি যে আমাকে বিপথগামী করলেন সে জন্য অবশ্যই আমি যমীনে মানুষের কাছে পাপকাজকে শোভন করে তুলব এবং অবশ্যই আমি তাদের সবাইকে বিপথগামী করব [১],"
         }
       ]
     },
@@ -904,9 +904,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955691,
-          "resource_id": 140,
-          "text": "»excepto a aquellos de entre Tus siervos devotos que has guiado para que Te obedezcan y adoren solamente a Ti»."
+          "id": 1168438,
+          "resource_id": 213,
+          "text": "তবে তাদের মধ্যে আপনার একান্ত বান্দাগণ ছাড়া [১]।"
         }
       ]
     },
@@ -925,9 +925,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955692,
-          "resource_id": 140,
-          "text": ".(Al-lah dijo:) «Este (el de la sinceridad en la fe) es el camino que conduce directamente hacia Mí."
+          "id": 1168439,
+          "resource_id": 213,
+          "text": "আল্লাহ্‌ বললেন, এটাই আমার কাছে পৌঁছার সরল পথ।"
         }
       ]
     },
@@ -946,9 +946,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955693,
-          "resource_id": 140,
-          "text": "»En verdad, no tendrás ningún poder sobre Mis siervos, salvo sobre aquellos extraviados que te sigan."
+          "id": 1168440,
+          "resource_id": 213,
+          "text": "বিভ্রান্তদের মধ্যে যে তোমার অনুসরণ করবে সে ছাড়া আমার বান্দাদের উপর তোমার কোনই ক্ষমতা থাকবে না [১];"
         }
       ]
     },
@@ -967,9 +967,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955694,
-          "resource_id": 140,
-          "text": "»Y todos (los extraviados) estarán citados (junto a ti) en el infierno."
+          "id": 1168441,
+          "resource_id": 213,
+          "text": "আর নিশ্চয় জাহান্নাম তাদের সবারই প্রতিশ্রুত স্থান,"
         }
       ]
     },
@@ -988,9 +988,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955695,
-          "resource_id": 140,
-          "text": "»Este tiene siete puertas, cada una de ellas destinada a una clase concreta(de pecadores)»."
+          "id": 1168442,
+          "resource_id": 213,
+          "text": "‘সেটার সাতটি দরজা আছে [১], প্রত্যেক দরজা দিয়ে প্রবেশ করার জন্য (শয়তানের অনুসারীদের) নির্দিষ্ট অংশ রয়েছে [২]।’"
         }
       ]
     },
@@ -1009,9 +1009,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955696,
-          "resource_id": 140,
-          "text": "Quienes teman a Al-lah estarán entre jardines y manantiales."
+          "id": 1168443,
+          "resource_id": 213,
+          "text": "নিশ্চয় মুত্তাকীরা থাকবে জান্নাতে ও প্রস্রবণসমূহের মধ্যে।"
         }
       ]
     },
@@ -1030,9 +1030,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955697,
-          "resource_id": 140,
-          "text": "(Se les dirá:) «¡Entrad en paz, sin nada que temer!»."
+          "id": 1168444,
+          "resource_id": 213,
+          "text": "তাদেরকে বলা হবে, ‘তোমরা শান্তিতে নিরাপত্তার সাথে এতে প্রবেশ কর [১]।’"
         }
       ]
     },
@@ -1051,9 +1051,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955698,
-          "resource_id": 140,
-          "text": "Eliminaremos todo rencor que puedan albergar sus corazones. Serán todos como hermanos y estarán recostados en divanes, unos frente a otros."
+          "id": 1168445,
+          "resource_id": 213,
+          "text": "আর আমরা তাদের অন্তর হতে বিদ্বেষ দূর করব [১]; তারা ভাইয়ের মত পরস্পর মুখোমুখি হয়ে আসনে অবস্থান করবে [২],"
         }
       ]
     },
@@ -1072,9 +1072,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955699,
-          "resource_id": 140,
-          "text": "No sentirán cansancio alguno ni serán nunca expulsados de allí."
+          "id": 1168446,
+          "resource_id": 213,
+          "text": "সেখানে তাদেরকে অবসাদ স্পর্শ করবে না এবং তারা সেখান থেকে বহিস্কৃতও হবে না [১]।"
         }
       ]
     },
@@ -1093,9 +1093,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955700,
-          "resource_id": 140,
-          "text": "Notifica a Mis siervos (¡oh, Muhammad!) que Yo soy el Indulgente, el Misericordioso."
+          "id": 1168447,
+          "resource_id": 213,
+          "text": "আমার বান্দাদেরকে জানিয়ে  দিন যে, নিশ্চয় আমিই পরম ক্ষমাশীল, পরম দয়ালু,"
         }
       ]
     },
@@ -1114,9 +1114,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955701,
-          "resource_id": 140,
-          "text": "Mas (diles también que) Mi castigo es doloroso."
+          "id": 1168448,
+          "resource_id": 213,
+          "text": "আর নিশ্চয় আমার শাস্তিই যন্ত্রণাদায়ক শাস্তি!"
         }
       ]
     },
@@ -1135,9 +1135,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955702,
-          "resource_id": 140,
-          "text": "Y cuéntales la historia de los huéspedes de Abraham."
+          "id": 1168449,
+          "resource_id": 213,
+          "text": "আর তাদেরকে বলুন, ইবরাহীমের অতিথিদের কথা,"
         }
       ]
     },
@@ -1156,9 +1156,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955703,
-          "resource_id": 140,
-          "text": "Cuando se presentaron ante él, le brindaron el saludo de paz y (tras ver Abraham que ellos no tocaban la comida que les había servido porque eran ángeles, y estos no necesitan alimentarse) les dijo: «Verdaderamente, (mi esposa y yo) sentimos miedo de vosotros»."
+          "id": 1168450,
+          "resource_id": 213,
+          "text": "যখন তারা তার কাছে উপস্থিত হয়ে বলল, ‘সালাম’, তখন তিনি বললেন, নিশ্চয় আমরা তোমাদের ব্যাপারে শংকিত।"
         }
       ]
     },
@@ -1177,9 +1177,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955704,
-          "resource_id": 140,
-          "text": "(Estos) contestaron: «¡No temas! Te traemos la buena noticia del nacimiento de un niño sabio (Isaac)»."
+          "id": 1168451,
+          "resource_id": 213,
+          "text": "তারা বলল, ‘ভয় করবেন না, আমরা আপনাকে এক জ্ঞানী পুত্রের সুসংবাদ দিচ্ছি [১]।’"
         }
       ]
     },
@@ -1198,9 +1198,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955705,
-          "resource_id": 140,
-          "text": "(Abraham) dijo: «¡¿Me traéis la buena noticia (de un hijo) a pesar de haber alcanzado la vejez?! ¡¿Qué (milagro) es este que me anunciáis?!»."
+          "id": 1168452,
+          "resource_id": 213,
+          "text": "তিনি বললেন, ‘তোমরা কি আমাকে সুসংবাদ দিচ্ছ আমি বৃদ্ধ হওয়া সত্ত্বেও? তোমরা কিসের সুসংবাদ দিচ্ছ [১]?’"
         }
       ]
     },
@@ -1219,9 +1219,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955706,
-          "resource_id": 140,
-          "text": "(Estos) contestaron: «Lo que te hemos anunciado es verdad; no seas, pues, de los que pierden la esperanza»."
+          "id": 1168453,
+          "resource_id": 213,
+          "text": "তারা বলল, ‘আমরা সত্য সুসংবাদ দিচ্ছি; কাজেই আপনি হতাশ হবেন না।’"
         }
       ]
     },
@@ -1240,9 +1240,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955707,
-          "resource_id": 140,
-          "text": "(Abraham) dijo: «Solamente los extraviados que rechazan la verdad pierden la esperanza de (recibir) la misericordia de su Señor»."
+          "id": 1168454,
+          "resource_id": 213,
+          "text": "তিনি বললেন, ‘যারা পথভ্রষ্ট তারা ছাড়া আর কে তার রবের অনুগ্রহ থেকে হতাশ হয়?’"
         }
       ]
     },
@@ -1261,9 +1261,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955708,
-          "resource_id": 140,
-          "text": "Y les dijo (una vez se hubo disipado su miedo): «¿Cuál es el asunto (principal) que os ha traído hasta aquí, enviados(de Al-lah)?»."
+          "id": 1168455,
+          "resource_id": 213,
+          "text": "তিনি বললেন, ‘হে প্রেরিত (ফেরেশতা) গণ! তোমাদের আর বিশেষ কি উদ্দেশ্য আছে?’"
         }
       ]
     },
@@ -1282,9 +1282,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955709,
-          "resource_id": 140,
-          "text": "(Estos) contestaron: «Hemos sido enviados (para castigar) a un pueblo de pecadores (el pueblo del mensajero Lot),"
+          "id": 1168456,
+          "resource_id": 213,
+          "text": "তারা বলল, ‘নিশ্চয় আমাদেরকে এক অপরাধী সম্প্রদায়ের কাছে পাঠানো হয়েছে---"
         }
       ]
     },
@@ -1303,9 +1303,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955710,
-          "resource_id": 140,
-          "text": "»con la excepción de su familia, pues a esta la salvaremos,"
+          "id": 1168457,
+          "resource_id": 213,
+          "text": "তবে লূতের পরিবারের বিরুদ্ধে নয় [১], আমরা তো অবশ্যই তাদের সবাইকে রক্ষা করব,"
         }
       ]
     },
@@ -1324,9 +1324,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955711,
-          "resource_id": 140,
-          "text": "»salvo a su mujer<sup foot_note=149477>1</sup>, ya que ha sido decretado que ella esté entre quienes reciban el castigo»."
+          "id": 1168458,
+          "resource_id": 213,
+          "text": "কিন্তু তাঁর স্ত্রীকে নয়; আমরা স্থির করেছি যে, নিশ্চয় সে পিছনে অবস্থানকারীদেরই অন্তর্ভুক্ত।’"
         }
       ]
     },
@@ -1345,9 +1345,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955712,
-          "resource_id": 140,
-          "text": "Y cuando los enviados se presentaron ante la familia de Lot,"
+          "id": 1168459,
+          "resource_id": 213,
+          "text": "অতঃপর ফেরেশতাগণ যখন লূত পরিবারের কাছে আসল,"
         }
       ]
     },
@@ -1366,9 +1366,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955713,
-          "resource_id": 140,
-          "text": "él les dijo: «Ciertamente, sois gente desconocida para mí»."
+          "id": 1168460,
+          "resource_id": 213,
+          "text": "তখন লূত বললেন, ‘তোমরা তো অপরিচিত লোক’।"
         }
       ]
     },
@@ -1387,9 +1387,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955714,
-          "resource_id": 140,
-          "text": "(Estos) dijeron: «Hemos venido para traer (a tu gente el castigo) sobre el que dudaban."
+          "id": 1168461,
+          "resource_id": 213,
+          "text": "তারা বলল, ‘না, তারা যে বিষয়ে সন্দিগ্ধ ছিল আমরা আপনার কাছে তা’ই নিয়ে এসেছি;"
         }
       ]
     },
@@ -1408,9 +1408,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955715,
-          "resource_id": 140,
-          "text": "»Y hemos venido a ti con la verdad; y somos veraces."
+          "id": 1168462,
+          "resource_id": 213,
+          "text": "আর আমরা আপনার কাছে সত্য সংবাদ নিয়ে এসেছি এবং আবশ্যই আমরা সত্যবাদী;"
         }
       ]
     },
@@ -1429,9 +1429,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955716,
-          "resource_id": 140,
-          "text": "»Huye con tu familia durante la noche y marcha tras ellos; no dejes que ninguno vuelva la vista atrás y caminad hacia donde se os ordene»."
+          "id": 1168463,
+          "resource_id": 213,
+          "text": "কাজেই আপনি রাতের কোনো এক সময়ে আপনার পরিবারবর্গকে নিয়ে বেরিয়ে পড়ুন এবং আপনি তাদের পিছনে চলুন [১]। আর তোমাদের মধ্যে কেউ যেন পিছনে না তাকায় [২]; তোমাদেরকে যেখানে যেতে বলা হয়েছে তোমরা সেখানে চলে যাও [৩]।’"
         }
       ]
     },
@@ -1450,9 +1450,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955717,
-          "resource_id": 140,
-          "text": "Y le revelamos la decisión de que su pueblo sería destruido al amanecer."
+          "id": 1168464,
+          "resource_id": 213,
+          "text": "আর আমরা তাকে এ বিষয়ে ফয়সালা জানিয়ে দিলাম যে, নিশ্চয় তাদেরকে ভোরে সমূলে বিনাশ করা হবে।"
         }
       ]
     },
@@ -1471,9 +1471,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955718,
-          "resource_id": 140,
-          "text": "Y los hombres de la ciudad se presentaron ante Lot regocijándose (al saber que tenía huéspedes con quienes planeaban practicar la inmoralidad a la que estaban acostumbrados)."
+          "id": 1168465,
+          "resource_id": 213,
+          "text": "আর নগরবাসী উল্লসিত হয়ে উপস্থিত হল।"
         }
       ]
     },
@@ -1492,9 +1492,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955719,
-          "resource_id": 140,
-          "text": "(Lot) les dijo (antes de saber que sus huéspedes eran ángeles enviados por Al-lah): «Estos son mis huéspedes, no me avergoncéis."
+          "id": 1168466,
+          "resource_id": 213,
+          "text": "তিনি বললেন, নিশ্চয় এরা আমার অতিথি; কাজেই তোমরা আমাকে বেইযযত করো না।"
         }
       ]
     },
@@ -1513,9 +1513,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955720,
-          "resource_id": 140,
-          "text": "»Temed a Al-lah y no me deshonréis»."
+          "id": 1168467,
+          "resource_id": 213,
+          "text": "আর তোমরা আল্লাহ্‌র তাকওয়া অবলম্বন কর এবং আমাকে হেয় করো না।’"
         }
       ]
     },
@@ -1534,9 +1534,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955721,
-          "resource_id": 140,
-          "text": "(Los hombres de su pueblo) le dijeron: «¿Acaso no te habíamos prohibido (hospedar) a nadie?<sup foot_note=149478>1</sup>»."
+          "id": 1168468,
+          "resource_id": 213,
+          "text": "তারা বলল, আমরা কি দুনিয়াসুদ্ধ লোককে আশ্রয় দিতে তোমাকে নিষেধ করিনি?"
         }
       ]
     },
@@ -1555,9 +1555,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955722,
-          "resource_id": 140,
-          "text": "(Lot) respondió: «Ahí tenéis a mis hijas<sup foot_note=149479>1</sup> (para que os caséis con ellas) si queréis hacerlo»."
+          "id": 1168469,
+          "resource_id": 213,
+          "text": "লূত বললেন, একান্তই যদি তোমরা কিছু করতে চাও তবে আমার এ কন্যারা রয়েছে [১]।"
         }
       ]
     },
@@ -1576,9 +1576,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955723,
-          "resource_id": 140,
-          "text": "¡Por tu vida (¡oh Muhammad!) que estaban perdidos en su extravío!<sup foot_note=149480>1</sup>"
+          "id": 1168470,
+          "resource_id": 213,
+          "text": "আপনার জীবন [১], নিশ্চয় তারা তাদের নেশায় বিভ্রান্ত হয়ে ঘুরছিল।"
         }
       ]
     },
@@ -1597,9 +1597,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955724,
-          "resource_id": 140,
-          "text": "Entonces, un gran estruendo se abatió sobre ellos al amanecer."
+          "id": 1168471,
+          "resource_id": 213,
+          "text": "অতঃপর সূর্যোদয়ের সময় প্রকাণ্ড চীৎকার তাদেরকে পাকড়াও করল;"
         }
       ]
     },
@@ -1618,9 +1618,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955725,
-          "resource_id": 140,
-          "text": "Y volteamos la ciudad poniéndola boca abajo e hicimos que se precipitaran sobre ella piedras de barro cocido caídas del cielo."
+          "id": 1168472,
+          "resource_id": 213,
+          "text": "তাতে আমরা জনপদকে উল্টিয়ে উপর-নিচ করে দিলাম এবং তাদের উপর পোড়ামাটির পাথর-কংকর বর্ষন করলাম।"
         }
       ]
     },
@@ -1639,9 +1639,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955726,
-          "resource_id": 140,
-          "text": "Ciertamente, en ello hay pruebas del (poder de Al-lah y de Su unicidad) para quienes meditan y ven la verdad."
+          "id": 1168473,
+          "resource_id": 213,
+          "text": "নিশ্চয় এতে নিদর্শন রয়েছে পর্যবেক্ষণ-শক্তিসম্পন্ন ব্যক্তিদের জন্য।"
         }
       ]
     },
@@ -1660,9 +1660,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955727,
-          "resource_id": 140,
-          "text": "Y la ciudad estaba situada en medio de una ruta todavía presente<sup foot_note=149481>1</sup>."
+          "id": 1168474,
+          "resource_id": 213,
+          "text": "আর নিশ্চয় তা লোক চলাচলের পথের পাশেই বিদ্যমান [১]।"
         }
       ]
     },
@@ -1681,9 +1681,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955728,
-          "resource_id": 140,
-          "text": "En verdad, en (la destrucción del pueblo de Lot) hay una lección y pruebas claras (del poder de Al-lah) para quienes creen."
+          "id": 1168475,
+          "resource_id": 213,
+          "text": "নিশ্চয় এতে মুমিনদের জন্য রয়েছে নিদর্শন ।"
         }
       ]
     },
@@ -1702,9 +1702,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955729,
-          "resource_id": 140,
-          "text": "Ylas gentes de Al Aika<sup foot_note=149482>1</sup> fueron injustas (al desmentir a su mensajero Shu’aib)."
+          "id": 1168476,
+          "resource_id": 213,
+          "text": "আর ‘আইকা’বাসীরা [১]ও তো ছিলো সীমালঙ্ঘনকারী,"
         }
       ]
     },
@@ -1723,9 +1723,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955730,
-          "resource_id": 140,
-          "text": "Y los castigamos como consecuencia de negar la verdad. Y ambas ciudades(la de Lot y la del pueblo de Madián) estaban situadas en un claro lugar de fácil acceso."
+          "id": 1168477,
+          "resource_id": 213,
+          "text": "অতঃপর আমরা তাদের থেকে প্রতিশোধ নিলাম, আর এ জনপদ দু’টিই প্রকাশ্য পথের পাশে অবস্থিত।"
         }
       ]
     },
@@ -1744,9 +1744,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955731,
-          "resource_id": 140,
-          "text": "Y las gentes (del valle) de Al Hijr<sup foot_note=149483>1</sup> negaron a los mensajeros<sup foot_note=149484>2</sup>."
+          "id": 1168478,
+          "resource_id": 213,
+          "text": "আর অবশ্যই হিজরবাসীরা [১] রাসূলের প্রতি মিথ্যা আরোপ করেছিল;"
         }
       ]
     },
@@ -1765,9 +1765,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955732,
-          "resource_id": 140,
-          "text": "Les mostramos Nuestras pruebas (y milagros al hacer que una camella saliera de una roca como pidieron), pero las rechazaron dándoles la espalda."
+          "id": 1168479,
+          "resource_id": 213,
+          "text": "আমরা তাদেরকে আমাদের নিদর্শন দিয়েছিলাম, কিন্তু তারা তা উপেক্ষা করেছিল।"
         }
       ]
     },
@@ -1786,9 +1786,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955733,
-          "resource_id": 140,
-          "text": "Excavaban sus casas en las montañas sin nada que temer."
+          "id": 1168480,
+          "resource_id": 213,
+          "text": "আর তারা পাহার কেটে ঘর নির্মাণ করতো নিরাপদে।"
         }
       ]
     },
@@ -1807,9 +1807,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955734,
-          "resource_id": 140,
-          "text": "Pero se abatió sobre ellos un gran estruendo al amanecer (que los destruyó)."
+          "id": 1168481,
+          "resource_id": 213,
+          "text": "অতঃপর ভোরে বিকট চীৎকার তাদেরকে পাকড়াও করল।"
         }
       ]
     },
@@ -1828,9 +1828,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955735,
-          "resource_id": 140,
-          "text": "Y de nada les sirvió todo lo que habían realizado y acumulado."
+          "id": 1168482,
+          "resource_id": 213,
+          "text": "কাজেই তারা যা অর্জন করত তা তাদের কোন কাজে আসেনি [১]।"
         }
       ]
     },
@@ -1849,9 +1849,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955736,
-          "resource_id": 140,
-          "text": "Y no hemos creado los cielos y la tierra, y cuanto hay entre ellos, sin un firme propósito. Y la Hora final llegará. Dispensa a los incrédulos y perdónalos, pues (¡oh, Muhammad!)."
+          "id": 1168483,
+          "resource_id": 213,
+          "text": "আর আসমান, যমীন ও তাদের মাঝে অবস্থিত কোনো কিছুই যথার্থতা ছাড়া সৃষ্টি করিনি [১] এবং নিশ্চয় কিয়ামত আসবেই। কাজেই আপনি পরম সৌজন্যের সাথে ওদেরকে ক্ষমা করুন [২]।"
         }
       ]
     },
@@ -1870,9 +1870,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955737,
-          "resource_id": 140,
-          "text": "En verdad, tu Señor es el Creador de todas las cosas, el Omnisciente."
+          "id": 1168484,
+          "resource_id": 213,
+          "text": "নিশ্চয় আপনার রব, তিনিই মহাস্রষ্টা, মহাজ্ঞানী [১]।"
         }
       ]
     },
@@ -1891,9 +1891,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955738,
-          "resource_id": 140,
-          "text": "Y, ciertamente, te hemos revelado siete (aleyas)<sup foot_note=149485>1</sup> que se repiten (en el salat) y el sublime Corán."
+          "id": 1168485,
+          "resource_id": 213,
+          "text": "আর আমরা তো আপনাকে দিয়েছি পুনঃ পুনঃ পঠিত সাতটি আয়াত ও মহান কুরআন [১]।"
         }
       ]
     },
@@ -1912,9 +1912,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955739,
-          "resource_id": 140,
-          "text": "No anheleslos bienes que hemos concedido a un grupo de quienes rechazan la verdad(¡oh, Muhammad!) ni te aflijas por ellos (si no creen), y sé amable y humilde con los creyentes."
+          "id": 1168486,
+          "resource_id": 213,
+          "text": "আমর তাদের বিভিন্ন শ্রেণীকে ভোগ- বিলাসের যে উপকরণ দিয়েছি তার প্রতি আপনি কখনো আপনার দুচোখ প্রসারিত করবেন না [১]। তাদের জন্য আপনি দুঃখ করবেন না [২]; আপনি মুমিনদের জন্য আপনার বাহু নত করুন,"
         }
       ]
     },
@@ -1933,9 +1933,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955740,
-          "resource_id": 140,
-          "text": "Y di: «Yo soy, en verdad, un amonestador (que os advierte del castigo de Al-lah)»."
+          "id": 1168487,
+          "resource_id": 213,
+          "text": "এবং বলুন, ‘নিশ্চয় আমিই প্রকাশ্য সতর্ককারী।’"
         }
       ]
     },
@@ -1954,9 +1954,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955741,
-          "resource_id": 140,
-          "text": "Y (se abatirá sobre vosotros el castigo si negáis la verdad) del mismo modo que castigamos a quienes dividieron<sup foot_note=149486>1</sup>"
+          "id": 1168488,
+          "resource_id": 213,
+          "text": "যেভাবে আমরা নাযিল করেছিলাম বিভক্তকারীদের উপর [১]"
         }
       ]
     },
@@ -1975,9 +1975,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955742,
-          "resource_id": 140,
-          "text": "sus Escrituras<sup foot_note=149487>1</sup> (aceptando parte y rechazando el resto)."
+          "id": 1168489,
+          "resource_id": 213,
+          "text": "যারা কুরআনকে বিভিন্নভাবে বিভক্ত করেছে [১]।"
         }
       ]
     },
@@ -1996,9 +1996,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955743,
-          "resource_id": 140,
-          "text": "¡Y por tu Señor que les pediremos cuentas a todos"
+          "id": 1168490,
+          "resource_id": 213,
+          "text": "কাজেই শপথ আপনার রবের! অবশ্যই আমরা তাদের সবাইকে প্রশ্ন করবই,"
         }
       ]
     },
@@ -2017,9 +2017,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955744,
-          "resource_id": 140,
-          "text": "sobre lo que hicieron!"
+          "id": 1168491,
+          "resource_id": 213,
+          "text": "সে বিষয়ে, যা তারা আমল করত।"
         }
       ]
     },
@@ -2038,9 +2038,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955745,
-          "resource_id": 140,
-          "text": "Proclama abiertamente lo que se te ordena (¡oh, Muhammad!) y aléjate de los idólatras."
+          "id": 1168492,
+          "resource_id": 213,
+          "text": "অতএব আপনি যে বিষয়ে আদেশপ্রাপ্ত হয়েছেন তা প্রকাশ্যে প্রচার করুন এবং মুশরিকদের থেকে মুখ ফিরিয়ে নিন।"
         }
       ]
     },
@@ -2059,9 +2059,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955746,
-          "resource_id": 140,
-          "text": "Ciertamente, Nos te bastamos contra quienes se burlan,"
+          "id": 1168493,
+          "resource_id": 213,
+          "text": "নিশ্চয় আমরা বিদ্রুপকারীদের বিরুদ্ধে আপনার জন্য যথেষ্ট [১],"
         }
       ]
     },
@@ -2080,9 +2080,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955747,
-          "resource_id": 140,
-          "text": "esos que equiparan a otros con Al-lah en su derecho a la adoración y los adoran. Pronto sabrán lo que les espera."
+          "id": 1168494,
+          "resource_id": 213,
+          "text": "যারা আল্লাহ্‌র সাথে অন্য ইলাহ নির্ধারণ করে। কাজেই শিঘ্রই তারা জানতে পারবে।"
         }
       ]
     },
@@ -2101,9 +2101,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955748,
-          "resource_id": 140,
-          "text": "Y, en verdad, sabemos que te angustia lo que dicen."
+          "id": 1168495,
+          "resource_id": 213,
+          "text": "আর অবশ্যই আমরা জানি, তারা যা বলে তাতে আপনার অন্তর সংকুচিত হয়;"
         }
       ]
     },
@@ -2122,9 +2122,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955749,
-          "resource_id": 140,
-          "text": "Mas glorifica a tu Señor con alabanzas y sé de quienes se postran ante Él."
+          "id": 1168496,
+          "resource_id": 213,
+          "text": "কাজেই আপনি আপনার রবের সপ্রশংস পবিত্রতা ও মহিমা ঘোষণা করুন এবং আপনি সাজদাকারীদের অন্তর্ভুক্ত হোন [১];"
         }
       ]
     },
@@ -2143,9 +2143,9 @@
       "juz_number": 14,
       "translations": [
         {
-          "id": 955750,
-          "resource_id": 140,
-          "text": "Y adora a tu Señor hasta que te llegue la muerte."
+          "id": 1168497,
+          "resource_id": 213,
+          "text": "আর আপনার মৃত্যু আসা পর্যন্ত আপনি আপনার রবের ইবাদাত করুন [১]।"
         }
       ]
     }
