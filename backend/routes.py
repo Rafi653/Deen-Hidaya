@@ -18,7 +18,7 @@ from schemas import (
 from audio_utils import stream_audio_file, get_audio_path
 from auth import verify_admin_token
 from search_utils import exact_search, fuzzy_search, semantic_search, hybrid_search
-from embedding_service import EmbeddingService
+from embeddings.unified_service import UnifiedEmbeddingService
 
 
 router = APIRouter(prefix="/api/v1", tags=["quran"])
@@ -536,13 +536,13 @@ async def create_embeddings(
         EmbedResponse with status and count of embedded verses
     """
     try:
-        # Initialize embedding service
-        embedding_service = EmbeddingService()
+        # Initialize embedding service with auto backend selection
+        embedding_service = UnifiedEmbeddingService(backend="auto")
         
         if not embedding_service.client:
             raise HTTPException(
                 status_code=500,
-                detail="OpenAI API key not configured. Please set OPENAI_API_KEY environment variable."
+                detail="No embedding backend available. Please install sentence-transformers or set OPENAI_API_KEY."
             )
         
         # Determine which verses to embed

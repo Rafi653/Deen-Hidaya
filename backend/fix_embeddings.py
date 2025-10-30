@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Script to fix missing embeddings for Q&A functionality
-Generates embeddings for verses using OpenAI API
+Generates embeddings for verses using local SBERT or OpenAI API
 """
 import os
 import sys
@@ -13,34 +13,67 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from database import SessionLocal
 from models import Verse, Embedding, Translation
-from embedding_service import EmbeddingService
+from embeddings.unified_service import UnifiedEmbeddingService
 
 
-def check_openai_key():
-    """Check if OpenAI API key is configured"""
+def check_embedding_backend():
+    """Check which embedding backend is available and configured"""
+    backend = os.getenv("EMBEDDING_BACKEND", "auto").lower()
+    
+    print(f"\nEmbedding backend: {backend}")
+    
+    # Check for SBERT (preferred)
+    try:
+        import sentence_transformers
+        print("✓ sentence-transformers is installed (local embedding backend available)")
+        has_sbert = True
+    except ImportError:
+        print("✗ sentence-transformers not installed")
+        print("  Install with: pip install sentence-transformers")
+        has_sbert = False
+    
+    # Check for OpenAI
     api_key = os.getenv("OPENAI_API_KEY")
+    if api_key:
+        if api_key.startswith("sk-"):
+            print(f"✓ OPENAI_API_KEY is configured (length: {len(api_key)} characters)")
+            has_openai = True
+        else:
+            print(f"⚠ WARNING: OPENAI_API_KEY doesn't look valid (should start with 'sk-')")
+            has_openai = True
+    else:
+        print("✗ OPENAI_API_KEY not set")
+        has_openai = False
     
-    if not api_key:
-        print("\n⚠ ERROR: OPENAI_API_KEY environment variable is not set!")
-        print("\nTo fix this:")
-        print("1. Get an API key from https://platform.openai.com/api-keys")
-        print("2. Add it to your .env file:")
-        print("   OPENAI_API_KEY=sk-...")
-        print("3. Restart the backend service")
-        print("\nOr set it temporarily:")
-        print("   export OPENAI_API_KEY=sk-...")
+    # Determine what will be used
+    if backend == "sbert":
+        if not has_sbert:
+            print("\n⚠ ERROR: SBERT backend requested but sentence-transformers not installed!")
+            return None
+        print("\n✓ Will use SBERT (local) backend")
+        return "sbert"
+    elif backend == "openai":
+        if not has_openai:
+            print("\n⚠ ERROR: OpenAI backend requested but OPENAI_API_KEY not set!")
+            return None
+        print("\n✓ Will use OpenAI backend")
+        return "openai"
+    elif backend == "disabled":
+        print("\n⚠ Embedding backend is disabled")
         return None
-    
-    # Check if it looks valid (starts with sk-)
-    if not api_key.startswith("sk-"):
-        print(f"\n⚠ WARNING: OPENAI_API_KEY doesn't look valid (should start with 'sk-')")
-        # Don't log actual key value for security
-        print(f"   Key length: {len(api_key)} characters")
-        return api_key
-    
-    # Mask the key for security - only show it starts with sk- and length
-    print(f"\n✓ OPENAI_API_KEY is configured (length: {len(api_key)} characters)")
-    return api_key
+    else:  # auto
+        if has_sbert:
+            print("\n✓ Will use SBERT (local) backend (preferred)")
+            return "sbert"
+        elif has_openai:
+            print("\n✓ Will use OpenAI backend (fallback)")
+            return "openai"
+        else:
+            print("\n⚠ ERROR: No embedding backend available!")
+            print("\nTo fix this, either:")
+            print("1. Install sentence-transformers: pip install sentence-transformers")
+            print("2. Or set OPENAI_API_KEY in your .env file")
+            return None
 
 
 def check_existing_embeddings():
@@ -93,9 +126,9 @@ def generate_embeddings(language="en", batch_size=100, start_verse_id=None, max_
     print("EMBEDDING GENERATION SCRIPT")
     print("="*70)
     
-    # Check OpenAI key
-    api_key = check_openai_key()
-    if not api_key:
+    # Check embedding backend
+    backend = check_embedding_backend()
+    if not backend:
         return False
     
     # Check current state
@@ -116,15 +149,19 @@ def generate_embeddings(language="en", batch_size=100, start_verse_id=None, max_
     print(f"{'='*70}\n")
     
     # Initialize embedding service
-    service = EmbeddingService(api_key=api_key)
+    service = UnifiedEmbeddingService(backend=backend)
     
-    # Test API connection
-    print("Testing OpenAI API connection...")
+    if not service.client:
+        print("✗ Failed to initialize embedding service")
+        return False
+    
+    # Test embedding generation
+    print("Testing embedding generation...")
     test_embedding = service.generate_embedding("test")
     if test_embedding is None:
-        print("✗ Failed to generate test embedding. Check your API key and network connection.")
+        print("✗ Failed to generate test embedding")
         return False
-    print(f"✓ API connection successful (embedding dimension: {len(test_embedding)})")
+    print(f"✓ Embedding generation successful (dimension: {len(test_embedding)}, model: {service.model})")
     
     # Get verses to process
     db = SessionLocal()
@@ -233,7 +270,7 @@ def main():
     args = parser.parse_args()
     
     if args.check_only:
-        check_openai_key()
+        check_embedding_backend()
         check_existing_embeddings()
         return 0
     
