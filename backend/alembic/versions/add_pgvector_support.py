@@ -49,8 +49,8 @@ def upgrade() -> None:
         op.execute("""
             ALTER TABLE embedding 
             ALTER COLUMN embedding_vector 
-            TYPE vector(1536) 
-            USING NULL::vector(1536)
+            TYPE vector(384) 
+            USING NULL::vector(384)
         """)
         
         # Make column nullable (embeddings will be regenerated)

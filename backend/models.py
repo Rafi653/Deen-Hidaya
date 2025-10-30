@@ -176,7 +176,7 @@ class Embedding(Base):
     id = Column(Integer, primary_key=True, index=True)
     verse_id = Column(Integer, ForeignKey("verse.id", ondelete="CASCADE"), nullable=False, index=True)
     model = Column(String(100), nullable=False, index=True)  # embedding model used
-    embedding_vector = Column(Vector(1536), nullable=True)  # pgvector type for PostgreSQL, nullable for SQLite compatibility
+    embedding_vector = Column(Vector(384), nullable=True)  # pgvector type for PostgreSQL, nullable for SQLite compatibility
     dimension = Column(Integer, nullable=False)  # embedding dimension (e.g., 1536 for OpenAI)
     language = Column(String(10), index=True)  # Language of the embedded text
     created_at = Column(DateTime, default=datetime.utcnow)

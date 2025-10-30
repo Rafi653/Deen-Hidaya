@@ -1,12 +1,12 @@
 {
   "metadata": {
     "surah_number": 12,
-    "scraped_at": "2025-10-29T20:56:02.230136",
+    "scraped_at": "2025-10-30T04:11:03.429700",
     "source": "api.quran.com",
     "version": "1.0",
     "translation_ids": [
       131,
-      140
+      213
     ]
   },
   "license": {
@@ -15,14 +15,14 @@
       "license": "Public Domain",
       "attribution": "The Quran text is in the public domain",
       "terms_url": "https://quran.com/terms",
-      "fetched_at": "2025-10-29T20:56:02.230136"
+      "fetched_at": "2025-10-30T04:11:03.429700"
     },
     "translations": {
       "source": "api.quran.com",
       "license": "Various - See individual translation licenses",
       "attribution": "Translation copyrights belong to respective translators",
       "terms_url": "https://quran.com/terms",
-      "fetched_at": "2025-10-29T20:56:02.230136"
+      "fetched_at": "2025-10-30T04:11:03.429700"
     },
     "audio": {
       "source": "everyayah.com via api.quran.com",
@@ -30,7 +30,7 @@
       "attribution": "Audio recitations courtesy of everyayah.com",
       "terms_url": "https://everyayah.com/",
       "note": "Audio URLs provided - not downloaded locally due to size",
-      "fetched_at": "2025-10-29T20:56:02.230136"
+      "fetched_at": "2025-10-30T04:11:03.429700"
     }
   },
   "translation_metadata": {
@@ -42,9 +42,9 @@
       "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0",
       "source": "api.quran.com"
     },
-    "140": {
-      "name": "Telugu Translation",
-      "author": "Unknown",
+    "213": {
+      "name": "Abdul Hafeez & Mohammed Abdul Haq",
+      "author": "Abdul Hafeez, Mohammed Abdul Haq",
       "language": "te",
       "language_name": "Telugu",
       "license": "Various",
@@ -85,9 +85,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955446,
-          "resource_id": 140,
-          "text": "Alif. Lam. Ra<sup foot_note=149428>1</sup>. Estas son las aleyas de un libro esclarecedor."
+          "id": 1168193,
+          "resource_id": 213,
+          "text": "আলিফ-লাম-রা; এগুলো সুস্পষ্ট কিতাবের আয়াত [১]।"
         }
       ]
     },
@@ -106,9 +106,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955447,
-          "resource_id": 140,
-          "text": "Hemos revelado el Corán en lengua árabe para que podáis comprenderlo."
+          "id": 1168194,
+          "resource_id": 213,
+          "text": "নিশ্চয় আমরা এটা নাযিল করেছি [১] কুরআন হিসেবে আরবি ভাষায়, যাতে তোমরা বুঝতে পারো [২]।"
         }
       ]
     },
@@ -127,9 +127,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955448,
-          "resource_id": 140,
-          "text": "Vamos a contarte (¡oh, Muhammad!) la historia más hermosa de las que te revelamos en el Corán y que antes desconocías."
+          "id": 1168195,
+          "resource_id": 213,
+          "text": "আমরা আপনার কাছে উত্তম কাহিনি বর্ণনা করছি [১], ওহীর মাধ্যমে আপনার কাছে এ কুরআন পাঠিয়ে; যদিও এর আগে আপনি ছিলেন অনবহিতদের অন্তর্ভুক্ত [২]।"
         }
       ]
     },
@@ -148,9 +148,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955449,
-          "resource_id": 140,
-          "text": "Recuerda cuando José dijo a su padre: «¡Padre mío!, he visto en un sueño que once astros, el sol y la luna se postraban ante mí»."
+          "id": 1168196,
+          "resource_id": 213,
+          "text": "স্মরণ করুন, যখন ‘ইউসুফ তার পিতাকে বলেছিলেন, ‘হে আমার পিতা! আমি তো দেখেছি এগার নক্ষত্র, সূর্য এবং চাঁদকে, দেখেছি তাদেরকে আমার প্রতি সিজ্দাবনত অবস্থায় [১]।’"
         }
       ]
     },
@@ -169,9 +169,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955450,
-          "resource_id": 140,
-          "text": "(Su padre) dijo: «¡Hijo mío! No cuentes tu sueño a tus hermanos, pues podrían conspirar contra ti. En verdad, el Demonio es un enemigo declarado del hombre."
+          "id": 1168197,
+          "resource_id": 213,
+          "text": "তিনি বললেন, ‘হে আমার বৎস! তোমার স্বপ্নের কথা তোমার ভাইদের কাছে বলো না [১]; বললে তাঁরা তোমার বিরুদ্ধে গভীর ষড়যন্ত্র করবে [২]। শয়তান তো মানুষের প্রকাশ্য শত্রু [৩]।"
         }
       ]
     },
@@ -190,9 +190,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955451,
-          "resource_id": 140,
-          "text": "»Así es como tu Señor te ha escogido y te enseñará la interpretación de los sueños, y completará Su gracia sobre ti (haciendo de ti un profeta) y sobre la familia deJacob, como ya hiciera con tus antepasados Abraham e Isaac. Ciertamente, tu Señor es Sabio y Omnisciente»."
+          "id": 1168198,
+          "resource_id": 213,
+          "text": "আর এভাবে আপনার রব আপনাকে মনোনীত করবেন এবং আপনাকে স্বপ্নের ব্যাখ্যা [১] শিক্ষা দেবেন [২] এবং আপনার প্রতি ও ইয়া’কুবের পরিবার পরিজনদের উপর তাঁর অনুগ্রহ পূর্ণ করবেন  [৩], যেভাবে তিনি এটা আগে পূর্ণ করেছিলেন আপনার পিতৃ-পুরুষ ইবরাহীম ও ইসহাকের উপর [৪]। নিশ্চয় আপনার রব সর্বজ্ঞ, প্রজ্ঞাময় [৫]।"
         }
       ]
     },
@@ -211,9 +211,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955452,
-          "resource_id": 140,
-          "text": "En José y sus hermanos hay, en verdad, una lección y pruebas sobre el poder y la sabiduría de Al-lah para quienes preguntan (acerca de su historia)."
+          "id": 1168199,
+          "resource_id": 213,
+          "text": "অবশ্যই ইউসুফ এবং তাঁর ভাইদের [১] ঘটনায় জিজ্ঞাসুদের জন্য অনেক নিদর্শন রয়েছে [২]।"
         }
       ]
     },
@@ -232,9 +232,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955453,
-          "resource_id": 140,
-          "text": "Recuerda cuando (los hermanos de José) se dijeron entre sí: «Nuestro padre ama a José y a su hermano (pequeño de madre, Benjamín,) más que a nosotros, mientras que nosotros somos un grupo fuerte y numeroso. Ciertamente, nuestro padre está en un claro error."
+          "id": 1168200,
+          "resource_id": 213,
+          "text": "স্মরণ করুন, তারা বলেছিল, ‘আমাদের পিতার কাছে ইউসুফ এবং তার ভাই তো আমাদের চেয়ে বেশী প্রিয়, অথচ আমরা একটি সংহত দল; আমাদের পিতা তো স্পষ্ট বিভ্রান্তিতেই আছে [১]।"
         }
       ]
     },
@@ -253,9 +253,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955454,
-          "resource_id": 140,
-          "text": "»Matemos a José o expulsémoslo lejos para que nuestro padre se fije solo en nosotros, y arrepintámonos después para ser rectos y virtuosos»."
+          "id": 1168201,
+          "resource_id": 213,
+          "text": "‘তোমরা ইউসুফকে হত্যা কর অথবা কোনো স্থানে তাকে ফেলে আস, তাহলে তোমাদের পিতার দৃষ্টি শুধু তোমাদের দিকেই নিবিষ্ট হবে এবং তারপর তোমরা ভাল লোক হয়ে যাবে [১]।‘"
         }
       ]
     },
@@ -274,9 +274,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955455,
-          "resource_id": 140,
-          "text": "Uno de ellos dijo: «No matéis a José. Arrojadlo a un pozo donde pueda encontrarlo alguna caravana (que se lo lleve lejos como esclavo), si estáis decididos a hacerlo»."
+          "id": 1168202,
+          "resource_id": 213,
+          "text": "তাদের মধ্যে একজন বলল, ‘তোমরা ইউসুফকে হত্যা করো না এবং যদি কিছু করতেই চাও তবে তাকে কোনো কূপের গভীরে নিক্ষেপ কর, যত্রীদলের কেউ তাকে তুলে নিয়ে যাবে [১]।’"
         }
       ]
     },
@@ -295,9 +295,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955456,
-          "resource_id": 140,
-          "text": "(Entonces se dirigieron a su padre y le) dijeron: «¡Oh, padre!, ¿por qué no nos confías a José si nosotros nos preocupamos por él y queremos su bien?"
+          "id": 1168203,
+          "resource_id": 213,
+          "text": "তারা বলল, ‘হে আমাদের পিতা! আপনার কি হলো যে, ইউসুফের ব্যাপারে আপনি আমাদেরকে নিরাপদ মনে করছেন না, অথচ আমরা তো তার শুভাকাঙ্ক্ষী?"
         }
       ]
     },
@@ -316,9 +316,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955457,
-          "resource_id": 140,
-          "text": "»Envíalo con nosotros mañana para que se divierta y juegue, y nosotros lo protegeremos»."
+          "id": 1168204,
+          "resource_id": 213,
+          "text": "‘আপনি আগামী কাল তাকে আমাদের সাথে পাঠান, সে সানন্দে ঘোরাফেরা করবে ও খেলাধুলা করবে [১]। আর আমরা অবশ্যই তার রক্ষণাবেক্ষণকারী হব।’"
         }
       ]
     },
@@ -337,9 +337,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955458,
-          "resource_id": 140,
-          "text": "(Su padre) dijo: «Si os lo lleváis, me entristeceré, y temo que lo devore el lobo en un descuido vuestro»."
+          "id": 1168205,
+          "resource_id": 213,
+          "text": "তিনি বললেন, ‘এটা আমাকে অবশ্যই কষ্ট দেবে যে তোমরা তাকে নিয়ে যাবে এবং আমি আশংকা করি তাকে নেকড়ে বাঘ খেয়ে ফেলবে, আর তোমরা তার প্রতি অমনোযোগী থাকবে।’"
         }
       ]
     },
@@ -358,9 +358,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955459,
-          "resource_id": 140,
-          "text": "(Estos) respondieron: «Si se lo comiera el lobo siendo como somos un grupo fuerte, seríamos unos inútiles»."
+          "id": 1168206,
+          "resource_id": 213,
+          "text": "তারা বলল, ‘আমরা একটি সংহত দল হওয়া সত্ত্বেও যদি নেকড়ে বাঘ তাকে খেয়ে ফেলে, তবে তো আমরা অবশ্যই ক্ষতিগ্রস্ত।’"
         }
       ]
     },
@@ -379,9 +379,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955460,
-          "resource_id": 140,
-          "text": "Y cuando se llevaron a José habiendo acordado arrojarlo al fondo de un pozo, le revelamos: «Un día les recordarás lo que hicieron y no te reconocerán»."
+          "id": 1168207,
+          "resource_id": 213,
+          "text": "অতঃপর তারা যখন তাকে নিয়ে গেল এবং কূপের গভীরে নিক্ষেপ করতে একমত হল, আর এ অবস্থায় আমরা তাকে জানিয়ে দিলাম, ‘তুমি তাদেরকে এ কাজের কথা অবশ্যই বলে দেবে’; অথচ তারা তা উপলব্ধি করতে পারবে না [১]।"
         }
       ]
     },
@@ -400,9 +400,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955461,
-          "resource_id": 140,
-          "text": "Y se presentaron ante su padre por la noche, llorando."
+          "id": 1168208,
+          "resource_id": 213,
+          "text": "আর তারা রাতের প্রথম প্রহরে কাঁদতে কাঁদতে তাদের পিতার কাছে আসল।"
         }
       ]
     },
@@ -421,9 +421,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955462,
-          "resource_id": 140,
-          "text": "Dijeron: «¡Oh, padre!, nos pusimos a hacer carreras y dejamos a José con nuestras pertenencias, y un lobo se lo comió; y no vas a creernos a pesar de que decimos la verdad»."
+          "id": 1168209,
+          "resource_id": 213,
+          "text": "তারা বলল, ‘হে আমাদের পিতা! আমরা দৌড়ের প্রতিযোগিতা করতে গিয়েছিলাম [১] এবং ইউসুফকে আমাদের মালপত্রের কাছে রেখে গিয়েছিলাম, অতঃপর নেকড়ে বাঘ তাকে খেয়ে ফেলেছে; কিন্তু আপনি তো আমাদেরকে বিশ্বাস করবেন না যদিও আমরা সত্যবাদী হই।’"
         }
       ]
     },
@@ -442,9 +442,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955463,
-          "resource_id": 140,
-          "text": "Y le mostraron la camisa de José manchada de una sangre falsa. (El padre) dijo: «¡No, (no es cierto lo que decís)!, algo malo habéis tramado contra él<sup foot_note=149429>1</sup>. Seré paciente. Al-lah es mi único consuelo ante lo que contáis (pues solo a Él puedo pedirle ayuda)»."
+          "id": 1168210,
+          "resource_id": 213,
+          "text": "আর তারা তার জামায় মিথ্যা রক্ত লেপন করে এনেছিল। তিনি বললেন, ‘না, বরং তোমাদের মন তোমাদের জন্য একটি কাহিনী সাজিয়ে দিয়েছে। কাজেই উত্তম ধৈর্যই আমি গ্রহণ করব। আর তোমরা যা বর্ণনা করছ সে বিষয়ে একমাত্র আল্লাহ্‌ই আমার সাহায্যস্থল [১]।"
         }
       ]
     },
@@ -463,9 +463,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955464,
-          "resource_id": 140,
-          "text": "Y llegó una caravana (de viajeros) y mandaron a unos a por agua. Cuando echaron el cubo en el pozo, uno de ellos dijo: «¡Buenas noticias! ¡Aquí hay un niño!». Y ocultaron la verdad sobre José (al resto de la caravana) con la intención de venderlo como una mercancía<sup foot_note=149430>1</sup>. Pero Al-lah sabía bien lo que hacían."
+          "id": 1168211,
+          "resource_id": 213,
+          "text": "আর এক দল যাত্রীদল আসল, অতঃপর তারা তাদের পানি সংগ্রাহককে  পাঠালে সে তার পানির বালতি নামিয়ে দিল। সে বলে উঠল। ‘কি সুখবর! এ যে এক কিশোর! [১] এবং তারা তাকে পণ্যরূপে লুকিয়ে রাখল [২]। আর তারা যা করেছিল সে বিষয়ে আল্লাহ্‌ সবিশেষ অবগত [৩]।"
         }
       ]
     },
@@ -484,9 +484,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955465,
-          "resource_id": 140,
-          "text": "Y lo vendieron por un bajo precio, por unas pocas piezas de plata<sup foot_note=149431>1</sup>, pues consideraban a José insignificante."
+          "id": 1168212,
+          "resource_id": 213,
+          "text": "আর তারা তাকে বিক্রি করল স্বল্প মূল্যে, মাত্র কয়েক দিরহামের বিনিময়ে [১] এবং তারা ছিল তার ব্যাপারে অনাগ্রহী [২]।"
         }
       ]
     },
@@ -505,9 +505,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955466,
-          "resource_id": 140,
-          "text": "El egipcio que lo compró le dijo a su mujer: «¡Haz que su estancia (entre nosotros) sea confortable! Puede que nos sea de utilidad o que lo adoptemos como hijo». Así es como establecimos a José en la tierra de Egiptoy le enseñamos la interpretación de los sueños. Nadie puede evitar que se cumpla la voluntad de Al-lah, pero la mayoría de la gente no lo sabe."
+          "id": 1168213,
+          "resource_id": 213,
+          "text": "আর মিসরের যে ব্যক্তি তাকে কিনেছিল, সে তার স্ত্রীকে বলল, ‘এর থাকার সম্মানজনক ব্যবস্থা কর, সম্ভবত সে আমাদের উপকারে আসবে বা আমরা একে পুত্ররূপেও গ্রহণ করতে পারি [১]।‘ আর এভাবেই আমরা ইউসুফকে সে দেশে প্রতিষ্ঠিত করলাম [২]; এবং যাতে আমরা তাকে স্বপ্নের ব্যাখ্যা শিক্ষা দেই [৩]। আর আল্লাহ্‌ তাঁর কাজ সম্পাদনে অপ্রতিহত; কিন্তু অধিকাংশ মানুষ জানে না [৪]।"
         }
       ]
     },
@@ -526,9 +526,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955467,
-          "resource_id": 140,
-          "text": "Y cuando se hizo un hombre le concedimos sabiduría y conocimiento. Así es como recompensamos a quienes hacen el bien."
+          "id": 1168214,
+          "resource_id": 213,
+          "text": "আর সে যখন পূর্ণ যৌবনে উপনীত হল তখন আমরা তাকে হিকমত ও জ্ঞান দান করলাম [১]। আর এভাবেই আমরা ইহসানকারীদেরকে পুরস্কৃত করি [২]।"
         }
       ]
     },
@@ -547,9 +547,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955468,
-          "resource_id": 140,
-          "text": "Y la señora de la casa intentó seducirlo y cerró las puertas. Entonces le dijo: «¡Ven a mí!». Él contestó (rechazándola): «¡Que Al-lah me proteja! Mi amo (tu marido) me ha tratado siempre bien (no voy a traicionarlo). En verdad, los injustos no triunfarán»."
+          "id": 1168215,
+          "resource_id": 213,
+          "text": "আর তিনি যে স্ত্রীলোকের ঘরে ছিলেন সে তাকে কু-প্ররোচনা দিল এবং দরজাগুলো বন্ধ করে দিল, আর বলল, ‘আস [১]।‘ তিনি বললেন, ‘আমি আল্লাহ্‌র আশ্রয় প্রার্থনা করছি [২], নিশ্চয় তিনি আমার মনিব; তিনি আমার থাকার সুন্দর ব্যবস্থা করেছেন। নিশ্চয় যালিমরা সফলকাম হয় না [৩]।’"
         }
       ]
     },
@@ -568,9 +568,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955469,
-          "resource_id": 140,
-          "text": "Y ella lo deseó, y él habría accedido de no haber visto una señal de su Señor. Y así alejamos de él el mal y la indecencia. Ciertamente, él era uno de Nuestros siervos a los que escogimos (para transmitir Nuestro mensaje) y era sincero (en su adoración a Al-lah)."
+          "id": 1168216,
+          "resource_id": 213,
+          "text": "আর সে মহিলা তো তার প্রতি আসক্ত হয়েছিল এবং তিনিও তার প্রতি আসক্ত [১] হয়ে পড়তেন যদি না তিনি তার রবের নিদর্শন দেখতে পেতেন [২]। এভাবেই (তা হয়েছিল), যাতে আমরা তার থেকে মন্দকাজ ও অশ্লীলতা দূর করে দেই [৩]। তিনি তো ছিলেন আমাদের মুখলিস বা বিশুদ্ধচিত্ত বান্দাদের অন্তর্ভুক্ত।"
         }
       ]
     },
@@ -589,9 +589,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955470,
-          "resource_id": 140,
-          "text": "Y ambos corrieron hacia la puerta y ella le desgarró la camisa por detrás, y se encontraron con su marido en el umbral.Ella dijo (maliciosamente para alejar de ella cualquier sospecha): «¿Qué merece quien ha pretendido una mala acción contra tu mujer sino la cárcel o un castigo doloroso?»."
+          "id": 1168217,
+          "resource_id": 213,
+          "text": "আর তারা উভয়ে দৌড়ে দরজার দিকে গেল এবং স্ত্রীলোকটি পিছন হতে তার জামা ছিঁড়ে ফেলল, আর তারা  দু’জন স্ত্রীলোকটির স্বামীকে দরজার কাছে পেল। স্ত্রীলোকটি বলল, ‘যে তোমার পরিবারের সাথে মন্দ কাজ করার ইচ্ছা করে তার জন্য কারাগারে প্রেরণ বা অন্য কোনো যন্ত্রণাদায়ক শাস্তি ছাড়া আর কি দণ্ড হতে পারে?’"
         }
       ]
     },
@@ -610,9 +610,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955471,
-          "resource_id": 140,
-          "text": "(José) dijo: «¡Ella fue quien intentó seducirme!». Un miembro de la familia de ella dijo: «Si la camisa está desgarrada por delante, ella dice la verdad y él miente;"
+          "id": 1168218,
+          "resource_id": 213,
+          "text": "ইউসুফ বললেন, ‘সে-ই আমাকে কু-প্ররোচনা দিয়েছে।’ আর স্ত্রীলোকটির পরিবারের একজন সাক্ষী সাক্ষ্য দিল, ‘যদি তার জামা সামনের দিকে ছিঁড়ে থাকে তবে স্ত্রীলোকটি সত্য কথা বলেছে এবং সে পুরুষটি মিথ্যাবাদীদের অন্তর্ভুক্ত।"
         }
       ]
     },
@@ -631,9 +631,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955472,
-          "resource_id": 140,
-          "text": "»mas si la camisa estádesgarrada por detrás, ella miente y él dice la verdad»."
+          "id": 1168219,
+          "resource_id": 213,
+          "text": "আর তার জামা যদি পিছন দিক থেকে ছিঁড়ে থাকে তবে স্ত্রীলোকটি মিথ্যা বলেছে এবং সে পুরুষটি সত্যবাদীদের অন্তর্ভুক্ত।’"
         }
       ]
     },
@@ -652,9 +652,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955473,
-          "resource_id": 140,
-          "text": "Y cuando (su marido) vio que la camisa estaba desgarrada por detrás, dijo: «Esta es una maquinación de las que hacéis las mujeres. Ciertamente, vuestras maquinaciones son terribles."
+          "id": 1168220,
+          "resource_id": 213,
+          "text": "অতঃপর গৃহস্বামী যখন দেখল যে, তার জামা পিছন দিক থেকে ছেঁড়া হয়েছে তখন সে বলল, ‘নিশ্চয় এটা তোমাদের নারীদের ছলনা, তোমাদের ছলনা তো ভীষণ [১]।"
         }
       ]
     },
@@ -673,9 +673,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955474,
-          "resource_id": 140,
-          "text": "»José, no menciones a nadie lo sucedido; y tú, (mujer) pide perdón por tus pecados, en verdad, has sido una pecadora»."
+          "id": 1168221,
+          "resource_id": 213,
+          "text": "‘হে ইউসুফ! তুমি এটা উপেক্ষা কর এবং হে নারী! তুমি তোমার অপরাধের জন্য ক্ষমা প্রার্থনা কর; তুমি তুমিই তো অপরাধীদের অন্তর্ভুক্ত [১]।’"
         }
       ]
     },
@@ -694,9 +694,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955475,
-          "resource_id": 140,
-          "text": "Y algunas mujeres de la ciudad comentaban: «La mujer de Al Aziz<sup foot_note=149432>1</sup> pretende seducir a su joven sirviente. Está loca de amor por él. Ciertamente, la vemos en un claro error»."
+          "id": 1168222,
+          "resource_id": 213,
+          "text": "আর নগরের কিছু সংখ্যক নারী বলল, ‘আযীযের স্ত্রী তাঁর যুবক দাস হতে অসৎকাজ কামনা করছে, প্রেম তাকে উন্মন্ত করছে, আমরা তো তাকে স্পষ্ট ভ্রষ্টতার মধ্যেই নিপতিত দেখছি।’"
         }
       ]
     },
@@ -715,9 +715,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955476,
-          "resource_id": 140,
-          "text": "Cuando ella supo lo que rumoreaban, les envió (unas invitaciones) y preparó un banquete, y entregó un cuchillo (bien afilado) a cada una de ellas (para que cortaran la comida). Entonces le dijo (a José): «Entra para que te vean». Cuando lo vieron, exaltaron (su belleza) y se cortaron las manos con los cuchillos (sin darse cuenta), y dijeron (maravilladas): «¡Válganos Al-lah! Este no es un ser humano, sino un ángel noble»."
+          "id": 1168223,
+          "resource_id": 213,
+          "text": "অতঃপর স্ত্রীলোকটি যখন তাদের ষড়যন্ত্রের কথা শুনল, তখন সে তাদেরকে ডেকে পাঠাল [১] এবং তাদের জন্য আসন প্রস্তুত করল। আর তাদের সবাইকে একটি করে ছুরি দিল এবং ইউসুফকে বলল, ‘তাদের সামনে বের হও।’ অতঃপর তারা যখন তাকে দেখল তখন তারা তার সৌন্দর্যে অভিভূত হল [২] ও নিজেদের হাত কেটে ফেলল এবং তারা বলল, ‘অদ্ভুত আল্লাহ্‌র মাহাত্ম্য! এ তো মানুষ নয়, এ তো এক মহিমান্বিত ফেরেশ্‌তা [৩]।’"
         }
       ]
     },
@@ -736,9 +736,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955477,
-          "resource_id": 140,
-          "text": "Entonces, ella dijo: «He aquí aquel por quien me criticabais.Y es cierto que quise seducirlo, pero él se resistió. Mas si no hace (ahora) lo que le ordeno, será encarcelado o humillado»."
+          "id": 1168224,
+          "resource_id": 213,
+          "text": "সে বলল, ‘এ-ই সে যার সম্বন্ধে তোমরা আমার নিন্দা করেছ। আমি তো তার থেকে অসৎ কাজ কামনা করেছি। কিন্তু সে নিজেকে পবিত্র রেখেছে; আর আমি তাকে যা আদেশ করেছি সে যদি তা না করে, তবে সে অবশ্যই অবশ্যই কারারুদ্ধ হবে এবং অবশ্যই সে হীনদের অন্তর্ভুক্ত হবে [১]।’"
         }
       ]
     },
@@ -757,9 +757,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955478,
-          "resource_id": 140,
-          "text": "(José) invocó a Al-lah diciendo: «¡Señor!, prefiero la cárcel a lo que me piden; y si no apartas de mí lo que traman, cederé y seré de los ignorantes»."
+          "id": 1168225,
+          "resource_id": 213,
+          "text": "ইউসুফ বললেন, ‘হে আমার রব! এ নারীরা আমাকে যার দিকে ডাকছে তার চেয়ে কারাগার আমার কাছে বেশী প্রিয়। আপনি যদি তাদের ছলনা হতে আমাকে রক্ষা না করেন তবে আমি তাদের প্রতি আকৃষ্ট হয়ে পড়ব এবং অজ্ঞদের অন্তর্ভুক্ত হব [১]।’"
         }
       ]
     },
@@ -778,9 +778,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955479,
-          "resource_id": 140,
-          "text": "Y su Señor respondió a su súplica y alejó de él lo que maquinaban. En verdad, Él es el Oyente (de todas las cosas), el Omnisciente."
+          "id": 1168226,
+          "resource_id": 213,
+          "text": "সুতরাং তার রব তার ডাকে সাড়া দিলেন এবং তাকে তাদের ছলনা হতে রক্ষা করলেন। তিনি তো সর্বশ্রোতা, সর্বজ্ঞ।"
         }
       ]
     },
@@ -799,9 +799,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955480,
-          "resource_id": 140,
-          "text": "Después, a pesar de ver las pruebas (de su inocencia), consideraron conveniente encarcelarlo durante un tiempo (para evitar las habladurías)."
+          "id": 1168227,
+          "resource_id": 213,
+          "text": "তারপর বিভিন্ন নিদর্শনাবলী দেখার পর তাদের মনে হল যে, তাকে অবশ্যই কিছু কালের জন্য কারারুদ্ধ করতে হবে।"
         }
       ]
     },
@@ -820,9 +820,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955481,
-          "resource_id": 140,
-          "text": "Y entraron con él en la cárcel dos jóvenes. Uno de ellos le dijo (a José): «Me he visto (en sueños) prensando uva». Y el otro le dijo: «Yo he visto (en sueños) que llevaba pan sobre la cabeza y que los pájaros comían de él. Explícanos su interpretación, pues vemos que eres un hombre de bien»."
+          "id": 1168228,
+          "resource_id": 213,
+          "text": "আর তার সাথে দুই যুবক কারাগারে প্রবেশ করল। তাদের একজন বলল, ‘আমি স্বপ্নে আমাকে দেখলাম, আমি মদের জন্য আঙুর নিংড়াচ্ছি’ এবং অন্যজন বলল, ‘আমি স্বপ্নে আমাকে দেখলাম, আমি আমার মাথায় রুটি বহন করছি এবং পাখি তা থেকে খাচ্ছে। আমাদেরকে আপনি এটার তাৎপর্য জানিয়ে দিন, আমরা তো আপনাকে মুহসিনদের অন্তর্ভুক্ত দেখেছি [১]।"
         }
       ]
     },
@@ -841,9 +841,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955482,
-          "resource_id": 140,
-          "text": "(José) respondió: «Antes de que os traigan la comida que os proporcionan, os habré contado su interpretación, pues es parte de lo que mi Señor me ha enseñado. (Sabed que) mehe desentendido de la religión de quienes no creen en Al-lah y niegan la otra vida,"
+          "id": 1168229,
+          "resource_id": 213,
+          "text": "ইউসুফ বললেন, ‘তোমাদেরকে যে খাদ্য দেয়া হয় তা আসার আগে আমি তোমাদেরকে স্বপ্নের তাৎপর্য জানিয়ে দেব [১]। আমি যা তোমাদেরকে বলব তা, আমার রব আমাকে যা শিক্ষা দিয়েছেন তা থেকে বলব। নিশ্চয় আমি বর্জন করেছি সে সম্প্রদায়ের ধর্মমত যারা আল্লাহ্র উপর ঈমান আনে না। আর যারা আখিরাতের সাথে কুফরীকারী।’"
         }
       ]
     },
@@ -862,9 +862,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955483,
-          "resource_id": 140,
-          "text": "»y sigo la religión de mis antepasados Abraham, Isaac y Jacob. No podemos adorar a otros equiparándolos con Al-lah (sino que debemos adorarlo solo a Él). Esta es una gracia<sup foot_note=149433>1</sup> de Al-lah para nosotros y para la humanidad, pero la mayoría de la gente es desagradecida."
+          "id": 1168230,
+          "resource_id": 213,
+          "text": "‘আমি আমার পিতৃপুরুষ ইব্‌রাহীম, ইস্‌হাক এবং ইয়া’কূবের মিল্লাত অনুসরণ করি। আল্লাহ্‌র সাথে কোনো বস্তুকে শরীক করা আমাদের জন্য সংগত নয়। এটা আমাদের ও সমস্ত মানুষের প্রতি আল্লাহ্‌র অনুগ্রহ; কিন্তু অধিকাংশ মানুষই কৃতজ্ঞতা প্রকাশ করে না।"
         }
       ]
     },
@@ -883,9 +883,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955484,
-          "resource_id": 140,
-          "text": "»Compañeros de prisión, ¿qué es mejor, adorar a varias divinidades o adorar solo a Al-lah, el Único, el Dominador Supremo?"
+          "id": 1168231,
+          "resource_id": 213,
+          "text": "'হে আমার কারা-সঙ্গীদ্বয়! ভিন্ন ভিন্ন বহু রব উত্তম, না মহাপ্রতাপশালী এক আল্লাহ্‌?"
         }
       ]
     },
@@ -904,9 +904,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955485,
-          "resource_id": 140,
-          "text": "»Lo que adoráis fuera de Él no son sino nombres que vosotros mismos y vuestros antepasados habéis inventado (con los que nombráis a vuestros ídolos) sin la autorización de Al-lah. El poder de decretar pertenece solo a Al-lah, y ha ordenado que se Lo adore solo a Él. Esa es la religión recta y verdadera, pero la mayoría de la gente no lo sabe."
+          "id": 1168232,
+          "resource_id": 213,
+          "text": "‘তাঁকে ছেড়ে তোমরা শুধু কতগুলো নামের ‘ইবাদাত করছ, যে নামগুলো তোমাদের পিতৃপুরুষ ও তোমরা রেখেছ; এগুলোর কোনো প্রমাণ আল্লাহ্‌ পাঠাননি। বিধান দেয়ার অধিকার শুধু আল্লাহ্‌রই। তিনি নির্দেশ দিয়েছেন শুধু তাঁকে ছাড়া অন্য কারো ‘ইবাদাত না করতে, এটাই শাশ্বত দীন কিন্তু অধিকাংশ মানুষ এটা জানে না [১]।"
         }
       ]
     },
@@ -925,9 +925,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955486,
-          "resource_id": 140,
-          "text": "»¡Compañeros de prisión!, con respecto a vuestros sueños, uno de vosotros (saldrá libre) y servirá vino a su señor (volviendo a gozar de su gracia), y el otro será clavado en un madero y los pájaros comerán de su cabeza. Lo que me habéis preguntado está ya decidido»."
+          "id": 1168233,
+          "resource_id": 213,
+          "text": "‘হে আমার কারা-সঙ্গীদ্বয়! তোমাদের দুজনের একজন তার মনিবকে মদ পান করাবে [১] এবং অন্যজন [২] শূলবিদ্ধ হবে; অতঃপর তার মস্তক হতে পাখি খাবে। যে বিষয়ে তোমরা জানতে চেয়েছ তার সিদ্ধান্ত হয়ে গেছে [৩]।’"
         }
       ]
     },
@@ -946,9 +946,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955487,
-          "resource_id": 140,
-          "text": "Y (José) dijo a quien creía que se salvaría de los dos: «¡Háblale de mí a tu señor!». Mas el Demonio hizo que se olvidara, y (José) permaneció en la cárcel durante unos años."
+          "id": 1168234,
+          "resource_id": 213,
+          "text": "আর ইউসুফ তাদের মধ্যে যে মুক্তি পাবে মনে করলেন, তাকে বললেন, ‘তোমার মনিবের কাছে আমার কথা বলো’, কিন্তু শয়তান তাকে তার মনিবের কাছে তার বিষয় বলার কথা ভুলিয়ে দিল; কাজেই ইউসুফ কয়েক বছর কারাগারে রয়ে গেলেন [১]।"
         }
       ]
     },
@@ -967,9 +967,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955488,
-          "resource_id": 140,
-          "text": "Y dijo el rey<sup foot_note=149434>1</sup> (de Egipto): «Veo en mis sueños que siete vacas gordas son devoradas por siete flacas, y veo también siete espigas verdes y siete secas. ¡Vosotros, mis dignatarios!, decidme qué significa, si podéis interpretar los sueños»."
+          "id": 1168235,
+          "resource_id": 213,
+          "text": "আর রাজা বলল, ‘আমি স্বপ্নে দেখলাম, সাতটি মোটাতাজা গাভী, তাদেরকে সাতটি দুর্বল গাভী খেয়ে ফেলছে এবং দেখলাম সাতটি সবুজ শীষ ও অপর সাতটি শুষ্ক। হে সভাষদগণ! যদি তোমরা স্বপ্নের ব্যাখ্যা করতে পার তবে আমার স্বপ্ন সম্বন্ধে অভিমত দাও।’"
         }
       ]
     },
@@ -988,9 +988,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955489,
-          "resource_id": 140,
-          "text": "Estos respondieron: «Es una maraña de sueños, y nosotros no sabemos interpretarlos»."
+          "id": 1168236,
+          "resource_id": 213,
+          "text": "তারা বলল, ‘এটা অর্থহীন স্বপ্ন এবং আমরা এরূপ স্বপ্ন ব্যাখ্যায় অভিজ্ঞ নই [১]।’"
         }
       ]
     },
@@ -1009,9 +1009,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955490,
-          "resource_id": 140,
-          "text": "Y el que (había sido compañero de José en la cárcel y) se había salvado se acordó de él al cabo de un tiempo y dijo: «Yo os informaré sobre su significado. Permitid que vaya (a ver a José)»."
+          "id": 1168237,
+          "resource_id": 213,
+          "text": "আর সে দুজন কারারুদ্ধের মধ্যে যে মুক্তি পেয়েছিল এবং দীর্ঘকাল পরে যার স্মরণ হল সে বলল, ‘আমি এর তাৎপর্য তোমাদেরকে জানিয়ে দেব। কাজেই তোমরা আমাকে পাঠাও [১]।’"
         }
       ]
     },
@@ -1030,9 +1030,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955491,
-          "resource_id": 140,
-          "text": "(Cuando vio a José le dijo:) «José, tú que eres un hombre veraz, dime qué significan sietes vacas gordas devoradas por siete flacas, y siete espigas verdes y siete secas para que pueda regresar a mi gente y sepan (la respuesta)»."
+          "id": 1168238,
+          "resource_id": 213,
+          "text": "সে বলল, ‘হে ইউসুফ! হে সত্যবাদী [১]! সাতটি মোটাতাজা গাভী, সেগুলোকে সাতটি দুর্বল গাভী খেয়ে ফেলছে এবং সাতটি সবুজ শীষ ও অপর সাতটি শুষ্ক শীষ সম্বন্ধে আপনি আমাদেরকে ব্যাখ্যা দিন [২], যাতে আমি লোকদের কাছে ফিরে যেতে পারি ও তারা জানতে পারে [৩]।’"
         }
       ]
     },
@@ -1051,9 +1051,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955492,
-          "resource_id": 140,
-          "text": "(José) respondió: «Cultivaréis la tierra durante siete años consecutivos, y lo que recolectéis lo dejaréis en su espiga, salvo una pequeña parte que consumiréis."
+          "id": 1168239,
+          "resource_id": 213,
+          "text": "ইউসুফ বললেন, ‘তোমরা সাত বছর একাধারে চাষ করবে, অতঃপর তোমরা যে শস্য কাটবে তার মধ্যে যে সামান্য পরিমাণ তোমরা খাবে, তা ছাড়া বাকী সবগুলো শীষসহ রেখে দেবে;"
         }
       ]
     },
@@ -1072,9 +1072,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955493,
-          "resource_id": 140,
-          "text": "»Después vendrán siete años duros que consumirán lo que habíais almacenado para ellos, salvo una pequeña parte que habréis reservado (para sembrar)."
+          "id": 1168240,
+          "resource_id": 213,
+          "text": "‘এরপর আসবে সাতটি কঠিন বছর [১], এ সাত বছর, যা আগে সঞ্চয় করে রাখবে, লোকেরা তা খাবে; শুধুমাত্র সামান্য কিছু যা তোমরা সংরক্ষণ করবে, তা ছাড়া [২]।"
         }
       ]
     },
@@ -1093,9 +1093,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955494,
-          "resource_id": 140,
-          "text": "»A continuación vendrá un año (de abundante lluvia) que socorrerá a la gente, y en él prensarán (para hacer aceite y vino)»."
+          "id": 1168241,
+          "resource_id": 213,
+          "text": "‘তারপর আসবে এক বছর, সে বছর মানুষের জন্য প্রচুর বৃষ্টিপাত হবে এবং সে বছর মানুষ ফলের রস নিংড়াবে [১] ।’"
         }
       ]
     },
@@ -1114,9 +1114,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955495,
-          "resource_id": 140,
-          "text": "El rey dijo: «¡Traedlo (a José) ante mí!». Y cuando el emisario se presentó ante él, (José) le dijo: «Regresa a tu señor y pregúntale qué sucedió con las mujeres que se cortaron las manos. Ciertamente, mi Señor sabe bien lo que tramaban»."
+          "id": 1168242,
+          "resource_id": 213,
+          "text": "আর রাজা বলল, ‘তোমরা ইউসুফকে আমার কাছে নিয়ে আস [১]।’ অতঃপর যখন দূত তার কাছে উপস্থিত হল তখন তিনি বললেন, ‘তুমি তোমার মনিবের কাছে ফিরে যাও এবং তাকে জিজ্ঞেস কর, যে নারীরা হাত কেটে ফেলেছিল তাদের অবস্থা কী! নিশ্চয় আমার রব তাদের ছলনা সম্পর্কে সম্যক অবগত [২]।’"
         }
       ]
     },
@@ -1135,9 +1135,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955496,
-          "resource_id": 140,
-          "text": "(El rey las hizo comparecer y) les preguntó: «¿Qué pasó cuando intentasteis seducir a José?». Estas contestaron: «¡Válganos Al-lah! No hizo nada malo que supiéramos». La mujer de Al Aziz dijo entonces: «Ahora la verdad saldrá a la luz (para todos). Yo fui quien intentó seducirlo, y él dice la verdad."
+          "id": 1168243,
+          "resource_id": 213,
+          "text": "রাজা নারীদেরকে বলল, ‘যখন তোমরা ইউসুফ থেকে অসৎকাজ কামনা করেছিলে, তখন তোমাদের কী হয়েছিল?’ তারা বলল, 'অদ্ভুত আল্লাহ্‌র মাহাত্ম্য! আমরা তার মধ্যে কোনো দোষ দেখিনি।’ আযীযের স্ত্রী বলল, ‘এতদিনে সত্য প্রকাশ হল, আমিই তাকে প্ররোচনা দিয়েছিলাম, আর সে তো অবশ্যই সত্যবাদীদের অন্তর্ভুক্ত।’"
         }
       ]
     },
@@ -1156,9 +1156,9 @@
       "juz_number": 12,
       "translations": [
         {
-          "id": 955497,
-          "resource_id": 140,
-          "text": "»Esto es para que se sepa que yo no lo traicioné a sus espaldas y que Al-lah no deja que triunfen los planes de los traidores<sup foot_note=149435>1</sup>."
+          "id": 1168244,
+          "resource_id": 213,
+          "text": "এটা এ জন্যে যে, যাতে সে জানতে পারে, তার অনুপস্থিতিতে আমি তার প্রতি বিশ্বাসঘাতকতা করিনি এবং নিশ্চয় আল্লাহ্ বিশ্বাসঘাতকদের ষড়যন্ত্র সফল করেন না।’"
         }
       ]
     },
@@ -1177,9 +1177,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955498,
-          "resource_id": 140,
-          "text": "»Y no pretendo exculparme (de toda culpa), pues el interior del hombre lo incita al mal; salvo a quien recibe la misericordia de mi Señor. Ciertamente, mi Señor es Indulgente y Misericordioso»."
+          "id": 1168245,
+          "resource_id": 213,
+          "text": "আর আমি নিজকে নির্দোষ মনে করিনা, কেননা নিশ্চয় মানুষের নাফস খারাপ কাজের নির্দেশ দিয়েই থাকে [১], কিন্তু সে নয়, যার প্রতি আমার রব দয়া করেন [২]। নিশ্চয় আমার রব অতি ক্ষমাশীল, পরম দয়ালু।’"
         }
       ]
     },
@@ -1198,9 +1198,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955499,
-          "resource_id": 140,
-          "text": "El rey dijo: «Traedme a José; lo destinaré a mi servicio». Y cuando habló con él, le dijo: «Desde hoy ocupas entre nosotros un puesto de confianza»."
+          "id": 1168246,
+          "resource_id": 213,
+          "text": "আর রাজা বলল, ‘ইউসুফকে আমার কাছে নিয়ে আস; আমি তাকে আমার নিজের জন্য আপন করে নেব।’ তারপর রাজা যখন তার সাথে কথা বলল, তখন রাজা বলল, ‘আজ আপনি তো আমাদের কাছে মর্যাদাশীল, আস্থাভাজন [১]।’"
         }
       ]
     },
@@ -1219,9 +1219,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955500,
-          "resource_id": 140,
-          "text": "(José) dijo: «Ponedme a cargo de las despensas del país, pues sabré protegerlas con conocimiento»."
+          "id": 1168247,
+          "resource_id": 213,
+          "text": "ইউসুফ বললেন, ‘আমাকে দেশের ধনভান্ডারের উপর কর্তৃত্ব প্রদান করুন; আমি তো উত্তম রক্ষক, সুবিজ্ঞ।’"
         }
       ]
     },
@@ -1240,9 +1240,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955501,
-          "resource_id": 140,
-          "text": "Y así es como le concedimos a José poder en el país para establecerse donde quisiera. Concedemos Nuestra misericordia a quien queremos, y no dejamos a quienes hacen el bien sin recompensa."
+          "id": 1168248,
+          "resource_id": 213,
+          "text": "আর এভাবে ইউসুফকে আমরা সে দেশে প্রতিষ্ঠিত করলাম; সে দেশে তিনি যেখানে ইচ্ছে অবস্থান করতে পারতেন। আমরা যাকে ইচ্ছে তার প্রতি আমাদের রহমত দান করি এবং আমরা মুহসিনদের পুরস্কার নষ্ট করি না [১]।"
         }
       ]
     },
@@ -1261,9 +1261,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955502,
-          "resource_id": 140,
-          "text": "Y la recompensa de la otra vida es mejor para quienes creen y temen a Al-lah."
+          "id": 1168249,
+          "resource_id": 213,
+          "text": "আর যারা ঈমান এনেছে এবং তাকওয়া অবলম্বন করে তাদের জন্য আখিরাতের পুরস্কারই উত্তম [১]।"
         }
       ]
     },
@@ -1282,9 +1282,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955503,
-          "resource_id": 140,
-          "text": "Y llegaron los hermanos de José (para comprar provisiones) y se presentaron ante él sin reconocerlo, aunque él sí los reconoció."
+          "id": 1168250,
+          "resource_id": 213,
+          "text": "আর [১] ইউসুফের ভাইয়েরা আসল এবং তার কাছে প্রবেশ করল [২]। অতঃপর তিনি তাদেরকে চিনলেন, কিন্তু তারা তাকে চিনতে পারল না।"
         }
       ]
     },
@@ -1303,9 +1303,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955504,
-          "resource_id": 140,
-          "text": "Y cuando les hubo suministrado las provisiones que necesitaban, les dijo: «(La próxima vez que vengáis) traed con vosotros a vuestro hermano de padre (que decís que tenéis), pues veis que doy la medida cumplida de grano y que soy el mejor anfitrión."
+          "id": 1168251,
+          "resource_id": 213,
+          "text": "আর তিনি যখন তাদেরকে তাদের সামগ্রীর ব্যবস্থা করে দিলেন তখন তিনি বললেন [১], ‘তোমরা আমার কাছে তোমাদের পিতার পক্ষ থেকে বৈমাত্রেয় ভাইকে নিয়ে আস [২]। তোমরা কি দেখছ না যে, আমি মাপে পূর্ণ মাত্রায় দেই এবং আমি উত্তম অতিথিপরায়ণ [৩]।"
         }
       ]
     },
@@ -1324,9 +1324,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955505,
-          "resource_id": 140,
-          "text": "»Mas si no lo traéis, no os abasteceré más y no os acercaréis a mí»."
+          "id": 1168252,
+          "resource_id": 213,
+          "text": "‘কিন্তু তোমরা যদি তাকে আমার কাছে না নিয়ে আস তবে আমার কাছে তোমাদের জন্য কোনো বরাদ্দ থাকবে না এবং তোমরা আমার ধারে-কাছেও আসবে না।"
         }
       ]
     },
@@ -1345,9 +1345,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955506,
-          "resource_id": 140,
-          "text": "Estos dijeron: «Haremos lo posible para persuadir a su padre; eso haremos»."
+          "id": 1168253,
+          "resource_id": 213,
+          "text": "তারা বলল, ‘তার ব্যাপারে আমরা তার পিতাকে সম্মত করানোর চেষ্টা করব এবং আমরা নিশ্চয়ই এটা করব।’"
         }
       ]
     },
@@ -1366,9 +1366,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955507,
-          "resource_id": 140,
-          "text": "Y dijo José a sus criados: «Poned de nuevo sus mercancías en sus alforjas para que las reconozcan cuando lleguen a su familia y regresen<sup foot_note=149436>1</sup>»."
+          "id": 1168254,
+          "resource_id": 213,
+          "text": "ইউসুফ তাঁর কর্মচারীদেরকে বললেন, ‘তারা যে পণ্যমূল্য দিয়েছে তা তাদের মালপত্রের মধ্যে রেখে দাও, যাতে স্বজনদের কাছে ফিরে যাওয়ার পর তারা তা চিনতে পারে, যাতে তারা আবার ফিরে আসে [১]।’"
         }
       ]
     },
@@ -1387,9 +1387,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955508,
-          "resource_id": 140,
-          "text": "Y cuando regresaron junto a su padre, dijeron: «¡Padre!, no nos suministrarán más alimentos (si no vamos con nuestro hermano). Envíalo con nosotros para que nos aprovisionen, nosotros lo cuidaremos de verdad»."
+          "id": 1168255,
+          "resource_id": 213,
+          "text": "অতঃপর তারা যখন তাদের পিতার কাছে ফিরে আসল, তখন তারা বলল, 'হে আমাদের পিতা! আমাদের জন্য বরাদ্দ নিষিদ্ধ করা হয়েছে। কাজেই আমাদের ভাইকে আমাদের সাথে পাঠিয়ে দিন যাতে আমরা পরিমাপ করে রসদ পেতে পারি। আর আমরা অবশ্যই তার রক্ষণাবেক্ষণকারী।’"
         }
       ]
     },
@@ -1408,9 +1408,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955509,
-          "resource_id": 140,
-          "text": "Dijo (el padre): «¿Cómo podría confiároslo después de que os confiara a su hermano con anterioridad (e hicisteis con él lo que hicisteis)?Al-lah es el mejor protector y el más Misericordioso»."
+          "id": 1168256,
+          "resource_id": 213,
+          "text": "তিনি বললেন, ‘আমি কি তোমাদেরকে তার সম্বন্ধে সেরূপ নিরাপদ মনে করব, যেরূপ আগে নিরাপদ মনে করেছিলাম তোমাদেরকে তার ভাই সম্বন্ধে? তবে আল্লাহ্‌ই রক্ষণাবেক্ষণে শ্ৰেষ্ঠ এবং তিনি সর্বশ্রেষ্ঠ দয়ালু [১]।’"
         }
       ]
     },
@@ -1429,9 +1429,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955510,
-          "resource_id": 140,
-          "text": "Y cuando abrieron sus pertenencias encontraron que sus mercancías les habían sido devueltas. Dijeron: «¡Padre!, ¿qué más podemos desear?Estas son nuestras mercancías y nos han sido devueltas. Conseguiremos más provisiones para nuestra familia, protegeremos a nuestro hermano y obtendremos la carga de un camello más; será fácil obtenerla»."
+          "id": 1168257,
+          "resource_id": 213,
+          "text": "আর যখন তারা তাদের মালপত্র খুলল তখন তারা দেখতে পেল তাদের পণ্যমূল্য তাদেরকে ফেরত দেয়া হয়েছে। তারা বলল, ‘হে আমাদের পিতা! আমরা আর কী প্রত্যাশা করতে পারি? এটা আমাদের দেয়া পণ্যমূল্য, আমাদেরকে ফিরিয়ে দেয়া হয়েছে। আর আমরা আমাদের পরিবারবর্গকে খাদ্য-সামগ্রী এনে দেব এবং আমরা আমাদের ভাইয়ের রক্ষণাবেক্ষণ করব এবং আমরা অতিরিক্ত আরো এক উট বোঝাই পণ্য আনব; ঐ পরিমাণ শস্য অতি সহজ [১]।’"
         }
       ]
     },
@@ -1450,9 +1450,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955511,
-          "resource_id": 140,
-          "text": "(El padre) dijo: «No lo enviaré con vosotros hasta que juréis solemnemente por Al-lah que regresaréis con él, a menos que puedan con todos vosotros». Y cuando hubieron jurado, les dijo: «Al-lah es testigo de cuanto hemos dicho»."
+          "id": 1168258,
+          "resource_id": 213,
+          "text": "পিতা বললেন, ‘আমি তাকে কখনোই তোমাদের সাথে পাঠাবো না যতক্ষণ না তোমরা আল্লাহ্‌র নামে অঙ্গীকার কর যে, তোমরা তাকে আমার কাছে নিয়ে আসবেই [১], অবশ্য যদি তোমরা বেষ্টিত হয়ে পড় (তবে ভিন্ন কথা)।’ তারপর যখন তারা তাঁর কাছে প্রতিজ্ঞা করল তখন তিনি বললেন, ‘আমরা যে বিষয়ে কথা বলছি, আল্লাহ্ তার বিধায়ক [২]।’"
         }
       ]
     },
@@ -1471,9 +1471,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955512,
-          "resource_id": 140,
-          "text": "Y dijo: «¡Hijos míos!, no entréis (en la ciudad) por una sola puerta, entrad por puertas distintas (por vuestro bien), (aunque) yo no puedo seros de ninguna utilidad ante lo que Al-lah haya dispuesto. El poder de decretar pertenece solo a Al-lah. A Él me encomiendo yo y quienes confían en Él»."
+          "id": 1168259,
+          "resource_id": 213,
+          "text": "আর তিনি বললেন, ‘হে আমার পুত্ৰগণ! তোমরা এক দরজা দিয়ে প্রবেশ করো না, ভিন্ন ভিন্ন দরজা দিয়ে প্রবেশ করবে [১]। আল্লাহ্‌র সিদ্ধান্তের বিপরীতে আমি তোমাদের জন্য কিছু করতে পারি না। হুকুমের মালিক তো আল্লাহ্ই। আমি তাঁরই উপর নির্ভর করি। আর আল্লাহ্রই উপর যেন নির্ভরকারীরা নির্ভর করে [২]।’"
         }
       ]
     },
@@ -1492,9 +1492,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955513,
-          "resource_id": 140,
-          "text": "Y entraron por donde su padre les había ordenado, aunque ello no les habría servido de nada ante el designio de Al-lah y respondía solo a una necesidad interior que Jacob satisfizo (de proteger a sus hijos del mal de ojo).Ciertamente, poseía un gran conocimiento (de la religión) que le habíamos enseñado, pero la mayoría de la gente no posee este conocimiento<sup foot_note=149437>1</sup>."
+          "id": 1168260,
+          "resource_id": 213,
+          "text": "আর যখন তারা তাদের পিতা যেভাবে আদেশ করেছিলেন সেভাবেই প্রবেশ করল, তখন আল্লাহ্‌র হুকুমের বিপরীতে তা তাদের কোনো কাজে আসল না; ইয়া’কূব শুধু তার মনের একটি অভিপ্রায় পূর্ণ করছিলেন [১] আর অবশ্যই তিনি আমাদের দেয়া শিক্ষায় জ্ঞানবান ছিলেন। কিন্তু বেশীর ভাগ মানুষই জানে না [২]।"
         }
       ]
     },
@@ -1513,9 +1513,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955514,
-          "resource_id": 140,
-          "text": "Y cuando se presentaron ante José, este se aproximó a su hermano (Benjamín) y le dijo (a modo de secreto): «Yo soy tu hermano. No te aflijas por lo que hicieron (con nosotros)»."
+          "id": 1168261,
+          "resource_id": 213,
+          "text": "আর তারা যখন ইউসুফের নিকট প্রবেশ করল, তখন ইউসুফ তার সহোদরকে নিজের কাছে রাখলেন এবং বললেন, ‘নিশ্চয় আমি তোমার সহোদর, কাজেই তারা যা করত তার জন্য দুঃখ করো না [১]।’"
         }
       ]
     },
@@ -1534,9 +1534,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955515,
-          "resource_id": 140,
-          "text": "Y cuando les hubo suministrado las provisiones, depositó la copa (de oro) con la que medía el grano en la alforja de su hermano. Luego se oyó a alguien gritar:«¡Vosotros, los de la caravana, sois unos ladrones!»."
+          "id": 1168262,
+          "resource_id": 213,
+          "text": "অতঃপর তিনি যখন তাদের সামগ্রীর ব্যবস্থা করে দিল, তখন তিনি তার সহোদরের মালপত্রের মধ্যে পানপাত্র [১] রেখে দিলেন [২]। তারপর এক আহ্বায়ক চিৎকার করে বলল, ‘হে যাত্রীদল! তোমরা নিশ্চয় চোর [৩]।’"
         }
       ]
     },
@@ -1555,9 +1555,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955516,
-          "resource_id": 140,
-          "text": "Estos dijeron mientras se aproximaban: «¿Qué es lo que echáis en falta?»."
+          "id": 1168263,
+          "resource_id": 213,
+          "text": "তারা ওদের দিকে চেয়ে বলল, ‘তোমরা কী হারিয়েছ [১]?’"
         }
       ]
     },
@@ -1576,9 +1576,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955517,
-          "resource_id": 140,
-          "text": "Respondieron: «No encontramos la copa (de oro) del rey. Quien la encuentre obtendrá como recompensa la carga de un camello, lo garantizamos»."
+          "id": 1168264,
+          "resource_id": 213,
+          "text": "তারা বলল, ‘আমরা রাজার পানপাত্র হারিয়েছি; যে তা এনে সে এক উট বোঝাই মাল পাবে [১] এবং আমি সেটার জামিন [২]।’"
         }
       ]
     },
@@ -1597,9 +1597,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955518,
-          "resource_id": 140,
-          "text": "(Los hermanos de José) dijeron: «Por Al-lah que sabéis que no hemos venido aquí para corromper la tierra, y no somos unos ladrones»."
+          "id": 1168265,
+          "resource_id": 213,
+          "text": "তারা বলল, ‘আল্লাহ্‌র শপথ! তোমরা তো জান যে, আমরা এ দেশে দুষ্কৃতি করতে আসিনি এবং আমরা চোরও নই [১]।’"
         }
       ]
     },
@@ -1618,9 +1618,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955519,
-          "resource_id": 140,
-          "text": "Dijeron: «¿Y cuál será vuestro castigo si mentís?»."
+          "id": 1168266,
+          "resource_id": 213,
+          "text": "তারা বলল, ‘যদি তোমরা মিথ্যাবাদী হও তবে তার শাস্তি কী?’"
         }
       ]
     },
@@ -1639,9 +1639,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955520,
-          "resource_id": 140,
-          "text": "(Los hermanos de José) respondieron: «Podréis quedaros (en calidad de esclavo)como castigo con aquel en cuyas alforjas se encuentre. Así es como retribuimos a los injustos»."
+          "id": 1168267,
+          "resource_id": 213,
+          "text": "তারা বলল, ‘এর শাস্তি যার মালপত্রের মধ্যে পাত্রটি পাওয়া যাবে, সে-ই তার বিনিময়।’ এভাবে আমরা যালেমদেরকে শাস্তি দিয়ে থাকি [১]।"
         }
       ]
     },
@@ -1660,9 +1660,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955521,
-          "resource_id": 140,
-          "text": "Y (José) empezó a registrar sus alforjas (sin encontrar nada), y finalmente extrajo la copa de la de su hermano (Benjamín). Así es como planeamos que José pudiera tomar a su hermano. No podía hacerlo según la ley del rey<sup foot_note=149438>1</sup>, a menos que Al-lah quisiera. Elevamos la posición de quien queremos. Pero hay Uno (Al-lah) que está por encima de todos los dotados de conocimiento."
+          "id": 1168268,
+          "resource_id": 213,
+          "text": "অতঃপর তিনি তার সহোদরের মালপত্র তল্লাশির আগে তাদের মালপত্র তল্লাশি করতে লাগলেন [১], পরে তার সহোদরের মালপত্রের মধ্য হতে পাত্রটি বের করলেন [২]। এভাবে আমরা ইউসুফের জন্য কৌশল করেছিলাম [৩]। রাজার আইনে তার ভাইকে আটক করা সংগত হতোনা, আল্লাহ্ ইচ্ছে না করলে। আমরা যাকে ইচ্ছে মর্যাদায় উন্নীত করি। আর প্রত্যেক জ্ঞানবান ব্যক্তির উপর আছে সর্বজ্ঞানী [৪]।"
         }
       ]
     },
@@ -1681,9 +1681,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955522,
-          "resource_id": 140,
-          "text": "(Sus hermanos) dijeron (mintiendo): «Si ha robado, ya lo hizo un hermano suyo con anterioridad<sup foot_note=149439>1</sup>». Y José se contuvo y no reveló lo que pensaba. Dijo para sí: «Vosotros estáis en una situación peor, y Al-lah sabe bien lo que decís»."
+          "id": 1168269,
+          "resource_id": 213,
+          "text": "তারা বলল, ‘সে যদি চুরি করে থাকে তবে তার সহোদরও তো আগে চুরি করেছিল [১]।’ কিন্তু ইউসুফ প্রকৃত ব্যাপার নিজের মনে গোপন রাখলেন এবং তাদের কাছে প্রকাশ করলেন না; তিনি (মনে মনে) বললেন, ‘তোমাদের অবস্থা তো হীনতর এবং তোমরা যা বলছ সে সম্বন্ধে আল্লাহ্ই অধিক অবগত [২]।’"
         }
       ]
     },
@@ -1702,9 +1702,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955523,
-          "resource_id": 140,
-          "text": "(Sus hermanos) le dijeron: «¡oh, Al Aziz!, su padre es un anciano. Toma a cualquiera de nosotros en su lugar, pues vemos que eres un hombre de bien»."
+          "id": 1168270,
+          "resource_id": 213,
+          "text": "তারা বলল, ‘হে ‘আযীয, এর পিতা তো অত্যন্ত বৃদ্ধ; কাজেই এর জায়গায় আপনি আমাদের একজনকে রাখুন। আমরা তো আপনাকে দেখছি মুহসিন ব্যক্তিদের একজন [১]।’"
         }
       ]
     },
@@ -1723,9 +1723,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955524,
-          "resource_id": 140,
-          "text": "José (respondió): «¡Que Al-lah nos proteja de tomar a otro que no sea aquel en cuyo poder encontramos lo que nos pertenecía! De lo contrario, seríamos injustos»."
+          "id": 1168271,
+          "resource_id": 213,
+          "text": "তিনি বললেন, ‘যার কাছে আমরা আমাদের মাল পেয়েছি, তাকে ছাড়া অন্যকে রাখার অপরাধ হতে আমরা আল্লাহ্‌র আশ্রয় প্রার্থনা করছি। এরূপ করলে তো আমরা অবশ্যই যালেম হয়ে যাব [১]।’"
         }
       ]
     },
@@ -1744,9 +1744,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955525,
-          "resource_id": 140,
-          "text": "Y cuando perdieron la esperanza de convencerlo, se retiraron para discutir en privado (la situación). El mayor de ellos dijo: «¿Habéis olvidado que nuestro padre nos hizo jurar por Al-lah (que regresaríamos con Benjamín) y que antes ya faltamos a la palabra que le dimos con respecto a José? Yo no dejaré esta tierra (de Egipto) hasta que mi padre me dé permiso para ello o Al-lah me juzgue, y Él es el mejor de los jueces."
+          "id": 1168272,
+          "resource_id": 213,
+          "text": "অতঃপর যখন তারা তার [১] ব্যাপারে সম্পূর্ণ নিরাশ হল, তখন তারা নির্জনে গিয়ে পরামর্শ করতে লাগল। তাদের মধ্যে বয়সে বড় ব্যক্তিটি বলল, ‘তোমরা কি জান না যে, তোমাদের পিতা তোমাদের কাছ থেকে আল্লাহর নামে অঙ্গীকার নিয়েছেন এবং আগেও তোমরা ইউসুফের ব্যাপারে অন্যায় করেছিলে। কাজেই আমি কিছুতেই এ দেশ থেকে যাব না যতক্ষণ না আমার পিতা আমাকে অনুমতি দেন বা আল্লাহ্ আমার জন্য কোনো ফয়সালা করেন এবং তিনিই শ্রেষ্ঠ ফয়সালাকারী।"
         }
       ]
     },
@@ -1765,9 +1765,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955526,
-          "resource_id": 140,
-          "text": "»Regresad a vuestro padre y decidle: “¡Oh, padre!, tu hijo (Benjamín) ha robado (y ha sido tomado como esclavo en compensación) y solo damos fe de lo que sabemos, y no podíamos saber lo que iba a pasar (cuando juramos que volveríamos con él)."
+          "id": 1168273,
+          "resource_id": 213,
+          "text": "‘তোমরা তোমাদের পিতার কাছে ফিরে যাও এবং বল, ‘হে আমাদের পিতা! আপনার পুত্র তো চুরি করেছে এবং আমরা যা জানি তারই প্রত্যক্ষ বিবরণ দিলাম [১]। আর আমরা তো গায়েব সংরক্ষণকারী নই [২]।"
         }
       ]
     },
@@ -1786,9 +1786,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955527,
-          "resource_id": 140,
-          "text": "»Pregunta a las gentes de la ciudad en donde estuvimos y a la caravana con la que regresamos, pues, ciertamente, decimos la verdad”»."
+          "id": 1168274,
+          "resource_id": 213,
+          "text": "‘আর যে জনপদে আমরা ছিলাম সেখানকার অধিবাসীদেরকে জিজ্ঞেস করুন এবং যে যাত্রীদলের সাথে আমরা এসেছি তাদেরকেও। আমরা অবশ্যই সত্য বলছি [১]।’"
         }
       ]
     },
@@ -1807,9 +1807,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955528,
-          "resource_id": 140,
-          "text": "(El padre) dijo: «¡No, (no es cierto lo que decís)!, algo malo habéis tramado contra él. Seré paciente, puede que Al-lah me los traiga a todos<sup foot_note=149440>1</sup> de vuelta. Ciertamente, Él es el Omnisciente,el Sabio »."
+          "id": 1168275,
+          "resource_id": 213,
+          "text": "ইয়া’কূব বললেন, ‘না, তোমাদের মন তোমাদের জন্য একটি কাহিনী সাজিয়ে দিয়েছে [১], কাজেই উত্তম ধৈর্য্যই আমি গ্রহণ করব; হয়ত আল্লাহ্ তাদেরকে একসঙ্গে আমার কাছে এনে দেবেন। নিশ্চয় তিনি সর্বজ্ঞ, প্রজ্ঞাময়।’"
         }
       ]
     },
@@ -1828,9 +1828,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955529,
-          "resource_id": 140,
-          "text": "Y se apartó de ellos y dijo: «¡Qué pena siento por José!». Y perdió la vista debido a la tristeza y al dolor que reprimía."
+          "id": 1168276,
+          "resource_id": 213,
+          "text": "আর তিনি তাদের থেকে মুখ ফিরিয়ে নিলেন এবং বললেন, ‘আফসোস ইউসুফের জন্য।’ শোকে তার চোখ দু’টি সাদা হয়ে গিয়েছিল এবং তিনি ছিলেন সংবরণকারী [১]।"
         }
       ]
     },
@@ -1849,9 +1849,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955530,
-          "resource_id": 140,
-          "text": "(Ellos dijeron): «Por Al-lah que no dejarás de recordar a José hasta consumirtepor la vejez o perecer»."
+          "id": 1168277,
+          "resource_id": 213,
+          "text": "তারা বলল, ‘আল্লাহ্‌র শপথ! আপনি তো ইউসুফের কথা সবসময় স্মরণ করতে থাকবেন যতক্ষণ না আপনি মুমূর্ষ হবেন বা মারা যাবেন [১]।’"
         }
       ]
     },
@@ -1870,9 +1870,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955531,
-          "resource_id": 140,
-          "text": "(El padre) contestó: «Solo me quejo de mi angustia y de mi penaante Al-lah, y sé de Él lo que vosotros no sabéis."
+          "id": 1168278,
+          "resource_id": 213,
+          "text": "তিনি বললেন, ‘আমি আমার অসহনীয় বেদনা, আমার দুঃখ শুধু আল্লাহ্‌র কাছেই  নিবেদন করছি এবং আমি আল্লাহ্‌র কাছ থেকে তা জানি যা তোমরা জান না [১]।"
         }
       ]
     },
@@ -1891,9 +1891,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955532,
-          "resource_id": 140,
-          "text": "»¡Hijos míos!, id e indagad acerca de José y de su hermano (Benjamín) y no perdáis la esperanza de que Al-lah se apiade de vosotros. Ciertamente, solo se desesperan de Su misericordia quienes rechazan la verdad»."
+          "id": 1168279,
+          "resource_id": 213,
+          "text": "‘হে আমার পুত্ৰগণ! তোমরা যাও, ইউসুফ ও তার সহোদরের সন্ধান কর এবং আল্লাহ্‌র রহমত হতে তোমরা নিরাশ হয়ো না। কারণ আল্লাহ্র রহমত হতে কেউই নিরাশ হয় না, কাফির সম্প্রদায় ছাড়া [১]।’"
         }
       ]
     },
@@ -1912,9 +1912,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955533,
-          "resource_id": 140,
-          "text": "Y cuando se presentaron ante José, dijeron: «¡Oh, Al Aziz!, nosotros y nuestra familia nos hemos visto afectados por el hambre y la adversidad, y apenas hemos traído mercancías para intercambiar.Abastécenos dándonos la medida completa y sé caritativo con nosotros. En verdad, Al-lah recompensa a quienes son caritativos»."
+          "id": 1168280,
+          "resource_id": 213,
+          "text": "অতঃপর যখন তারা ইউসুফের কাছে উপস্থিত হল তখন তারা বলল, ‘হে ‘আযীয! আমরা ও আমাদের পরিবার-পরিজন বিপন্ন হয়ে পড়েছি এবং আমরা তুচ্ছ পুঁজি নিয়ে এসেছি [১]; আপনি আমাদের রসদ পূর্ণ মাত্রায় দিন এবং আমাদের প্রতি অনুগ্রহ করুন [২]; নিশ্চয়ই আল্লাহ্‌ অনুগ্রহকারীদের পুরস্কৃত করেন [৩]।’"
         }
       ]
     },
@@ -1933,9 +1933,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955534,
-          "resource_id": 140,
-          "text": "(José) les dijo (revelándoles su verdadera identidad): «¿Acaso no os acordáis de lo que hicisteis con José y con su hermano<sup foot_note=149441>1</sup> cuando erais ignorantes?»."
+          "id": 1168281,
+          "resource_id": 213,
+          "text": "তিনি বললেন, ‘তোমরা কি জান,  তোমরা ইউসুফ ও তার সহোদরের প্রতি কিরূপ আচরণ করেছিলে, যখন তোমরা ছিলে অজ্ঞ [১]?"
         }
       ]
     },
@@ -1954,9 +1954,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955535,
-          "resource_id": 140,
-          "text": "(Sus hermanos) dijeron: «¿Eres tú, en verdad, José?». Dijo: «Sí, lo soy, y este es mi hermano. Ciertamente, Al-lah nos ha agraciado (reuniéndonos de nuevo). (Que sepan) quienes tienen temor de Al-lah y son pacientes que Al-lah no deja sin recompensa a quienes hacen el bien»."
+          "id": 1168282,
+          "resource_id": 213,
+          "text": "তারা বলল, ‘তবে কি তুমিই ইউসুফ?’ তিনি বললেন, ‘আমিই ইউসুফ এবং এ আমার সহোদর; আল্লাহ্‌ তো আমাদের উপর অনুগ্রহ করেছেন [১]। নিশ্চয় যে ব্যক্তি তাকওয়া অবলম্বন করে এবং ধৈর্যধারণ করে, তবে নিশ্চয় আল্লাহ্‌ মুহসিনদের শ্রমফল নষ্ট করেন না [২]।’"
         }
       ]
     },
@@ -1975,9 +1975,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955536,
-          "resource_id": 140,
-          "text": "(Estos) dijeron: «¡Por Al-lah que Él te ha preferido sobre nosotros, y nosotros hemos sido pecadores!»."
+          "id": 1168283,
+          "resource_id": 213,
+          "text": "তারা বলল, ‘আল্লাহ্‌র শপথ! আল্লাহ্ নিশ্চয়ই তোমাকে আমাদের উপর প্রাধান্য দিয়েছেন এবং আমরা তো অপরাধী ছিলাম।’"
         }
       ]
     },
@@ -1996,9 +1996,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955537,
-          "resource_id": 140,
-          "text": "(Dijo) José: «No habrá hoy para vosotros reproche alguno. Al-lah os ha perdonado, y Él es el más Misericordioso de todos."
+          "id": 1168284,
+          "resource_id": 213,
+          "text": "তিনি বললেন, ‘আজ তোমাদের বিরুদ্ধে কোনো ভর্ৎসনা নেই। আল্লাহ্ তোমাদেরকে ক্ষমা করুন এবং তিনিই শ্ৰেষ্ঠ দয়ালু [১]।"
         }
       ]
     },
@@ -2017,9 +2017,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955538,
-          "resource_id": 140,
-          "text": "»Id con esta camisa mía y ponedla sobre el rostro de mi padre para que vuelva a ver. Después, volved aquí con toda la familia»."
+          "id": 1168285,
+          "resource_id": 213,
+          "text": "তোমরা আমার এ জামাটি নিয়ে যাও এবং এটা আমার পিতার চেহারার উপর রেখো; তিনি দৃষ্টি শক্তি ফিরে পাবেন। আর তোমাদের পরিবারের সবাইকে আমার কাছে নিয়ে এসো [১]।’"
         }
       ]
     },
@@ -2038,9 +2038,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955539,
-          "resource_id": 140,
-          "text": "Y cuando la caravana regresó (de Egipto), su padre dijo: «¡Percibo el olor de José, aunque penséis que he perdido la razón con la edad!»."
+          "id": 1168286,
+          "resource_id": 213,
+          "text": "আর যখন যাত্রীদল বের হয়ে পড়ল তখন তাদের পিতা বললেন, ‘তোমরা যদি আমাকে বৃদ্ধ-অপ্রকৃতস্থ মনে না কর তবে বলি, আমি ইউসুফের ঘ্ৰাণ পাচ্ছি [১]।’"
         }
       ]
     },
@@ -2059,9 +2059,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955540,
-          "resource_id": 140,
-          "text": "(Quienes estaban presentes junto con el padre) le dijeron: «¡Por Al-lah! ¡Sigues en tu antiguo error (de no querer olvidar a José por el amor que le tenías)!»."
+          "id": 1168287,
+          "resource_id": 213,
+          "text": "তারা বলল, ‘আল্লাহ্‌র শপথ! আপনি তো আপনার পুরোনো বিভ্রান্তিতেই রয়েছেন [১]।’"
         }
       ]
     },
@@ -2080,9 +2080,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955541,
-          "resource_id": 140,
-          "text": "Y cuando el portador de las buenas noticias llegó, puso la camisa sobre el rostro (de Jacob) y este recobró la vista. Dijo (Jacob): «¿No os dije que sabía de Al-lah lo que vosotros ignorabais?»."
+          "id": 1168288,
+          "resource_id": 213,
+          "text": "অতঃপর যখন সুসংবাদবাহক উপস্থিত হল এবং তাঁর চেহারার উপর জামাটি রাখল তখন তিনি দৃষ্টিশক্তি ফিরে পেলেন [১]। তিনি বললেন, ‘আমি কি তোমাদেরকে বলিনি যে, আমি আল্লাহ্‌র কাছ থেকে যা জানি তা তোমরা জান না?’"
         }
       ]
     },
@@ -2101,9 +2101,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955542,
-          "resource_id": 140,
-          "text": "(Los hermanos de José) le dijeron: «¡Oh, padre!, pide perdón a Al-lah por nuestros pecados; ciertamente, hemos sido unos pecadores»."
+          "id": 1168289,
+          "resource_id": 213,
+          "text": "তারা বলল, ‘হে আমাদের পিতা! আমাদের পাপের জন্য ক্ষমা প্রার্থনা করুন; আমরা তো অপরাধী [১]।’"
         }
       ]
     },
@@ -2122,9 +2122,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955543,
-          "resource_id": 140,
-          "text": "(Este) dijo: «Pediré a mi Señor que os perdone. En verdad, Él es el Indulgente, el Misericordioso»."
+          "id": 1168290,
+          "resource_id": 213,
+          "text": "তিনি বললেন, ‘অচিরেই আমি আমার রবের কাছে তোমাদের জন্য ক্ষমা প্রার্থনা করব। নিশ্চয় তিনি অতি ক্ষমাশীল, পরম দয়ালু।’"
         }
       ]
     },
@@ -2143,9 +2143,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955544,
-          "resource_id": 140,
-          "text": "Y cuando (toda la familia) se presentó ante José, este tomó a sus padres cerca de él y les dijo: «Entrad (y estableceos) en Egipto. Si Al-lah quiere, no tendréis aquí nada que temer»."
+          "id": 1168291,
+          "resource_id": 213,
+          "text": "অতঃপর তারা যখন ইউসুফের কাছে উপস্থিত হল, তখন তিনি তার পিতা-মাতাকে নিজের কাছে স্থান দিলেন এবং বললেন, ‘আপনারা আল্লাহ্‌র ইচ্ছায় নিরাপদে মিসরে প্রবেশ করুন [১]।’"
         }
       ]
     },
@@ -2164,9 +2164,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955545,
-          "resource_id": 140,
-          "text": "E hizo que sus padres tomaran asiento (cerca de él) en un lugar honorable,y (entonces) ellos y sus hermanos se postraron ante él (en señal de respeto, como se hacía entonces con los reyes). Y dijo (José): «¡Padre mío, esta es la interpretación del sueño que tuve hace tiempo! Al-lah ha hecho que se cumpla. Y, ciertamente, me agració cuando me liberó de la prisión y ostrajo del desierto después de que el Demonio sembrara la discordia entre mis hermanos y yo. En verdad, mi Señor es Benévolo con quien quiere, y Él es el Omnisciente, el Sabio»."
+          "id": 1168292,
+          "resource_id": 213,
+          "text": "আর ইউসুফ তার পিতা-মাতাকে [১] উঁচু আসনে বসালেন এবং তারা সবাই তার সম্মানে সাজদায় লুটিয়ে পড়ল [২]। তিনি বললেন, ‘হে আমার পিতা! এটাই আমার আগেকার স্বপ্নের ব্যাখ্যা [৩]; আমার রব এটা সত্যে পরিণত করেছেন এবং তিনি আমাকে কারাগার থেকে মুক্ত করেন এবং শয়তান আমার ও আমার ভাইদের সম্পর্ক নষ্ট করার পরও আপনাদেরকে মরু অঞ্চল হতে এখানে এনে দিয়ে আমার প্রতি অনুগ্রহ করেছেন। আমার রব যা ইচ্ছে তা নিপুণতার সাথে করেন। তিনি তো সর্বজ্ঞ, প্রজ্ঞাময় [৪]।’"
         }
       ]
     },
@@ -2185,9 +2185,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955546,
-          "resource_id": 140,
-          "text": "(Después, José invocó a su Señor diciendo:) «¡Señor!, me has concedido poder y me has enseñado la interpretación de los sueños. ¡Creador de los cielos y de la tierra!, Tú eres mi protector en esta vida y en la otra; haz que muera sometido a Ti y reúneme (en la otra vida) con los rectos y virtuosos»."
+          "id": 1168293,
+          "resource_id": 213,
+          "text": "‘হে আমার রব! আপনি আমাকে রাজ্য দান করেছেন এবং স্বপ্নের ব্যাখ্যা শিক্ষা দিয়েছেন। হে আসমানসমূহ ও যমীনের সষ্টা! আপনিই দুনিয়া ও আখিরাতে আমার অভিভাবক। আপনি আমাকে মুসলিম হিসেবে মৃত্যু দিন এবং আমাকে সৎকর্মপরায়ণদের অন্তর্ভুক্ত করুন [১]।’"
         }
       ]
     },
@@ -2206,9 +2206,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955547,
-          "resource_id": 140,
-          "text": "Esto es parte de las historias que desconocías (¡oh, Muhammad!) y que te revelamos. Y no estabas con (los hermanos de José) cuando prepararon su plan y lo llevaron a cabo<sup foot_note=149442>1</sup>."
+          "id": 1168294,
+          "resource_id": 213,
+          "text": "এটা গায়েবের সংবাদ যা আপনাক আমরা ওহী দ্বারা জানাচ্ছি [১]; ষড়যন্ত্র কালে যখন তারা মতৈক্যে পৌঁছেছিল, তখন আপনি তাদের সাথে ছিলেন না [২]।"
         }
       ]
     },
@@ -2227,9 +2227,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955548,
-          "resource_id": 140,
-          "text": "Y la mayoría de la gente no creerá (en la verdad), por mucho que lo desees."
+          "id": 1168295,
+          "resource_id": 213,
+          "text": "আর আপনি যতই চান না কেন, বেশীর ভাগ লোকই ঈমান গ্রহণকারী নয় [১]।"
         }
       ]
     },
@@ -2248,9 +2248,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955549,
-          "resource_id": 140,
-          "text": "Y tú (¡oh, Muhammad!) no les pides ninguna remuneración (por trasmitirles el Corán).Este no es sino una exhortación para los mundos (de los hombres y de los yinn)."
+          "id": 1168296,
+          "resource_id": 213,
+          "text": "আর আপনি তাদের কাছে কোনো পারিশ্রমিক দাবি করছেন না। এ (কুরআন) তো সৃষ্টিকুলের জন্য উপদেশ ছাড়া কিছু নয়।"
         }
       ]
     },
@@ -2269,9 +2269,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955550,
-          "resource_id": 140,
-          "text": "Y hay muchísimas pruebas (sobre la unicidad de Al-lah) que contemplan en los cielos y en la tierra, mas les dan la espalda (al no reflexionar sobre ellas)."
+          "id": 1168297,
+          "resource_id": 213,
+          "text": "আর আসমান ও যমীনে অনেক নিদর্শন রয়েছে; তারা এ সবকিছু দেখে, কিন্তু তারা এসবের প্রতি উদাসীন।"
         }
       ]
     },
@@ -2290,9 +2290,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955551,
-          "resource_id": 140,
-          "text": "Y la mayoría de quienes creen en Al-lah (como el únicoCreador de los cielos y de la tierra) adoran a otros además de a Él."
+          "id": 1168298,
+          "resource_id": 213,
+          "text": "তাদের বেশীর ভাগই আল্লাহ্‌র উপর ঈমান রাখে, তবে তাঁর সাথে (ইবাদতে) শির্ক করা অবস্থায় [১]।"
         }
       ]
     },
@@ -2311,9 +2311,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955552,
-          "resource_id": 140,
-          "text": "¿Acaso creen que están a salvo de que los envuelva el castigo de Al-laho de que les llegue la Hora de repente,sin que se den cuenta?"
+          "id": 1168299,
+          "resource_id": 213,
+          "text": "তবে কি তারা আল্লাহ্‌র সর্বগ্রাসী শাস্তি হতে বা তাদের অজান্তে কিয়ামতের আকস্মিক উপস্থিতি হতে নিরাপদ হয়ে গেছে [১]?"
         }
       ]
     },
@@ -2332,9 +2332,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955553,
-          "resource_id": 140,
-          "text": "Diles (¡oh, Muhammad!): «Este es mi camino. Tanto yo como quienes me siguen exhortamos a la religión de Al-lahcon pruebas firmes. ¡Glorificado sea Al-lah! Y yo no soy de los idólatras»."
+          "id": 1168300,
+          "resource_id": 213,
+          "text": "বলুন, ‘এটাই আমার পথ, আল্লাহ্‌র প্রতি মানুষকে আমি ডাকি জেনে-বুঝে, আমি [১] এবং যারা আমার অনুসরণ করেছে তারাও [২]। আর আল্লাহ্‌ কতই না পবিত্র মহান এবং আমি মুশরিকদের অন্তর্ভুক্ত নই [৩]।’"
         }
       ]
     },
@@ -2353,9 +2353,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955554,
-          "resource_id": 140,
-          "text": "Y antes de ti (¡oh, Muhammad!), no enviamos como mensajeros Nuestros sino a hombres a quienes inspiramos Nuestra revelación (para que la transmitieran) a las gentes de sus propias ciudades. ¿Acaso no viajan por la tierra y ven cuál fue el final de quienes los precedieron (y reflexionan sobre ello)? Y la Última Morada (del paraíso) junto a Al-lah es mejor para los piadosos. ¿Es que no razonaréis?"
+          "id": 1168301,
+          "resource_id": 213,
+          "text": "আর আমরা আপনার আগেও জনপদবাসীদের মধ্য থেকে [১] পুরুষদেরকেই পাঠিয়েছিলাম [২], যাদের কাছে ওহী পাঠাতাম। তারা কি যমীনে ভ্রমণ করেনি? ফলে দেখতে পেত তাদের  পূর্ববর্তীদের পরিণাম কী হয়েছিল? আর অবশ্যই যারা তাকওয়া অবলম্বন করেছে তাদের জন্য আখেরাতের আবাসই উত্তম [৩]; তবুও কি তোমরা বুঝ না?"
         }
       ]
     },
@@ -2374,9 +2374,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955555,
-          "resource_id": 140,
-          "text": "Y cuando los mensajeros perdieron toda esperanza (de que sus respectivos pueblos creyeran) y pensaron que (los creyentes que los seguían) empezaban a dudar sobre la veracidad de sus palabras,llegó Nuestra ayuda ysalvamos a quienes quisimos; y los pecadoresidólatras no pueden evitar que Nuestro castigo se abata sobre ellos."
+          "id": 1168302,
+          "resource_id": 213,
+          "text": "অবশেষে যখন রাসূলগণ (তাদের সম্প্রদায়ের ঈমান থেকে) নিরাশ হলেন এবং লোকেরা মনে করল যে, রাসূলগণকে মিথ্যা আশ্বাস দেয়া হয়েছে তখন তাদের কাছে আমাদের সাহায্য আসল। এভাবে আমরা যাকে ইচ্ছে করি সে নাজাত পায়। আর অপরাধী সম্পপ্রদায় হতে আমাদের শাস্তি প্রতিরোধ করা হয় না।"
         }
       ]
     },
@@ -2395,9 +2395,9 @@
       "juz_number": 13,
       "translations": [
         {
-          "id": 955556,
-          "resource_id": 140,
-          "text": "Ciertamente, en estas historias hay una lección para los hombres de buen juicio. (Este Corán) no es un relato inventado, sino que es la confirmación de lo que ya tenían (en los libros sagrados anteriores) y una explicación detallada de todas las cosas; es una guía y misericordia para quienes creen."
+          "id": 1168303,
+          "resource_id": 213,
+          "text": "তাদের বৃত্তান্তে অবশ্যই বোধশক্তি সম্পন্ন ব্যক্তিদের জন্য আছে শিক্ষা [১]। এটা কোনো বানানো রচনা নয়। বরং এটা আগের গ্রন্থে যা আছে তার সত্যায়ন [২] ও সব কিছুর বিশদ বিবরণ, আর যারা ঈমান আনে এমন সম্পপ্রদায়ের জন্য হিদায়াত ও রহমত।"
         }
       ]
     }

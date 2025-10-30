@@ -1,12 +1,12 @@
 {
   "metadata": {
     "surah_number": 4,
-    "scraped_at": "2025-10-29T20:55:39.600638",
+    "scraped_at": "2025-10-30T04:10:54.192826",
     "source": "api.quran.com",
     "version": "1.0",
     "translation_ids": [
       131,
-      140
+      213
     ]
   },
   "license": {
@@ -15,14 +15,14 @@
       "license": "Public Domain",
       "attribution": "The Quran text is in the public domain",
       "terms_url": "https://quran.com/terms",
-      "fetched_at": "2025-10-29T20:55:39.600638"
+      "fetched_at": "2025-10-30T04:10:54.192826"
     },
     "translations": {
       "source": "api.quran.com",
       "license": "Various - See individual translation licenses",
       "attribution": "Translation copyrights belong to respective translators",
       "terms_url": "https://quran.com/terms",
-      "fetched_at": "2025-10-29T20:55:39.600638"
+      "fetched_at": "2025-10-30T04:10:54.192826"
     },
     "audio": {
       "source": "everyayah.com via api.quran.com",
@@ -30,7 +30,7 @@
       "attribution": "Audio recitations courtesy of everyayah.com",
       "terms_url": "https://everyayah.com/",
       "note": "Audio URLs provided - not downloaded locally due to size",
-      "fetched_at": "2025-10-29T20:55:39.600638"
+      "fetched_at": "2025-10-30T04:10:54.192826"
     }
   },
   "translation_metadata": {
@@ -42,9 +42,9 @@
       "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0",
       "source": "api.quran.com"
     },
-    "140": {
-      "name": "Telugu Translation",
-      "author": "Unknown",
+    "213": {
+      "name": "Abdul Hafeez & Mohammed Abdul Haq",
+      "author": "Abdul Hafeez, Mohammed Abdul Haq",
       "language": "te",
       "language_name": "Telugu",
       "license": "Various",
@@ -85,9 +85,9 @@
       "juz_number": 4,
       "translations": [
         {
-          "id": 954343,
-          "resource_id": 140,
-          "text": "¡Gentes!, temed a vuestro Señor, Quien os creó a partir de un solo ser (Adán) y creó de él a su pareja, e hizo que de ambos surgieran y se diseminaran por la tierra multitudes de hombres y mujeres. Y temed a Al-lah, en Cuyo nombre os reclamáis mutuamente (vuestros derechos), y mantened los lazos familiares<sup foot_note=149173>1</sup>. Ciertamente, Al-lah os observa (en todo momento)."
+          "id": 1167090,
+          "resource_id": 213,
+          "text": "হে মানুষ! তোমরা তোমাদের রবের তাকওয়া অবলম্বন কর [১] যিনি তোমাদেরকে এক ব্যক্তি থেকে সৃষ্টি করেছেন ও তার থেকে তার স্ত্রী সৃষ্টি করেছেন [২] এবং তাদের দুজন থেকে বহু নর-নারী ছড়িয়ে দেন; আর তোমরা আল্লাহর তাকওয়া অবলম্বন কর যাঁর নামে তোমরা একে অপরের কাছে নিজ নিজ হক্‌ দাবী কর [৩] এবং তাকওয়া অবলম্বন কর রক্ত-সম্পর্কিত আত্মীয়ের ব্যাপারেও [৪]। নিশ্চয় আল্লাহ তোমাদের উপর পর্যবেক্ষক [৫]।"
         }
       ]
     },
@@ -106,9 +106,9 @@
       "juz_number": 4,
       "translations": [
         {
-          "id": 954344,
-          "resource_id": 140,
-          "text": "Y (cuando alcancen la madurez suficiente) dadles a los huérfanos sus bienes (que vosotros custodiáis) y no sustituyáis lo malo que vosotros tenéis por lo bueno que ellos poseen. Y no consumáis sus riquezas añadiéndolas a las vuestras (apropiándoos de ellas injustamente). En verdad, ello es un grave pecado."
+          "id": 1167091,
+          "resource_id": 213,
+          "text": "আর ইয়াতীমদেরকে তোমরা তাদের ধন-সম্পদ সমর্পণ করো [১] এবং ভালোর সাথে মন্দ বদল করো না [২]। আর তোমাদের সম্পদের সাথে তাদের সম্পদ মিশিয়ে গ্রাস করো না; নিশ্চয় এটা মহাপাপ [৩]।"
         }
       ]
     },
@@ -127,9 +127,9 @@
       "juz_number": 4,
       "translations": [
         {
-          "id": 954345,
-          "resource_id": 140,
-          "text": "Y si teméis no tratar con justicia a las huérfanas (que tenéis bajo vuestra tutela, en lo referente a no concederles un maher<sup foot_note=149174>1</sup> apropiado en caso de querer casaos con ellas, no las desposéis), casaos, entonces, con otras mujeres (lícitas) que sean de vuestro agrado, ya sean dos, tres o cuatro (como máximo)<sup foot_note=149175>2</sup>. Pero si teméis no ser justos con todas ellas por igual, casaos solamente con una o recurrid a vuestras esclavas<sup foot_note=149176>3</sup>. Eso es lo más apropiado para evitar caer en la injusticia."
+          "id": 1167092,
+          "resource_id": 213,
+          "text": "আর যদি তোমরা আশংকা কর যে, ইয়াতীম মেয়েদের প্রতি [১] সুবিচার করতে পারবে না [২], তবে বিয়ে করবে নারীদের মধ্যে যাকে তোমাদের ভালো লাগে, দুই, তিন বা চার [৩]; আর যদি আশংকা কর যে সুবিচার করতে পারবে না [৪] তবে একজনকেই বা তোমাদের অধিকারভুক্ত দাসীকেই গ্রহণ কর। এতে পক্ষপাতিত্ব [৫] না করার সম্ভাবনা বেশী।"
         }
       ]
     },
@@ -148,9 +148,9 @@
       "juz_number": 4,
       "translations": [
         {
-          "id": 954346,
-          "resource_id": 140,
-          "text": "Y entregad de buen grado a las mujeres que vayáis a desposar su debido maher. Mas si ellas renuncian libremente a una parte de dicho maher, tomadla y disfrutadla sin nada que temer."
+          "id": 1167093,
+          "resource_id": 213,
+          "text": "আর তোমরা নারীদেরকে তাদের মাহ্‌র [১] মনের সন্তোষের সাথে [২] প্রদান কর; অতঃপর সন্তুষ্ট চিত্তে তারা মাহ্‌রের কিছু অংশ ছেড়ে দিলে তোমরা তা স্বাচ্ছন্দ্যে [৩] ভোগ কর।"
         }
       ]
     },
@@ -169,9 +169,9 @@
       "juz_number": 4,
       "translations": [
         {
-          "id": 954347,
-          "resource_id": 140,
-          "text": "Y no deis los bienes que Al-lah os ha otorgado para vuestra subsistencia a quienes no hacen buen uso de la razón (ya sea porque despilfarran o por alguna incapacidad mental que padezcan y estén bajo vuestra tutela). Pero alimentadlos y vestidlos con parte de vuestros bienes y habladles con gentileza."
+          "id": 1167094,
+          "resource_id": 213,
+          "text": "আর তোমরা অল্প বুদ্ধিমানদেরকে তাদের ধন-সম্পদ অর্পণ করো না [১]; যা দ্বারা আল্লাহ তোমাদের জীবন চালানোর ব্যবস্থা করেছেন এবং তা থেকে তাদের আহার-বিহার ও ভরণ-পোষণের ব্যবস্থা কর। আর তোমরা তাদের সাথে সদালাপ কর।"
         }
       ]
     },
@@ -190,9 +190,9 @@
       "juz_number": 4,
       "translations": [
         {
-          "id": 954348,
-          "resource_id": 140,
-          "text": "Y observad de cerca a los huérfanos (para comprobar su nivel de madurez mental) hasta que alcancen la edad de casarse. Si entonces veis que son lo suficientemente maduros (en el entendimiento de la religión y en su capacidad para administrarse su dinero), dadles sus bienes (que custodiabais). No los consumáis injustamente y con rapidez antes de que crezcan (para evitar tener que entregárselos llegada la edad). Quien sea rico, que se abstenga de tomar nada (de esos bienes que custodia); y quien sea pobre, que tome solo para él lo justo y razonable. Y cuando entreguéis a los huérfanos sus bienes, hacedlo delante de testigos. Y Al-lah basta para llevar la cuenta de todo."
+          "id": 1167095,
+          "resource_id": 213,
+          "text": "আর ইয়াতিমদেরকে যাচাই করবে [১] যে পর্যন্ত না তারা বিয়ের যোগ্য হয়; অতঃপর তাদের মধ্যে ভালো-মন্দ বিচারের জ্ঞান দেখতে পেলে [২] তাদের সম্পদ তাদেরকে ফিরিয়ে দাও [৩]। তারা বড় হয়ে যাবে বলে অপচয় করে তাড়াতাড়ি খেয়ে ফেলো না। যে অভাবমুক্ত সে যেন নিবৃত্ত থাকে এবং যে বিত্তহীন সে যেন সংযত পরিমাণে ভোগ করে [৪]। অতঃপর তোমরা যখন তাদেরকে তাদের সম্পদ ফিরিয়ে দিবে তখন সাক্ষী রেখো। আর হিসেব গ্রহণে আল্লাহই যথেষ্ট।"
         }
       ]
     },
@@ -211,9 +211,9 @@
       "juz_number": 4,
       "translations": [
         {
-          "id": 954349,
-          "resource_id": 140,
-          "text": "Tanto a los hombres como a las mujeres les corresponde (en herencia) una parte de lo que dejen sus padres y sus parientes cercanos, ya sea mucho o poco; es una parte prescrita (por Al-lah)."
+          "id": 1167096,
+          "resource_id": 213,
+          "text": "পিতা-মাতা এবং আত্মীয়-স্বজনের পরিত্যক্ত সম্পত্তিতে পুরুষের অংশ আছে এবং পিতা-মাতা ও আত্মীয়-স্বজনের পরিত্যক্ত সম্পত্তিতে নারীরও অংশ আছে, সেটা অল্পই হোক বা বেশীই হোক, এক নির্ধারিত অংশ [১]।"
         }
       ]
     },
@@ -232,9 +232,9 @@
       "juz_number": 4,
       "translations": [
         {
-          "id": 954350,
-          "resource_id": 140,
-          "text": "Y si también están presentes, en la repartición de la herencia, otros parientes (que no tienen derecho a heredar), huérfanos y pobres, dadles algo de ella (antes de repartirla) y habladles con amabilidad."
+          "id": 1167097,
+          "resource_id": 213,
+          "text": "আর সম্পত্তি বন্টনকালে আত্মীয়, ইয়াতীম এবং অভাবগ্রস্ত লোক উপস্থিত থাকলে তাদেরকে তা থেকে কিছু দিবে এবং তাদের সাথে সদালাপ করবে [১]।"
         }
       ]
     },
@@ -253,9 +253,9 @@
       "juz_number": 4,
       "translations": [
         {
-          "id": 954351,
-          "resource_id": 140,
-          "text": "Y que (los tutores de los huérfanos) se preocupen<sup foot_note=149177>1</sup> (por ellos) del mismo modo que lo harían por sus propios hijos si estos fueran pequeños y quedasen huérfanos; y que teman a Al-lah y les hablen con buenas palabras."
+          "id": 1167098,
+          "resource_id": 213,
+          "text": "আর তারা যেন ভয় করে যে, অসহায় সন্তান পিছনে ছেড়ে গেলে তারাও তাদের সম্বন্ধে উদ্বিগ্ন হত। কাজেই তারা যেন আল্লাহর তাকওয়া অবলম্বন করে এবং সঙ্গত কথা বলে।"
         }
       ]
     },
@@ -274,9 +274,9 @@
       "juz_number": 4,
       "translations": [
         {
-          "id": 954352,
-          "resource_id": 140,
-          "text": "Quienes consuman injustamente los bienes de los huérfanos estarán consumiendo fuego (que arderá) en sus entrañas. Y (el Día de la Resurrección) arderán en un fuego abrasador."
+          "id": 1167099,
+          "resource_id": 213,
+          "text": "নিশ্চয় যারা ইয়াতীমদের সম্পদ অন্যায়ভাবে গ্রাস করে তারা তো তাদের পেটে আগুনই খাচ্ছে; তারা অচিরেই জ্বলন্ত আগুনে জ্বলবে [১]।"
         }
       ]
     },
@@ -295,9 +295,9 @@
       "juz_number": 4,
       "translations": [
         {
-          "id": 954353,
-          "resource_id": 140,
-          "text": "Esto es lo que Al-lah os ordena con relación a la herencia que deben recibir vuestros hijos: el hijo varón recibirá el doble de lo que reciba una hija<sup foot_note=149178>1</sup>, en el caso de haber hijos e hijas; si (el difunto) solo tuviese hijas, dos o más, estas recibirían dos tercios de la herencia (repartidos entre ellas a partes iguales); si tuviera solo una hija, a ella le correspondería la mitad de la herencia. Los padres recibirán cada uno un sexto de la herencia, en caso de que el difunto dejase algún hijo (varón o mujer); si no dejase ninguno, los padres heredarían todo, de modo que la madre recibiría un tercio (y el padre el resto). Si el difunto tuviera algún hermano o hermana, la madre recibiría un sexto (y el padre el resto, mientras que los hermanos no heredarían nada<sup foot_note=149179>2</sup>). Esta distribución deber realizarse tras el pago de las deudas y el cumplimiento del testamento<sup foot_note=149180>3</sup> que (el difunto) haya podido dejar escrito. Vosotros no sabéis quiénes pueden beneficiaros más (en esta vida y en la otra), si vuestros padres o vuestros hijos (para dejar a unos más herencia que a otros). Esto es lo que Al-lah os ordena (en cuanto a la distribución de la herencia). En verdad, Al-lah es Omnisciente y Sabio."
+          "id": 1167100,
+          "resource_id": 213,
+          "text": "আল্লাহ তোমাদের সন্তান সম্বন্ধে নির্দেশ দিচ্ছেন [১]: এক পুত্রের [২] অংশ দুই কন্যার অংশের সমান; কিন্তু শুধু কন্যা দুইয়ের বেশি থাকলে তাদের জন্য পরিত্যক্ত সম্পত্তির তিন ভাগের দু’ভাগ, আর মাত্র এক কন্যা থাকলে তার জন্য অর্ধেক [৩]। তার সন্তান থাকলে তার পিতা-মাতা প্রত্যেকের জন্য পরিত্যক্ত সম্পত্তির ছয় ভাগের এক ভাগ; সে নিঃসন্তান হলে এবং পিতা-মাতাই উত্তরাধিকারী হলে তার মাতার জন্য তিন ভাগের এক ভাগ; তার ভাই-বোন থাকলে মাতার জন্য ছয় ভাগের এক ভাগ [৪]; এ সবই সে যা ওসিয়ত করে তা দেয়ার এবং ঋণ পরিশোধের পর [৫]। তোমাদের পিতা ও সন্তানদের মধ্যে উপকারে কে তোমাদের নিকটতর তা তোমরা জান না [৬]। এ বিধান আল্লাহর; নিশ্চয় আল্লাহ সর্বজ্ঞ, প্রজ্ঞাময়।"
         }
       ]
     },
@@ -316,9 +316,9 @@
       "juz_number": 4,
       "translations": [
         {
-          "id": 954354,
-          "resource_id": 140,
-          "text": "Y a vosotros os corresponde la mitad de la herencia que dejen vuestras esposas, si no tienen hijos; en caso de tenerlos, recibiréis la cuarta parte de lo que dejen, una vez saldadas las deudas y cumplidos los testamentos que hayan podido dejar escritos. Y a ellas les corresponde la cuarta parte de lo que dejéis, si no tenéis hijos; en caso de tenerlos, ellas recibirán la octava parte de lo que dejéis, una vez saldadas las deudas y cumplidos los testamentos que hayáis podido dejar escritos. Si (el difunto o la difunta) no dejase ni hijos ni padres, pero dejase un hermano o una hermana de madre, cada uno recibiría una sexta parte. Si los hermanos o hermanas fueran más de dos, se repartirían entre ellos la tercera parte de la herencia, una vez saldadas las deudas y cumplido el testamento que hubiera podido dejar escrito (el difunto), de manera que nadie salga perjudicado. Esto es un mandato de Al-lah, y Al-lah es Omnisciente y Tolerante."
+          "id": 1167101,
+          "resource_id": 213,
+          "text": "তোমাদের স্ত্রীদের পরিত্যক্ত সম্পত্তির অর্ধেক তোমাদের জন্য, যদি তাদের কোনো সন্তান না থাকে এবং তাদের সন্তান থাকলে তোমাদের জন্য তাদের পরিত্যক্ত সম্পত্তির চার ভাগের এক ভাগ; ওসিয়াত পালন এবং ঋণ পরিশোধের পর। তোমাদের সন্তান না থাকলে তাদের জন্য তোমাদের পরিত্যক্ত সম্পত্তির চার ভাগের এক ভাগ, আর তোমাদের সন্তান থাকলে তাদের জন্য তোমাদের পরিত্যক্ত সম্পত্তির আট ভাগের এক ভাগ; তোমরা যা ওসিয়াত করবে তা দেয়ার পর এবং ঋণ পরিশোধের পর [১]। আর যদি কোনো পুরুষ অথবা নারীর ‘কালালাহ [২]’ বা পিতা-মাতা ও সন্তানহীন উত্তরাধিকারী হয়, আর থাকে তার এক বৈপিত্রেয় ভাই বা বোন, তবে প্রত্যেকের জন্য ছয় ভাগের এক ভাগ। তারা এর বেশি হলে সবাই সমান অংশীদার হবে তিন ভাগের এক ভাগে; এটা যা ওসিয়াত করা হয় তা দেয়ার পর এবং ঋণ পরিশোধের পর, কারো ক্ষতি না করে [৩]। এ হচ্ছে আল্লাহর নির্দেশ। আর আল্লাহ সর্বজ্ঞ, সহনশীল।"
         }
       ]
     },
@@ -337,9 +337,9 @@
       "juz_number": 4,
       "translations": [
         {
-          "id": 954355,
-          "resource_id": 140,
-          "text": "Estas son las leyes de Al-lah. Quien obedezca a Al-lah y a Su Mensajero entrará en jardines por los cuales corren ríos, y allí vivirá eternamente; y ese es el gran triunfo."
+          "id": 1167102,
+          "resource_id": 213,
+          "text": "এসব আল্লাহ্‌র নির্ধারিত সীমা। কেউ আল্লাহ ও তাঁর রাসূলের আনুগত্য করলে আল্লাহ তাকে প্রবেশ করাবেন জান্নাতে, যার পাদদেশে নদী প্রবাহিত; তারা সেখানে স্থায়ী হবে আর এটাই হলো মহাসাফল্য।"
         }
       ]
     },
@@ -358,9 +358,9 @@
       "juz_number": 4,
       "translations": [
         {
-          "id": 954356,
-          "resource_id": 140,
-          "text": "Mas quien desobedezca a Al-lah y a Su Mensajero y quebrante las leyes que Él ha dictaminado entrará en el fuego, donde permanecerá eternamente, y recibirá un castigo humillante."
+          "id": 1167103,
+          "resource_id": 213,
+          "text": "আর কেউ আল্লাহ্‌ ও তাঁর রাসূলের অবাধ্য হলে এবং তাঁর নির্ধারিত সীমা লংঘন করলে তিনি  তাকে আগুনে নিক্ষেপ করবেন; সেখানে সে স্থায়ী হবে এবং তার জন্য লাঞ্ছনাদায়ক শাস্তি রয়েছে [১]।"
         }
       ]
     },
@@ -379,9 +379,9 @@
       "juz_number": 4,
       "translations": [
         {
-          "id": 954357,
-          "resource_id": 140,
-          "text": "Tomad el testimonio de cuatro hombres<sup foot_note=149181>1</sup> para aquellas de vuestras mujeres que cometan fornicación o adulterio. Si testifican en su contra, recluidlas en sus casas de por vida o hasta que Al-lah les procure una salida (u otra sanción)<sup foot_note=149182>2</sup>."
+          "id": 1167104,
+          "resource_id": 213,
+          "text": "আর তোমাদের নারীদের মধ্যে যারা ব্যভিচার করে তাদের বিরুদ্ধে তোমাদের মধ্য থেকে চারজন সাক্ষী তলব করবে [১]। যদি তারা সাক্ষ্য দেয় তবে তাদেরকে ঘরে অবরুদ্ধ করবে, যে পর্যন্ত না তাদের মৃত্যু হয় বা আল্লাহ্‌ তাদের জন্য অন্য কোনো ব্যবস্থা করেন [২]।"
         }
       ]
     },
@@ -400,9 +400,9 @@
       "juz_number": 4,
       "translations": [
         {
-          "id": 954358,
-          "resource_id": 140,
-          "text": "Y para aquellos dos<sup foot_note=149183>1</sup> de entre vosotros que realicen el mismo pecado, castigadlos; pero si se arrepienten y se enmiendan, dejadlos. Ciertamente, Al-lah es Indulgente y Misericordioso."
+          "id": 1167105,
+          "resource_id": 213,
+          "text": "আর তোমাদের মধ্যে যে দুজন এতে লিপ্ত হবে তাদেরকে শাস্তি দেবে। যদি তারা তাওবাহ্‌ করে এবং নিজেদেরকে সংশোধণ করে নেয় তবে তাদের থেকে বিরত থাকবে [১]। নিশ্চয় আল্লাহ পরম তাওবাহ্‌ কবুলকারী, পরম দয়ালু।"
         }
       ]
     },
@@ -421,9 +421,9 @@
       "juz_number": 4,
       "translations": [
         {
-          "id": 954359,
-          "resource_id": 140,
-          "text": "Al-lah acepta el arrepentimiento de quienes obran mal por ignorancia y se arrepienten poco después, y los perdona. Y Al-lah es Omnisciente y Sabio."
+          "id": 1167106,
+          "resource_id": 213,
+          "text": "আল্লাহ অবশ্যই সেসব লোকের তাওবাহ্‌ কবুল করবেন যারা অজ্ঞতাবশতঃ [১] মন্দ কাজ করে এবং তাড়াতাড়ি তাওবাহ্‌ করে, এরাই তারা, যাদের তাওবাহ্‌ আল্লাহ কবুল করেন [২]। আল্লাহ সর্বজ্ঞ, প্রজ্ঞাময়।"
         }
       ]
     },
@@ -442,9 +442,9 @@
       "juz_number": 4,
       "translations": [
         {
-          "id": 954360,
-          "resource_id": 140,
-          "text": "Pero no perdona a quienes persisten en obrar mal por rebeldía hasta que se aproxima el momento de su muerte y se arrepienten cuando ya es demasiado tarde, ni tampoco a quienes mueren rechazando la verdad. Hemos preparado para ellos un doloroso castigo."
+          "id": 1167107,
+          "resource_id": 213,
+          "text": "তাওবাহ্‌ তাদের জন্য নয় যারা আজীবন মন্দ কাজ করে, অবশেষে তাদের কারো মৃত্যু উপস্থিত হলে সে বলে, ‘আমি এখন তাওবাহ্‌ করছি’ এবং তাদের জন্যও নয়, যাদের মৃত্যু হয় কাফির অবস্থায়। এরাই তারা যাদের জন্য আমরা কষ্টদায়ক শাস্তির ব্যবস্থা করেছি [১]।"
         }
       ]
     },
@@ -463,9 +463,9 @@
       "juz_number": 4,
       "translations": [
         {
-          "id": 954361,
-          "resource_id": 140,
-          "text": "¡Oh, creyentes!, no os está permitido heredar a las mujeres contra su voluntad (como hacíais antes del islam)<sup foot_note=149184>1</sup>, ni debéis tratarlas con dureza para que os den parte del maher que les disteis (a cambio de concederles el divorcio), a menos que hayan cometido adulterio (pues en este caso sí podéis presionarlas para que os den el maher que les concedisteis cuando las desposasteis). Y tratadlas bien. Y si las detestáis (sed pacientes), pues puede que detestéis algo en lo que Al-lah ha depositado mucho bien."
+          "id": 1167108,
+          "resource_id": 213,
+          "text": "হে ঈমানদারগণ! যবরদস্তি করে [১] নারীদের উত্তরাধিকার হওয়া তোমাদের জন্য বৈধ নয়। তোমরা তাদেরকে যা দিয়েছ তা থেকে কিছু আত্মসাৎ করার উদ্দেশ্যে তাদেরকে অবরুদ্ধ করে রেখো না, যদি না তারা স্পষ্ট খারাপ আচরণ করে [২]। আর তোমরা তাদের সাথে সৎভাবে জীবন যাপন করবে [৩]; তোমরা যদি তাদেরকে অপছন্দ কর তবে এমন হতে পারে যে, আল্লাহ্‌ যাতে প্রভূত কল্যাণ রেখেছেন তোমরা তাকেই অপছন্দ করছ [৪]।"
         }
       ]
     },
@@ -484,9 +484,9 @@
       "juz_number": 4,
       "translations": [
         {
-          "id": 954362,
-          "resource_id": 140,
-          "text": "Y si queréis remplazar a una esposa por otra (divorciando a la primera) y le disteis a esta una gran suma de dinero (como maher), no toméis nada de lo que le entregasteis. ¿Lo tomaríais sabiendo que cometéis una injusticia y un claro pecado?"
+          "id": 1167109,
+          "resource_id": 213,
+          "text": "আর তোমরা যদি এক স্ত্রীর জায়গায় অন্য স্ত্রী গ্রহণ করা স্থির কর এবং তাদের একজনকে অনেক অর্থও [১] দিয়ে থাক, তবুও তা থেকে কিছুই ফেরত নিও না। তোমরা কি মিথ্যা অপবাদ এবং প্রকাশ্য পাপাচরণ দ্বারা তা গ্রহণ করবে?"
         }
       ]
     },
@@ -505,9 +505,9 @@
       "juz_number": 4,
       "translations": [
         {
-          "id": 954363,
-          "resource_id": 140,
-          "text": "¿Y cómo podríais tomar nada de vuestras esposas tras haber estado íntimamente unidos y después de que ellas hubiesen recibido de vuestra parte una firme promesa (de que las trataríais bien o las dejaríais libres de buena manera)?"
+          "id": 1167110,
+          "resource_id": 213,
+          "text": "আর কিভাবে তোমরা তা গ্রহণ করবে, যখন তোমরা একে অপরের সাথে সংগত হয়েছ এবং তারা তোমাদের কাছ থেকে দৃঢ় প্রতিশ্রুতি [১] নিয়েছে?"
         }
       ]
     },
@@ -526,9 +526,9 @@
       "juz_number": 4,
       "translations": [
         {
-          "id": 954364,
-          "resource_id": 140,
-          "text": "Y no desposéis a las mujeres que tuvieron vuestros padres, salvo si lo hicisteis en el pasado<sup foot_note=149185>1</sup> (pues estáis perdonados por ello). Ciertamente, eso es una indecencia, una ofensa y una mala costumbre."
+          "id": 1167111,
+          "resource_id": 213,
+          "text": "নারীদের মধ্যে তোমাদের পিতৃ পুরুষ যাদেরকে বিয়ে করেছে, তোমরা তাদেরকে বিয়ে করো না [১]; তবে পূর্বে যা সংঘটিত হয়েছে (সেটা ক্ষমা করা হলো) নিশ্চয় তা ছিল অশ্লীল, মারাত্মক ঘৃণ্য [২] ও নিকৃষ্ট পন্থা।"
         }
       ]
     },
@@ -547,9 +547,9 @@
       "juz_number": 4,
       "translations": [
         {
-          "id": 954365,
-          "resource_id": 140,
-          "text": "Se os prohíben (en matrimonio): vuestras madres, vuestras hijas, vuestras hermanas, vuestras tías paternas y maternas, vuestras sobrinas por parte de hermano o hermana, vuestras madres y hermanas de leche, las madres de vuestras esposas y las hijas de vuestras esposas que estén bajo vuestro cuidado (así como las que no lo estén) si habéis consumado el matrimonio con vuestras esposas; pero, si aún no lo habéis consumado, no cometéis ningún pecado (si os casáis con sus hijas). También (os están prohibidas en matrimonio) las esposas de vuestros hijos biológicos<sup foot_note=149186>1</sup> y casaros con dos hermanas a la vez, salvo si lo hicisteis en el pasado (en la época previa al islam). Ciertamente, Al-lah es Indulgente y Misericordioso."
+          "id": 1167112,
+          "resource_id": 213,
+          "text": "তোমাদের জন্য হারাম করা হয়েছে [১] তোমাদের মা [২], মেয়ে [৩], বোন [৪], ফুফু [৫], খালা [৬], ভাইয়ের মেয়ে [৭], বোনের মেয়ে [৮], দুধমা [৯], দুধবোন [১০],  শাশুড়ি ও তোমাদের স্ত্রীদের মধ্যে যার সাথে সংগত হয়েছ তার আগের স্বামীর ঔরসে তার গর্ভজাত মেয়ে, যারা তোমাদের অভিভাবকত্বে আছে [১১], তবে যদি তাদের সাথে সংগত না হয়ে থাক তাতে তোমাদের কোনো অপরাধ নেই। আর তোমাদের জন্য নিষিদ্ধ তোমাদের ঔরসজাত ছেলের স্ত্রী [১২] ও দুই বোনকে একত্র করা, আগে যা হয়েছে তা ছাড়া[১৩]। নিশ্চয়ই আল্লাহ ক্ষমাশীল, পরম দয়ালু।"
         }
       ]
     },
@@ -568,9 +568,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954366,
-          "resource_id": 140,
-          "text": "Y (se os prohíben también) las mujeres casadas, excepto las cautivas de guerra<sup foot_note=149187>1</sup>(a través de un nuevo contrato). Esto es un mandato de Al-lah. Se os permiten el resto de las mujeres si les entregáis unos bienes como maher con la intención de casaros con ellas, no para mantener con ellas relaciones ilícitas. Y ya que vais a gozar de ellas (en matrimonio) entregadles el maher que os ha sido ordenado (por Al-lah). No cometéis ninguna falta si ambos acordáis una cantidad distinta después de la estipulada (ya sea esta mayor o bien ella renuncie a una parte). En verdad, Al-lah es Omnisciente y Sabio."
+          "id": 1167113,
+          "resource_id": 213,
+          "text": "আর নারীদের মধ্যে তোমাদের অধিকারভুক্ত দাসী [১] ছাড়া সব সধবা তোমাদের জন্য নিষিদ্ধ, তোমাদের জন্য এগুলো আল্লাহর বিধান। উল্লেখিত নারীগণ ছাড়া অন্য নারীকে অর্থব্যয়ে বিয়ে করতে চাওয়া তোমাদের জন্য বৈধ করা হল, অবৈধ যৌন সম্পর্কের জন্য নয়। তাদের মধ্যে যাদেরকে তোমরা সম্ভোগ করেছ তাদের নির্ধারিত মাহ্‌র অর্পণ করবে [২]। মাহ্‌র নির্ধারণের পর কোনো বিষয়ে পরস্পর রাযী হলে তাতে তোমাদের কোনো দোষ নেই [৩]। নিশ্চয়ই আল্লাহ সর্বজ্ঞ, প্রজ্ঞাময়।"
         }
       ]
     },
@@ -589,9 +589,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954367,
-          "resource_id": 140,
-          "text": "Y aquel que de vosotros no disponga de medios para casarse con mujeres creyentes libres que se case con jóvenes creyentes de entre vuestras esclavas. Al-lah conoce perfectamente vuestra fe, provenís los unos de los otros (y sois iguales ante Al-lah en la religión). Y casaos con el permiso de sus amos y dadles su maher como es debido; y que sean decentes, no promiscuas ni de las que toman amantes. Y si después de casarse cometen adulterio, recibirán la mitad del castigo que les corresponde a las mujeres libres. Esto es para aquellos de vosotros que teman caer en la fornicación (si no se casan), pero es mejor para vosotros ser pacientes (hasta que dispongáis de los medios para casaros con mujeres libres). Y Al-lah es Indulgente y Misericordioso."
+          "id": 1167114,
+          "resource_id": 213,
+          "text": "আর তোমাদের মধ্যে কারো মুক্ত ঈমানদার নারী বিয়ের সামর্থ্য [১] না থাকলে তোমরা তোমাদের অধিকারভুক্ত ঈমানদার দাসী বিয়ে করবে [২]; আল্লাহ তোমাদের ঈমান সম্পর্কে পরিজ্ঞাত। তোমরা একে অপরের সমান; কাজেই তোমরা তাদেরকে বিয়ে করবে তাদের মালিকের অনুমতিক্রমে [৩] এবং তাদেরকে তাদের মাহ্‌র ন্যায়সংগতভাবে দিবে। তারা হবে সচ্চরিত্রা, ব্যভিচারিণী নয় ও উপপতি গ্রহণকারিণীও নয়। অতঃপর বিবাহিতা হওয়ার পর যদি তারা ব্যভিচার করে তবে তাদের শাস্তি মুক্ত নারীর অর্ধেক [৪]; তোমাদের মধ্যে যারা ব্যভিচারকে ভয় করে এগুলো তাদের জন্য; আর ধৈর্য ধারণ করা তোমাদের জন্য মঙ্গল [৫]। আল্লাহ ক্ষমাপরায়ণ, পরম দয়ালু।"
         }
       ]
     },
@@ -610,9 +610,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954368,
-          "resource_id": 140,
-          "text": "Al-lah quiere aclararos (lo que es lícito y lo que no), quiere guiaros hacia el camino de aquellos (profetas y hombres virtuosos) que os precedieron, y quiere perdonaros. Y Al-lah es Omnisciente y Sabio."
+          "id": 1167115,
+          "resource_id": 213,
+          "text": "আল্লাহ ইচ্ছে করেন তোমাদের কাছে বিশদভাবে বিবৃত করতে, তোমাদের পূর্ববর্তীদের রীতি-নীতি তোমাদেরকে অবহিত করতে এবং তোমাদেরকে ক্ষমা করতে [১]। আর আল্লাহ সর্বজ্ঞ, প্রজ্ঞাময়।"
         }
       ]
     },
@@ -631,9 +631,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954369,
-          "resource_id": 140,
-          "text": "Y Al-lah quiere perdonaros, mientras que quienes siguen sus pasiones quieren que os desviéis por completo (del camino recto)."
+          "id": 1167116,
+          "resource_id": 213,
+          "text": "আর আল্লাহ তোমাদেরকে ক্ষমা করতে চান। আর যারা কুপ্রবৃত্তির অনুসরণ করে তারা চায় যে, তোমরা ভীষণভাবে পথচ্যুত হও [১]।"
         }
       ]
     },
@@ -652,9 +652,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954370,
-          "resource_id": 140,
-          "text": "Al-lah quiere que os resulten fáciles (los mandatos de Su religión), pues el hombre ha sido creado débil."
+          "id": 1167117,
+          "resource_id": 213,
+          "text": "আল্লাহ তোমাদের ভার কমাতে চান [১]; আর মানুষকে সৃষ্টি করা হয়েছে দুর্বলরূপে [২]।"
         }
       ]
     },
@@ -673,9 +673,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954371,
-          "resource_id": 140,
-          "text": "¡Oh, creyentes!, no os apropiéis de los bienes ajenos de manera ilegal; mas sí podéis comerciar entre vosotros de mutuo acuerdo. Y no os matéis a vosotros mismos<sup foot_note=149188>1</sup> (ni os matéis los unos a los otros causando vuestra destrucción). Ciertamente, Al-lah es Misericordioso con vosotros."
+          "id": 1167118,
+          "resource_id": 213,
+          "text": "হে মুমিনগণ! তোমরা একে অপরের সম্পত্তি [১] অন্যায়ভাবে [২] গ্রাস করো না; কিন্তু তোমরা পরস্পর রাযী হয়ে [৩] ব্যবসা করা বৈধ [৪]; এবং নিজেদেরকে হত্যা করো না [৫]; নিশ্চয় আল্লাহ তোমাদের প্রতি পরম দয়ালু।"
         }
       ]
     },
@@ -694,9 +694,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954372,
-          "resource_id": 140,
-          "text": "Y a quien lo haga, cometiendo así una transgresión y una injusticia, lo introduciremos en el fuego; y ello es fácil para Al-lah."
+          "id": 1167119,
+          "resource_id": 213,
+          "text": "আর যে কেউ সীমালংঘন করে অন্যায়ভাবে তা করবে, অবশ্যই আমরা তাকে আগুনে পোড়াবো; এসব আল্লাহর পক্ষে সহজ।"
         }
       ]
     },
@@ -715,9 +715,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954373,
-          "resource_id": 140,
-          "text": "Si evitáis los pecados graves<sup foot_note=149189>1</sup> que se os han prohibido, borraremos vuestras faltas y os admitiremos en un lugar honorable (el paraíso)."
+          "id": 1167120,
+          "resource_id": 213,
+          "text": "তোমদেরকে যা নিষেধ করা হয়েছে তার মধ্যে যা কবীরা গোনাহ্‌ [১] তা থেকে বিরত থাকলে আমরা তোমাদের ছোট পাপগুলো [২] ক্ষমা করব এবং তোমাদেরকে সম্মানজনক স্থানে প্রবেশ করাব।"
         }
       ]
     },
@@ -736,9 +736,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954374,
-          "resource_id": 140,
-          "text": "Y no anheléis lo que Al-lah ha concedido a unos favoreciéndolos más que a otros<sup foot_note=149190>1</sup>. Los hombres tendrán la recompensa que sus obras merezcan y las mujeres también obtendrán la recompensa que sus acciones merezcan. Y pedidle a Al-lah de Su favor. Ciertamente, Al-lah tiene conocimiento sobre todas las cosas."
+          "id": 1167121,
+          "resource_id": 213,
+          "text": "আর যা দ্বারা আল্লাহ তোমাদের কাউকে কারো উপর শ্রেষ্ঠত্ব দিয়েছেন তোমরা তার লালসা করো না। পুরুষ যা অর্জন করে তা তার প্রাপ্য অংশ এবং নারী যা অর্জন করে তা তার প্রাপ্য অংশ [১]। আর আল্লাহর কাছে তাঁর অনুগ্রহ প্রার্থনা কর, নিশ্চয় আল্লাহ সবকিছু সম্পর্কে সর্বজ্ঞ।"
         }
       ]
     },
@@ -757,9 +757,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954375,
-          "resource_id": 140,
-          "text": "Y a todos hemos designado herederos de los bienes que dejan los padres y los parientes cercanos. Y dadles su debida parte a aquellos con quienes establecisteis un pacto (de hermandad)<sup foot_note=149191>1</sup>. En verdad, Al-lah es testigo de todas las cosas."
+          "id": 1167122,
+          "resource_id": 213,
+          "text": "পিতা-মাতা ও আত্মীয়-স্বজনের পরিত্যক্ত সম্পত্তির প্রত্যেকটির জন্য আমরা উত্তরাধিকারী করেছি [১] এবং যাদের সাথে তোমরা অঙ্গীকারাবদ্ধ তাদেরকে তাদের অংশ দেবে [২]। নিশ্চয় আল্লাহ সর্বকিছুর সম্যক দ্রষ্টা।"
         }
       ]
     },
@@ -778,9 +778,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954376,
-          "resource_id": 140,
-          "text": "Los hombres son los responsables de proteger, guiar y velar por las necesidades de las mujeres porque Al-lah ha favorecido al hombre por encima de la mujer (para algunas actividades) y porque ellos las mantienen con sus bienes. Consecuentemente, las mujeres virtuosas deben ser obedientes y deben proteger (su honor y las propiedades del marido) en la ausencia de este, como Al-lah les ha ordenado. Y a aquellas de quienes temáis rebeldía y mala conducta (porque se muestran arrogantes y no respetan a sus maridos cuando ellos no han cometido ninguna falta contra ellas), amonestadlas (primero), no compartáis el lecho con ellas (si la medida anterior no les hace desistir) y tomad medidas físicas<sup foot_note=149192>1</sup> (como última opción y sin buscar lastimarlas). Pero si os obedecen, no toméis medidas contra ellas. En verdad, Al-lah es Excelso y Grande (y tomará represalias contra vosotros si las tratáis injustamente)."
+          "id": 1167123,
+          "resource_id": 213,
+          "text": "পুরুষরা নারীদের কর্তা [১], কারণ আল্লাহ তাদের এককে অপরের উপর শ্রেষ্ঠত্ব দিয়েছেন এবং এজন্যে যে, পুরুষ তাদের ধন-সম্পদ ব্যয় করে [২]। কাজেই পূণ্যশীলা স্ত্রীরা অনুগতা [৩] এবং লোকচক্ষুর আড়ালে আল্লাহর হেফাযতে তারা হেফাযত করে [৪]। আর স্ত্রীদের মধ্যে যাদের অবাধ্যতার আশংকা কর তাদেরকে সদুপদেশ দাও, তারপর তাদের শয্যা বর্জন কর এবং তাদেরকে প্রহার কর [৫]। যদি তারা তোমাদের অনুগত হয় তবে তাদের বিরুদ্ধে কোনো পথ অন্বেষণ করো না [৬]। নিশ্চয় আল্লাহ শ্রেষ্ঠ, মহান।"
         }
       ]
     },
@@ -799,9 +799,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954377,
-          "resource_id": 140,
-          "text": "Y si teméis que los esposos se separen, designad un árbitro de la familia de él y otro de la familia de ella (para que medien intentando buscar una solución). Si ambos quieren la reconciliación, Al-lah la facilitará. Ciertamente, Al-lah tiene conocimiento de todas las cosas y está informado de todo."
+          "id": 1167124,
+          "resource_id": 213,
+          "text": "আর তাদের উভয়ের মধ্যে বিরোধ আশংকা করলে তোমরা স্বামীর পরিবার থেকে একজন এবং স্ত্রীর পরিবার থেকে একজন সালিশ নিযুক্ত কর; তারা উভয়ে নিস্পত্তি চাইলে আল্লাহ তাদের মধ্যে মীমাংসার অনুকূল অবস্থা সৃষ্টি করবেন। নিশ্চয় আল্লাহ সর্বজ্ঞ, সবিশেষ অবহিত [১]।"
         }
       ]
     },
@@ -820,9 +820,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954378,
-          "resource_id": 140,
-          "text": "Y adorad solamente a Al-lah; y tratad bien a vuestros padres, a vuestros parientes, a los huérfanos, a los pobres, a los vecinos que sean familiares vuestros y a los que no los sean, a los compañeros de viaje, a los viajeros y a los esclavos. En verdad, Al-lah no ama a los presuntuosos y arrogantes;"
+          "id": 1167125,
+          "resource_id": 213,
+          "text": "আর তোমরা আল্লাহর ইবাদাত কর ও কোনো কিছুকে তাঁর শরীক করো না [১]; এবং পিতা-মাতা [২]; আত্মীয়-স্বজন [৩], ইয়াতীম, অভাবগ্রস্ত [৪], নিকট প্রতিবেশী [৫], দূর-প্রতিবেশী [৬], সঙ্গী-সাথী [৭], মুসাফির [৮] ও তোমাদের অধিকারভুক্ত দাস-দাসীদের [৯] প্রতি সদ্ব্যবহার করো। নিশ্চয় আল্লাহ পছন্দ করেন না দাম্ভিক, অহংকারীকে [১০]।"
         }
       ]
     },
@@ -841,9 +841,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954379,
-          "resource_id": 140,
-          "text": "(y tampoco ama a) quienes son avaros, ordenan a los hombres la tacañería y ocultan los favores que Al-lah les ha concedido. Y hemos preparado para quienes rechacen la verdad un castigo humillante."
+          "id": 1167126,
+          "resource_id": 213,
+          "text": "যারা কৃপণতা করে [১] এবং মানুষকে কৃপণতার নির্দেশ দেয় এবং আল্লাহ নিজ অনুগ্রহে তাদেরকে যা দিয়েছেন তা গোপন করে। আর আমরা কাফেরদের জন্য লাঞ্ছনাদায়ক শাস্তি প্রস্তুত করে রেখেছি [২]।"
         }
       ]
     },
@@ -862,9 +862,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954380,
-          "resource_id": 140,
-          "text": "(Y tampoco ama a) quienes dan caridad para que la gente los vea y los elogie mientras que no creen ni en Al-lah ni en el Día de la Resurrección. Y quien tome al Demonio por compañero, ¡qué pésimo compañero tiene!"
+          "id": 1167127,
+          "resource_id": 213,
+          "text": "আর যারা মানুষকে দেখানোর জন্য [১] তাদের ধন-সম্পদ ব্যয় করে এবং আল্লাহ ও শেষ দিবসে ঈমান আনে না। আর শয়তান কারো সঙ্গী হলে সে সঙ্গী কত মন্দ [২]!"
         }
       ]
     },
@@ -883,9 +883,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954381,
-          "resource_id": 140,
-          "text": "¿Qué daño les haría creer en Al-lah y en el Día de la Resurrección y dar en caridad de lo que Al-lah les ha proveído? Y Al-lah conoce bien quiénes son."
+          "id": 1167128,
+          "resource_id": 213,
+          "text": "তারা আল্লাহ ও শেষ দিবসে ঈমান আনলে এবং আল্লাহ তাদেরকে যা কিছু দিয়েছেন তা থেকে ব্যয় করলে তাদের কী ক্ষতি হত? আর আল্লাহ তাদের সম্পর্কে সম্যক অবগত।"
         }
       ]
     },
@@ -904,9 +904,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954382,
-          "resource_id": 140,
-          "text": "Ciertamente, Al-lah no es injusto con nadie en lo más mínimo, y multiplicará cualquier buena acción y la retribuirá con una gran recompensa de Su parte (el paraíso)."
+          "id": 1167129,
+          "resource_id": 213,
+          "text": "নিশ্চয় আল্লাহ অণু পরিমাণও যুলুম করেন না [১]। আর কোনো পূণ্য কাজ হলে আল্লাহ সেটাকে বহুগুণ বর্ধিত করেন [২] এবং আল্লাহ তাঁর কাছ থেকে মহাপুরস্কার প্রদান করেন [৩]।"
         }
       ]
     },
@@ -925,9 +925,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954383,
-          "resource_id": 140,
-          "text": "¿Y cuál será el estado de quienes rechazan la verdad cuando hagamos comparecer a un testigo<sup foot_note=149193>1</sup> de cada comunidad y hagamos que comparezcas tú (¡oh, Muhammad!) como testigo contra ellos?"
+          "id": 1167130,
+          "resource_id": 213,
+          "text": "অতঃপর যখন আমরা প্রত্যেক উম্মত হতে একজন সাক্ষী উপস্থিত করব [১] এবং আপনাকে তাদের বিরুদ্ধে সাক্ষীরূপে উপস্থিত করব তখন কী অবস্থা হবে [২]?"
         }
       ]
     },
@@ -946,9 +946,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954384,
-          "resource_id": 140,
-          "text": "Ese día, quienes no hayan creído y hayan desobedecido al Mensajero desearán que se los trague la tierra; mas no podrán ocultarle a Al-lah nada de lo que hicieron."
+          "id": 1167131,
+          "resource_id": 213,
+          "text": "যারা কুফরী করেছে এবং রাসূলের অবাধ্য হয়েছে তারা সেদিন কামনা করবে, যদি তারা মাটির সাথে মিশে যেত [১]! আর তারা আল্লাহ হতে কোনো কথাই গোপন করতে পারবে না [২]।"
         }
       ]
     },
@@ -967,9 +967,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954385,
-          "resource_id": 140,
-          "text": "¡Oh, creyentes!, no recéis en estado de embriaguez<sup foot_note=149194>1</sup>, sino que hacedlo cuando sepáis lo que decís, ni vayáis a las mezquitas en estado de impureza sexual hasta que os purifiquéis con un baño completo, a menos que paséis por ellas solo para salir por otra puerta,<sup foot_note=149195>2</sup>y no permanezcáis en ellas.Y si estuvierais enfermos o de viaje, o viniese alguno de vosotros de hacer sus necesidades, o hubieseis tenido contacto sexual con vuestras mujeres y no encontraseis agua, purificaos con tierra limpia y pura<sup foot_note=149196>3</sup> (sacudiendo en ella las manos y eliminando el exceso de tierra), pasando las manos por los rostros y frotándooslas (a continuación). Ciertamente, Al-lah es Benévolo e Indulgente."
+          "id": 1167132,
+          "resource_id": 213,
+          "text": "হে মুমিনগণ! নেশাগ্রস্ত অবস্থায় [১] তোমরা সালাতের নিকটবর্তী হয়ো না, যতক্ষণ না তোমরা যা বল তা বুঝতে পার [২] এবং যদি তোমরা মুসাফির না হও তবে অপবিত্র অবস্থাতেও নয়, যতক্ষণ পর্যন্ত না তোমরা গোসল কর [৩]। আর যদি তোমরা পীড়িত হও অথবা সফরে থাক বা তোমাদের কেউ শৌচস্থান থেকে আসে অথবা তোমরা নারী সম্ভোগ কর এবং পানি না পাও তবে পবিত্র মাটির দ্বারা তায়াম্মুম কর [৪]। সুতরাং মাসেহ কর তোমরা তোমাদের চেহারা ও হাত, নিশ্চয় আল্লাহ পাপ মোচনকারী, ক্ষমাশীল।"
         }
       ]
     },
@@ -988,9 +988,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954386,
-          "resource_id": 140,
-          "text": "¿No has reparado (¡oh, Muhammad!) en cómo aquellos a quienes entregamos parte de las Escrituras (la Torá) cambian el camino recto por el extravío y quieren que os desviéis de él?"
+          "id": 1167133,
+          "resource_id": 213,
+          "text": "আপনি কি তাদেরকে দেখেননি যাদেরকে কিতাবের এক অংশ দেয়া হয়েছিল? তারা ভ্রান্ত পথ ক্রয় করে এবং তোমরাও পথভ্রষ্ট হও –এটাই তারা চায় [১]।"
         }
       ]
     },
@@ -1009,9 +1009,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954387,
-          "resource_id": 140,
-          "text": "Al-lah conoce perfectamente a vuestros enemigos, y Él os basta como protector y auxiliador."
+          "id": 1167134,
+          "resource_id": 213,
+          "text": "আল্লাহ তোমাদের শত্রুদেরকে ভালোভাবে জানেন। আর অভিভাকত্বে আল্লাহই যথেষ্ট এবং সাহায্যেও আল্লাহই যথেষ্ট।"
         }
       ]
     },
@@ -1030,9 +1030,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954388,
-          "resource_id": 140,
-          "text": "Hay judíos que tergiversan las palabras (reveladas en la Torá) sacándolas de su contexto y dicen (al mensajero Muhammad): «Te oímos…», (mientras que después dicen entre ellos) «…y desobedecemos», (y le dicen) «óyenos…», (y cuando se quedan a solas, dicen) «…¡Ojalá no oigas nada!» y «ra’ina<sup foot_note=149197>1</sup>»; juegan con las palabras para burlarse de la religión. Y si dijeran: «oímos y obedecemos», «óyenos y concédenos tiempo (o un respiro)», sería mucho mejor para ellos y más correcto; pero Al-lah los ha expulsado de Su misericordia debido a su rechazo de la verdad, pues no creen<sup foot_note=149198>2</sup>, salvo unos pocos."
+          "id": 1167135,
+          "resource_id": 213,
+          "text": "ইয়াহুদীদের মধ্যে কিছু লোক কথাগুলো স্থানচ্যুত করে বিকৃত করে [১] এবং বলে, ‘শুনলাম ও অমান্য করলাম’ এবং শোনে না শোনার মত; আর নিজেদের জিহবা কুঞ্চিত করে এবং দীনের প্রতি তাচ্ছিল্য করে বলে, ‘রাইনা’ [২]। কিন্তু তারা যদি বলত, ‘শুনলাম ও মান্য করলাম এবং শুনুন ও আমাদের প্রতি লক্ষ্য করুন’, তবে তা তাদের জন্য ভালো ও সঙ্গত হত। কিন্তু তাদের কুফরীর জন্য আল্লাহ তাদেরকে লা’নত করেছেন। ফলে তাদের অল্প সংখ্যকই ঈমান আনে।"
         }
       ]
     },
@@ -1051,9 +1051,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954389,
-          "resource_id": 140,
-          "text": "¡Vosotros (judíos y cristianos) que habéis recibido las Escrituras!, creed en lo que hemos revelado (a Muhammad) y que confirma lo que ya teníais (la Torá y el Evangelio), antes de que borremos las facciones de vuestros rostros y los volvamos hacia atrás<sup foot_note=149199>1</sup> u os expulsemos de Nuestra misericordia (castigándoos) como hicimos con los judíos que profanaron la ley del sábado. Y la sentencia de Al-lah siempre se ejecuta."
+          "id": 1167136,
+          "resource_id": 213,
+          "text": "হে কিতাবপ্রাপ্তগণ, তোমাদের কাছে যা আছে তার সমর্থকরূপে আমরা যা নাযিল করেছি তাতে তোমরা ঈমান আন [১], আমরা মুখমণ্ডলগুলোকে বিকৃত করে তারপর সেগুলোকে পিছনের দিকে ফিরিয়ে দেয়ার আগে [২] অথবা আস্‌হাবুস্‌ সাব্‌তকে যেরূপ লা’নত করেছিলাম [৩] সেরূপ তাদেরকে লা’নত করার আগে। আর আল্লাহ্‌র আদেশ কার্যকরী হয়েই থাকে।"
         }
       ]
     },
@@ -1072,9 +1072,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954390,
-          "resource_id": 140,
-          "text": "Al-lah no perdona que se adoren a otros fuera de Él (a menos que se arrepientan y abandonen la idolatría), pero perdona cualquier otro pecado a quien quiere. Y quien adore a otros fuera de Al-lah estará cometiendo un gravísimo pecado."
+          "id": 1167137,
+          "resource_id": 213,
+          "text": "নিশ্চয় আল্লাহ তাঁর সাথে শরীক [১] করাকে ক্ষমা করেন না। এছাড়া অন্যান্য অপরাধ যাকে ইচ্ছে ক্ষমা করেন [২]। আর যে-ই আল্লাহর সাথে শরীক করে, সে এক মহাপাপ রটনা করে।"
         }
       ]
     },
@@ -1093,9 +1093,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954391,
-          "resource_id": 140,
-          "text": "¿No has reparado (¡oh, Muhammad!) en quienes se elogian a ellos mismos creyéndose los más virtuosos y puros? Mas, Al-lah es Quien enaltece y purifica a quien quiere por su virtud, y nadie será tratado con injusticia en lo más mínimo."
+          "id": 1167138,
+          "resource_id": 213,
+          "text": "আপনি কি তাদেরকে দেখেননি, যারা নিজেদেরকে পবিত্র মনে করে? বরং আল্লাহ যাকে ইচ্ছে পবিত্র করেন [১]। আর তাদের উপর সূতা পরিমাণও যুলুম করা হবে না।"
         }
       ]
     },
@@ -1114,9 +1114,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954392,
-          "resource_id": 140,
-          "text": "Mira cómo inventan mentiras contra Al-lah. Y eso basta como claro pecado."
+          "id": 1167139,
+          "resource_id": 213,
+          "text": "দেখুন! তারা আল্লাহ সম্বন্ধে কিরূপ মিথ্যা উদ্ভাবন করে; আর প্রকাশ্য পাপ হিসেবে এটাই যথেষ্ট।"
         }
       ]
     },
@@ -1135,9 +1135,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954393,
-          "resource_id": 140,
-          "text": "¿Acaso no has reparado en cómo aquellos a quienes concedimos parte de las Escrituras (la Torá) creen en la brujería<sup foot_note=149200>1</sup> y la falsedad mientras que dicen acerca de quienes rechazan la verdad que están mejor guiados que los creyentes?"
+          "id": 1167140,
+          "resource_id": 213,
+          "text": "আপনি কি তাদেরকে দেখেননি যাদেরকে কিতাবের এক অংশ দেয়া হয়েছিল, তারা জিব্‌ত ও তাগূতে বিশ্বাস করে [১]? তারা কাফেরদের সম্বন্ধে বলে, ‘এদের পথই মুমিনদের চেয়ে প্রকৃষ্টতর [২]।"
         }
       ]
     },
@@ -1156,9 +1156,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954394,
-          "resource_id": 140,
-          "text": "Esos son aquellos a los que Al-lah ha expulsado de Su misericordia. Y no encontrarás a nadie que pueda auxiliar a quien Al-lah prive de ella."
+          "id": 1167141,
+          "resource_id": 213,
+          "text": "এরাই তারা, যাদেরকে আল্লাহ লা’নত করেছেন [১] এবং আল্লাহ যাকে লা’নত করেন আপনি কখনো তার কোনো সাহায্যকারী পাবেন না [২]।"
         }
       ]
     },
@@ -1177,9 +1177,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954395,
-          "resource_id": 140,
-          "text": "¿O acaso poseen una parte del dominio de Al-lah? Y, aunque así fuera, no darían a los hombres lo más mínimo."
+          "id": 1167142,
+          "resource_id": 213,
+          "text": "তবে কি রাজশক্তিতে তাদের কোনো অংশ আছে? সে ক্ষেত্রেও তো তারা কাউকে এক কপর্দকও দেবে না [১]।"
         }
       ]
     },
@@ -1198,9 +1198,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954396,
-          "resource_id": 140,
-          "text": "¿O es que envidian a la gente por los favores que Al-lah les ha otorgado? Y, ciertamente,concedimos a (los descendientes de) la familia de Abraham la Revelación y la sabiduría, así como un gran reino."
+          "id": 1167143,
+          "resource_id": 213,
+          "text": "অথবা আল্লাহ নিজ অনুগ্রহে মানুষকে যা দিয়েছেন সে জন্য কি তারা তাদেরকে ঈর্ষা করে [১]? তবে আমরা তো ইবরাহীমের বংশধরকেও কিতাব ও হিকমত দিয়েছিলাম এবং আমরা তাদেরকে বিশাল রাজ্য দান করেছিলাম।"
         }
       ]
     },
@@ -1219,9 +1219,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954397,
-          "resource_id": 140,
-          "text": "Y entre ellos hay quienes creen (en Muhammad) y quienes lo rechazan apartándose de él. Y (a estos últimos), el infierno bastará para quemarlos."
+          "id": 1167144,
+          "resource_id": 213,
+          "text": "অতঃপর তাদের কিছু সংখ্যক তাতে ঈমান এনেছিল এবং কিছু সংখ্যক তা থেকে মুখ ফিরিয়ে নিয়েছিল [১]; আর দগ্ধ করার জন্য জাহান্নামই যথেষ্ট।"
         }
       ]
     },
@@ -1240,9 +1240,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954398,
-          "resource_id": 140,
-          "text": "En verdad, quienes rechacen Nuestra revelación (y las pruebas que hemos enviado) entrarán en el fuego. Cada vez que se les abrase completamente la piel<sup foot_note=149201>1</sup>, la sustituiremos por otra nueva para que vuelvan a sufrir el castigo. Ciertamente, Al-lah es Poderoso y Sabio."
+          "id": 1167145,
+          "resource_id": 213,
+          "text": "নিশ্চয় যারা আমাদের আয়াতকে প্রত্যাখ্যান করে অবশ্যই তাদেরকে আমরা আগুনে পোড়াব; যখনই তাদের চামড়া পুড়ে পাকা দগ্ধ হবে তখনই তার স্থলে নতুন চামড়া বদলে দেব, যাতে তারা শাস্তি ভোগ করে [১]। নিশ্চয়ই আল্লাহ পরাক্রমশালী, প্রজ্ঞাময়।"
         }
       ]
     },
@@ -1261,9 +1261,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954399,
-          "resource_id": 140,
-          "text": "Y quienes crean y obren rectamente entrarán en jardines por los cuales corren ríos, y allí vivirán eternamente. Tendrán esposas purificadas y serán admitidos en una (plácida) sombra que se extenderá (en el paraíso)."
+          "id": 1167146,
+          "resource_id": 213,
+          "text": "আর যারা ঈমান আনে এবং ভালো কাজ করে, অচিরেই আমরা তাদেরকে এমন জান্নাতে প্রবেশ করাব, যার পাদদেশে নদী-নালাসমূহ প্রবাহিত; যেখানে তারা চিরস্থায়ী হবে, সেখানে তাদের জন্য পবিত্র স্ত্রী থাকবে এবং তাদেরকে আমরা চিরস্নিগ্ধ ছায়ায় প্রবেশ করাব [১]।"
         }
       ]
     },
@@ -1282,9 +1282,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954400,
-          "resource_id": 140,
-          "text": "Al-lah os ordena devolver a sus dueños lo que os hayan confiado y que, cuando juzguéis a los hombres, lo hagáis con equidad. ¡Qué bueno es aquello a lo que Al-lah os exhorta! Ciertamente, Al-lah todo lo oye y todo lo ve."
+          "id": 1167147,
+          "resource_id": 213,
+          "text": "নিশ্চয় আল্লাহ তোমাদেরকে নির্দেশ দিচ্ছেন আমানত [১] তার হকদারকে ফিরিয়ে দিতে [২]। তোমরা যখন মানুষের মধ্যে বিচারকার্য পরিচালনা করবে তখন ন্যায়পরায়ণতার সাথে বিচার করবে [৩]। আল্লাহ তোমাদেরকে যে উপদেশ দেন তা কত উৎকৃষ্ট[৪]! নিশ্চয় আল্লাহ সর্বশ্রোতা, সর্বদ্রষ্টা [৫]।"
         }
       ]
     },
@@ -1303,9 +1303,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954401,
-          "resource_id": 140,
-          "text": "¡Oh, creyentes!, obedeced a Al-lah, al Mensajero<sup foot_note=149202>1</sup> y a quienes tengan autoridad sobre vosotros (siempre y cuando no se opongan a los mandatos de Al-lah). Y si discrepáis en algo, remitidlo a Al-lah y a Su Mensajero, si de verdad creéis en Él y en el Día de la Resurrección. Esto es lo mejor para vosotros y la solución más correcta al final."
+          "id": 1167148,
+          "resource_id": 213,
+          "text": "হে ঈমানদারগণ! তোমরা আল্লাহর আনুগত্য কর, রাসূলের আনুগত্য কর, আরও আনুগত্য কর তোমাদের মধ্যকার ক্ষমতাশীলদের [১], অতঃপর কোনো বিষয়ে তোমাদের মধ্যে মতভেদ ঘটলে তা উপস্থাপিত কর আল্লাহ ও রাসূলের নিকট, যদি তোমরা আল্লাহ ও আখেরাতে ঈমান এনে থাক। এ পন্থায় উত্তম এবং পরিণামে প্রকৃষ্টতর।"
         }
       ]
     },
@@ -1324,9 +1324,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954402,
-          "resource_id": 140,
-          "text": "¿No has reparado (¡oh, Muhammad!) en aquellos (hipócritas) que dicen creer en lo que te ha sido revelado (el Corán) y en lo que fue revelado con anterioridad a ti? (Sin embargo) quieren recurrir a la falsedad para juzgar entre ellos, cuando se les había ordenado rechazarla. Y el Demonio quiere desviaros lejos de la verdad."
+          "id": 1167149,
+          "resource_id": 213,
+          "text": "আপনি কি তাদেরকে দেখেননি যারা দাবি করে যে, আপনার প্রতি যা নাযিল হয়েছে এবং আপনার পূর্বে যা নাযিল হয়েছে তাতে তারা ঈমান এনেছে, অথচ তারা তাগূতের কাছে বিচারপ্রার্থী হতে চায়, যদিও সেটাকে প্রত্যাখ্যান করার জন্য তাদেরকে নির্দেশ দেয়া হয়েছে। আর শয়তান তাদেরকে ভীষণভাবে পথভ্রষ্ট করতে চায়?"
         }
       ]
     },
@@ -1345,9 +1345,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954403,
-          "resource_id": 140,
-          "text": "Y si se les dice: «Aproximaos a lo que Al-lah os ha revelado y (seguid) al Mensajero», ves cómo los hipócritas se apartan de ti con aversión."
+          "id": 1167150,
+          "resource_id": 213,
+          "text": "তাদেরকে যখন বলা হয় আল্লাহ যা নাযিল করেছেন তার দিকে এবং রাসূলের দিকে আস, তখন মুনাফিকদেরকে আপনি আপনার কাছ থেকে একেবারে মুখ ফিরিয়ে নিতে দেখবেন [১]।"
         }
       ]
     },
@@ -1366,9 +1366,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954404,
-          "resource_id": 140,
-          "text": "¿Qué harán cuando les ocurra una desgracia como consecuencia (de su rechazo a la verdad y) de las acciones que ellos mismos han cometido? Entonces vendrán a ti jurando por Al-lah que solo pretendían el bien y la concordia (cuando recurrieron a otros para que juzgaran sobre sus asuntos en vez de acudir a ti, ¡oh, Muhammad!)."
+          "id": 1167151,
+          "resource_id": 213,
+          "text": "অতঃপর কী অবস্থঅ হবে, যখন তাদের কৃতকর্মের জন্য তাদের কোন মুসীবত হবে? তারপর তারা আল্লাহর নামে শপথ করে আপনার কাছে এসে বলবে, ‘আমরা কল্যাণ এবং সম্প্রীতি ছাড়া অন্য কিছুই চাইনি।’"
         }
       ]
     },
@@ -1387,9 +1387,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954405,
-          "resource_id": 140,
-          "text": "Al-lah conoce bien qué es lo que encierran sus corazones; así que déjalos (no los castigues), exhórtalos y háblales con palabras que los conmuevan."
+          "id": 1167152,
+          "resource_id": 213,
+          "text": "এরাই তারা, যাদের অন্তরে কী আছে আল্লাহ তা জানেন। কাজেই আপনি তাদেরকে উপেক্ষা করুন, তাদেরকে সদুপদেশ দিন এবং তাদেরকে তাদের মর্ম স্পর্শ করে– এমন কথা বলুন।"
         }
       ]
     },
@@ -1408,9 +1408,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954406,
-          "resource_id": 140,
-          "text": "Y no hemos enviado a ningún mensajero, salvo para ser obedecido con el permiso de Al-lah. Y si hubiesen acudido a ti, después de haber sido injustos consigo mismos, y hubiesen pedido perdón a Al-lah y tú, Muhammad, hubieses pedio perdón por ellos, habrían hallado que Al-lah acepta siempre el arrepentimiento y que es Misericordioso."
+          "id": 1167153,
+          "resource_id": 213,
+          "text": "আল্লাহর অনুমতিক্রমে কেবল আনুগত্য করার জন্যই আমরা রাসূলেদের প্রেরণ করেছি। যখন তারা নিজেদের প্রতি যুলুম করে তখন তারা আপনার কাছে আসলে ও আল্লাহর নিকট ক্ষমা প্রার্থনা করলে এবং রাসূলও তাদের জন্য ক্ষমা চাইলে তারা অবশ্যই আল্লাহকে পরম ক্ষমাশীল ও পরম দয়ালুরূপে পাবে [১]।"
         }
       ]
     },
@@ -1429,9 +1429,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954407,
-          "resource_id": 140,
-          "text": "Por tu Señor que no creerán de verdad hasta que acudan a tipara que dictamines sobre sus discrepancias y acepten tu decisión sin reticencia alguna y se sometan a ella."
+          "id": 1167154,
+          "resource_id": 213,
+          "text": "কিন্তু না, আপনার রবের শপথ! তারা মুমিন হবে না যতক্ষণ পর্যন্ত তারা নিজেদের বিবাদ-বিসম্বাদের [১] বিচার ভার আপনার উপর অর্পণ না করে; অতঃপর আপনার মীমাংসা সম্পর্কে তাদের মনে কোনো দ্বিধা না থাকে [২] এবং সর্বান্তকরণে তা মেনে নেয় [৩]।"
         }
       ]
     },
@@ -1450,9 +1450,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954408,
-          "resource_id": 140,
-          "text": "Y si les hubiésemos ordenado (a dichos hipócritas) que se matasen entre ellos (de manera que los inocentes matasen a los culpables) o que abandonasen sus hogares, no lo habrían hecho, salvo unos pocos. Y si hubiesen cumplido lo que se les ordenaba, habría sido mejor para ellos y habrían fortalecido su fe;"
+          "id": 1167155,
+          "resource_id": 213,
+          "text": "আর যদি আমরা তাদেরকে আদেশ দিতাম যে, তোমরা নিজেদেরকে হত্যা কর বা আপন গৃহ ত্যাগ কর তবে তাদের অল্প সংখ্যকই তা করত [১]। যা করতে তাদেরকে উপদেশ দেয়া হয়েছিল তারা তা করলে তাদের ভালো হত এবং চিত্তস্থিরতায় তারা দৃঢ়তর হত।"
         }
       ]
     },
@@ -1471,9 +1471,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954409,
-          "resource_id": 140,
-          "text": "les habríamos otorgado una gran recompensa de Nuestra parte;"
+          "id": 1167156,
+          "resource_id": 213,
+          "text": "আর অবশ্যই তখন আমরা তাদেরকে আমাদের কাছ থেকে মহাপুরস্কার প্রদান করতাম।"
         }
       ]
     },
@@ -1492,9 +1492,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954410,
-          "resource_id": 140,
-          "text": "y los habríamos guiado hacia el camino recto."
+          "id": 1167157,
+          "resource_id": 213,
+          "text": "এবং অবশ্যই আমরা তাদেরকে সরল পথে পরিচালিত করতাম।"
         }
       ]
     },
@@ -1513,9 +1513,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954411,
-          "resource_id": 140,
-          "text": "Y quienes obedezcan a Al-lah y a Su Mensajero estarán (en el paraíso) en compañía de los profetas, los sinceros, los mártires y los virtuosos, a quienes Al-lah ha agraciado; ¡y qué excelente compañía!"
+          "id": 1167158,
+          "resource_id": 213,
+          "text": "আর কেউ আল্লাহ এবং রাসূলের আনুগত্য করলে সে নবী, সিদ্দীক [১] (সত্যনিষ্ঠ), শহীদ ও সৎকর্মপরায়ণ [২] –যাদের প্রতি আল্লাহ অনুগ্রহ করেছেন –তাদের সঙ্গী হবে এবং তারা কত উত্তম সঙ্গী [৩] !"
         }
       ]
     },
@@ -1534,9 +1534,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954412,
-          "resource_id": 140,
-          "text": "Tal es el favor de Al-lah; y Al-lah basta como conocedor (de quiénes merecen Su recompensa)."
+          "id": 1167159,
+          "resource_id": 213,
+          "text": "এগুলো আল্লাহর অনুগ্রহ। সর্বজ্ঞ হিসেবে আল্লাহই যথেষ্ট।"
         }
       ]
     },
@@ -1555,9 +1555,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954413,
-          "resource_id": 140,
-          "text": "¡Oh, creyentes!, tomad precauciones (contra vuestros enemigos) y salid a su encuentro en (sucesivos) grupos o todos juntos."
+          "id": 1167160,
+          "resource_id": 213,
+          "text": "হে মুমিনগণ! তোমরা তোমাদের সতর্কতা অবলম্বন কর; তারপর হয় দলে দলে বিভক্ত হয়ে অগ্রসর হও অথবা একসঙ্গে অগ্রসর হও [১]।"
         }
       ]
     },
@@ -1576,9 +1576,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954414,
-          "resource_id": 140,
-          "text": "Y hay quien se queda rezagado de entre vosotros (para no luchar). Si os sobreviene una desgracia, dice: «Al-lah me ha agraciado al hacer que no estuviera presente entre ellos»;"
+          "id": 1167161,
+          "resource_id": 213,
+          "text": "আর নিশ্চয় তোমাদের মধ্যে এমন লোক আছে, যে গড়িমসি করবেই। অতঃপর তোমাদের কোনো মুসীবত হলে সে বলবে, ‘তাদের সঙ্গে না থঅকাই আল্লাহ আমার প্রতি অনুগ্রহ করেছেন।’"
         }
       ]
     },
@@ -1597,9 +1597,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954415,
-          "resource_id": 140,
-          "text": "pero si recibís un favor de Al-lah, dirá con toda seguridad —como si nunca hubiese existido entre vosotros y él afecto alguno (y no le uniese a vosotros el vínculo de la religión y buscase solamente los bienes terrenales)—: «¡Ojalá hubiera estado con ellos para haber obtenido una magnífica parte del botín!»."
+          "id": 1167162,
+          "resource_id": 213,
+          "text": "আর তোমাদের প্রতি আল্লাহর অনুগ্রহ হলে, যেন তোমাদের ও তার মধ্যে কোনো সম্পর্ক নেই এমনভাবে বলবেই, ‘হায়! যদি তাদের সাথে থাকতাম তবে আমিও বিরাট সাফল্য লাভ করতাম [১]।’"
         }
       ]
     },
@@ -1618,9 +1618,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954416,
-          "resource_id": 140,
-          "text": "Que combatan, pues, por la causa de Al-lah quienes estén dispuestos a entregar esta vida a cambio de la otra. Y concederemos una gran recompensa tanto a quienes mueran combatiendo por Nuestra causa como a quienes resulten vencedores."
+          "id": 1167163,
+          "resource_id": 213,
+          "text": "কাজেই যারা আখেরাতের বিনিময়ে পার্থিব জীবন বিক্রয় করে তারা আল্লাহর পথে যুদ্ধ করুক। আর কেউ আল্লাহর পথে যুদ্ধ করলে সে নিহত হোক বা বিজয়ী হোক আমরা তো তাকে মহাপুরস্কার প্রদান করব।"
         }
       ]
     },
@@ -1639,9 +1639,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954417,
-          "resource_id": 140,
-          "text": "¿Y qué os impide luchar por la causa de Al-lah y por aquellos hombres, mujeres y niños débiles y oprimidos que suplican: «¡Señor, sácanos de esta ciudad de opresores e incrédulos y envíanos de Tu parte a quien nos proteja y auxilie!»."
+          "id": 1167164,
+          "resource_id": 213,
+          "text": "আর তোমাদের কি হল যে, তোমরা যুদ্ধ করবে না আল্লাহর পথে এবং অসহায় নরনারী [১] এবং শিশুদের জন্য, যারা বলে, ‘হে আমাদের রব! এ জনপদ... যার অধিবাসী যালিম তা... থেকে আমাদেরকে বের করুন; আর আমাদের জন্য আপনার পক্ষ থেকে কাউকে অভিভাবক করুন এবং আপনার পক্ষ থেকে কাউকে আমাদের সহায় করুন।’"
         }
       ]
     },
@@ -1660,9 +1660,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954418,
-          "resource_id": 140,
-          "text": "Quienes creen con sinceridad luchan por la causa de Al-lah, mas quienes rechazan la verdad luchan por la causa del Demonio (obedeciéndolo para sembrar la corrupción en la tierra). Combatid, pues, a los aliados del Demonio. Ciertamente, la estratagema de este es débil."
+          "id": 1167165,
+          "resource_id": 213,
+          "text": "যারা মুমিন তারা আল্লাহর পথে যুদ্ধ করে, আর যারা কফের তারা তাগূতের পথে যুদ্ধ করে [১]। কাজেই তোমরা শয়তানের বন্ধুদের বিরুদ্ধে যুদ্ধ কর; শয়তানের কৌশল অবশ্যই দুর্বল [২]।"
         }
       ]
     },
@@ -1681,9 +1681,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954419,
-          "resource_id": 140,
-          "text": "¿No has reparado (¡oh, Muhammad!) en aquellos a quienes se les dijo que se abstuvieran de luchar<sup foot_note=149203>1</sup> (cuando estaban deseosos de hacerlo), que cumplieran con el salat y que entregaran el azaque? Mas ahora que se les prescribe luchar, un grupo de ellos temen a los hombres como debe temerse a Al-lah, o incluso más, y dicen: «¡Señor!, ¿por qué nos has prescrito el combate? ¿Por qué no lo aplazas para más tarde?». Diles: «El disfrute de esta vida es temporal; pero la otra es mucho mejor para quienes temen a Al-lah; y no seréis tratados con injusticia en lo más mínimo»."
+          "id": 1167166,
+          "resource_id": 213,
+          "text": "আপনি তাদেরকে দেখেননি যাদেরকে বলা হয়েছিল, ‘তোমরা তোমাদের হস্ত সংবরণ কর, সালাত কায়েম কর [১] এবং যাকাত দাও [২] ?’ অতঃপর যখন তাদেরকে যুদ্ধের বিধান দেয়া হল তখন তাদের একদল মানুষকে ভয় করছিল আল্লাহকে ভয় করার মত অথবা তার চেয়েও বেশী এবং বলল, ‘হে আমাদের রব! আমাদের জন্য যুদ্ধের বিধান কেন দিলেন? আমাদেরকে কিছু দিনের অবকাশ কেন দিলেন না[ ৩]?’ বলুন, ‘পার্থিব ভোগ সামান্য [৪] এবং যে তাকওয়া অবলম্বন করে তার জন্য আখেরাতই উত্তম [৫]। আর তোমাদের প্রতি সামান্য পরিমাণও যুলুম করা হবে না।’"
         }
       ]
     },
@@ -1702,9 +1702,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954420,
-          "resource_id": 140,
-          "text": "La muerte os alcanzará dondequiera que os encontréis, aunque os halléis en una elevada torre fuertemente edificada. Y si les sucede algo bueno, (los hipócritas) dicen: «Esto proviene de Al-lah». Pero si les sucede algo malo, dicen: «Es debido a ti, Muhammad». Diles: «Todo proviene de Al-lah». ¿Qué les pasa a esas gentes que apenas comprenden lo que se les dice?"
+          "id": 1167167,
+          "resource_id": 213,
+          "text": "তোমরা যেখানেই থাক না কেন মৃত্যু তোমাদের নাগাল পাবেই, এমনকি সুউচ্চ সুদৃঢ় দুর্গে অবস্থান করলেও [১]। যদি তাদের কোনো কল্যাণ হয় তবে তারা বলে, ‘এটা আল্লাহর কাছ থেকে।’ আর যদি তাদের কোনো অকল্যাণ হয় তবে তারা বলে, ‘এটা আপনার কাছ থেকে’ [২]। বলুন, ‘সবকিছুই আল্লাহর কাছ থেকে’ [৩]। এ সম্প্রদায়ের কী হল যে, এরা একেবারেই কোনো কথা বুঝে না!"
         }
       ]
     },
@@ -1723,9 +1723,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954421,
-          "resource_id": 140,
-          "text": "Todo lo bueno que te sucede (a ti, hombre), proviene de la gracia de Al-lah, y todo lo malo procede de tus pecados. Y te hemos enviado (¡oh, Muhammad!) a los hombres en calidad de mensajero; y Al-lah basta como testigo."
+          "id": 1167168,
+          "resource_id": 213,
+          "text": "যা কিছু কল্যাণ আপনার হয় তা আল্লাহর কাছ থেকে [১] এবং যা কিছু অকল্যাণ আপনার হয় তা আপনার নিজের কারণে [২] এবং আপনাকে আমরা মানুষের জন্য রাসূলরূপে পাঠিয়েছি [৩]; আর সাক্ষী হিসেবে আল্লাহই যথেষ্ট।"
         }
       ]
     },
@@ -1744,9 +1744,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954422,
-          "resource_id": 140,
-          "text": "Quien obedece al Mensajero está obedeciendo a Al-lah, pero (no eres responsable, ¡oh, Muhammad!, de) quienes se desentienden y desobedecen; pues no te hemos enviado a ellos como guardián (sino para transmitirles el mensaje)."
+          "id": 1167169,
+          "resource_id": 213,
+          "text": "কেউ রাসূলের আনুগত্য করলে সে তো আল্লাহরই আনুগত্য করল [১], আর কেউ মুখ ফিরিয়ে নিলে আপনাকে তো আমরা তাদের উপর তত্ত্বাবধায়ক করে পাঠাই নি।"
         }
       ]
     },
@@ -1765,9 +1765,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954423,
-          "resource_id": 140,
-          "text": "Y (los hipócritas) dicen que te obedecen, pero cuando se alejan de ti, un grupo de ellos pasa la noche planeando algo distinto a lo que les has dicho; y Al-lah registra lo que maquinan por la noche. Aléjate de ellos (y no los temas) y encomiéndate a Al-lah; y Al-lah basta para ocuparse de todos los asuntos de Su creación."
+          "id": 1167170,
+          "resource_id": 213,
+          "text": "আর তারা বলে, ‘আনুগত্য করি’; তারপর যখন তারা আপনার কাছ থেকে চলে যায় তখন রাতে তাদের একদল যা বলে তার বিপরীত পরামর্শ করে। তারা যা রাতে পরামর্শ করে আল্লাহ তা লিপিবদ্ধ করে রাখেন। কাজেই আপনি তাদেরকে উপেক্ষা করুন এবং আল্লাহর প্রতি ভরসা করুন; আর কাজ উদ্ধারের জন্যে আল্লাহই যথেষ্ট [১]।"
         }
       ]
     },
@@ -1786,9 +1786,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954424,
-          "resource_id": 140,
-          "text": "¿Acaso no meditan sobre el Corán? Si no proviniera de Al-lah, hallarían en él numerosas contradicciones."
+          "id": 1167171,
+          "resource_id": 213,
+          "text": "তবে কি তারা কুরআনকে গভীরভাবে অনুধাবন করে না? যদি তা আল্লাহ ব্যতীত অন্য কারো নিকট হতে আসত, তবে তারা এতে অনেক অসঙ্গতি পেত [১]।"
         }
       ]
     },
@@ -1807,9 +1807,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954425,
-          "resource_id": 140,
-          "text": "Y si llega a sus oídos una noticia que puede afectar a la seguridad pública o puede provocar el miedo, la difunden; mientras que si la remitieran al Mensajero de Al-lah y a quienes tuvieran autoridad sobre ellos, sabrían de su significancia quienes de entre ellos están más capacitados para investigarla.Y si no fuera por el favor y la misericordia de Al-lah sobre vosotros, habríais seguido al Demonio, excepto unos pocos."
+          "id": 1167172,
+          "resource_id": 213,
+          "text": "যখন শান্তি বা শংকার কোনো সংবাদ তাদের কাছে আসে তখন তারা তা প্রচার করে থাকে [১]। যদি তারা তা রাসূল [২] এবং তাদের মধ্যে যারা নির্দেশ প্রদানের অধিকারী তাদেরকে জানাত, তবে তাদের মধ্যে যারা তথ্য অনুসন্ধান করে তারা সেটার যথার্থতা নির্ণয় করতে পারত [৩]। তোমাদের প্রতি যদি আল্লাহর অনুগ্রহ ও রহমত না থাকত তবে তোমাদের অল্প সংখ্যক ছাড়া সকলে শয়তানের অনুসরণ করত।"
         }
       ]
     },
@@ -1828,9 +1828,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954426,
-          "resource_id": 140,
-          "text": "Combate, pues, por la causa de Al-lah, ¡oh, Muhammad!; solo eres responsable de ti mismo, y alienta a los creyentes para que luchen (contigo). Puede que Al-lah frene la violencia de quienes rechazan la verdad. Y Al-lah es mucho más poderoso y Su castigo, más severo."
+          "id": 1167173,
+          "resource_id": 213,
+          "text": "কাজেই আল্লাহর পথে যুদ্ধ করুন; আপনি আপনার নিজের সত্তা ব্যতীত অন্য কিছুর যিম্মাদার নন [১] এবং মুমিনগণকে উদ্বুদ্ধ করুন [২], হয়ত আল্লাহ কাফেরদের শক্তি সংযত করবেন। আর আল্লাহ শক্তিতে প্রবলতর ও শাস্তিদানে কঠোরতর।"
         }
       ]
     },
@@ -1849,9 +1849,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954427,
-          "resource_id": 140,
-          "text": "Quien interceda por una buena causa obtendrá su parte de recompensa por dicha intercesión, y quien interceda por una mala causa cargará con parte (del pecado) resultante de esta; y Al-lah observa todas las cosas y tiene poder sobre todas ellas."
+          "id": 1167174,
+          "resource_id": 213,
+          "text": "কেউ কোনো ভালো কাজের সুপারিশ করলে তাতে তার অংশ থাকবে এবং কেউ কোনো মন্দ কাজের সুপারিশ করলে তাতে তার অংশ থাকবে [১]। আর আল্লাহ সব কিছুর উপর নজর রাখেন [২]।"
         }
       ]
     },
@@ -1870,9 +1870,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954428,
-          "resource_id": 140,
-          "text": "Y si os saludan, responded con un saludo mejor, o al menos corresponded al saludo. En verdad, Al-lah tiene en cuenta todas las cosas."
+          "id": 1167175,
+          "resource_id": 213,
+          "text": "আর তোমাদেরকে যখন অভিবাদন করা হয় তখন তোমরাও তার চেয়ে উত্তম প্রত্যাভিবাদন করবে অথবা সেটারই অনুরূপ করবে [১]; নিশ্চয়ই আল্লাহ সবকিছুর হিসেব গ্রহণকারী [২]।"
         }
       ]
     },
@@ -1891,9 +1891,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954429,
-          "resource_id": 140,
-          "text": "¡Al-lah! No hay nada ni nadie con derecho a ser adorado excepto Él. Ciertamente, os reunirá a todos el día sobre el cual no hay duda (el Día de la Resurrección), ¿y quién es más veraz que Al-lah?"
+          "id": 1167176,
+          "resource_id": 213,
+          "text": "আল্লাহ, তিনি ছাড়া অন্য কোনো প্রকৃত ইলাহ্‌ নেই; অবশ্যই তিনি তোমাদেরকে কেয়ামতের দিন একত্র করবেন, এতে কোনো সন্দেহ নেই [১]। আর আল্লাহর চেয়ে বেশী সত্যবাদী কে[২] ?"
         }
       ]
     },
@@ -1912,9 +1912,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954430,
-          "resource_id": 140,
-          "text": "¿¡Oh, creyentes!, por qué estáis divididos en dos grupos con respecto a los hipócritas? Al-lah ha hecho que regresen a la incredulidad por lo que han cometido (por desafiar y desobedecer al Profeta). ¿Es que queréis guiar a quien Al-lah ha extraviado (por rechazar la verdad)? Y no podrás guiar a quien Al-lah ha desviado del camino."
+          "id": 1167177,
+          "resource_id": 213,
+          "text": "অতঃপর তোমাদের কী হল যে, তোমরা মুনাফেকদের ব্যাপারে দু’দল হয়ে গেলে? যখন আল্লাহ তাদেরকে তাদের কৃতকর্মের জন্য পূর্বাবস্থায় ফিরিয়ে দিয়েছেন [১]। আল্লাহ যাকে পথভ্রষ্ট করেন তোমরা কি তাকে সৎপথে পরিচালিত করতে চাও? আর আল্লাহ কাউকেও পথভ্রষ্ট করলে আপনি তার জন্য কখনো কোনো পথ পাবেন না [২]।"
         }
       ]
     },
@@ -1933,9 +1933,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954431,
-          "resource_id": 140,
-          "text": "(Los hipócritas) desean que reneguéis de vuestra creencia como ellos mismos han hecho para que seáis como ellos. No los toméis, pues, por aliados y protectores vuestros hasta que emigren sinceramente por la causa de Al-lah. Pero si no lo hacen (y se vuelven abiertamente hostiles), apresadlos y ajusticiadlos allí donde los encontréis. Y no toméis de entre ellos ni protectores ni auxiliadores."
+          "id": 1167178,
+          "resource_id": 213,
+          "text": "তারা এটাই কামনা করে যে, তারা যেরূপ কুফরী করেছে তোমরাও সেরূপ কুফরী কর, যাতে তোমরা তাদের সমান হয়ে যাও। কাজেই আল্লাহর পথে হিজরত [১] না করা পর্যন্ত তাদের মধ্য থেকে কাউকেও বন্ধুরূপে গ্রহণ করবে না। যদি তারা মুখ ফিরিয়ে নেয়, তবে তাদেরকে যেখানে পাবে গ্রেফতার করবে এবং হত্যা করবে আর তাদের মধ্য থেকে কাউকেও বন্ধু ও সহায়রূপে গ্রহণ করবে না।"
         }
       ]
     },
@@ -1954,9 +1954,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954432,
-          "resource_id": 140,
-          "text": "Pero no luchéis contra quienes se alíen con gentes con las que mantenéis un acuerdo de paz o contra quienes lleguen a vosotros con el corazón apesadumbrado por tener que luchar contra vosotros o contra su propia gente. Si Al-lah hubiera querido, les habría dado poder sobre vosotros y os habrían combatido. Mas, si se mantienen al margen, no os combaten y os proponen la paz, entonces Al-lah no permite que toméis acciones contra ellos."
+          "id": 1167179,
+          "resource_id": 213,
+          "text": "কিন্তু তাদেরকে নয় যারা এমন এক সম্প্রদায়ের সাথে মিলিত হয় যাদের সাথে তোমরা অঙ্গীকারাবদ্ধ অথবা যারা তোমাদের কাছে এমন অবস্থায় আগমন করে যখন তাদের মন তোমাদের সাথে বা তাদের সম্প্রদায়ের সাথে যুদ্ধ করতে সংকুচিত হয়। আল্লাহ্‌ যদি ইচ্ছে করতেন তবে তাদেরকে তোমাদের উপর ক্ষমতা দিতেন ফলে তারা তোমাদের সাথে যুদ্ধ করত। কাজেই তারা যদি তোমাদের কাছ থেকে সরে দাঁড়ায়, তোমাদের সাথে যুদ্ধ না করে এবং তোমাদের নিকট শান্তি প্রস্তাব করে তবে আল্লাহ্‌ তোমাদের জন্য তাদের বিরুদ্ধে কোনো ব্যবস্থা অবলম্বনের পথ রাখেন নি।"
         }
       ]
     },
@@ -1975,9 +1975,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954433,
-          "resource_id": 140,
-          "text": "Encontraréis a otros que desean gozar de seguridad entre vosotros (haciéndose pasar por creyentes) y entre los suyos (adorando lo que ellos adoran). Cada vez que son puestos a prueba se hunden más en la incredulidad. Mas si no se mantienen al margen ni os proponen la paz ni dejan de combatiros, apresadlos y ajusticiadlos allí donde los encontréis. Contra estos sí que os hemos concedido una clara autorización (para combatirlos)."
+          "id": 1167180,
+          "resource_id": 213,
+          "text": "তোমরা আরো কিছু লোক অবশ্যই পাবে যারা তোমাদের সাথে ও তাদের সম্প্রদায়ের সাথে শান্তি চাইবে। যখনই তাদেরকে ফিত্‌নার দিকে মনোনিবেশ করানো হয় তখনই এ ব্যাপারে তারা তাদের আগের অবস্থায় ফিরে যায়। যদি তারা তোমাদের কাছ থেকে চলে না যায়, তোমাদের কাছে শান্তি প্রস্তাব না করে এবং তাদের হস্ত সংবরণ না করে তবে তাদেরকে যেখানেই পাবে গ্রেফতার করবে ও হত্যা করবে। আর আমরা তোমাদেরকে এদের বিরুদ্ধাচারণের স্পষ্ট অধিকার দিয়েছি [১]।"
         }
       ]
     },
@@ -1996,9 +1996,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954434,
-          "resource_id": 140,
-          "text": "Un creyente no debe matar a otro creyente a menos que sea por error, y quien mate a un creyente por error deberá liberar a un esclavo creyente y entregar una compensación económica a la familia del fallecido, a menos que esta renuncie a ella. Si el fallecido fuera creyente pero de un pueblo enemigo, quien lo mató por error deberá liberar a un esclavo creyente pero no pagará compensación alguna. Si el fallecido perteneciera a un pueblo con quienes mantenéis un pacto, quien lo mató deberá entregar una compensación económica a la familia del fallecido y liberar a un esclavo creyente. Y quien no disponga de medios para ello deberá ayunar dos meses consecutivos para obtener el perdón de Al-lah. Y Al-lah es Omnisciente y Sabio."
+          "id": 1167181,
+          "resource_id": 213,
+          "text": "কোন মুমিনকে হত্যা করা যেন মুমিনের কাজ নয় [১], তবে ভুলবশতঃ করলে সেটা স্বতন্ত্র; এবং কেউ কোনো মুমিনকে ভুলবশতঃ হত্যা করলে এক মুমিন দাস মুক্ত করা এবং তার পরিজনবর্গকে রক্তপণ আদায় করা কর্তব্য, যদি না তারা ক্ষমা করে। যদি সে তোমাদের শত্রু পক্ষের লোক হয় এবং মুমিন হয় তবে এক মুমিন দাস মুক্ত করা কর্তব্য। আর যদি সে এমন সম্প্রদায়ভুক্ত হয় যাদের সাথে তোমরা অংগীকারাবদ্ধ তবে তার পরিজনবর্গকে রক্তপণ আদায় এবং মুমিন দাস মুক্ত করা কর্তব্য। আর যে সঙ্গতিহীন সে একাদিক্রমে দু মাস সিয়াম পালন করবে [২]। তাওবাহ্‌র জন্য এগুলো আল্লাহর ব্যবস্থা এবং আল্লাহ সর্বজ্ঞ, প্রজ্ঞাময়।"
         }
       ]
     },
@@ -2017,9 +2017,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954435,
-          "resource_id": 140,
-          "text": "Pero quien mate a un creyente de manera deliberada (y no se arrepienta) tendrá como retribución el infierno, donde permanecerá eternamente, y caerá sobre él la ira de Al-lah y será expulsado de Su misericordia; y Al-lah habrá preparado para él un terrible castigo."
+          "id": 1167182,
+          "resource_id": 213,
+          "text": "আর কেউ ইচ্ছাকৃতভাবে কোনো মুমিনককে হত্যা করলে তার শাস্তি জাহান্নাম; সেখানে সে স্থায়ী হবে এবং আল্লাহ তার প্রতি রুষ্ট হবেন, তাকে লা’নত করবেন এবং তার জন্য মহাশাস্তি প্রস্তুত রাখবেন [১]।"
         }
       ]
     },
@@ -2038,9 +2038,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954436,
-          "resource_id": 140,
-          "text": "¡Oh, creyentes!, si salís a combatir por la causa de Al-lah, aseguraos (de la verdad) y no digáis a quien os brinda el saludo de paz del islam<sup foot_note=149204>1</sup> que no es creyente para conseguir bienes terrenales (parte del botín si lucháis y vencéis). En verdad, junto a Al-lah hay muchos más beneficios y botines. Vosotros también fuisteis incrédulos como ellos con anterioridad, pero Al-lah os agració (con la fe); así que cercioraos (antes de combatir contra un creyente). Ciertamente, Al-lah está bien informado de lo que hacéis."
+          "id": 1167183,
+          "resource_id": 213,
+          "text": "হে মুমিনগণ! তোমরা যখন আল্লাহর পথে যাত্রা করবে তখন যাচাই-বাছাই করে নেবে [১] এবং কেউ তোমাদেরকে সালাম করলে ইহ জীবনের সম্পদের আশায় তাকে বলো না, ‘তুমি মুমিন নও [২]’, কারণ আল্লাহর কাছে অনায়াসলভ্য সম্পদ প্রচুর রয়েছে। তোমরা তো আগে এরূপই ছিলে [৩], তারপর আল্লাহ তোমাদের প্রতি অনুগ্রহ করেছেন; কাজেই তোমরা যাচাই-বাছাই করে নেবে। নিশ্চয় তোমরা যা কর আল্লাহ সে বিষয়ে সবিশেষ অবহিত।"
         }
       ]
     },
@@ -2059,9 +2059,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954437,
-          "resource_id": 140,
-          "text": "Los creyentes que permanecen en sus hogares (y no salen a combatir por la causa de Al-lah) —salvo quienes sufren un impedimento físico y están excusados (como el enfermo, el ciego y el cojo)—, no pueden compararse con quienes luchan por Su causa con sus bienes y sus vidas. Al-lah ha favorecido a estos últimos y los ha ensalzado por encima de quienes permanecen en sus hogares; y a todos les ha prometido el paraíso. Pero Al-lah ha favorecido a quienes combaten por encima de quienes se quedan en sus hogares concediéndoles una gran recompensa;"
+          "id": 1167184,
+          "resource_id": 213,
+          "text": "মুমিনদের মধ্যে যারা অক্ষম নয় অথচ ঘরে বসে থাকে ও যারা আল্লাহর পথে স্বীয় ধন-প্রাণ দ্বারা জিহাদ করে তারা সমান নয় [১]। যারা স্বীয় ধন-প্রাণ দ্বারা জিহাদ করে আল্লাহ তাদেরকে, যারা ঘরে বসে থাকে তাদের উপর মর্যাদা দিয়েছেন [২]; তাদের প্রত্যেকের জন্য আল্লাহ জান্নাতের ওয়াদা করেছেন। যারা ঘরে বসে থাকে তাদের উপর যারা জিহাদ করে তাদেরকে আল্লাহ মাহপুরস্কারের ক্ষেত্রে শ্রেষ্ঠত্ব দিয়েছেন।"
         }
       ]
     },
@@ -2080,9 +2080,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954438,
-          "resource_id": 140,
-          "text": "(disfrutarán de) elevados rangos que Al-lah les concederá, y recibirán Su perdón y Su misericordia. Y Al-lah es Indulgente y Misericordioso."
+          "id": 1167185,
+          "resource_id": 213,
+          "text": "এসব তাঁর কাছ থেকে মর্যাদা, ক্ষমা ও দয়া; আর আল্লাহ ক্ষমাশীল, পরম দয়ালু।"
         }
       ]
     },
@@ -2101,9 +2101,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954439,
-          "resource_id": 140,
-          "text": "Cuando los ángeles tomen las almas de quienes hayan sido injustos consigo mismos (por no haber emigrado con los creyentes y haber permanecido con quienes rechazaban la verdad), les dirán: «¿Qué os sucedió? (¿Por qué no apoyasteis la causa de Al-lah?)». Responderán: «Estábamos oprimidos en la tierra (y no podíamos practicar la religión)». (Los ángeles) les dirán: «¿No era la tierra de Al-lah lo suficientemente vasta como para que pudierais emigrar?». Mas morarán en el infierno; ¡y qué pésimo destino!,"
+          "id": 1167186,
+          "resource_id": 213,
+          "text": "যারা নিজেদের উপর যুলুম করে তাদের প্রাণ গ্রহণের সময় ফিরিশতাগণ বলে, ‘তোমরা কী অবস্থায় ছিলে?’ তারা বলে, ‘দুনিয়ায় আমরা অসহায় ছিলাম;’ তারা বলে, ‘আল্লাহর যমীন কি এমন প্রশস্ত ছিল না যেখানে তোমরা হিজরত করতে [১] ?’ এদেরই আবাসস্থল জাহান্নাম, আর তা কত মন্দ আবাস [২]!"
         }
       ]
     },
@@ -2122,9 +2122,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954440,
-          "resource_id": 140,
-          "text": "con la excepción de los realmente débiles de entre los hombres, mujeres y niños que no encontraron la manera de emigrar."
+          "id": 1167187,
+          "resource_id": 213,
+          "text": "তবে যেসব অহসায় পুরুষ, নারী ও শিশু কোনো উপায় অবলম্বন করতে পারে না এবং কোনো পথও পায় না।"
         }
       ]
     },
@@ -2143,9 +2143,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954441,
-          "resource_id": 140,
-          "text": "A estos, Al-lah los perdonará. Y Al-lah es Benévolo e Indulgente."
+          "id": 1167188,
+          "resource_id": 213,
+          "text": "আল্লাহ অচিরেই তাদের পাপ মোচন করবেন, কারণ আল্লাহ পাপ মোচনকারী, ক্ষমাশীল।"
         }
       ]
     },
@@ -2164,9 +2164,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954442,
-          "resource_id": 140,
-          "text": "Y quien emigre por la causa de Al-lah encontrará por la tierra muchos lugares donde resguardarse y sustento en abundancia. Y a quien abandone su hogar para emigrar por la causa de Al-lah y de Su Mensajero y le alcance la muerte, su recompensa correrá a cargo de Al-lah; y Al-lah es Indulgente y Misericordioso."
+          "id": 1167189,
+          "resource_id": 213,
+          "text": "আর কেউ আল্লাহর পথে হিজরত করলে সে দুনিয়ায় বহু আশ্রয়স্থল এবং প্রাচুর্য লাভ করবে। আর কেউ আল্লাহ ও রাসূলের উদ্দেশ্যে নিজ ঘর থেকে মুহাজির হয়ে বের হবার পর তার মৃত্যু ঘটলে তার পুরস্কারের ভার আল্লাহর উপর; আর আল্লাহ ক্ষমাশীল, পরম দয়ালু [১]।"
         }
       ]
     },
@@ -2185,9 +2185,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954443,
-          "resource_id": 140,
-          "text": "Y no cometéis ningún pecado si, cuando os encontráis de viaje, acortáis vuestros rezos ante el temor de que os ataquen quienes rechazan la verdad. Quienes niegan la verdad son, ciertamente, unos declarados enemigos vuestros<sup foot_note=149205>1</sup>."
+          "id": 1167190,
+          "resource_id": 213,
+          "text": "তোমরা যখন দেশ-বিদেশে সফর করবে তখন যদি তোমাদের আশংকা হয় যে, কাফেররা তোমাদের জন্য ফিত্‌না সৃষ্টি করবে, তবে সালাত ‘কসর [১]’ করলে তোমাদের কোনো দোষ নেই। নিশ্চয়ই কাফেররা তোমাদের প্রকাশ্য শত্রু।"
         }
       ]
     },
@@ -2206,9 +2206,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954444,
-          "resource_id": 140,
-          "text": "Y cuando estés entre los creyentes (¡oh, Muhammad!) y los dirijas en el salat<sup foot_note=149206>1</sup> (y temáis una acción por parte de vuestro enemigo), que un grupo (de los creyentes) rece contigo llevando sus armas (y que el resto, armado, si sitúe detrás de vosotros y de cara al enemigo). Cuando finalicen las postraciones, que (quienes hayan rezado) se sitúen detrás y recen contigo quienes aún no lo han hecho, tomando precauciones y portando sus armas. Quienes rechazan la verdad quisieran que descuidaseis vuestras armas y vuestros enseres para lanzarse sobre vosotros en un solo ataque. No cometéis ninguna falta si deponéis vuestras armas debido a la lluvia o a alguna enfermedad; pero tomad precauciones. Ciertamente, Al-lah ha preparado un castigo humillante a quienes rechazan la verdad."
+          "id": 1167191,
+          "resource_id": 213,
+          "text": "আর আপনি যখন তাদের মধ্যে অবস্থান করবেন তারপর তাদের সাথে সালাত কায়েম করবেন [১] তখন তাদের একদল আপনার সাথে যেন দাঁড়ায় এবং তারা যেন সশস্ত্র থাকে। তাদের সাজদা করা হলে তারা যেন তোমাদের পিছনে অবস্থান করে; আর অপর একদল যারা সালাতে শরীক হয়নি তারা আপনার সাথে যেন সালাতে শরীক হয় এবং তারা যেন সতর্ক ও সশস্ত্র থাকে [২]। কাফেররা কামনা করে যেন তোমরা তোমাদের অস্ত্রশস্ত্র ও আসবাবপত্র সম্বন্ধে অসতর্ক হও যাতে তারা তোমাদের উপর একেবারে ঝাঁপিয়ে পড়তে পারে। যদি তোমরা বৃষ্টির জন্য কষ্ট পাও বা পীড়িত থাক তবে তোমরা অস্ত্র রেখে দিলে তোমাদের কোনো দোষ নেই; কিন্তু তোমরা সতর্কতা অবলম্বন করবে। আল্লাহ কাফেরদের জন্য লাঞ্ছনাদায়ক শাস্তি প্রস্তুত রেখেছেন।"
         }
       ]
     },
@@ -2227,9 +2227,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954445,
-          "resource_id": 140,
-          "text": "Y, una vez finalizado el salat, glorificad a Al-lah de pie, sentados o recostados. Pero, cuando estéis a salvo, rezadle a Al-lah (como Él os ha ordenado, con devoción y recogimiento y respetando todas las obligaciones). En verdad, los rezos han sido prescritos a unas horas determinadas."
+          "id": 1167192,
+          "resource_id": 213,
+          "text": "অতঃপর যখন তোমরা সালাত সমাপ্ত করবে তখন দাঁড়িয়ে, বসে এবং শুয়ে আল্লাহকে স্মরণ করবে [১], অতঃপর যখন তোমরা নিরাপদ হবে তখন যথাযথ সালাত কায়েম করবে [২]; নির্ধারিত সময়ে সালাত কায়েম করা মুমিনদের জন্য অবশ্য কর্তব্য [৩]।"
         }
       ]
     },
@@ -2248,9 +2248,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954446,
-          "resource_id": 140,
-          "text": "Y no flaqueéis en la persecución del enemigo. Si sufrís (desgracias), ellos también (las) sufren como vosotros, pero vosotros anheláis de Al-lah lo que ellos no anhelan (el paraíso); y Al-lah es Omnisciente y Sabio."
+          "id": 1167193,
+          "resource_id": 213,
+          "text": "আর শত্রু সম্প্রদায়ের সন্ধানে তোমরা হতোদ্যম হয়ো না। যদি তোমরা যন্ত্রণা পাও তবে তারাও তো তোমাদের মতই যন্ত্রণা পায় এবং আল্লাহর কাছে তোমরা যা আশা কর ওরা তা আশা করে না [১]। আর আল্লাহ সর্বজ্ঞ, প্রজ্ঞাময়।"
         }
       ]
     },
@@ -2269,9 +2269,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954447,
-          "resource_id": 140,
-          "text": "Te hemos revelado el Libro (el Corán) con la verdad (¡oh, Muhammad!), para que juzgues entre los hombres según lo que Al-lah te ha enseñado. Y no defiendas a quienes se traicionan a ellos mismos (ocultando la verdad y mintiendo sobre ella)<sup foot_note=149207>1</sup>."
+          "id": 1167194,
+          "resource_id": 213,
+          "text": "আমরা [১] তো আপনার প্রতি সত্যসহ কিতাব নাযিল করেছি যাতে আপনি আল্লাহ আপনাকে যা জানিয়েছেন সে অনুযায়ী মানুষের মধ্যে বিচার মীমাংসা করতে পারেন। আর আপনি বিশ্বাসভঙ্গকারীদের সমর্থনে তর্ক করবেন না [২]"
         }
       ]
     },
@@ -2290,9 +2290,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954448,
-          "resource_id": 140,
-          "text": "Y pide perdón a Al-lah (en todas las situaciones); ciertamente, Al-lah es Indulgente y Misericordioso."
+          "id": 1167195,
+          "resource_id": 213,
+          "text": "আর আল্লাহর কাছে ক্ষমা প্রার্থনা করুন; নিশ্চয়ই আল্লাহ ক্ষমাশীল, পরম দয়ালু।"
         }
       ]
     },
@@ -2311,9 +2311,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954449,
-          "resource_id": 140,
-          "text": "Y no defiendas a quienes se traicionan a sí mismos. Al-lah no ama al traidor pecador."
+          "id": 1167196,
+          "resource_id": 213,
+          "text": "আর যারা নিজেদেরকে প্রতারিত করে তাদের পক্ষে বিবাদ-বিসম্বাদ করবেন না, নিশ্চয় আল্লাহ বিশ্বাসভঙ্গকারী পাপীকে পছন্দ করেন না।"
         }
       ]
     },
@@ -2332,9 +2332,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954450,
-          "resource_id": 140,
-          "text": "(Los hipócritas) ocultan a los hombres (sus malas acciones) pero no pueden ocultárselas a Al-lah, pues Él está con ellos (a través de Su conocimiento) cuando conspiran por la noche con palabras que no son de Su agrado. Y (el conocimiento de) Al-lah abarca todo lo que hacen."
+          "id": 1167197,
+          "resource_id": 213,
+          "text": "তারা মানুষ থেকে গোপন করতে চায় কিন্তু আল্লাহর থেকে গোপন করে না, অথচ তিনি তাদের সংগেই আছেন রাতে যখন তারা, তিনি যা পছন্দ করেন না– এমন বিষয়ে পরামর্শ করে এবং তারা যা করে আল্লাহ তা পরিবেষ্টন করে আছেন।"
         }
       ]
     },
@@ -2353,9 +2353,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954451,
-          "resource_id": 140,
-          "text": "(Algunos de) vosotros los defendisteis en esta vida, pero ¿quién los defenderá ante Al-lah el Día de la Resurrección? ¿Quién los protegerá?"
+          "id": 1167198,
+          "resource_id": 213,
+          "text": "দেখ, তোমরাই ইহ জীবনে তারে পক্ষে বিতর্ক করছ; কিন্তু কিয়ামতের দিন আল্লাহর সম্মুখে কে তাদের পক্ষে বিতর্ক করবে অথবা কে তাদের উকিল হবে?"
         }
       ]
     },
@@ -2374,9 +2374,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954452,
-          "resource_id": 140,
-          "text": "Quien obre mal o sea injusto consigo mismo (por sus malas acciones) y busque después el perdón de Al-lah hallará que Al-lah es Indulgente y Misericordioso."
+          "id": 1167199,
+          "resource_id": 213,
+          "text": "আর কেউ কোন মন্দ কাজ করে অথবা নিজের প্রতি যুলুম করে পরে আল্লাহর কাছে ক্ষমা প্রার্থনা করলে আল্লাহকে সে ক্ষমাশীল, পরম দয়ালু পাবে [১]।"
         }
       ]
     },
@@ -2395,9 +2395,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954453,
-          "resource_id": 140,
-          "text": "Y quien peque, lo hará en perjuicio propio; y Al-lah es Omnisciente y Sabio."
+          "id": 1167200,
+          "resource_id": 213,
+          "text": "আর কেউ পাপ কাজ করলে সে ওটা তার নিজের ক্ষতির জন্যই করে। আর আল্লাহ সর্বজ্ঞ, প্রজ্ঞাময়।"
         }
       ]
     },
@@ -2416,9 +2416,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954454,
-          "resource_id": 140,
-          "text": "Y quien cometa una falta o peque y culpe a un inocente de su pecado cargará con su calumnia y con un pecado flagrante."
+          "id": 1167201,
+          "resource_id": 213,
+          "text": "আর কেউ কোনো দোষ বা পাপ করে পরে সেটা কোনো নির্দোষ ব্যক্তির প্রতি আরোপ করলে সে তো মিথ্যা অপবাদ ও স্পষ্ট পাপের বোঝা বহন করে [১]।"
         }
       ]
     },
@@ -2437,9 +2437,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954455,
-          "resource_id": 140,
-          "text": "Y si no fuera por el favor y la misericordia de Al-lah sobre ti (¡oh, Muhammad!) un grupo de ellos (quienes se traicionan a sí mismos) te habría desviado de la verdad, pero solo se desvían ellos mismos y no podrán perjudicarte en nada. Y Al-lah te ha revelado el Corán y la sabiduría, y te ha enseñado lo que no sabías; el favor que Al-lah te ha concedido es inmenso."
+          "id": 1167202,
+          "resource_id": 213,
+          "text": "আর আপনার প্রতি আল্লাহর অনুগ্রহ ও দয়া না থাকলে তাদের একদল আপনাকে পথভ্রষ্ট করতে বদ্ধপরিকর ছিল। কিন্তু তারা নিজেদের ছাড়া আর কাউকেও পথভ্রষ্ট করে না এবং আপনার কোনোই ক্ষতি করতে পারে না। আল্লাহ আপনার প্রতি কিতাব ও হিকমত নাযিল করেছেন [১] এবং আপনি যা জানতেন না তা আপনাকে শিক্ষা দিয়েছেন, আপনার প্রতি আল্লাহর মহা অনুগ্রহ রয়েছে।"
         }
       ]
     },
@@ -2458,9 +2458,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954456,
-          "resource_id": 140,
-          "text": "La mayoría de las conversaciones privadas<sup foot_note=149208>1</sup> no aportan ningún bien, a menos que alguien promueva la caridad, una buena acción o la reconciliación entre los hombres. Y a quien así actúe buscando la complacencia de Al-lah, le concederemos una gran recompensa."
+          "id": 1167203,
+          "resource_id": 213,
+          "text": "তাদের অধিকাংশ গোপন পরামর্শে কোনো কল্যাণ নেই, তবে কল্যাণ আছে যে নির্দেশ দেয় সাদকাহ, সৎকাজ ও মানুষের মধ্যে শান্তি স্থাপনের [১]; আল্লাহর সন্তুষ্টি লাভের আশায় কেউ তা করলে তাকে অবশ্যই আমরা মহা পুরস্কার দেব।"
         }
       ]
     },
@@ -2479,9 +2479,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954457,
-          "resource_id": 140,
-          "text": "Y a quien contradiga al Mensajero (y se oponga a él) después de habérsele mostrado la verdad y no siga el camino de los creyentes, lo dejaremos que prosiga en el camino que ha tomado y haremos que arda en el infierno; ¡y qué pésimo destino!"
+          "id": 1167204,
+          "resource_id": 213,
+          "text": "আর কারো নিকট সৎপথ প্রকাশ হওয়ার পর সে যদি রাসূলের বিরুদ্ধাচরণ করে এবং মুমিনদের পথ ছাড়া অন্য পথ অনুসরণ করে, তবে যেদিকে সে ফিরে যায় সে দিকেই তাকে আমরা ফিরিয়ে দেব এবং তাকে জাহান্নামে দগ্ধ করাব, আর তা কতই না মন্দ আবাস [১]‍!"
         }
       ]
     },
@@ -2500,9 +2500,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954458,
-          "resource_id": 140,
-          "text": "Ciertamente, Al-lah no perdona que se adoren a otros fuera de él, pero perdona el resto de los pecados a quien quiere. Y quien adore a otros fuera de Al-lah se habrá extraviado lejos de la verdad."
+          "id": 1167205,
+          "resource_id": 213,
+          "text": "নিশ্চয় আল্লাহ তাঁর সাথে শির্ক করাকে ক্ষমা করেন না; আর তার থেকে ছোট যাবতীয় গোনাহ যাকে ইচ্ছা ক্ষমা করে দেবেন, আর যে কেউ আল্লাহর সাথে শির্ক করে সে ভীষণভাবে পথ ভ্রষ্ট হয়।"
         }
       ]
     },
@@ -2521,9 +2521,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954459,
-          "resource_id": 140,
-          "text": "(Los idólatras) no invocan sino a deidades femeninas<sup foot_note=149209>1</sup> en vez de invocarlo a Él; y no invocan más que al Demonio, un constante rebelde."
+          "id": 1167206,
+          "resource_id": 213,
+          "text": "তাঁর পরিবর্তে তারা দেবীরই পূজা করে এবং বিদ্রোহী শয়তানেরই পূজা করে [১]।"
         }
       ]
     },
@@ -2542,9 +2542,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954460,
-          "resource_id": 140,
-          "text": "Al-lah lo expulsó de Su misericordia, y el demonio juró: «Seduciré a un grupo determinado de Tus siervos."
+          "id": 1167207,
+          "resource_id": 213,
+          "text": "আল্লাহ তাকে লা’নত করেন এবং সে বলে, ‘আমি অবশ্যই আপনার বান্দাদের এক নির্দিষ্ট অংশকে আমার অনুসারী করে নেব’।"
         }
       ]
     },
@@ -2563,9 +2563,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954461,
-          "resource_id": 140,
-          "text": "»Los extraviaré, despertaré en ellos falsos deseos y esperanzas, les ordenaré realizar cortes en las orejas del ganado (para marcar los animales destinados a los ídolos como ofrendas, como hacían antes del islam) y les mandaré cambiar la creación<sup foot_note=149210>1</sup> de Al-lah». Y quien tome al Demonio por protector y aliado será un claro perdedor."
+          "id": 1167208,
+          "resource_id": 213,
+          "text": "আমি অবশ্যই তাদেরকে পথভ্রষ্ট করব; অবশ্যই তাদের হৃদয়ে মিথ্যা বাসনার সৃষ্টি করব, আর অবশ্যই আমি তাদেরকে নির্দেশ দেব, ফলে তারা পশুর কান ছিদ্র করবে। আর অবশ্যই তাদেরকে নির্দেশ দেব, ফলে তারা আল্লাহর সৃষ্টি বিকৃত করবে’ [১]।’ আর আল্লাহর পরিবর্তে কেউ শয়তানকে অভিভাবকরূপে গ্রহণ করলে সে স্পষ্টতঃই ক্ষতিগ্রস্ত হয়।"
         }
       ]
     },
@@ -2584,9 +2584,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954462,
-          "resource_id": 140,
-          "text": "(El Demonio) les hace falsas promesas y despierta en ellos falsas esperanzas; mas lo que promete el Demonio no es sino puro engaño."
+          "id": 1167209,
+          "resource_id": 213,
+          "text": "সে তাদেরকে প্রতিশ্রুতি দেয় এবং তাদের হৃদয়ে মিথ্যা বাসনার সৃষ্টি করে। আর শয়তান তাদেরকে যে প্রতিশ্রুতি দেয় তা ছলনামাত্র।"
         }
       ]
     },
@@ -2605,9 +2605,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954463,
-          "resource_id": 140,
-          "text": "Esos (quienes sigan al Demonio) morarán en el infierno y no encontrarán la manera de escapar de él."
+          "id": 1167210,
+          "resource_id": 213,
+          "text": "এদেরই আশ্রয়স্থল জাহান্নাম, তা থেকে তারা নিস্কৃতির উপায় পাবে না।"
         }
       ]
     },
@@ -2626,9 +2626,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954464,
-          "resource_id": 140,
-          "text": "Y haremos que quienes crean y obren con rectitud entren en jardines por los cuales corren ríos, y allí vivirán eternamente. La promesa de Al-lah es cierta; y ¿quién es más veraz que Al-lah?"
+          "id": 1167211,
+          "resource_id": 213,
+          "text": "আর যারা ঈমান আনে ও সৎ কাজ করে, আমরা তাদেরকে প্রবেশ করাব জান্নাতে যার পাদদেশে নদী প্রবাহিত, সেখানে তারা চিরস্থায়ী হবে; আল্লাহর প্রতিশ্রুতি সত্য। আর কে আল্লাহর চেয়ে কথায় সত্যবাদী [১]?"
         }
       ]
     },
@@ -2647,9 +2647,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954465,
-          "resource_id": 140,
-          "text": "(La aceptación de la religión y el logro del éxito) no depende de vuestros deseos<sup foot_note=149211>1</sup> ni de los deseos de quienes recibieron las Escrituras (judíos y cristianos). Quien actúe mal será castigado por ello, y no hallará fuera de Al-lah ningún protector o auxiliador."
+          "id": 1167212,
+          "resource_id": 213,
+          "text": "তোমাদের খেয়াল-খুশী ও কিতাবীদের খেয়াল-খুশী অনুসারে কাজ হবে না [১]; কেউ মন্দ কাজ করলে তার প্রতিফল সে পাবে [২] এবং আল্লাহ ছাড়া তার জন্য সে কোনো অভিভাবক ও সহায় পাবে না।"
         }
       ]
     },
@@ -2668,9 +2668,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954466,
-          "resource_id": 140,
-          "text": "Y quien obre rectamente, sea hombre o mujer, y crea (en Al-lah y en lo que ha revelado) entrará en el paraíso, y no será tratado injustamente en lo más mínimo."
+          "id": 1167213,
+          "resource_id": 213,
+          "text": "আর পুরুষ বা নারীর মধ্যে কেউ মুমিন অবস্থায় সৎ কাজ করলে, তারা জান্নাতে প্রবেশ করবে এবং তাদের প্রতি অণু পরিমাণও যুলুম করা হবে না।"
         }
       ]
     },
@@ -2689,9 +2689,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954467,
-          "resource_id": 140,
-          "text": "¿Y quién es mejor en la religión que quien somete su voluntad a Al-lah y realiza buenas acciones (sinceramente por su Señor) y sigue el monoteísmo puro de Abraham? Y Al-lah tomó a Abraham como uno de Sus siervos más queridos."
+          "id": 1167214,
+          "resource_id": 213,
+          "text": "তার চেয়ে দীনে আর কে উত্তম যে সৎকর্মপরায়ণ হয়ে আল্লাহর নিকট আত্মসমর্পণ করে এবং একনিষ্ঠভাবে ইবরাহীমের মিল্লাতকে অনুসরণ করে? আর আল্লাহ ইবরাহীমকে অন্তরঙ্গ বন্ধুরূপে গ্রহণ করেছেন [১]।"
         }
       ]
     },
@@ -2710,9 +2710,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954468,
-          "resource_id": 140,
-          "text": "Y a Al-lah pertenece todo cuanto existe en los cielos y en la tierra. Y (el conocimiento de) Al-lah abarca todas las cosas."
+          "id": 1167215,
+          "resource_id": 213,
+          "text": "আর আসমান ও যমীনে যা কিছু আছে সব আল্লাহরই এবং সবকিছুকে আল্লাহ পরিবেষ্টন করে রয়েছেন।"
         }
       ]
     },
@@ -2731,9 +2731,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954469,
-          "resource_id": 140,
-          "text": "Te preguntan (¡oh, Muhammad!) acerca (de asuntos legales relacionados con) las mujeres. Diles: «Al-lah os instruye al respecto y acerca de lo que el Libro (el Corán) os revela sobre las jóvenes huérfanas con las que queréis casaros sin darles la parte (del maher y de la herencia)que les corresponde<sup foot_note=149212>1</sup>, y acerca de los niños débiles y oprimidos; y (os ordena) ser justos con los huérfanos». Y todo bien que hagáis será del conocimiento de Al-lah."
+          "id": 1167216,
+          "resource_id": 213,
+          "text": "আর লোকে আপনার কাছে নারীদের বিষয়ে ব্যবস্থা জানতে চায়। বলুন, ‘আল্লাহ তোমাদেরকে তাদের সম্বন্ধে ব্যবস্থা জানাচ্ছেন এবং ইয়াতীম নারী সম্পর্কে যাদের প্রাপ্য তোমরা প্রদান কর না, অথচ তোমরা তাদেরকে বিয়ে করতে চাও [১] এবং অসহায় শিশুদের সম্বন্ধে ও ইয়াতীমদের প্রতি তোমাদের ন্যায় বিচার সম্পর্কে যা কিতাবে তোমাদেরকে শুনান হয়, তাও পরিস্কারভাবে জানিয়ে দেন’। আর যে কোনো সৎকাজ তোমরা কর, নিশ্চয় আল্লাহ তা সম্পর্কে সবিশেষ জ্ঞানী।"
         }
       ]
     },
@@ -2752,9 +2752,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954470,
-          "resource_id": 140,
-          "text": "Y si una mujer teme que su marido pierda interés en ella o la rechace (porque ya no se siente atraído por ella), no comete ninguna falta, como tampoco su marido, si ambos llegan a un acuerdo (para evitar el divorcio y continuar viviendo juntos a cambio de que ella renuncie a parte de sus derechos). Y el acuerdo es lo mejor, a pesar de que el ser humano tiende, por naturaleza, a quererlo todo y a no ceder nada. Mas si hacéis el bien (tratando bien a vuestras esposas) y teméis (a Al-lah evitando ser injustos con ellas), (sabed que) Él está bien informado de lo que hacéis (y os recompensará por ello)."
+          "id": 1167217,
+          "resource_id": 213,
+          "text": "আর কোনো স্ত্রী যদি তার স্বামীর দুর্ব্যবহার কিংবা উপেক্ষার আশংকা করে তবে তারা আপোস-নিষ্পত্তি করতে চাইলে তাদের কোনো গোনাহ নেই এবং আপোস-নিষ্পত্তিই শ্রেয়। মানুষের অন্তরসমূহে লোভজনিত কৃপণতা বিদ্যমান। আর যদি তোমরা সৎকর্মপরায়ণ হও ও মুত্তাকী হও, তবে তোমরা যা কর আল্লাহ তো তার খবর রাখেন [১]।"
         }
       ]
     },
@@ -2773,9 +2773,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954471,
-          "resource_id": 140,
-          "text": "Y jamás podréis ser justos con vuestras mujeres por igual (en lo referente a vuestros sentimientos), aunque lo intentéis con todas vuestras fuerzas. No os inclinéis demasiado hacia una de ellas descuidando a otra. Mas si las tratáis con equidad (en todo aquello que esté en vuestras manos) y teméis a Al-lah, (sabed que) entonces Al-lah es Indulgente y Misericordioso."
+          "id": 1167218,
+          "resource_id": 213,
+          "text": "আর তোমরা যতই ইচ্ছে কর না কেন তোমাদের স্ত্রীদের প্রতি সমান ব্যবহার করতে কখনই পারবে না, তবে তোমরা কোনো একজনের দিকে সম্পূর্ণভাবে ঝুঁকে পড়ো না [১] ও অপরকে ঝুলানো অবস্থায় রেখো না; যদি তোমরা নিজেদেরকে সংশোধন কর এবং তাকওয়া অবলম্বন কর তবে নিশ্চয় আল্লাহ ক্ষমাশীল, পরম দয়ালু।"
         }
       ]
     },
@@ -2794,9 +2794,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954472,
-          "resource_id": 140,
-          "text": "Y si ambos se separan finalmente (mediante el divorcio), Al-lah colmará a cada uno con Su favor. El favor de Al-lah es inmenso y Él todo lo sabe."
+          "id": 1167219,
+          "resource_id": 213,
+          "text": "আর যদি তারা পরস্পর পৃথক হয়ে যায় তবে আল্লাহ তাঁর প্রাচুর্য দ্বারা প্রত্যেককে অভাবমুক্ত করবেন। আল্লাহ প্রাচুর্যময়, প্রজ্ঞাময় [১]।"
         }
       ]
     },
@@ -2815,9 +2815,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954473,
-          "resource_id": 140,
-          "text": "Y a Al-lah pertenece todo cuanto existe en los cielos y en la tierra. Y, ciertamente, ordenamos a quienes recibieron las Escrituras con anterioridad, así como a vosotros, que temierais a Al-lah (obedeciendo Sus mandatos y alejándoos de lo que os prohíbe). Pero si rechazáis la verdad, a Él pertenece todo cuanto existe en los cielos y en la tierra; y Al-lah no tiene necesidad de nadie y es digno de toda alabanza."
+          "id": 1167220,
+          "resource_id": 213,
+          "text": "আস্‌মানে যা আছে ও যমীনে যা আছে সব আল্লাহরই [১]; তোমাদের আগে যাদেরকে কিতাব দেয়া হয়েছে তাদেরকে এবং তোমাদেরকেও নির্দেশ দিয়েছি যে, তোমরা আল্লাহর তাকওয়া অবলম্বন কর [২]। আর তোমরা কুফরী করলেও আস্‌মানে যা আছে ও যমীনে যা আছে তা সবই আল্লাহর এবং আল্লাহ অভাবমুক্ত, প্রশংসাভাজন।"
         }
       ]
     },
@@ -2836,9 +2836,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954474,
-          "resource_id": 140,
-          "text": "Y a Al-lah pertenece todo cuanto existe en los cielos y en la tierra. Y Al-lah basta para ocuparse de todos los asuntos de Su creación."
+          "id": 1167221,
+          "resource_id": 213,
+          "text": "আস্‌মানে যা আছে ও যমীনে যা আছে সব আল্লাহরই এবং কার্যোদ্ধারে আল্লাহই যথেষ্ট।"
         }
       ]
     },
@@ -2857,9 +2857,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954475,
-          "resource_id": 140,
-          "text": "Si Él quisiera, os haría desaparecer, ¡oh, gentes!, y pondría a otros en vuestro lugar; y Al-lah tiene poder para ello."
+          "id": 1167222,
+          "resource_id": 213,
+          "text": "হে মানুষ! তিনি ইচ্ছে করলে তোমাদেরকে অপসারিত করতে ও অপরকে আনতে পারেন [১]; আর আল্লাহ তা করতে সম্পূর্ণ সক্ষম।"
         }
       ]
     },
@@ -2878,9 +2878,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954476,
-          "resource_id": 140,
-          "text": "Quien quiera la recompensa de esta vida (que sepa que) Al-lah posee la recompensa de esta vida y la de la otra. Y Al-lah oye y ve todas las cosas."
+          "id": 1167223,
+          "resource_id": 213,
+          "text": "কেউ দুনিয়ার পুরস্কার চাইলে তবে (সে যেন জেনে নেয় যে) দুনিয়া ও আখেরাতের পুরস্কার আল্লাহর কাছেই রয়েছে [১]। আর আল্লাহ সর্বশ্রোতা, সর্বদ্রষ্টা।"
         }
       ]
     },
@@ -2899,9 +2899,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954477,
-          "resource_id": 140,
-          "text": "¡Oh, creyentes!, sed justos cuando deis testimonio por Al-lah, aunque fuese en perjuicio vuestro o de vuestros padres y parientes. Tanto si (aquel en contra de quien dais testimonio) es rico como pobre (no intentéis favorecerle por compasión), pues Al-lah es su mejor protector en ambos casos. No sigáis, pues, vuestros deseos, de lo contrario caeríais en la injusticia.Y si modificáis el testimonio u os negáis a darlo, Al-lah está bien informado de lo que hacéis."
+          "id": 1167224,
+          "resource_id": 213,
+          "text": "হে মুমিনগণ! তোমরা ন্যায়বিচারে দৃঢ় প্রতিষ্ঠিত থাকবে আল্লাহর সাক্ষীস্বরূপ; যদিও তা তোমাদের নিজেদের বা পিতা-মাতা এবং আত্মীয়-স্বজনের বিরুদ্ধে হয়; সে বিত্তবান হোক বা বিত্তহীন হোক আল্লাহ উভয়েরই ঘনিষ্টতর। কাজেই তোমরা ন্যায়বিচার করতে প্রবৃত্তির অনুগামী হয়ো না। যদি তোমরা পেঁচালো কথা বল বা পাশ কাটিয়ে যাও তবে তোমরা যা কর আল্লাহ তো তার সম্যক খবর রাখেন।"
         }
       ]
     },
@@ -2920,9 +2920,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954478,
-          "resource_id": 140,
-          "text": "¡Oh, creyentes!, creed en Al-lah, en Su Mensajero, en el Libro que le reveló y en los Libros que reveló con anterioridad. Y quien no crea en Al-lah, en los ángeles, en los Libros revelados, en Sus mensajeros y en el Día de la Resurrección se habrá extraviado lejos de la verdad."
+          "id": 1167225,
+          "resource_id": 213,
+          "text": "হে মুমিনগণ! তোমরা ঈমান আন আল্লাহর প্রতি, তাঁর রাসূলের প্রতি, এবং সে কিতাবের প্রতি যা আল্লাহ তাঁর রাসূলের উপর নাযিল করেছেন। আর সে গ্রন্থের প্রতিও যা তার পূর্বে তিনি নাযিল করেছেন। আর যে ব্যক্তি আল্লাহ, তাঁর ফিরিশতাগণ, তাঁর কিতাবসমূহ, তাঁর রাসূলগণ ও শেষ দিবসের প্রতি কুফরী করে [১] সে সুদূর বিভ্রান্তিতে পতিত হলো।"
         }
       ]
     },
@@ -2941,9 +2941,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954479,
-          "resource_id": 140,
-          "text": "Ciertamente, quienes crean y renieguen después de su creencia, vuelvan a creer y a renegar de su fe y persistan en su rechazo a la verdad (hasta que les llegue la muerte), no obtendrán el perdón de Al-lah ni serán guiados hacia el buen camino."
+          "id": 1167226,
+          "resource_id": 213,
+          "text": "নিশ্চয় যারা ঈমান আনে ও পরে কুফরী করে এবং আবার ঈমান আনে, আবার কুফরী করে, তারপর তাদের কুফরী প্রবৃত্তি বৃদ্ধি পায়, আল্লাহ তাদেরকে কিছুতেই ক্ষমা করবেন না এবং তাদেরকে কোনো পথ দেখাবেন না [১]।"
         }
       ]
     },
@@ -2962,9 +2962,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954480,
-          "resource_id": 140,
-          "text": "(Y) anuncia a los hipócritas (¡oh, Muhammad!) que recibirán un castigo doloroso;"
+          "id": 1167227,
+          "resource_id": 213,
+          "text": "মুনাফিকদেরকে শুভ সংবাদ দিন যে, তাদের জন্য কষ্টদায়ক শাস্তি রয়েছে।"
         }
       ]
     },
@@ -2983,9 +2983,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954481,
-          "resource_id": 140,
-          "text": "esos que toman a quienes rechazan la verdad por protectores y aliados en vez de tomar a los creyentes. ¿Es que esperan conseguir poder, honor y gloria cuando todo ello pertenece a Al-lah?"
+          "id": 1167228,
+          "resource_id": 213,
+          "text": "মুমিনগণের পরিবর্তে যারা কাফেরদেরকে বন্ধুরূপে গ্রহণ করে তারা কি ওদের কাছে ইযযত চায়? সমস্ত ইযযত তো আল্লাহরই [১]।"
         }
       ]
     },
@@ -3004,9 +3004,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954482,
-          "resource_id": 140,
-          "text": "Y está escrito en vuestro Libro (el Corán)<sup foot_note=149213>1</sup> que si escucháis a unos negar las aleyas de Al-lah o burlarse de ellas, no debéis permanecer en su compañía hasta que cambien de conversación; de lo contrario, seríais como ellos. Y, ciertamente, Al-lah reunirá, en el infierno, a todos los hipócritas e incrédulos,"
+          "id": 1167229,
+          "resource_id": 213,
+          "text": "কিতাবে তোমাদের প্রতি তিনি তো নাযিল করেছেন যে, যখন তোমরা শুনবে, আল্লাহর আয়াত প্রত্যাখ্যাত হচ্ছে এবং তা নিয়ে বিদ্রূপ করা হচ্ছে, তখন যে পর্যন্ত তারা অন্য প্রসঙ্গে লিপ্ত না হবে তোমরা তাদের সাথে বসো না [১], নয়তো তোমরাও তাদের মত হবে [২]। মুনাফিক এবং কাফের সবাইকে আল্লাহ তো জাহান্নামে একত্র করবেন।"
         }
       ]
     },
@@ -3025,9 +3025,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954483,
-          "resource_id": 140,
-          "text": "esos que están a la espera de lo que os acontece; si obtenéis una victoria de parte de Al-lah, dicen (para participar del botín y del triunfo): «¿Acaso no estábamos con vosotros?». Pero, si quienes consiguen una victoria son aquellos que rechazan la verdad, les dicen: «¿Acaso no os ayudamos engañando a los creyentes hasta que pudisteis derrotarlos y os protegimos de ellos?». Al-lah juzgará entre vosotros (y ellos) el Día del Juicio Final, y no concederá nunca el triunfo final sobre los creyentes a quienes rechazan la verdad."
+          "id": 1167230,
+          "resource_id": 213,
+          "text": "যারা তোমাদের অমঙ্গলের প্রতীক্ষায় থাকে, তারা আল্লাহর পক্ষ থেকে তোমাদের জয় হলে বলে, ‘আমরা কি তোমাদের সাথে ছিলাম না’। আর যদি কাফেরদের কিছু বিজয় হয়, তবে তারা বলে, ‘আমরা কি তোমাদের বিরুদ্ধে প্রবল ছিলাম না এবং আমরা কি তোমাদেরকে মুমিনদের হাত থেকে রক্ষা করিনি[১]?’ আল্লাহ কেয়ামতের দিন তোমাদের মধ্যে বিচার মীমাংসা করবেন এবং আল্লাহ কখনই মুমিনদের বিরুদ্ধে কাফেরদের জন্য কোনো পথ রাখবেন না। [২]"
         }
       ]
     },
@@ -3046,9 +3046,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954484,
-          "resource_id": 140,
-          "text": "Los hipócritas pretenden engañar a Al-lah (mostrando la fe y ocultando en su interior la incredulidad), pero es Al-lah Quien los engaña<sup foot_note=149214>1</sup> (haciendo que persistan en su extravío hasta el Día de la Resurrección).Cuando se levantan para rezar, lo hacen con pereza, solo para que la gente los vea, y apenas glorifican a Al-lah."
+          "id": 1167231,
+          "resource_id": 213,
+          "text": "নিশ্চয় মুনাফিকরা আল্লাহর সাথে ধোঁকাবাজি করে; বস্তুতঃ তিনি তাদেরকে ধোঁকায় ফেলেন [১]। আর যখন তারা সালাতে দাঁড়ায় তখন শৈথিল্যের সাথে দাঁড়ায়, শুধু লোক দেখানোর জন্য এবং আল্লাহকে তারা অল্পই স্মরণ করে [২]।"
         }
       ]
     },
@@ -3067,9 +3067,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954485,
-          "resource_id": 140,
-          "text": "Titubean entre los unos (los creyentes) y los otros (quienes rechazan la verdad) sin pertenecer a ninguno de ambos grupos. Y no podrás hallar la manera de guiar a quien Al-lah extravía (por negar la verdad)."
+          "id": 1167232,
+          "resource_id": 213,
+          "text": "দোটানায় দোদুল্যমান, না এদের দিকে, না ওদের দিকে [১] ! আর আল্লাহ যাকে পথভ্রষ্ট করেন আপনি তার জন্য কখনো কোনো পথ পাবেন না।"
         }
       ]
     },
@@ -3088,9 +3088,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954486,
-          "resource_id": 140,
-          "text": "¡Oh, creyentes!, no toméis a quienes rechazan la verdad por protectores y aliados en vez de a los creyentes. ¿Acaso queréis dar a Al-lah un claro argumento en vuestra contra?"
+          "id": 1167233,
+          "resource_id": 213,
+          "text": "হে মুমিনগণ! মুমিনগণ ছাড়া কাফেরদেরকে বন্ধুরূপে গ্রহণ করো না। তোমরা কি নিজেদের উপর আল্লাহর প্রকাশ্য অভিযোগ কায়েম করতে চাও [১]?"
         }
       ]
     },
@@ -3109,9 +3109,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954487,
-          "resource_id": 140,
-          "text": "Los hipócritas estarán en lo más profundo del fuego, y no podrás encontrar quien los auxilie;"
+          "id": 1167234,
+          "resource_id": 213,
+          "text": "মুনাফিকরা তো জাহান্নামের নিম্নতম স্তরে থাকবে [১] এবং তাদের জন্য আপনি কখনো কোনো সহায় পাবেন না।"
         }
       ]
     },
@@ -3130,9 +3130,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954488,
-          "resource_id": 140,
-          "text": "con la excepción de quienes se arrepientan, se enmienden (realizando buenas obras), se aferren a Al-lah y sean sinceros en su fe en Al-lah (abandonando toda hipocresía); pues esos estarán con los creyentes. Y Al-lah concederá a los creyentes una gran recompensa."
+          "id": 1167235,
+          "resource_id": 213,
+          "text": "কিন্তু যারা তাওবাহ্‌ করে, নিজেদেরকে সংশোধন করে [১], আল্লাহকে দৃঢ়ভাবে অবলম্বন করে এবং আল্লাহর উদ্দেশ্যে তাদের দীনকে একনিষ্ট করে [২], তারা মুমিনদের সঙ্গে থাকবে এবং মুমিনদেরকে আল্লাহ অবশ্যই মহাপুরস্কার দেবেন।"
         }
       ]
     },
@@ -3151,9 +3151,9 @@
       "juz_number": 5,
       "translations": [
         {
-          "id": 954489,
-          "resource_id": 140,
-          "text": "¿Para qué iba Al-lah a castigaros (por vuestras ofensas pasadas) si (ahora) sois agradecidos y creéis (en Él)? Y Al-lah es Agradecido (con Sus siervos cuando lo obedecen) y conoce todas las cosas."
+          "id": 1167236,
+          "resource_id": 213,
+          "text": "তোমরা যদি শোকর-গুজার হও [১] এবং ঈমান আন, তবে তোমাদের শাস্তি দিয়ে আল্লাহ কী করবেন? আর আল্লাহ (শোকরের) পুরস্কার দাতা, সর্বজ্ঞ।"
         }
       ]
     },
@@ -3172,9 +3172,9 @@
       "juz_number": 6,
       "translations": [
         {
-          "id": 954490,
-          "resource_id": 140,
-          "text": "A Al-lah no le agrada que se hable mal (contra alguien) en público, excepto si quien lo hace ha sido víctima de una injusticia (y este manifiesta abiertamente la ofensa recibida e invoca a Al-lah para que castigue a quien se la ha causado).Y Al-lah todo lo oye y todo lo sabe."
+          "id": 1167237,
+          "resource_id": 213,
+          "text": "মন্দ কথার প্রচারণা আল্লাহ পছন্দ করেন না; তবে যার উপর যুলুম করা হয়েছে [১]। আর আল্লাহ সর্বশ্রোতা, সর্বজ্ঞ।"
         }
       ]
     },
@@ -3193,9 +3193,9 @@
       "juz_number": 6,
       "translations": [
         {
-          "id": 954491,
-          "resource_id": 140,
-          "text": "Tanto si hacéis una buena acción públicamente o en secreto como si perdonáis una injusticia que habéis sufrido (hallaréis vuestra recompensa junto a Al-lah). Y Al-lah es Benévolo y Todopoderoso."
+          "id": 1167238,
+          "resource_id": 213,
+          "text": "তোমরা সৎকাজ প্রকাশ্যে করলে বা গোপনে করলে কিংবা দোষ ক্ষমা করলে তবে আল্লাহও দোষ মোচনকারী, ক্ষমতাবান [১]।"
         }
       ]
     },
@@ -3214,9 +3214,9 @@
       "juz_number": 6,
       "translations": [
         {
-          "id": 954492,
-          "resource_id": 140,
-          "text": "Ciertamente, quienes no creen en Al-lah ni en Sus mensajeros y pretenden hacer una distinción entre la fe en Él y en aquellos, y dicen creer en algunos de los mensajeros mientras que rechazan a otros y quieren tomar un camino entre la fe y la incredulidad;"
+          "id": 1167239,
+          "resource_id": 213,
+          "text": "নিশ্চয় যারা আল্লাহ ও তাঁর রাসূলগণের সাথে কুফরী করে এবং আল্লাহ ও তাঁর রাসূলগণের মধ্যে (ঈমানের ব্যাপারে) তারতম্য করতে চায় এবং বলে, ‘আমরা কতক-এর উপর ঈমান আনি এবং কতকের সাথে কুফরী করি’ [১]। আর তারা মাঝামাঝি একটা পথ অবলম্বন করতে চায়,"
         }
       ]
     },
@@ -3235,9 +3235,9 @@
       "juz_number": 6,
       "translations": [
         {
-          "id": 954493,
-          "resource_id": 140,
-          "text": "esos son quienes realmente rechazan la verdad. Y hemos preparado para ellos un castigo humillante."
+          "id": 1167240,
+          "resource_id": 213,
+          "text": "তারাই প্রকৃত কাফির। আর আমরা প্রস্তুত রেখেছি কাফিরদের জন্য লাঞ্ছনাদায়ক শাস্তি [১]।"
         }
       ]
     },
@@ -3256,9 +3256,9 @@
       "juz_number": 6,
       "translations": [
         {
-          "id": 954494,
-          "resource_id": 140,
-          "text": "Y quienes creen en Al-lah y en Sus mensajeros y no hacen distinción entre ninguno de ellos obtendrán su recompensa. Y Al-lah es Indulgente y Misericordioso."
+          "id": 1167241,
+          "resource_id": 213,
+          "text": "আর যারা আল্লাহ ও তাঁর রাসূলগণের প্রতি ঈমান এনেছে এবং তাদের একের সাথে অপরের পার্থক্য করেনি, অচিরেই তাদেরকে তিনি তাদের প্রতিদান দেবেন। আর আল্লাহ ক্ষমাশীল, পরম দয়ালু।"
         }
       ]
     },
@@ -3277,9 +3277,9 @@
       "juz_number": 6,
       "translations": [
         {
-          "id": 954495,
-          "resource_id": 140,
-          "text": "Los judíos te piden que hagas descender sobre ellos un Libro del cielo. Y pidieron a Moisés algo aún más grave, pues le dijeron: «Haz que podamos ver a Al-lah con claridad». Entonces fueron fulminados por un rayo debido a su injusta petición. Después adoraron el becerro tras haber presenciado claros milagros (así como pruebas de la unicidad de Al-lah) y (a pesar de ello) los perdonamos (una vez los inocentes cumplieron la orden de Al-lah de matar a los culpables<sup foot_note=149215>1</sup>). Y concedimos a Moisés una clara autoridad."
+          "id": 1167242,
+          "resource_id": 213,
+          "text": "কিতাবীগণ আপনার কাছে তাদের জন্য আসমান হতে একটি কিতাব নাযিল করতে বলে; তারা মূসার কাছে এর চেয়েও বড় দাবী করেছিল। তারা বলেছিল, ‘আমাদেরকে প্রকাশ্যে আল্লাহকে দেখাও।’ ফলে তাদের সীমালংঘনের কারণে তাদেরকে বজ্র পাকড়াও করেছিল; তারপর স্পষ্ট প্রমাণ তাদের কাছে আসার পরও তারা বাছুরকে উপাস্যরূপে গ্রহণ করেছিল; অতঃপর আমরা তা ক্ষমা করেছিলাম এবং আমরা মূসাকে স্পষ্ট প্রমাণ প্রদান করেছিলাম।"
         }
       ]
     },
@@ -3298,9 +3298,9 @@
       "juz_number": 6,
       "translations": [
         {
-          "id": 954496,
-          "resource_id": 140,
-          "text": "Y elevamos el monte sobre ellos (en señal de amenaza) para que cumplieran el pacto que habíamos concertado con ellos y les dijimos: «Entrad en la ciudad postrándoos humildemente<sup foot_note=149216>1</sup>»; y les dijimos: «No violéis la ley del sábado<sup foot_note=149217>2</sup>». Y tomamos de ellos un firme compromiso."
+          "id": 1167243,
+          "resource_id": 213,
+          "text": "আর তাদের অঙ্গীকার গ্রহণের জন্য ‘তূর’ পর্বতকে আমরা তাদের উপর উত্তোলন করেছিলাম এবং তাদেরকে বলেছিলাম, ‘নত শিরে দরজা দিয়ে প্রবেশ কর [১]।’ আর আমরা তাদেরকে আরও বলেছিলাম, ‘শনিবারে সীমালংঘন করো না’; এবং আমরা তাদের কাছ থেকৈ দৃঢ় অঙ্গীকার নিয়েছিলাম।"
         }
       ]
     },
@@ -3319,9 +3319,9 @@
       "juz_number": 6,
       "translations": [
         {
-          "id": 954497,
-          "resource_id": 140,
-          "text": "(Y Al-lah los expulsó de Su misericordia) por quebrantar su compromiso, por rechazar los milagros y las pruebas de Al-lah, por matar a los profetas sin justificación alguna y por decir (al profeta Muhammad): «Nuestros corazones no comprenden (tus palabras)». Es Al-lah Quien los ha sellado porque negaban la verdad, pues solo creían unos pocos<sup foot_note=149218>1</sup>."
+          "id": 1167244,
+          "resource_id": 213,
+          "text": "অতঃপর (তারা অভিসম্পাত পেয়েছিল [১]) তাদের অঙ্গীকার ভঙ্গের জন্য, আল্লাহর আয়াতসমূহের সাথে কুফরী করার জন্য, নবীগণকে অন্যায়ভাবে হত্যা করার জন্য এবং ‘আমাদের হৃদয় আচ্ছাদিত’ তাদের এ উক্তির জন্য। বরং তাদের কুফরীর কারণে আল্লাহ তার উপর মোহর মেরে দিয়েছেন। সুতরাং কেবল অল্প সংখ্যক লোকই ঈমান আনবে।"
         }
       ]
     },
@@ -3340,9 +3340,9 @@
       "juz_number": 6,
       "translations": [
         {
-          "id": 954498,
-          "resource_id": 140,
-          "text": "(Y también) por rechazar la verdad y decir sobre María una gran calumnia (al acusarla de fornicación);"
+          "id": 1167245,
+          "resource_id": 213,
+          "text": "আর তাদের কুফরীর জন্য এবং মারইয়ামের বিরুদ্ধে গুরুতর অপবাদের জন্য [১]।"
         }
       ]
     },
@@ -3361,9 +3361,9 @@
       "juz_number": 6,
       "translations": [
         {
-          "id": 954499,
-          "resource_id": 140,
-          "text": "y por decir (burlándose): «Hemos matado al Mesías Jesús, hijo de María, el profeta de Al-lah». Pero, no lo mataron ni lo crucificaron, sino que se les hizo creer<sup foot_note=149219>1</sup>. Y quienes discrepan sobre ello están llenos de dudas. No tienen ninguna certeza y tan solo se apoyan en conjeturas, pues, con toda seguridad, no lo mataron;"
+          "id": 1167246,
+          "resource_id": 213,
+          "text": "আর ‘আমরা আল্লাহর রাসূল মারঈয়াম তনয় ‘ঈসা মসীহকে হত্যা করেছি’ তাদের এ উক্তির জন্য। অথচ তারা তাকে হত্যা করেনি এবং ক্রুশবিদ্ধও করেনি; বরং তাদের জন্য (এক লোককে) তার সদৃশ করা হয়েছিল [১]। আর নিশ্চয় যারা তার সম্বন্ধে মতভেদ করেছিল, তারা অবশ্যই এ সম্বন্ধে সংশয়যুক্ত ছিল; এ সম্পর্কে অনুমানের অনুসরণ ছাড়া তাদের কোনো জ্ঞানই ছিল না। আর এটা নিশ্চিত যে, তারা তাঁকে হত্যা করেনি,"
         }
       ]
     },
@@ -3382,9 +3382,9 @@
       "juz_number": 6,
       "translations": [
         {
-          "id": 954500,
-          "resource_id": 140,
-          "text": "Al-lah lo ascendió a Él (en vida). Y Al-lah es Poderoso y Sabio."
+          "id": 1167247,
+          "resource_id": 213,
+          "text": "বরং আল্লাহ তাকে তাঁর নিকট তুলে নিয়েছেন এবং আল্লাহ পরাক্রমশালী, প্রজ্ঞাময় [১]।"
         }
       ]
     },
@@ -3403,9 +3403,9 @@
       "juz_number": 6,
       "translations": [
         {
-          "id": 954501,
-          "resource_id": 140,
-          "text": "Y quienes recibieron las Escrituras creerán en Jesús antes de su muerte<sup foot_note=149220>1</sup> (cuando regrese al final de los tiempos). Y el Día de la Resurrección testificará (contra quienes mintieron acerca de él y decían que era hijo de Dios —o de Al-lah—y a favor de quienes creyeron en él)."
+          "id": 1167248,
+          "resource_id": 213,
+          "text": "কিতাবীদের মধ্য থেকে প্রত্যেকে তার মৃত্যুর পূর্বে [১] তার উপর ঈমান আনবেই। আর কেয়ামতের দিন তিনি তাদের বিরুদ্ধে সাক্ষী হবেন [২]।"
         }
       ]
     },
@@ -3424,9 +3424,9 @@
       "juz_number": 6,
       "translations": [
         {
-          "id": 954502,
-          "resource_id": 140,
-          "text": "Y prohibimos a los judíos muchas de las cosas buenas que antes tenían permitidas por haber sido injustos y haber apartado a muchos del camino de Al-lah,"
+          "id": 1167249,
+          "resource_id": 213,
+          "text": "সুতরাং ভালো ভালো যা ইয়াহুদীদের জন্য হালাল ছিল আমরা তা তাদের জন্য হারাম করেছিলাম তাদের যুলুমের জন্য [১] এবং আল্লাহর পথ থেকে অনেককে বাঁধা দেয়ার জন্য।"
         }
       ]
     },
@@ -3445,9 +3445,9 @@
       "juz_number": 6,
       "translations": [
         {
-          "id": 954503,
-          "resource_id": 140,
-          "text": "y por aceptar los intereses de la usura cuando se les había prohibido (en la Torá) y por apropiarse ilegalmente de los bienes ajenos. Y hemos preparado a quienes de ellos rechazan la verdad un doloroso castigo."
+          "id": 1167250,
+          "resource_id": 213,
+          "text": "আর তাদের সূদ গ্রহণের কারণে, অথচ তা থেকে তাদেরকে নিষেধ করা হয়েছিল; এবং অন্যায়ভাবে মানুষের ধন-সম্পদ গ্রাস করার কারণে। আর আমরা তাদের মধ্য হতে কাফিরদের জন্য কষ্টদায়ক শাস্তি প্রস্তুত করেছি।"
         }
       ]
     },
@@ -3466,9 +3466,9 @@
       "juz_number": 6,
       "translations": [
         {
-          "id": 954504,
-          "resource_id": 140,
-          "text": "Sin embargo, aquellos que tienen un conocimiento profundo de entre ellos, así como los creyentes (tanto quienes emigraron como quienes los acogieron en Medina) creen en lo que te ha sido revelado (¡oh, Muhammad!) y en las Escrituras que fueron reveladas con anterioridad. Y a quienes realizan el salat, entregan el azaque y creen en Al-lah y en el Día de la Resurrección les concederemos una gran recompensa."
+          "id": 1167251,
+          "resource_id": 213,
+          "text": "কিন্তু তাদের মধ্যে যারা জ্ঞানে মজবুত তারা ও মুমিনগণ আপনার প্রতি যা নাযিল করা হয়েছে এবং আপনার আগে যা নাযিল করা হয়েছে তাতে ঈমান আনে। আর সালাত প্রতিষ্ঠাকারী, যাকাত প্রদানকারী এবং আল্লাহ ও শেষ দিবসে ঈমান আনয়নকারী, তাদেরকে অচিরেই আমরা মহা পুরস্কার দেব। [১]"
         }
       ]
     },
@@ -3487,9 +3487,9 @@
       "juz_number": 6,
       "translations": [
         {
-          "id": 954505,
-          "resource_id": 140,
-          "text": "Y, ciertamente, te hemos transmitido el mensaje (¡oh, Muhammad!) al igual que hiciéramos con Noé y con los profetas que lo sucedieron. Y transmitimos el mensaje, a Ismael, a Isaac, a Jacob, a las tribus de Israel, a Jesús, a Job, a Jonás, a Aarón y a Salomón. Y otorgamos los Salmos a David."
+          "id": 1167252,
+          "resource_id": 213,
+          "text": "নিশ্চয় আমরা আপনার নিকট ওহী প্রেরণ করেছিলাম [১], যেমন নূহ ও তার পরবর্তী নবীগণের প্রতি ওহী প্রেরণ করেছিলাম [২], আর ইবরাহীম, ইসমাঈল, ইসহাক, ইয়া’কূব ও তার বংশধরগণ, ঈসা, আইউব, ইউনুস, হারূন ও সুলাইমানের নিকটও ওহী প্রেরণ করেছিলাম এবং দাউদকে প্রদান করেছিলাম যাবূর।"
         }
       ]
     },
@@ -3508,9 +3508,9 @@
       "juz_number": 6,
       "translations": [
         {
-          "id": 954506,
-          "resource_id": 140,
-          "text": "Y te hemos contado la historia de algunos de los mensajeros que enviamos y de otros no. Y Al-lah habló a Moisés directamente."
+          "id": 1167253,
+          "resource_id": 213,
+          "text": "আর অনেক রাসূল, যাদের বর্ণনা আমরা আপনাকে পূর্বে দিয়েছি এবং অনেক রাসূল, যাদের বর্ণনা আমরা আপনাকে দেইনি [১]। আর অবশ্যই আল্লাহ মূসার সাথে কথা বলেছেন।"
         }
       ]
     },
@@ -3529,9 +3529,9 @@
       "juz_number": 6,
       "translations": [
         {
-          "id": 954507,
-          "resource_id": 140,
-          "text": "(Hemos enviado) mensajeros como portadores de buenas noticias (a quienes les siguieran) y como amonestadores (a quienes les desobedecieran) para que, tras su llegada, los hombres no tuvieran ninguna excusa ante Al-lah (por no haber seguido Su religión). Y Al-lah es Poderoso y Sabio."
+          "id": 1167254,
+          "resource_id": 213,
+          "text": "সুসংবাদদাতা ও সাবধানকারী রাসূল প্রেরণ করেছি [১], যাতে রাসূলগণ আসার পর আল্লাহর বিরুদ্ধে মানুষের কোনো অভিযোগ না থাকে। আর আল্লাহ পরাক্রমশালী, প্রজ্ঞাময়।"
         }
       ]
     },
@@ -3550,9 +3550,9 @@
       "juz_number": 6,
       "translations": [
         {
-          "id": 954508,
-          "resource_id": 140,
-          "text": "Y (si te desmienten, ¡oh, Muhammad!, no te preocupes), Al-lah da fe de que te ha revelado (el Corán y de que tú eres Su Mensajero). Te lo ha revelado con Su conocimiento, y los ángeles también dan fe de la revelación. Y Al-lah basta como testigo."
+          "id": 1167255,
+          "resource_id": 213,
+          "text": "কিন্তু আল্লাহ সাক্ষ্য দিচ্ছেন আপনার প্রতি যা তিনি নাযিল করেছেন তার মাধ্যমে। তিনি তা নাযিল করেছেন নিজ জ্ঞানে। আর ফেরেশতাগণও সাক্ষী দিচ্ছেন। আর সাক্ষী হিসেবে আল্লাহই যথেষ্ট [১]।"
         }
       ]
     },
@@ -3571,9 +3571,9 @@
       "juz_number": 6,
       "translations": [
         {
-          "id": 954509,
-          "resource_id": 140,
-          "text": "Ciertamente, quienes rechacen la fe y desvíen a los hombres del camino de Al-lah se habrán extraviado muy lejos de la verdad."
+          "id": 1167256,
+          "resource_id": 213,
+          "text": "নিশ্চয় যারা কুফরী করেছে এবং আল্লাহর পথ থেকে বাঁধা দিয়েছে তারা অবশ্যই ভীষণভাবে পথভ্রষ্ট হয়েছে।"
         }
       ]
     },
@@ -3592,9 +3592,9 @@
       "juz_number": 6,
       "translations": [
         {
-          "id": 954510,
-          "resource_id": 140,
-          "text": "Ciertamente, Al-lah no perdonará ni guiará (hacia el camino de la salvación) a quienes rechacen la fe y actúen injustamente (persistiendo en la incredulidad),"
+          "id": 1167257,
+          "resource_id": 213,
+          "text": "নিশ্চয় যারা কুফরী করেছে ও যুলুম করেছে আল্লাহ তাদেরকে ক্ষমা করবেন না এবং তাদেরকে কোনো পথও দেখাবেন না,"
         }
       ]
     },
@@ -3613,9 +3613,9 @@
       "juz_number": 6,
       "translations": [
         {
-          "id": 954511,
-          "resource_id": 140,
-          "text": "solo (los guiará) hacia el camino que conduce al infierno, donde permanecerán eternamente; y ello es fácil para Al-lah."
+          "id": 1167258,
+          "resource_id": 213,
+          "text": "জাহান্নামের পথ ছাড়া; সেখানে তারা চিরস্থায়ী হবে এবং এটা আল্লাহর পক্ষে সহজ।"
         }
       ]
     },
@@ -3634,9 +3634,9 @@
       "juz_number": 6,
       "translations": [
         {
-          "id": 954512,
-          "resource_id": 140,
-          "text": "¡Gentes!, os ha llegado el Mensajero de Al-lah con la verdad procedente de vuestro Señor. Creed, pues, en él; es mejor para vosotros. Y si no lo hacéis, (vuestra incredulidad no perjudicará en nada a Al-lah, pues) a Él pertenece todo cuanto existe en los cielos y en la tierra. Y Al-lah es Omnisciente y Sabio."
+          "id": 1167259,
+          "resource_id": 213,
+          "text": "হে লোকসকল! অবশ্যই রাসূল তোমাদের রবের কাছ থেকে সত্য নিয়ে এসেছেন; সুতরাং তোমরা ঈমান আন, এটা তোমাদের জন্য কল্যাণকর হবে [১] আর যদি তোমরা কুফরী কর তবে আসমানসমূহ ও যমীনে যা আছে সব আল্লাহরই এবং আল্লাহ সর্বজ্ঞ, প্রজ্ঞাময়।"
         }
       ]
     },
@@ -3655,9 +3655,9 @@
       "juz_number": 6,
       "translations": [
         {
-          "id": 954513,
-          "resource_id": 140,
-          "text": "¡Cristianos!, no exageréis en vuestra religión ni digáis sobre Al-lah salvo la verdad. El Mesías Jesús, hijo de María, no es sino un mensajero de Al-lah a quien creó a partir de la palabra «sé» transmitida a María (a través del ángel Gabriel) y un soplo de vida creado por Él. Creed, pues en Al-lah y en todos Sus mensajeros. Y no digáis que Al-lah es parte de la trinidad; es mejor para vosotros que abandonéis tal idea. Al-lah es un Dios Único, ¡alabado sea! Está muy por encima de tener un hijo. Suyo es todo cuanto existe en los cielos y en la tierra; y Al-lah basta para ocuparse de todos los asuntos de Su creación."
+          "id": 1167260,
+          "resource_id": 213,
+          "text": "হে কিতাবীরা! স্বীয় দীনের মধ্যে তোমরা বাড়াবাড়ি করো না [১] এবং আল্লাহর উপর সত্য ব্যতীত কিছু বলো না। মারইয়াম-তনয় ঈসা মসীহ কেবল আল্লাহর রাসূল এবং তাঁর বাণী [২], যা তিনি মারইয়ামের কাছে পাঠিয়েছিলেন ও তাঁর পক্ষ থেকে রূহ। কাজেই তোমরা আল্লাহ ও তাঁর রাসূলদের উপর ঈমান আন এবং বলো না, ‘তিন [৩] !’ নিবৃত্ত হও, এটাই তোমাদের জন্য কল্যাণকর হবে। আল্লাহই তো এক ইলাহ; তাঁর সন্তান হবে... তিনি এটা থেকে পবিত্র-মহান। আসমানসমূহে যা কিছু আছে ও যমীনে যা কিছু আছে সব আল্লাহরই; আর কর্মবিধায়করূপে আল্লাহই যথেষ্ট [৪]।"
         }
       ]
     },
@@ -3676,9 +3676,9 @@
       "juz_number": 6,
       "translations": [
         {
-          "id": 954514,
-          "resource_id": 140,
-          "text": "El Mesías no encuentra indigno ser un siervo de Al-lah, como tampoco menosprecian serlo los ángeles allegados a Él. Y todos aquellos que menosprecien adorar a Al-lah y se muestren altivos serán reunidos para comparecer ante Él (el Día de la Resurrección)."
+          "id": 1167261,
+          "resource_id": 213,
+          "text": "মসীহ আল্লাহর বান্দা হওয়াকে কখনো হেয় মনে করেন না এবং ঘনিষ্ঠ ফেরেশ্‌তাগণও করে না। আর কেউ তাঁর ইবাদাতকে হেয় জ্ঞান করলে এবং অহংকার করলে তিনি অচিরেই তাদের সবাইকে তাঁর কাছে একত্র করবেন [১]।"
         }
       ]
     },
@@ -3697,9 +3697,9 @@
       "juz_number": 6,
       "translations": [
         {
-          "id": 954515,
-          "resource_id": 140,
-          "text": "Quienes crean y obren rectamente recibirán la recompensa de Al-lah y Él los agraciará todavía más. Pero quienes desdeñen ser siervos de Al-lah y se muestren altivos recibirán un castigo doloroso y no hallarán quien los proteja o auxilie fuera de Al-lah."
+          "id": 1167262,
+          "resource_id": 213,
+          "text": "অতঃপর যারা ঈমান এনেছে এবং সৎকাজ করেছে, তিনি তাদেরকে পূর্ণ করে দিবেন তাদের পুরস্কার এবং নিজ অনুগ্রহে আরো বেশী দেবেন। আর যারা (আল্লাহর ইবাদাত করা) হেয় জ্ঞান করেছে এবং অহংকার করেছে, তাদেরকে তিনি কষ্টদায়ক শাস্তি দেবেন। আর আল্লাহ ছাড়া তাদের জন্য তারা কোন অভিভাবক ও সহায় পাবে না।"
         }
       ]
     },
@@ -3718,9 +3718,9 @@
       "juz_number": 6,
       "translations": [
         {
-          "id": 954516,
-          "resource_id": 140,
-          "text": "¡Gentes!, ciertamente habéis recibido una clara prueba de vuestro Señor (la llegada del profeta Muhammad) y hemos hecho descender sobre vosotros una luz esclarecedora (el Corán)."
+          "id": 1167263,
+          "resource_id": 213,
+          "text": "হে লোকসকল! তোমাদের রবের কাছ থেকে তোমাদের কাছে প্রমাণ এসেছে [১] এবং আমরা তোমাদের প্রতি স্পষ্ট জ্যোতি [২] নাযিল করেছি।"
         }
       ]
     },
@@ -3739,9 +3739,9 @@
       "juz_number": 6,
       "translations": [
         {
-          "id": 954517,
-          "resource_id": 140,
-          "text": "Quienes crean en Al-lah y se aferren a Él serán admitidos en Su misericordia y en Su gracia, y Él los guiará por el camino recto."
+          "id": 1167264,
+          "resource_id": 213,
+          "text": "সুতরাং যারা আল্লাহতে ঈমান এনেছে এবং তাঁকে দৃঢ়ভাবে অবলম্বন করেছে তাদেরকে তিনি অবশ্যই তাঁর দয়া ও অণুগ্রহের মধ্যে দাখিল করবেন এবং তাদেরকে সরল পথে তাঁর দিকে পরিচালিত করবেন।"
         }
       ]
     },
@@ -3760,9 +3760,9 @@
       "juz_number": 6,
       "translations": [
         {
-          "id": 954518,
-          "resource_id": 140,
-          "text": "Te piden que dictamines (sobre la herencia de quienes mueren sin dejar ni padres ni hijos, ¡oh, Muhammad!). Diles: «Al-lah os decreta (lo siguiente) al respecto: si un hombre muere y no tiene ni hijos (ni padres), pero tiene una hermana (de padre y madre o del mismo padre), esta heredará la mitad de lo que deje. Si la difunta es la hermana y no deja hijos (ni padres), su hermano heredará todo. Si el difunto tiene dos hermanas, estas heredarán dos tercios de lo que deje en herencia; y en el caso de tener hermanos y hermanas, a cada hermano le corresponderá el doble de lo que reciba una hermana<sup foot_note=149221>1</sup>. Así aclara Al-lah Sus preceptos para que no os extraviéis. Y Al-lah tiene conocimiento sobre todas las cosas»."
+          "id": 1167265,
+          "resource_id": 213,
+          "text": "লোকেরা আপনার কাছে ব্যবস্থা জানতে চায় [১]। বলুন, ‘পিতা-মাতাহীন নিঃসন্তান ব্যক্তি সম্বন্ধে তোমাদেরকে আল্লাহ ব্যবস্থা জানাচ্ছেন, কোনো পুরুষ মারা গেলে সে যদি সন্তানহীন হয় এবং তার এক বোন থাকে [২] তবে তার জন্য পরিত্যক্ত সম্পত্তির অর্ধেক। আর সে (মহিলা) যদি সন্তানহীনা হয় তবে তার ভাই তার উত্তরাধিকারী হবে। অতঃপর যদি দুই বোন থাকে তবে তাদের জন্য তার পরিত্যখ্ত সম্পত্তির তিন ভাগের দু’ভাগ। আর যদি ভাই-বোন উভয়ে থাকে তবে এক পুরুষের অংশ দুই নারীর অংশের সমান। তোমরা পথভ্রষ্ট হবে –এ আশংকায় আল্লাহ তোমাদেরকে পরিস্কারভাবে জানাচ্ছেন এবং আল্লাহ সবকিছু সম্পর্কে সবিশেষ অবগত [৩]।"
         }
       ]
     }
