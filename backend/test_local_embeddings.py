@@ -17,6 +17,12 @@ try:
 except ImportError:
     SBERT_AVAILABLE = False
 
+try:
+    import faiss
+    FAISS_AVAILABLE = True
+except ImportError:
+    FAISS_AVAILABLE = False
+
 # Skip all tests if sentence-transformers not installed
 pytestmark = pytest.mark.skipif(
     not SBERT_AVAILABLE,
@@ -118,14 +124,9 @@ def test_empty_text_handling():
     assert embeddings.shape == (0, 384)
 
 
-@pytest.mark.skipif(not SBERT_AVAILABLE, reason="faiss-cpu not installed")
+@pytest.mark.skipif(not FAISS_AVAILABLE, reason="faiss-cpu not installed")
 def test_faiss_index_creation():
     """Test FAISS index creation"""
-    try:
-        import faiss
-    except ImportError:
-        pytest.skip("faiss-cpu not installed")
-    
     from embeddings.sbert_faiss import EmbeddingServiceSBERT
     
     service = EmbeddingServiceSBERT()
@@ -139,14 +140,9 @@ def test_faiss_index_creation():
     assert index.d == 384
 
 
-@pytest.mark.skipif(not SBERT_AVAILABLE, reason="faiss-cpu not installed")
+@pytest.mark.skipif(not FAISS_AVAILABLE, reason="faiss-cpu not installed")
 def test_faiss_search():
     """Test FAISS similarity search"""
-    try:
-        import faiss
-    except ImportError:
-        pytest.skip("faiss-cpu not installed")
-    
     from embeddings.sbert_faiss import EmbeddingServiceSBERT
     
     service = EmbeddingServiceSBERT()
@@ -171,14 +167,9 @@ def test_faiss_search():
     assert distances[0] >= distances[1]  # Using inner product, higher is better
 
 
-@pytest.mark.skipif(not SBERT_AVAILABLE, reason="faiss-cpu not installed")
+@pytest.mark.skipif(not FAISS_AVAILABLE, reason="faiss-cpu not installed")
 def test_faiss_save_load():
     """Test FAISS index save and load"""
-    try:
-        import faiss
-    except ImportError:
-        pytest.skip("faiss-cpu not installed")
-    
     import tempfile
     from embeddings.sbert_faiss import EmbeddingServiceSBERT
     
