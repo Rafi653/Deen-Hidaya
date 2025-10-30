@@ -1,0 +1,44 @@
+# Cloudflare Tunnel Configuration Example
+# Copy this file to ~/.cloudflared/config.yml and customize it
+
+# Replace with your tunnel ID (from 'cloudflared tunnel create deen-hidaya')
+tunnel: YOUR_TUNNEL_ID_HERE
+
+# Replace with the path to your credentials file
+# Usually located at ~/.cloudflared/<TUNNEL_ID>.json
+credentials-file: /home/your-username/.cloudflared/YOUR_TUNNEL_ID.json
+
+# Ingress rules define how traffic is routed
+ingress:
+  # Frontend - Replace with your domain
+  - hostname: deen-hidaya.your-domain.com
+    service: http://localhost:3000
+    originRequest:
+      noTLSVerify: false
+  
+  # Backend API - Replace with your domain
+  - hostname: api.deen-hidaya.your-domain.com
+    service: http://localhost:8000
+    originRequest:
+      noTLSVerify: false
+  
+  # Catch-all rule (required) - returns 404 for unmatched requests
+  - service: http_status:404
+
+# Optional: Logging configuration
+# loglevel: info  # Options: debug, info, warn, error, fatal
+
+# Optional: Metrics
+# metrics: localhost:8081
+
+# Optional: Connection settings
+# grace-period: 30s
+# retries: 5
+# timeout: 30s
+
+# Optional: HTTP2 origin support
+# originRequest:
+#   http2Origin: true
+
+# For more options, see:
+# https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/install-and-setup/tunnel-guide/local/local-management/configuration-file/
