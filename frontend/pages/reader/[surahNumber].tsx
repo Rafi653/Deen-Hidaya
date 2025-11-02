@@ -25,6 +25,7 @@ export default function SurahReader() {
   // Audio player state
   const [audioPlayer, setAudioPlayer] = useState<GaplessAudioPlayer | null>(null);
   const [isPlaying, setIsPlaying] = useState(false);
+  // currentPlayingVerse uses 1-indexed verse numbers (0 = no verse playing)
   const [currentPlayingVerse, setCurrentPlayingVerse] = useState<number>(0);
   const [audioSupported, setAudioSupported] = useState(true);
   
@@ -90,6 +91,7 @@ export default function SurahReader() {
           player.initialize(audioUrls).catch(err => {
             console.error('Failed to initialize audio player:', err);
             setAudioSupported(false);
+            setAudioPlayer(null);
           });
           setAudioPlayer(player);
           setAudioSupported(true);
