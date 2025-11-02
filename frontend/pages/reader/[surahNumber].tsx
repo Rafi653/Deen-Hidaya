@@ -25,8 +25,12 @@ export default function SurahReader() {
   // Audio player state
   const [audioPlayer, setAudioPlayer] = useState<GaplessAudioPlayer | null>(null);
   const [isPlaying, setIsPlaying] = useState(false);
+  // currentPlayingVerse uses 1-indexed verse numbers (0 = no verse playing)
   const [currentPlayingVerse, setCurrentPlayingVerse] = useState<number>(0);
   const [audioSupported, setAudioSupported] = useState(true);
+  
+  // Selected verse for reading mode
+  const [selectedVerse, setSelectedVerse] = useState<number | null>(null);
   
   // Bookmarks
   const [bookmarks, setBookmarks] = useState<Set<number>>(new Set());
@@ -83,8 +87,12 @@ export default function SurahReader() {
             }
           });
           
-          // Initialize with audio URLs
-          await player.initialize(audioUrls);
+          // Initialize with audio URLs (don't await, let it load in background)
+          player.initialize(audioUrls).catch(err => {
+            console.error('Failed to initialize audio player:', err);
+            setAudioSupported(false);
+            setAudioPlayer(null);
+          });
           setAudioPlayer(player);
           setAudioSupported(true);
         } else {
@@ -148,11 +156,39 @@ export default function SurahReader() {
         audioPlayer.pause();
       } else {
         await audioPlayer.playVerse(verseIndex);
+        // Scroll to the verse being played
+        scrollToVerse(verseIndex + 1);
       }
     } catch (error) {
       console.error('Error playing verse:', error);
       alert('Failed to play audio. Please try again.');
     }
+  }
+
+  function handleVerseClick(verseNumber: number) {
+    // Toggle selection in reading mode
+    setSelectedVerse(selectedVerse === verseNumber ? null : verseNumber);
+    scrollToVerse(verseNumber);
+  }
+
+  function scrollToVerse(verseNumber: number) {
+    const element = document.getElementById(`verse-${verseNumber}`);
+    if (element) {
+      element.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+  }
+
+  // Determine if a verse should be highlighted
+  function isVerseHighlighted(verseNumber: number): boolean {
+    // Priority 1: Currently playing verse
+    if (currentPlayingVerse === verseNumber && isPlaying) {
+      return true;
+    }
+    // Priority 2: Selected verse (reading mode)
+    if (selectedVerse === verseNumber && !isPlaying) {
+      return true;
+    }
+    return false;
   }
 
   if (loading) {
@@ -261,11 +297,31 @@ export default function SurahReader() {
 
           {/* Verses */}
           <div className="space-y-6">
-            {surah.verses.map((verse, index) => (
+            {surah.verses.map((verse, index) => {
+              const isHighlighted = isVerseHighlighted(verse.verse_number);
+              const isCurrentlyPlaying = currentPlayingVerse === verse.verse_number && isPlaying;
+              
+              return (
               <article
                 key={verse.id}
-                className="bg-white dark:bg-gray-800 rounded-lg shadow-md p-6 border border-gray-200 dark:border-gray-700 hover:border-green-500 dark:hover:border-green-500 transition-colors"
+                className={`rounded-lg shadow-md p-6 border transition-all cursor-pointer ${
+                  isHighlighted
+                    ? isCurrentlyPlaying
+                      ? 'bg-green-50 dark:bg-green-900/30 border-green-500 dark:border-green-500 ring-2 ring-green-500 ring-offset-2 dark:ring-offset-gray-900'
+                      : 'bg-yellow-50 dark:bg-yellow-900/20 border-yellow-500 dark:border-yellow-500 ring-2 ring-yellow-400 ring-offset-2 dark:ring-offset-gray-900'
+                    : 'bg-white dark:bg-gray-800 border-gray-200 dark:border-gray-700 hover:border-green-500 dark:hover:border-green-500'
+                }`}
                 id={`verse-${verse.verse_number}`}
+                onClick={() => handleVerseClick(verse.verse_number)}
+                role="button"
+                tabIndex={0}
+                aria-label={`Verse ${verse.verse_number}${isHighlighted ? ' (selected)' : ''}`}
+                onKeyDown={(e) => {
+                  if (e.key === 'Enter' || e.key === ' ') {
+                    e.preventDefault();
+                    handleVerseClick(verse.verse_number);
+                  }
+                }}
               >
                 {/* Verse Number and Actions */}
                 <div className="flex items-center justify-between mb-4">
@@ -330,8 +386,18 @@ export default function SurahReader() {
                     {getTranslation(verse)}
                   </p>
                 </div>
+
+                {/* Screen reader announcement for highlighted verse */}
+                {isHighlighted && (
+                  <div className="sr-only" role="status" aria-live="polite">
+                    {isCurrentlyPlaying 
+                      ? `Now playing verse ${verse.verse_number}` 
+                      : `Verse ${verse.verse_number} selected`}
+                  </div>
+                )}
               </article>
-            ))}
+            );
+            })}
           </div>
         </div>
       </main>
