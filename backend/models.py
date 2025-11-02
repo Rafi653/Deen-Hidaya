@@ -1,7 +1,6 @@
 """SQLAlchemy database models for Deen Hidaya"""
 from sqlalchemy import Column, Integer, String, Text, ForeignKey, DateTime, Boolean, Float, Index
 from sqlalchemy.orm import relationship
-from sqlalchemy.dialects.postgresql import ARRAY
 from pgvector.sqlalchemy import Vector
 from datetime import datetime
 from database import Base
