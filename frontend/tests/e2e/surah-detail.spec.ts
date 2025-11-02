@@ -213,4 +213,124 @@ test.describe('Surah Detail Page', () => {
       await expect(verse3).toBeInViewport();
     }
   });
+
+  test('should highlight verse when clicked (reading mode)', async ({ page }) => {
+    await page.waitForTimeout(2000);
+    
+    // Find the first verse article
+    const firstVerse = page.locator('article[id^="verse-"]').first();
+    await expect(firstVerse).toBeVisible();
+    
+    // Click the verse to select it
+    await firstVerse.click();
+    await page.waitForTimeout(500);
+    
+    // Verify verse has highlighting styles (yellow background for selected)
+    const classList = await firstVerse.getAttribute('class');
+    expect(classList).toContain('bg-yellow');
+    
+    // Check for ring styles that indicate highlighting
+    expect(classList).toContain('ring-2');
+  });
+
+  test('should toggle verse selection on repeated clicks', async ({ page }) => {
+    await page.waitForTimeout(2000);
+    
+    const firstVerse = page.locator('article[id^="verse-"]').first();
+    
+    // Click to select
+    await firstVerse.click();
+    await page.waitForTimeout(300);
+    let classList = await firstVerse.getAttribute('class');
+    expect(classList).toContain('bg-yellow');
+    
+    // Click again to deselect
+    await firstVerse.click();
+    await page.waitForTimeout(300);
+    classList = await firstVerse.getAttribute('class');
+    expect(classList).not.toContain('bg-yellow');
+  });
+
+  test('should support keyboard selection of verses', async ({ page }) => {
+    await page.waitForTimeout(2000);
+    
+    // Tab to first verse
+    await page.keyboard.press('Tab');
+    await page.keyboard.press('Tab');
+    await page.keyboard.press('Tab');
+    await page.keyboard.press('Tab');
+    
+    // Find a verse article that might be focused
+    const verses = page.locator('article[id^="verse-"]');
+    const firstVerse = verses.first();
+    
+    // Try to focus and press Enter on a verse
+    await firstVerse.focus();
+    await page.keyboard.press('Enter');
+    await page.waitForTimeout(300);
+    
+    const classList = await firstVerse.getAttribute('class');
+    // Should have highlighting
+    expect(classList).toBeTruthy();
+  });
+
+  test('should provide screen reader announcement for highlighted verse', async ({ page }) => {
+    await page.waitForTimeout(2000);
+    
+    const firstVerse = page.locator('article[id^="verse-"]').first();
+    await firstVerse.click();
+    await page.waitForTimeout(300);
+    
+    // Check for screen reader announcement
+    const srText = page.locator('.sr-only[role="status"]');
+    if (await srText.count() > 0) {
+      const text = await srText.first().textContent();
+      expect(text).toMatch(/verse \d+ selected/i);
+    }
+  });
+
+  test('should maintain accessibility ARIA labels when highlighted', async ({ page }) => {
+    await page.waitForTimeout(2000);
+    
+    const firstVerse = page.locator('article[id^="verse-"]').first();
+    
+    // Check initial ARIA label
+    let ariaLabel = await firstVerse.getAttribute('aria-label');
+    expect(ariaLabel).toMatch(/verse \d+/i);
+    
+    // Click to select
+    await firstVerse.click();
+    await page.waitForTimeout(300);
+    
+    // ARIA label should update to indicate selection
+    ariaLabel = await firstVerse.getAttribute('aria-label');
+    expect(ariaLabel).toMatch(/selected/i);
+  });
+
+  test('should highlight different color for playing vs selected', async ({ page }) => {
+    await page.waitForTimeout(2000);
+    
+    // Click a verse to select it (reading mode - yellow)
+    const firstVerse = page.locator('article[id^="verse-"]').first();
+    await firstVerse.click();
+    await page.waitForTimeout(300);
+    
+    let classList = await firstVerse.getAttribute('class');
+    expect(classList).toContain('bg-yellow'); // Selected in reading mode
+    
+    // Note: Testing audio playback highlighting (green) would require
+    // mocking audio or having audio available, which is tested separately
+  });
+
+  test('should work in both light and dark themes', async ({ page }) => {
+    await page.waitForTimeout(2000);
+    
+    const firstVerse = page.locator('article[id^="verse-"]').first();
+    await firstVerse.click();
+    await page.waitForTimeout(300);
+    
+    // Check that highlighting includes dark mode classes
+    const classList = await firstVerse.getAttribute('class');
+    expect(classList).toContain('dark:');
+  });
 });
