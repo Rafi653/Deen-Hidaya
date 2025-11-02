@@ -41,7 +41,6 @@ export default function Reader() {
         <meta name="description" content="Browse and read the Holy Quran" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
-        <link href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&display=swap" rel="stylesheet" />
       </Head>
       <AccessibilityBar className="sticky top-0 z-50" />
       <main id="main-content" className="min-h-screen bg-gradient-to-b from-green-50 to-white dark:from-gray-900 dark:to-gray-800">

@@ -57,7 +57,6 @@ export default function QA() {
         <meta name="description" content="Ask questions about the Quran and get answers with verse citations" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
-        <link href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&display=swap" rel="stylesheet" />
       </Head>
 
       <AccessibilityBar className="sticky top-0 z-50" />
