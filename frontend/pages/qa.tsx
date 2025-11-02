@@ -239,10 +239,9 @@ export default function QA() {
                         <div className="bg-gray-50 dark:bg-gray-900/50 rounded p-3">
                           <p className="text-gray-800 dark:text-gray-200 leading-relaxed">
                             {verse.translations[0].text}
-                            {verse.translations[1].text}
                           </p>
                           <p className="text-xs text-gray-500 dark:text-gray-500 mt-2">
-                            — {verse.translations[1].translator}
+                            — {verse.translations[0].translator}
                           </p>
                         </div>
                       )}

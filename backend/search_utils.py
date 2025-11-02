@@ -8,7 +8,6 @@ from sqlalchemy import or_, func
 from models import Verse, Surah, Translation, Embedding
 from schemas import SearchResult, TranslationResponse
 from embeddings.unified_service import UnifiedEmbeddingService
-import os
 import logging
 
 # Configure module-specific logger

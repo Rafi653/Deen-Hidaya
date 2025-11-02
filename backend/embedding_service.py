@@ -8,7 +8,6 @@ from typing import List, Optional, Dict, Any
 from openai import OpenAI
 from sqlalchemy.orm import Session
 from models import Verse, Embedding, Translation
-import numpy as np
 
 # Configure module-specific logger
 logger = logging.getLogger(__name__)
