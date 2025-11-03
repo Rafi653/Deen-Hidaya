@@ -22,7 +22,7 @@ class Surah(Base):
     updated_at = Column(DateTime, default=datetime.utcnow, onupdate=datetime.utcnow)
 
     # Relationships
-    verses = relationship("Verse", back_populates="surah", cascade="all, delete-orphan")
+    verses = relationship("Verse", back_populates="surah", cascade="all, delete-orphan", order_by="Verse.verse_number")
 
     def __repr__(self):
         return f"<Surah {self.number}: {self.name_english}>"

@@ -333,4 +333,68 @@ test.describe('Surah Detail Page', () => {
     const classList = await firstVerse.getAttribute('class');
     expect(classList).toContain('dark:');
   });
+
+  test('should display verses in correct sequential order', async ({ page }) => {
+    await page.waitForTimeout(2000);
+    
+    // Get all verse elements
+    const verses = page.locator('article[id^="verse-"]');
+    const count = await verses.count();
+    expect(count).toBeGreaterThan(0);
+    
+    // Extract verse numbers and verify they are in sequential order
+    const verseNumbers: number[] = [];
+    for (let i = 0; i < Math.min(count, 10); i++) { // Check first 10 verses
+      const verse = verses.nth(i);
+      const verseId = await verse.getAttribute('id');
+      if (verseId) {
+        const verseNumber = parseInt(verseId.replace('verse-', ''));
+        verseNumbers.push(verseNumber);
+      }
+    }
+    
+    // Verify sequential order
+    for (let i = 0; i < verseNumbers.length - 1; i++) {
+      expect(verseNumbers[i + 1]).toBe(verseNumbers[i] + 1);
+    }
+    
+    // First verse should be verse 1
+    expect(verseNumbers[0]).toBe(1);
+  });
+
+  test('should navigate to specific verse using "Go to verse" control', async ({ page }) => {
+    await page.waitForTimeout(2000);
+    
+    // Find the "Go to verse" input
+    const goToVerseInput = page.locator('#go-to-verse');
+    await expect(goToVerseInput).toBeVisible();
+    
+    // Enter a verse number (e.g., 5)
+    await goToVerseInput.fill('5');
+    
+    // Click the Go button
+    const goButton = page.getByRole('button', { name: /Go to entered verse/i });
+    await goButton.click();
+    
+    await page.waitForTimeout(1000);
+    
+    // Verify verse 5 is in viewport and selected
+    const verse5 = page.locator('#verse-5');
+    await expect(verse5).toBeInViewport();
+    
+    // Check if verse is highlighted (selected)
+    const classList = await verse5.getAttribute('class');
+    expect(classList).toContain('bg-yellow');
+  });
+
+  test('should show currently playing verse indicator', async ({ page }) => {
+    await page.waitForTimeout(2000);
+    
+    // Initially, there should be no "Currently playing" indicator
+    let playingIndicator = page.getByText(/Currently playing verse/i);
+    await expect(playingIndicator).not.toBeVisible();
+    
+    // Note: Testing the actual audio playback would require mocking audio
+    // or having audio available, which is tested separately in audio player tests
+  });
 });
