@@ -53,6 +53,12 @@ export default function Home() {
               >
                 💬 Ask Questions
               </Link>
+              <Link
+                href="/name-generator"
+                className="px-8 py-4 bg-purple-600 hover:bg-purple-700 text-white font-semibold rounded-lg shadow-lg transition-colors text-lg text-center"
+              >
+                ✨ Name Generator
+              </Link>
             </div>
           </div>
           
