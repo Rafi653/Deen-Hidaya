@@ -44,7 +44,11 @@ export default function NameGenerator() {
     if (typeof window !== 'undefined') {
       let id = localStorage.getItem('name_generator_user_id');
       if (!id) {
-        id = `user_${Date.now()}_${Math.random().toString(36).slice(2, 11)}`;
+        // Generate a simple UUID-like identifier using timestamp and counter
+        // This is sufficient for client-side session tracking
+        const timestamp = Date.now().toString(36);
+        const counter = (typeof performance !== 'undefined' ? performance.now() : Date.now()).toString(36);
+        id = `user_${timestamp}_${counter}`;
         localStorage.setItem('name_generator_user_id', id);
       }
       return id;
