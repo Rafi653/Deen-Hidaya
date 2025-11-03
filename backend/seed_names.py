@@ -1,10 +1,11 @@
 """
 Script to seed sample name data for testing the name generator
 """
+import sys
+import sqlalchemy as sa
 from sqlalchemy.orm import Session
 from database import SessionLocal, engine
 from models import NameEntity, Base
-import sys
 
 
 def seed_sample_names(db: Session):
@@ -441,8 +442,6 @@ def seed_sample_names(db: Session):
 
 
 if __name__ == "__main__":
-    import sqlalchemy as sa
-    
     print("Seeding name database with sample data...")
     db = SessionLocal()
     try:

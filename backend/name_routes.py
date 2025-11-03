@@ -31,25 +31,14 @@ def suggest_names(
     service = NameSuggestionService(db)
     scored_names = service.suggest_names(request)
     
-    # Convert to response format
-    suggestions = []
-    for item in scored_names:
-        name_entity = item["name_entity"]
-        response = NameEntityResponse(
-            id=name_entity.id,
-            name=name_entity.name,
-            entity_type=name_entity.entity_type,
-            subtype=name_entity.subtype,
-            gender=name_entity.gender,
-            meaning=name_entity.meaning,
-            origin=name_entity.origin,
-            phonetic=name_entity.phonetic,
-            themes=name_entity.themes,
-            associated_traits=name_entity.associated_traits,
-            popularity_score=name_entity.popularity_score,
-            relevance_score=item["relevance_score"]
-        )
-        suggestions.append(response)
+    # Convert to response format with relevance scores
+    suggestions = [
+        NameEntityResponse.model_validate({
+            **item["name_entity"].__dict__,
+            "relevance_score": item["relevance_score"]
+        })
+        for item in scored_names
+    ]
     
     return NameSuggestionResponse(
         request=request,
@@ -104,19 +93,7 @@ def get_name_by_id(name_id: int, db: Session = Depends(get_db)):
     if not name:
         raise HTTPException(status_code=404, detail=f"Name with id {name_id} not found")
     
-    return NameEntityResponse(
-        id=name.id,
-        name=name.name,
-        entity_type=name.entity_type,
-        subtype=name.subtype,
-        gender=name.gender,
-        meaning=name.meaning,
-        origin=name.origin,
-        phonetic=name.phonetic,
-        themes=name.themes,
-        associated_traits=name.associated_traits,
-        popularity_score=name.popularity_score
-    )
+    return NameEntityResponse.model_validate(name)
 
 
 @router.post("/favorites", response_model=NameFavoriteResponse)
@@ -220,19 +197,4 @@ def search_names(
     
     names = search_query.limit(limit).all()
     
-    return [
-        NameEntityResponse(
-            id=name.id,
-            name=name.name,
-            entity_type=name.entity_type,
-            subtype=name.subtype,
-            gender=name.gender,
-            meaning=name.meaning,
-            origin=name.origin,
-            phonetic=name.phonetic,
-            themes=name.themes,
-            associated_traits=name.associated_traits,
-            popularity_score=name.popularity_score
-        )
-        for name in names
-    ]
+    return [NameEntityResponse.model_validate(name) for name in names]

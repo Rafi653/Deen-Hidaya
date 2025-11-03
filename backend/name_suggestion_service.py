@@ -161,7 +161,15 @@ class NameSuggestionService:
     
     def get_themes(self) -> List[str]:
         """Get all available themes"""
-        result = self.db.query(func.unnest(NameEntity.themes).label('theme'))\
-            .distinct()\
+        # Get all names with themes
+        names_with_themes = self.db.query(NameEntity.themes)\
+            .filter(NameEntity.themes.isnot(None))\
             .all()
-        return [r[0] for r in result if r[0]]
+        
+        # Extract unique themes from all names
+        themes = set()
+        for (theme_list,) in names_with_themes:
+            if theme_list:
+                themes.update(theme_list)
+        
+        return sorted(list(themes))

@@ -44,7 +44,7 @@ export default function NameGenerator() {
     if (typeof window !== 'undefined') {
       let id = localStorage.getItem('name_generator_user_id');
       if (!id) {
-        id = `user_${Date.now()}_${Math.random().toString(36).substr(2, 9)}`;
+        id = `user_${Date.now()}_${Math.random().toString(36).slice(2, 11)}`;
         localStorage.setItem('name_generator_user_id', id);
       }
       return id;
