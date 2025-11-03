@@ -273,3 +273,199 @@ export async function askQuestion(request: QARequest): Promise<QAResponse> {
     return getMockResponse();
   }
 }
+
+// Name Generator API Types and Functions
+
+export interface NameEntity {
+  id: number;
+  name: string;
+  entity_type: string;
+  subtype?: string;
+  gender?: string;
+  meaning?: string;
+  origin?: string;
+  phonetic?: string;
+  themes?: string[];
+  associated_traits?: string[];
+  popularity_score?: number;
+  relevance_score?: number;
+}
+
+export interface NameSuggestionRequest {
+  entity_type: string;
+  subtype?: string;
+  gender?: string;
+  origin?: string;
+  meaning?: string;
+  themes?: string[];
+  phonetic_preference?: string;
+  max_results?: number;
+}
+
+export interface NameSuggestionResponse {
+  request: NameSuggestionRequest;
+  suggestions: NameEntity[];
+  total: number;
+}
+
+export interface NameFavorite {
+  id: number;
+  name_entity_id: number;
+  user_id: string;
+  note?: string;
+  created_at: string;
+  name_entity?: NameEntity;
+}
+
+export interface NameFavoriteCreate {
+  name_entity_id: number;
+  user_id: string;
+  note?: string;
+}
+
+/**
+ * Get name suggestions based on user preferences
+ */
+export async function suggestNames(request: NameSuggestionRequest): Promise<NameSuggestionResponse> {
+  const response = await fetch(`${API_BASE_URL}/api/v1/names/suggest`, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify(request),
+  });
+
+  if (!response.ok) {
+    throw new Error('Failed to get name suggestions');
+  }
+
+  return response.json();
+}
+
+/**
+ * Get all available entity types
+ */
+export async function getEntityTypes(): Promise<string[]> {
+  const response = await fetch(`${API_BASE_URL}/api/v1/names/entity-types`);
+
+  if (!response.ok) {
+    throw new Error('Failed to fetch entity types');
+  }
+
+  return response.json();
+}
+
+/**
+ * Get subtypes for a specific entity type
+ */
+export async function getSubtypes(entityType: string): Promise<string[]> {
+  const response = await fetch(`${API_BASE_URL}/api/v1/names/subtypes/${entityType}`);
+
+  if (!response.ok) {
+    throw new Error('Failed to fetch subtypes');
+  }
+
+  return response.json();
+}
+
+/**
+ * Get all available origins
+ */
+export async function getOrigins(): Promise<string[]> {
+  const response = await fetch(`${API_BASE_URL}/api/v1/names/origins`);
+
+  if (!response.ok) {
+    throw new Error('Failed to fetch origins');
+  }
+
+  return response.json();
+}
+
+/**
+ * Get all available themes
+ */
+export async function getThemes(): Promise<string[]> {
+  const response = await fetch(`${API_BASE_URL}/api/v1/names/themes`);
+
+  if (!response.ok) {
+    throw new Error('Failed to fetch themes');
+  }
+
+  return response.json();
+}
+
+/**
+ * Get a specific name by ID
+ */
+export async function getNameById(id: number): Promise<NameEntity> {
+  const response = await fetch(`${API_BASE_URL}/api/v1/names/names/${id}`);
+
+  if (!response.ok) {
+    throw new Error('Failed to fetch name');
+  }
+
+  return response.json();
+}
+
+/**
+ * Search names by query
+ */
+export async function searchNames(query: string, entityType?: string, limit: number = 20): Promise<NameEntity[]> {
+  const params = new URLSearchParams({ query, limit: limit.toString() });
+  if (entityType) {
+    params.append('entity_type', entityType);
+  }
+
+  const response = await fetch(`${API_BASE_URL}/api/v1/names/search?${params}`);
+
+  if (!response.ok) {
+    throw new Error('Failed to search names');
+  }
+
+  return response.json();
+}
+
+/**
+ * Create a favorite
+ */
+export async function createFavorite(favorite: NameFavoriteCreate): Promise<NameFavorite> {
+  const response = await fetch(`${API_BASE_URL}/api/v1/names/favorites`, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify(favorite),
+  });
+
+  if (!response.ok) {
+    throw new Error('Failed to create favorite');
+  }
+
+  return response.json();
+}
+
+/**
+ * Get user favorites
+ */
+export async function getUserFavorites(userId: string): Promise<NameFavorite[]> {
+  const response = await fetch(`${API_BASE_URL}/api/v1/names/favorites/${userId}`);
+
+  if (!response.ok) {
+    throw new Error('Failed to fetch favorites');
+  }
+
+  return response.json();
+}
+
+/**
+ * Delete a favorite
+ */
+export async function deleteFavorite(favoriteId: number, userId: string): Promise<void> {
+  const response = await fetch(`${API_BASE_URL}/api/v1/names/favorites/${favoriteId}?user_id=${userId}`, {
+    method: 'DELETE',
+  });
+
+  if (!response.ok) {
+    throw new Error('Failed to delete favorite');
+  }
+}

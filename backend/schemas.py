@@ -196,3 +196,61 @@ class QAResponse(BaseModel):
     cited_verses: List[CitedVerse]
     confidence_score: Optional[float] = None
     processing_time_ms: Optional[float] = None
+
+
+class NameSuggestionRequest(BaseModel):
+    """Request schema for name suggestions"""
+    entity_type: str = Field(..., description="Type of entity (baby, pet, vehicle, company, toy, etc.)")
+    subtype: Optional[str] = Field(None, description="Subtype or category (dog/cat, car/bike, industry, etc.)")
+    gender: Optional[str] = Field(None, description="Gender if applicable (male, female, unisex)")
+    origin: Optional[str] = Field(None, description="Cultural or linguistic origin preference")
+    meaning: Optional[str] = Field(None, description="Desired meaning or association")
+    themes: Optional[List[str]] = Field(None, description="Desired themes (classic, modern, playful, professional)")
+    phonetic_preference: Optional[str] = Field(None, description="Phonetic preference or pattern")
+    max_results: int = Field(20, ge=1, le=100, description="Maximum number of suggestions to return")
+
+
+class NameEntityResponse(BaseModel):
+    """Response schema for a name entity"""
+    id: int
+    name: str
+    entity_type: str
+    subtype: Optional[str] = None
+    gender: Optional[str] = None
+    meaning: Optional[str] = None
+    origin: Optional[str] = None
+    phonetic: Optional[str] = None
+    themes: Optional[List[str]] = None
+    associated_traits: Optional[List[str]] = None
+    popularity_score: Optional[float] = None
+    relevance_score: Optional[float] = Field(None, description="Relevance score based on user preferences")
+    
+    class Config:
+        from_attributes = True
+
+
+class NameSuggestionResponse(BaseModel):
+    """Response schema for name suggestions"""
+    request: NameSuggestionRequest
+    suggestions: List[NameEntityResponse]
+    total: int
+
+
+class NameFavoriteCreate(BaseModel):
+    """Schema for creating a name favorite"""
+    name_entity_id: int = Field(..., description="ID of the name entity to favorite")
+    user_id: str = Field(..., description="User ID or session ID")
+    note: Optional[str] = Field(None, description="Optional note for the favorite")
+
+
+class NameFavoriteResponse(BaseModel):
+    """Response schema for a name favorite"""
+    id: int
+    name_entity_id: int
+    user_id: str
+    note: Optional[str] = None
+    created_at: datetime
+    name_entity: Optional[NameEntityResponse] = None
+    
+    class Config:
+        from_attributes = True

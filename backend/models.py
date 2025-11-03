@@ -213,3 +213,54 @@ class Bookmark(Base):
     __table_args__ = (
         Index('ix_bookmark_user_verse', 'user_id', 'verse_id'),
     )
+
+
+class NameEntity(Base):
+    """Model for storing names for various entity types (baby, pet, vehicle, company, toy, etc.)"""
+    __tablename__ = "name_entity"
+
+    id = Column(Integer, primary_key=True, index=True)
+    name = Column(String(255), nullable=False, index=True)
+    entity_type = Column(String(50), nullable=False, index=True)  # baby, pet, vehicle, company, toy, etc.
+    subtype = Column(String(100), index=True)  # dog/cat for pet, car/bike for vehicle, industry for company
+    gender = Column(String(20), index=True)  # male, female, unisex (for applicable entities)
+    meaning = Column(Text)  # Meaning or significance of the name
+    origin = Column(String(100), index=True)  # Cultural or linguistic origin (Arabic, English, Sanskrit, etc.)
+    phonetic = Column(String(255))  # Phonetic representation
+    themes = Column(ARRAY(String), index=False)  # Array of themes (classic, modern, playful, professional)
+    associated_traits = Column(ARRAY(String))  # Array of traits (joy, strength, creativity, etc.)
+    popularity_score = Column(Float, default=0.5)  # 0-1 scale for popularity
+    created_at = Column(DateTime, default=datetime.utcnow)
+    updated_at = Column(DateTime, default=datetime.utcnow, onupdate=datetime.utcnow)
+
+    # Relationships
+    favorites = relationship("NameFavorite", back_populates="name_entity", cascade="all, delete-orphan")
+
+    def __repr__(self):
+        return f"<NameEntity {self.name} ({self.entity_type})>"
+
+    __table_args__ = (
+        Index('ix_name_entity_type_subtype', 'entity_type', 'subtype'),
+        Index('ix_name_entity_gender_origin', 'gender', 'origin'),
+    )
+
+
+class NameFavorite(Base):
+    """Model for user's favorite names"""
+    __tablename__ = "name_favorite"
+
+    id = Column(Integer, primary_key=True, index=True)
+    name_entity_id = Column(Integer, ForeignKey("name_entity.id", ondelete="CASCADE"), nullable=False, index=True)
+    user_id = Column(String(255), index=True)  # Can be session ID or user ID from auth system
+    note = Column(Text)  # User's note about why they like this name
+    created_at = Column(DateTime, default=datetime.utcnow)
+
+    # Relationships
+    name_entity = relationship("NameEntity", back_populates="favorites")
+
+    def __repr__(self):
+        return f"<NameFavorite user_id={self.user_id} name_entity_id={self.name_entity_id}>"
+
+    __table_args__ = (
+        Index('ix_name_favorite_user_name', 'user_id', 'name_entity_id', unique=True),
+    )
