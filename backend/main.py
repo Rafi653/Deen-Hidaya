@@ -3,10 +3,11 @@ from fastapi.middleware.cors import CORSMiddleware
 import os
 
 from routes import router as quran_router
+from name_routes import router as name_router
 
 app = FastAPI(
     title="Deen Hidaya API",
-    description="API for accessing Quran text, translations, transliterations, and audio",
+    description="API for accessing Quran text, translations, transliterations, audio, and name suggestions",
     version="1.0.0"
 )
 
@@ -21,6 +22,7 @@ app.add_middleware(
 
 # Include routers
 app.include_router(quran_router)
+app.include_router(name_router)
 
 
 @app.get("/")
