@@ -263,4 +263,198 @@ test.describe('Q&A Page', () => {
       await expect(questionDisplay).toBeVisible();
     }
   });
+
+  test('should have a clear button in the input field', async ({ page }) => {
+    const input = page.getByRole('textbox', { name: /Enter your question/i });
+    
+    // Clear button should not be visible when input is empty
+    let clearButton = page.getByRole('button', { name: /Clear question input/i });
+    await expect(clearButton).not.toBeVisible();
+    
+    // Fill the input
+    await input.fill('Test question');
+    
+    // Clear button should now be visible
+    clearButton = page.getByRole('button', { name: /Clear question input/i });
+    await expect(clearButton).toBeVisible();
+  });
+
+  test('should clear input when clear button is clicked', async ({ page }) => {
+    const input = page.getByRole('textbox', { name: /Enter your question/i });
+    
+    // Fill the input
+    await input.fill('What is patience?');
+    let value = await input.inputValue();
+    expect(value).toBe('What is patience?');
+    
+    // Click clear button
+    const clearButton = page.getByRole('button', { name: /Clear question input/i });
+    await clearButton.click();
+    
+    // Input should be empty
+    value = await input.inputValue();
+    expect(value).toBe('');
+  });
+
+  test('should display question history after submitting questions', async ({ page }) => {
+    const input = page.getByRole('textbox', { name: /Enter your question/i });
+    const submitButton = page.getByRole('button', { name: /Ask/i });
+    
+    // Submit first question
+    await input.fill('What is patience?');
+    await submitButton.click();
+    await page.waitForTimeout(2000);
+    
+    // History should be visible
+    const historySection = page.getByText(/Previously Asked Questions/i);
+    await expect(historySection).toBeVisible();
+    
+    // Should show the question in history
+    const historyQuestion = page.getByText('What is patience?').nth(1); // nth(1) because it's also in the response
+    await expect(historyQuestion).toBeVisible();
+  });
+
+  test('should populate input when clicking history item', async ({ page }) => {
+    const input = page.getByRole('textbox', { name: /Enter your question/i });
+    const submitButton = page.getByRole('button', { name: /Ask/i });
+    
+    // Submit a question to create history
+    await input.fill('What is charity?');
+    await submitButton.click();
+    await page.waitForTimeout(2000);
+    
+    // Clear the input
+    const clearButton = page.getByRole('button', { name: /Clear question input/i });
+    await clearButton.click();
+    
+    // Click on history item
+    const historyButtons = page.getByRole('button').filter({ hasText: 'What is charity?' });
+    // Find the history button (not the example button)
+    for (let i = 0; i < await historyButtons.count(); i++) {
+      const button = historyButtons.nth(i);
+      const classes = await button.getAttribute('class');
+      if (classes && classes.includes('bg-gray-50')) {
+        await button.click();
+        break;
+      }
+    }
+    
+    // Input should be repopulated
+    const value = await input.inputValue();
+    expect(value).toBe('What is charity?');
+  });
+
+  test('should have clear history button', async ({ page }) => {
+    const input = page.getByRole('textbox', { name: /Enter your question/i });
+    const submitButton = page.getByRole('button', { name: /Ask/i });
+    
+    // Submit a question to create history
+    await input.fill('What is forgiveness?');
+    await submitButton.click();
+    await page.waitForTimeout(2000);
+    
+    // Clear history button should be visible
+    const clearHistoryButton = page.getByRole('button', { name: /Clear question history/i });
+    await expect(clearHistoryButton).toBeVisible();
+  });
+
+  test('should clear history when clear history button is clicked', async ({ page }) => {
+    const input = page.getByRole('textbox', { name: /Enter your question/i });
+    const submitButton = page.getByRole('button', { name: /Ask/i });
+    
+    // Submit questions to create history
+    await input.fill('First question');
+    await submitButton.click();
+    await page.waitForTimeout(2000);
+    
+    await input.fill('Second question');
+    await submitButton.click();
+    await page.waitForTimeout(2000);
+    
+    // History should be visible
+    let historySection = page.getByText(/Previously Asked Questions/i);
+    await expect(historySection).toBeVisible();
+    
+    // Click clear history
+    const clearHistoryButton = page.getByRole('button', { name: /Clear question history/i });
+    await clearHistoryButton.click();
+    
+    // History section should not be visible anymore
+    historySection = page.getByText(/Previously Asked Questions/i);
+    await expect(historySection).not.toBeVisible();
+  });
+
+  test('should show question count in history header', async ({ page }) => {
+    const input = page.getByRole('textbox', { name: /Enter your question/i });
+    const submitButton = page.getByRole('button', { name: /Ask/i });
+    
+    // Submit multiple questions
+    await input.fill('Question 1');
+    await submitButton.click();
+    await page.waitForTimeout(1500);
+    
+    await input.fill('Question 2');
+    await submitButton.click();
+    await page.waitForTimeout(1500);
+    
+    await input.fill('Question 3');
+    await submitButton.click();
+    await page.waitForTimeout(1500);
+    
+    // Should show count
+    const countText = page.getByText(/Previously Asked Questions \(3\)/i);
+    await expect(countText).toBeVisible();
+  });
+
+  test('should maintain keyboard accessibility for clear button', async ({ page }) => {
+    const input = page.getByRole('textbox', { name: /Enter your question/i });
+    
+    // Fill the input
+    await input.fill('Test question');
+    
+    // Tab to clear button
+    await page.keyboard.press('Tab');
+    
+    // The focused element should be the clear button or submit button
+    const focusedElement = page.locator(':focus');
+    await expect(focusedElement).toBeVisible();
+    
+    // Press Enter to activate (if it's the clear button)
+    const clearButton = page.getByRole('button', { name: /Clear question input/i });
+    await clearButton.focus();
+    await page.keyboard.press('Enter');
+    
+    // Input should be cleared
+    const value = await input.inputValue();
+    expect(value).toBe('');
+  });
+
+  test('should maintain keyboard accessibility for history items', async ({ page }) => {
+    const input = page.getByRole('textbox', { name: /Enter your question/i });
+    const submitButton = page.getByRole('button', { name: /Ask/i });
+    
+    // Create history
+    await input.fill('Accessible question');
+    await submitButton.click();
+    await page.waitForTimeout(2000);
+    
+    // Clear input
+    await input.fill('');
+    
+    // History button should be keyboard accessible
+    const historyButtons = page.getByRole('button').filter({ hasText: 'Accessible question' });
+    for (let i = 0; i < await historyButtons.count(); i++) {
+      const button = historyButtons.nth(i);
+      const classes = await button.getAttribute('class');
+      if (classes && classes.includes('bg-gray-50')) {
+        await button.focus();
+        await page.keyboard.press('Enter');
+        break;
+      }
+    }
+    
+    // Input should be repopulated
+    const value = await input.inputValue();
+    expect(value).toBe('Accessible question');
+  });
 });

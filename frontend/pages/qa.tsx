@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { useState } from 'react';
 import { askQuestion, QAResponse, CitedVerse } from '../lib/api';
 import { AccessibilityBar } from '../components/AccessibilityBar';
+import { useQuestionHistory } from '../lib/useQuestionHistory';
 
 export default function QA() {
   const [question, setQuestion] = useState('');
@@ -10,6 +11,7 @@ export default function QA() {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [selectedVerse, setSelectedVerse] = useState<CitedVerse | null>(null);
+  const { history, addQuestion, clearHistory } = useQuestionHistory();
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -27,6 +29,8 @@ export default function QA() {
         max_verses: 3 
       });
       setResponse(result);
+      // Add question to history after successful submission
+      addQuestion(question.trim());
     } catch (err) {
       const errorMessage = err instanceof Error 
         ? `Failed to process your question: ${err.message}` 
@@ -40,6 +44,16 @@ export default function QA() {
 
   const handleExampleQuestion = (exampleQuestion: string) => {
     setQuestion(exampleQuestion);
+    setError(null);
+  };
+
+  const handleClearInput = () => {
+    setQuestion('');
+    setError(null);
+  };
+
+  const handleSelectHistoryItem = (historyQuestion: string) => {
+    setQuestion(historyQuestion);
     setError(null);
   };
 
@@ -86,16 +100,32 @@ export default function QA() {
                 Ask Your Question
               </label>
               <div className="flex flex-col sm:flex-row gap-3">
-                <input
-                  id="question-input"
-                  type="text"
-                  value={question}
-                  onChange={(e) => setQuestion(e.target.value)}
-                  placeholder="e.g., What does the Quran say about patience?"
-                  className="flex-1 px-4 py-3 rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-900 text-gray-900 dark:text-gray-100 focus:outline-none focus:ring-2 focus:ring-green-500"
-                  aria-label="Enter your question"
-                  disabled={loading}
-                />
+                <div className="flex-1 relative">
+                  <input
+                    id="question-input"
+                    type="text"
+                    value={question}
+                    onChange={(e) => setQuestion(e.target.value)}
+                    placeholder="e.g., What does the Quran say about patience?"
+                    className="w-full px-4 py-3 pr-12 rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-900 text-gray-900 dark:text-gray-100 focus:outline-none focus:ring-2 focus:ring-green-500"
+                    aria-label="Enter your question"
+                    disabled={loading}
+                  />
+                  {question && (
+                    <button
+                      type="button"
+                      onClick={handleClearInput}
+                      className="absolute right-2 top-1/2 -translate-y-1/2 p-2 text-gray-400 hover:text-gray-600 dark:hover:text-gray-300 focus:outline-none focus:ring-2 focus:ring-green-500 rounded transition-colors"
+                      aria-label="Clear question input"
+                      disabled={loading}
+                      title="Clear input"
+                    >
+                      <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+                      </svg>
+                    </button>
+                  )}
+                </div>
                 <button
                   type="submit"
                   disabled={loading || !question.trim()}
@@ -133,6 +163,38 @@ export default function QA() {
                 ))}
               </div>
             </div>
+
+            {/* Question History */}
+            {history.length > 0 && (
+              <div className="mt-6 border-t border-gray-200 dark:border-gray-700 pt-4">
+                <div className="flex items-center justify-between mb-3">
+                  <p className="text-sm font-semibold text-gray-700 dark:text-gray-300">
+                    Previously Asked Questions ({history.length})
+                  </p>
+                  <button
+                    onClick={clearHistory}
+                    className="text-xs text-red-600 hover:text-red-700 dark:text-red-400 dark:hover:text-red-300 focus:outline-none focus:ring-2 focus:ring-red-500 rounded px-2 py-1 transition-colors"
+                    aria-label="Clear question history"
+                    disabled={loading}
+                  >
+                    Clear History
+                  </button>
+                </div>
+                <div className="space-y-2 max-h-64 overflow-y-auto">
+                  {history.map((item) => (
+                    <button
+                      key={item.id}
+                      onClick={() => handleSelectHistoryItem(item.question)}
+                      className="w-full text-left px-4 py-2 text-sm bg-gray-50 hover:bg-gray-100 dark:bg-gray-700/50 dark:hover:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-lg transition-colors focus:outline-none focus:ring-2 focus:ring-green-500"
+                      disabled={loading}
+                      title={`Asked ${new Date(item.timestamp).toLocaleString()}`}
+                    >
+                      <span className="line-clamp-2">{item.question}</span>
+                    </button>
+                  ))}
+                </div>
+              </div>
+            )}
           </div>
 
           {/* Error State */}
@@ -239,10 +301,9 @@ export default function QA() {
                         <div className="bg-gray-50 dark:bg-gray-900/50 rounded p-3">
                           <p className="text-gray-800 dark:text-gray-200 leading-relaxed">
                             {verse.translations[0].text}
-                            {verse.translations[1].text}
                           </p>
                           <p className="text-xs text-gray-500 dark:text-gray-500 mt-2">
-                            — {verse.translations[1].translator}
+                            — {verse.translations[0].translator}
                           </p>
                         </div>
                       )}
