@@ -34,6 +34,9 @@ export default function SurahReader() {
   
   // Bookmarks
   const [bookmarks, setBookmarks] = useState<Set<number>>(new Set());
+  
+  // Go to verse input
+  const [goToVerseInput, setGoToVerseInput] = useState<string>('');
 
   useEffect(() => {
     if (surahNumber) {
@@ -58,6 +61,10 @@ export default function SurahReader() {
     try {
       setLoading(true);
       const data = await fetchSurahDetail(num);
+      
+      // Sort verses by verse_number to ensure correct order (defensive programming)
+      data.verses.sort((a, b) => a.verse_number - b.verse_number);
+      
       setSurah(data);
       setError(null);
       
@@ -177,6 +184,21 @@ export default function SurahReader() {
       element.scrollIntoView({ behavior: 'smooth', block: 'center' });
     }
   }
+  
+  function handleGoToVerse(e: React.FormEvent) {
+    e.preventDefault();
+    if (!surah) return;
+    
+    const verseNum = parseInt(goToVerseInput);
+    if (isNaN(verseNum) || verseNum < 1 || verseNum > surah.total_verses) {
+      alert(`Please enter a valid verse number between 1 and ${surah.total_verses}`);
+      return;
+    }
+    
+    scrollToVerse(verseNum);
+    setSelectedVerse(verseNum);
+    setGoToVerseInput('');
+  }
 
   // Determine if a verse should be highlighted
   function isVerseHighlighted(verseNumber: number): boolean {
@@ -252,7 +274,7 @@ export default function SurahReader() {
           {/* Controls */}
           <div className="bg-white dark:bg-gray-800 rounded-lg shadow p-4 mb-6 sticky top-4 z-10">
             <div className="flex flex-wrap gap-4 items-center justify-between">
-              <div className="flex gap-2">
+              <div className="flex gap-2 flex-wrap">
                 <button
                   onClick={() => setShowTransliteration(!showTransliteration)}
                   className={`px-4 py-2 rounded-lg font-medium transition-colors ${
@@ -264,6 +286,31 @@ export default function SurahReader() {
                 >
                   Transliteration
                 </button>
+                
+                {/* Go to verse control */}
+                <form onSubmit={handleGoToVerse} className="flex items-center gap-2">
+                  <label htmlFor="go-to-verse" className="text-sm text-gray-700 dark:text-gray-300 whitespace-nowrap">
+                    Go to verse:
+                  </label>
+                  <input
+                    id="go-to-verse"
+                    type="number"
+                    min="1"
+                    max={surah.total_verses}
+                    value={goToVerseInput}
+                    onChange={(e) => setGoToVerseInput(e.target.value)}
+                    placeholder="1"
+                    className="w-20 px-2 py-2 rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-100 focus:outline-none focus:ring-2 focus:ring-green-500"
+                    aria-label={`Enter verse number between 1 and ${surah.total_verses}`}
+                  />
+                  <button
+                    type="submit"
+                    className="px-3 py-2 bg-green-500 text-white rounded-lg hover:bg-green-600 transition-colors font-medium"
+                    aria-label="Go to entered verse"
+                  >
+                    Go
+                  </button>
+                </form>
               </div>
               
               <div className="flex items-center gap-2">
@@ -282,6 +329,20 @@ export default function SurahReader() {
               </div>
             </div>
           </div>
+
+          {/* Currently playing indicator */}
+          {currentPlayingVerse > 0 && isPlaying && (
+            <div className="bg-green-100 dark:bg-green-900/30 border-l-4 border-green-500 p-4 mb-6 rounded-lg">
+              <div className="flex items-center gap-2">
+                <svg className="w-5 h-5 text-green-600 dark:text-green-400 animate-pulse" fill="currentColor" viewBox="0 0 24 24">
+                  <path d="M8 5v14l11-7z" />
+                </svg>
+                <p className={`text-green-800 dark:text-green-200 font-medium ${fontClasses.body}`}>
+                  Currently playing verse {currentPlayingVerse}
+                </p>
+              </div>
+            </div>
+          )}
 
           {/* Bismillah (except for Surah 9) */}
           {surah.number !== 9 && surah.number !== 1 && (
