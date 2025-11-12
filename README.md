@@ -135,6 +135,23 @@ npm run dev
 
 See individual README files in `frontend/` and `backend/` directories for more details.
 
+## Sharing Your Local App
+
+Want to share your local Deen Hidaya app with friends for testing and feedback? Use Cloudflare Tunnel:
+
+```bash
+# Quick start - no configuration needed
+./infra/start-tunnel.sh
+```
+
+This will generate shareable URLs that allow anyone to access your locally-running app.
+
+📖 **See [Cloudflare Tunnel Setup Guide](./docs/CLOUDFLARE_TUNNEL_SETUP.md)** for:
+- Step-by-step setup instructions
+- Security best practices
+- Persistent tunnel configuration
+- Troubleshooting guide
+
 ## Troubleshooting
 
 ### Common Issues
